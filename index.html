@@ -272,11 +272,15 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .lhead{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap;padding-top:8px}
 .lhead h1{font-size:clamp(22px,4vw,32px);font-weight:800}
 .rsel{max-width:240px}
-.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
 .mcard{background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:8px;cursor:pointer;display:flex;flex-direction:column;gap:6px;text-align:left}
 .mcard:hover{border-color:var(--acc)}
 .mcard.trg{border-color:rgba(239,91,91,.55)}
-.pl{display:flex;align-items:center;gap:6px;font-size:13px;min-width:0}
+.pl{display:flex;align-items:center;gap:5px;font-size:13px;min-width:0}
+.pl>*:not(.pn){flex:none}
+.mcard .pl .ttl{font-size:10px;padding:0 4px}
+.mcard .pl .fed{display:none}
+.mcard .pl .fed.tr{display:inline-flex}
 .pl .pn{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:600;flex:1;min-width:0}
 .pl .pr{color:var(--muted)}
 .pl .fed{display:inline-flex;align-items:center;gap:3px;font-size:10px;color:var(--dim);font-weight:700}
@@ -285,19 +289,18 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .pl .clk{font-variant-numeric:tabular-nums;background:var(--bg2);padding:1px 6px;border-radius:4px;font-size:12px}
 .pl .clk.on{background:var(--acc);color:var(--acc-ink)}
 .pl .pts{font-weight:800;color:var(--acc)}
-.board{display:grid;grid-template-columns:repeat(8,1fr);aspect-ratio:1;width:100%;border-radius:4px;overflow:hidden;user-select:none}
-.sq{position:relative;aspect-ratio:1}
-.sq.lt{background:#ebecd0}.sq.dk{background:#739552}
-.sq.lm.lt{background:#f5f682}.sq.lm.dk{background:#b9ca43}
-.sq.chk{background:radial-gradient(circle,#ff3b3b 0%,rgba(255,59,59,.6) 35%,transparent 75%)!important}
-.sq.sel{box-shadow:inset 0 0 0 3px rgba(20,85,30,.9)}
-.sq.dot::after{content:"";position:absolute;inset:36%;border-radius:50%;background:rgba(20,85,30,.45)}
-.sq.cap::after{content:"";position:absolute;inset:0;border-radius:50%;box-shadow:inset 0 0 0 5px rgba(20,85,30,.45)}
-.sq img{position:absolute;inset:0;width:100%;height:100%}
-.sq .rk,.sq .fl{position:absolute;font-style:normal;font-size:10px;font-weight:700;opacity:.8}
-.sq .rk{left:3px;top:2px}.sq .fl{right:3px;bottom:1px}
-.sq.lt .rk,.sq.lt .fl{color:#739552}.sq.dk .rk,.sq.dk .fl{color:#ebecd0}
-.board.mini .sq img{inset:2%}
+.board{display:grid;grid-template-columns:repeat(8,1fr);grid-template-rows:repeat(8,1fr);aspect-ratio:1;width:100%;border-radius:3px;overflow:hidden;user-select:none;box-shadow:0 2px 10px rgba(0,0,0,.4)}
+.bsq{position:relative;min-width:0}
+.bsq.lt{background:#f0d9b5}.bsq.dk{background:#b58863}
+.bsq.lm::before{content:"";position:absolute;inset:0;background:rgba(155,199,0,.41)}
+.bsq.chk{background-image:radial-gradient(ellipse at center,#ff0000 0%,#e70000 25%,rgba(169,0,0,0) 89%,rgba(158,0,0,0) 100%)}
+.bsq.sel::before{content:"";position:absolute;inset:0;background:rgba(20,85,30,.5)}
+.bsq.dot::after{content:"";position:absolute;inset:38%;border-radius:50%;background:rgba(20,85,30,.5);z-index:2}
+.bsq.cap::after{content:"";position:absolute;inset:0;background:radial-gradient(transparent 0%,transparent 79%,rgba(20,85,30,.3) 80%);z-index:2}
+.bsq img{position:absolute;inset:0;width:100%;height:100%;z-index:1;pointer-events:none}
+.bsq .rk,.bsq .fl{position:absolute;font-style:normal;font-size:10px;font-weight:700;z-index:1;line-height:1}
+.bsq .rk{left:2px;top:2px}.bsq .fl{right:2px;bottom:2px}
+.bsq.lt .rk,.bsq.lt .fl{color:#b58863}.bsq.dk .rk,.bsq.dk .fl{color:#f0d9b5}
 .game{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(260px,1fr);gap:18px;margin-top:14px}
 @media (max-width:860px){.game{grid-template-columns:1fr}}
 .gboard{display:flex;gap:8px}
@@ -306,7 +309,7 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .evalbar span{position:absolute;left:0;right:0;top:50%;transform:translateY(-50%) rotate(-90deg);font-size:10px;font-weight:800;color:#888;white-space:nowrap;text-align:center}
 .gcol{flex:1;min-width:0;display:flex;flex-direction:column;gap:6px}
 .gcol .pl{font-size:15px}
-#bigboard .sq{cursor:pointer}
+#bigboard .bsq{cursor:pointer}
 .nav{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}
 .nav .btn{cursor:pointer}
 .gside{display:flex;flex-direction:column;gap:12px;min-width:0}
@@ -1087,7 +1090,7 @@ function tahtaHTML(fen, o={}){
   let h='';
   for(let i=0;i<8;i++) for(let j=0;j<8;j++){
     const r=o.flip?7-i:i, c=o.flip?7-j:j, ad=kareAdi(r,c), p=g[r][c];
-    const cls=['sq',(r+c)%2?'dk':'lt']; if(lm.includes(ad)) cls.push('lm'); if(ad===sah) cls.push('chk');
+    const cls=['bsq',(r+c)%2?'dk':'lt']; if(lm.includes(ad)) cls.push('lm'); if(ad===sah) cls.push('chk');
     if(o.sec===ad) cls.push('sel'); if(o.hedef&&o.hedef.includes(ad)) cls.push(p?'cap':'dot');
     const koord = o.koord ? `${j===0?`<i class="rk">${8-r}</i>`:''}${i===7?`<i class="fl">${'abcdefgh'[c]}</i>`:''}` : '';
     h+=`<div class="${cls.join(' ')}" data-sq="${ad}">${p?`<img src="vendor/pieces/${p===p.toUpperCase()?'w':'b'}${TAS[p.toLowerCase()]}.svg" alt="" draggable="false">`:''}${koord}</div>`;
@@ -1101,8 +1104,9 @@ function saat(cs){ if(cs==null||cs==='') return ''; let s=typeof cs==='number'?M
 function oyuncuHTML(p, o={}){
   if(!p) return '';
   const tr=p.fed==='TUR';
+  const ad = o.kisa ? String(p.name||'?').split(',')[0] : (p.name||'?');
   return `<div class="pl ${o.cls||''}">
-    ${p.title?`<span class="ttl">${esc(p.title)}</span>`:''}<span class="pn">${esc(p.name||'?')}</span>
+    ${p.title?`<span class="ttl">${esc(p.title)}</span>`:''}<span class="pn" title="${esc(p.name||'')}">${esc(ad)}</span>
     ${p.rating?`<span class="pr">${p.rating}</span>`:''}${p.fed?`<span class="fed ${tr?'tr':''}">${tr?flag('TR'):''}${esc(p.fed)}</span>`:''}
     ${o.saat?`<span class="clk ${o.aktif?'on':''}">${o.saat}</span>`:''}${o.puan!=null?`<span class="pts">${o.puan}</span>`:''}
   </div>`;
@@ -1201,9 +1205,9 @@ function turGovde(){
   if(!g.length) return `<div class="emptybox">${CANLI.sadeceTR?'Bu turda Türk oyuncu yok.':'Bu turda oyun yok.'}</div>`;
   return `<div class="mgrid">${g.map(x=>{ const [w,b]=x.players||[]; const st=x.status;
     return `<button class="mcard ${(x.players||[]).some(p=>p&&p.fed==='TUR')?'trg':''}" data-oyun="${x.id}">
-      ${oyuncuHTML(b,{saat:saat(b&&b.clock),puan:sonucPuan(st,false)})}
+      ${oyuncuHTML(b,{kisa:true,saat:saat(b&&b.clock),puan:sonucPuan(st,false)})}
       ${tahtaHTML(x.fen||'8/8/8/8/8/8/8/8 w - - 0 1',{mini:true,son:x.lastMove,sah:x.check})}
-      ${oyuncuHTML(w,{saat:saat(w&&w.clock),puan:sonucPuan(st,true)})}
+      ${oyuncuHTML(w,{kisa:true,saat:saat(w&&w.clock),puan:sonucPuan(st,true)})}
     </button>`;}).join('')}</div>`;
 }
 function viewCanliOyun(){
@@ -1301,7 +1305,7 @@ function kareTikla(sq){
   canliOyunCiz();
 }
 function bindCanliOyun(){
-  document.querySelectorAll('#bigboard .sq').forEach(s=>s.onclick=()=>kareTikla(s.dataset.sq));
+  document.querySelectorAll('#bigboard .bsq').forEach(s=>s.onclick=()=>kareTikla(s.dataset.sq));
   document.querySelectorAll('.mv[data-ply]').forEach(b=>b.onclick=()=>plyGit(b.dataset.ply));
 }
 function bindCanli(){
