@@ -27,3 +27,11 @@ Yeni turnuva eklendiğinde ya da turnuvalar arşive taşındığında Telegram'd
 ## Kaynaklar
 
 TSF il temsilcilikleri (tsf.org.tr) ve MyChess.events. Tarayıcılar robots.txt kurallarına uyar, istekler arasında bekler ve sadece herkese açık duyuruları okur. Kesin bilgi her zaman turnuva yönergesindedir.
+
+## Canlı yayın
+
+"Canlı" sekmesi Lichess'in herkese açık yayın servisini kullanır: yayın listesi, tur tahtaları (15 sn'de bir yenilenir), oyun ekranı (10 sn), hamle geçmişi ve tarayıcıda çalışan Stockfish analizi. Tahtada taşlara tıklayarak kendi hamlelerini deneyebilirsin. `vendor/` klasöründeki motor, kurallar ve taş görsellerinin lisansları `vendor/LISANSLAR.txt` içinde.
+
+## Profil ve FIDE listesi
+
+`scripts/fide_liste.py` haftada bir FIDE'nin resmi reyting listesini indirir, Türkiye (TUR) oyuncularını `data/fide/` altına harf harf böler. Sitede ad soyad yazınca bu dosyalardan aranır. UKD, TSF'nin sistemi otomatik erişime kapalı olduğu için elle girilir.

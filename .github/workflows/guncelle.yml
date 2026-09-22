@@ -46,6 +46,11 @@ jobs:
         continue-on-error: true
         run: python scripts/yurtdisi_tarayici.py
 
+      - name: FIDE Turkiye listesi (haftada bir)
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python scripts/fide_liste.py
+
       - name: Birlestir, arsivle, bildir
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}

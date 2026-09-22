@@ -221,6 +221,107 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .il{padding:9px 11px;font-size:14px}
 .empty-note{color:var(--muted);margin-top:20px}
 .ilinfo{font-size:14px;color:#c4d1cb;margin-bottom:12px}
+/* profil */
+.profile{margin:26px auto 0;max-width:640px;background:var(--card);border:1px solid var(--line);border-radius:var(--r-lg);padding:16px 18px;text-align:left}
+.pf-main{display:flex;align-items:center;gap:12px}
+.pf-avatar{width:44px;height:44px;border-radius:50%;background:var(--acc);color:var(--acc-ink);display:grid;place-items:center;font-weight:800;font-size:20px;font-family:"Bricolage Grotesque",sans-serif;flex:none}
+.pf-avatar.sm{width:28px;height:28px;font-size:14px}
+.pf-name{font-family:"Bricolage Grotesque",sans-serif;font-size:20px;font-weight:700}
+.pf-sub{color:var(--muted);font-size:13px}
+.ttl{display:inline-block;background:var(--warn-soft);color:var(--warn);font-weight:700;font-size:12px;padding:1px 6px;border-radius:5px;margin-right:2px}
+.pf-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:14px 0}
+@media (max-width:520px){.pf-stats{grid-template-columns:repeat(2,1fr)}}
+.pf-stats>div{background:var(--bg2);border-radius:var(--r-sm);padding:8px 10px;position:relative}
+.pf-stats small{display:block;color:var(--muted);font-size:12px;font-weight:600}
+.pf-stats b{font-family:"Bricolage Grotesque",sans-serif;font-size:24px;color:var(--acc)}
+.pf-stats i{position:absolute;right:8px;top:8px;font-style:normal;font-size:11px;color:var(--dim)}
+.pf-ukd{width:100%;background:transparent;border:0;border-bottom:1px dashed var(--dim);font-family:"Bricolage Grotesque",sans-serif;font-size:22px;font-weight:700;color:var(--acc);outline:none;padding:0;-moz-appearance:textfield}
+.pf-ukd::-webkit-outer-spin-button,.pf-ukd::-webkit-inner-spin-button{-webkit-appearance:none}
+.pf-actions{display:flex;flex-wrap:wrap;gap:8px}
+.pf-actions .btn,.pbar .btn{cursor:pointer}
+.profile.setup label{font-weight:700;font-family:"Bricolage Grotesque",sans-serif;font-size:18px}
+.pf-row{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
+.pf-row .inp{flex:1 1 140px}
+.pf-in{font-size:16px;padding:10px 12px}
+.pf-row .btn{border:0;cursor:pointer}
+.pf-hint{color:var(--dim);font-size:13px;margin-top:6px}
+.pf-res{display:flex;flex-direction:column;gap:6px;margin-top:12px}
+.pf-hit{display:grid;grid-template-columns:1fr auto auto;gap:12px;align-items:center;background:var(--bg2);border:1px solid var(--line);border-radius:var(--r-sm);padding:8px 12px;cursor:pointer;text-align:left}
+.pf-hit:hover{border-color:var(--acc)}
+.pf-hit .yr{color:var(--dim);font-size:13px}
+.pf-hit .rt{font-weight:700;color:var(--acc)}
+.pf-hit .rt small{color:var(--dim);font-weight:500}
+.pf-none{color:var(--muted);font-size:14px}
+.pf-manual{margin-top:12px;font-size:14px;color:var(--muted)}
+.pf-manual summary{cursor:pointer}
+.pbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:8px 12px;margin-top:18px;font-size:14px}
+.pbar>span:nth-child(2){flex:1}
+.btn.sm{padding:4px 10px;font-size:12px}
+/* canlı */
+.tab-live{display:inline-flex;align-items:center;gap:6px}
+.ldot{width:7px;height:7px;border-radius:50%;background:var(--red);box-shadow:0 0 0 3px var(--red-soft)}
+.live{display:inline-block;background:var(--red);color:#fff;font-size:11px;font-weight:800;letter-spacing:.04em;padding:1px 6px;border-radius:4px;margin-right:6px}
+.bcgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.bc{background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);overflow:hidden;cursor:pointer;text-align:left;padding:0;display:flex;flex-direction:column}
+.bc:hover{border-color:var(--acc)}
+.bc-img{aspect-ratio:2/1;background:var(--bg2);display:grid;place-items:center;font-size:40px;color:var(--dim);overflow:hidden}
+.bc-img img{width:100%;height:100%;object-fit:cover}
+.bc-body{padding:10px 12px}
+.bc-meta{font-size:12px;color:var(--muted)}
+.bc-name{font-weight:700;margin-top:3px;line-height:1.3}
+.lhead{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap;padding-top:8px}
+.lhead h1{font-size:clamp(22px,4vw,32px);font-weight:800}
+.rsel{max-width:240px}
+.mgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.mcard{background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:8px;cursor:pointer;display:flex;flex-direction:column;gap:6px;text-align:left}
+.mcard:hover{border-color:var(--acc)}
+.mcard.trg{border-color:rgba(239,91,91,.55)}
+.pl{display:flex;align-items:center;gap:6px;font-size:13px;min-width:0}
+.pl .pn{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:600;flex:1;min-width:0}
+.pl .pr{color:var(--muted)}
+.pl .fed{display:inline-flex;align-items:center;gap:3px;font-size:10px;color:var(--dim);font-weight:700}
+.pl .fed svg{width:14px;height:10px;border-radius:2px}
+.pl .fed.tr{color:var(--red)}
+.pl .clk{font-variant-numeric:tabular-nums;background:var(--bg2);padding:1px 6px;border-radius:4px;font-size:12px}
+.pl .clk.on{background:var(--acc);color:var(--acc-ink)}
+.pl .pts{font-weight:800;color:var(--acc)}
+.board{display:grid;grid-template-columns:repeat(8,1fr);aspect-ratio:1;width:100%;border-radius:4px;overflow:hidden;user-select:none}
+.sq{position:relative;aspect-ratio:1}
+.sq.lt{background:#ebecd0}.sq.dk{background:#739552}
+.sq.lm.lt{background:#f5f682}.sq.lm.dk{background:#b9ca43}
+.sq.chk{background:radial-gradient(circle,#ff3b3b 0%,rgba(255,59,59,.6) 35%,transparent 75%)!important}
+.sq.sel{box-shadow:inset 0 0 0 3px rgba(20,85,30,.9)}
+.sq.dot::after{content:"";position:absolute;inset:36%;border-radius:50%;background:rgba(20,85,30,.45)}
+.sq.cap::after{content:"";position:absolute;inset:0;border-radius:50%;box-shadow:inset 0 0 0 5px rgba(20,85,30,.45)}
+.sq img{position:absolute;inset:0;width:100%;height:100%}
+.sq .rk,.sq .fl{position:absolute;font-style:normal;font-size:10px;font-weight:700;opacity:.8}
+.sq .rk{left:3px;top:2px}.sq .fl{right:3px;bottom:1px}
+.sq.lt .rk,.sq.lt .fl{color:#739552}.sq.dk .rk,.sq.dk .fl{color:#ebecd0}
+.board.mini .sq img{inset:2%}
+.game{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(260px,1fr);gap:18px;margin-top:14px}
+@media (max-width:860px){.game{grid-template-columns:1fr}}
+.gboard{display:flex;gap:8px}
+.evalbar{width:18px;flex:none;background:#333;border-radius:4px;position:relative;overflow:hidden;align-self:stretch}
+.evalbar #evalfill{position:absolute;left:0;right:0;bottom:0;background:#f2f2f2;transition:height .4s}
+.evalbar span{position:absolute;left:0;right:0;top:50%;transform:translateY(-50%) rotate(-90deg);font-size:10px;font-weight:800;color:#888;white-space:nowrap;text-align:center}
+.gcol{flex:1;min-width:0;display:flex;flex-direction:column;gap:6px}
+.gcol .pl{font-size:15px}
+#bigboard .sq{cursor:pointer}
+.nav{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}
+.nav .btn{cursor:pointer}
+.gside{display:flex;flex-direction:column;gap:12px;min-width:0}
+.engine{background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:10px 12px}
+.eng-t{font-weight:700;display:flex;gap:8px;align-items:center;font-size:14px}
+.eline{margin-top:6px;font-size:14px;color:#c4d1cb;line-height:1.6}
+.eline b{color:var(--acc);font-size:16px}
+.eline .dep{color:var(--dim);font-size:12px;margin-right:6px}
+.moves{background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:10px;max-height:340px;overflow-y:auto;display:flex;flex-wrap:wrap;gap:2px 4px;align-content:flex-start}
+.mn{color:var(--dim);font-size:13px;padding:3px 0 3px 4px;font-variant-numeric:tabular-nums}
+.mv{background:none;border:0;padding:3px 6px;border-radius:4px;cursor:pointer;font-weight:600;font-size:14px}
+.mv:hover{background:var(--card2)}.mv.on{background:var(--acc);color:var(--acc-ink)}
+.moves .res{width:100%;text-align:center;font-weight:800;margin-top:6px}
+.hint{color:var(--dim);font-size:13px}
+.deneme{background:var(--warn-soft);border-radius:var(--r-sm);padding:8px 10px;font-size:14px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
 </head>
@@ -233,6 +334,7 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
       <button class="tab" data-view="home">Ülkeler</button>
       <button class="tab" data-view="match">Bana uygun</button>
       <button class="tab" data-view="calendar">Takvim</button>
+      <button class="tab tab-live" data-view="canli"><i class="ldot"></i>Canlı</button>
       <button class="tab" data-view="yeni">Yeni</button>
       <button class="tab" data-view="arsiv">Arşiv</button>
       <button class="tab" data-view="calc">Hesaplayıcılar</button>
@@ -242,6 +344,7 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 </header>
 <main id="app"></main>
 
+<script src="vendor/chess.js"></script>
 <script>
 /* ---------- Flags (SVG, because Windows doesn't render flag emoji) ---------- */
 const FLAGS = {
@@ -513,11 +616,122 @@ function hotelUrl(t){const q=encodeURIComponent((t.city||t.il||'').split('(')[0]
 
 /* ---------- state ---------- */
 const state = {view:'home', country:null, il:null, rating:2000, type:'ELO', onlyFit:false, q:''};
-try{const s=JSON.parse(localStorage.getItem('tr-rehber')||'{}'); if(s.rating) state.rating=s.rating; if(s.type) state.type=s.type;}catch(e){}
-function save(){try{localStorage.setItem('tr-rehber',JSON.stringify({rating:state.rating,type:state.type}))}catch(e){}}
+/* ---------- profil (FIDE listesinden ya da elle) ---------- */
+let PROFIL = null;
+try{ PROFIL = JSON.parse(localStorage.getItem('tr-profil')||'null'); }catch(e){}
+try{ if(!PROFIL){ const s=JSON.parse(localStorage.getItem('tr-rehber')||'{}');   // eski sürümden taşı
+  if(s.rating) PROFIL = s.type==='UKD'?{ukd:s.rating}:{elo:s.rating}; } }catch(e){}
+function profilUygula(){
+  const p=PROFIL||{};
+  state.rating = p.elo || p.ukd || 0;
+  state.type = p.elo ? 'ELO' : 'UKD';
+}
+function profilKaydet(p){ PROFIL=p; try{ localStorage.setItem('tr-profil', JSON.stringify(p)); }catch(e){} profilUygula();
+  try{ if(p){ if(p.elo) calc.elo.r=p.elo; if([40,20,10].includes(+p.k)) calc.elo.k=+p.k; if(p.ukd) calc.ukd.r=p.ukd; } }catch(e){} }
+function save(){}   // eski çağrılar için
+profilUygula();
+
+/* Türkiye'de kategori genelde en yüksek kuvvet puanına (ELO/UKD) göre; yurt dışında FIDE ELO */
+function effRating(t){
+  const p=PROFIL||{};
+  if(t.c==='TR') return Math.max(p.elo||0, p.ukd||0);
+  return p.elo||0;
+}
+function reytingEtiketi(t){
+  const p=PROFIL||{};
+  if(t.c!=='TR') return `${p.elo} ELO`;
+  return (p.ukd||0)>(p.elo||0) ? `${p.ukd} UKD` : `${p.elo} ELO`;
+}
+
+/* FIDE Türkiye listesi: data/fide/tur_<harf>.json (GitHub her hafta günceller) */
+const FIDE_CACHE = {};
+const katla = s => (s||'').replace(/İ/g,'i').replace(/I/g,'ı').toLowerCase()
+  .replace(/ç/g,'c').replace(/ğ/g,'g').replace(/ı/g,'i').replace(/ö/g,'o').replace(/ş/g,'s').replace(/ü/g,'u')
+  .normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9 ]+/g,' ').trim();
+async function fideAra(sorgu){
+  const kel = katla(sorgu).split(/\s+/).filter(w=>w.length>=2);
+  if(!kel.length) return [];
+  const harfler=[...new Set(kel.map(w=>w[0]))].slice(0,4);
+  const listeler = await Promise.all(harfler.map(async h=>{
+    if(!FIDE_CACHE[h]){ const r=await fetch(`data/fide/tur_${h}.json`,{cache:'force-cache'}); FIDE_CACHE[h]= r.ok? await r.json() : []; }
+    return FIDE_CACHE[h];
+  }));
+  const gorulen=new Set(), out=[];
+  listeler.flat().forEach(k=>{
+    if(gorulen.has(k[0])) return;
+    const ad=katla(k[1]).split(/\s+/);
+    if(kel.every(w=>ad.some(a=>a.startsWith(w)))){ gorulen.add(k[0]); out.push(k); }
+  });
+  return out.sort((a,b)=>(b[3]||0)-(a[3]||0)).slice(0,12);
+}
+/* kayıt: [fideId, "Soyad, Ad", unvan, standart, hızlı, yıldırım, doğum yılı, cinsiyet, K] */
+function fideAdi(n){ const [s,a]=String(n).split(','); return a? `${a.trim()} ${s.trim()}` : n; }
+const UNVAN={GM:'GM',IM:'IM',FM:'FM',CM:'CM',WGM:'WGM',WIM:'WIM',WFM:'WFM',WCM:'WCM',g:'GM',m:'IM',f:'FM',c:'CM',wg:'WGM',wm:'WIM',wf:'WFM',wc:'WCM'};
+
+let profilSonuc=null, profilDurum='';
+function profilKarti(){
+  const p=PROFIL;
+  if(p && (p.elo||p.ukd)){
+    return `<div class="profile">
+      <div class="pf-main">
+        <div class="pf-avatar">${esc((p.ad||'?').trim().charAt(0).toLocaleUpperCase('tr'))}</div>
+        <div><div class="pf-name">${p.unvan?`<span class="ttl">${esc(p.unvan)}</span> `:''}${esc(p.ad||'Profilim')}</div>
+          <div class="pf-sub">${p.fideId?`FIDE ID ${p.fideId}${p.dogum?`, ${p.dogum} doğumlu`:''}`:'Elle girilen reyting'}</div></div>
+      </div>
+      <div class="pf-stats">
+        <div><small>Standart</small><b>${p.elo||'–'}</b>${p.k?`<i>K${p.k}</i>`:''}</div>
+        <div><small>Hızlı</small><b>${p.hizli||'–'}</b></div>
+        <div><small>Yıldırım</small><b>${p.yildirim||'–'}</b></div>
+        <div><small>UKD</small><input class="pf-ukd" id="pfukd" type="number" inputmode="numeric" placeholder="gir" value="${p.ukd||''}" aria-label="UKD puanın"></div>
+      </div>
+      <div class="pf-actions">
+        <button class="btn pri" data-view-go="match">Bana uygun turnuvalar</button>
+        ${p.fideId?`<a class="btn" href="https://ratings.fide.com/profile/${p.fideId}" target="_blank" rel="noopener">FIDE profili</a>`:''}
+        <a class="btn" href="https://ukd.tsf.org.tr/" target="_blank" rel="noopener">UKD sorgula</a>
+        <button class="btn" id="pfdegis">Değiştir</button>
+      </div>
+    </div>`;
+  }
+  return `<div class="profile setup">
+    <div class="pf-q"><label for="pfad">Adın soyadın</label>
+      <div class="pf-row"><input class="inp pf-in" id="pfad" placeholder="ör. Ferit Tuna Kürekci" autocomplete="name"><button class="btn pri" id="pfara">FIDE'de bul</button></div>
+      <div class="pf-hint">${esc(profilDurum)||'Türkiye FIDE listesinde ararız; standart, hızlı ve yıldırım reytingin kendiliğinden gelir.'}</div>
+    </div>
+    ${profilSonuc?`<div class="pf-res">${profilSonuc.length?profilSonuc.map(k=>`<button class="pf-hit" data-fide="${k[0]}"><span class="nm">${k[2]&&UNVAN[k[2]]?`<span class="ttl">${UNVAN[k[2]]}</span> `:''}${esc(fideAdi(k[1]))}</span><span class="yr">${k[6]||''}</span><span class="rt">${k[3]||'–'}<small> std</small></span></button>`).join(''):'<div class="pf-none">FIDE listesinde bulunamadı. ELO’n yoksa aşağıya UKD’ni yazabilirsin.</div>'}</div>`:''}
+    <details class="pf-manual" ${profilSonuc&&!profilSonuc.length?'open':''}><summary>Listede yoksan ya da elle girmek istersen</summary>
+      <div class="pf-row"><input class="inp" id="pfelo" type="number" placeholder="FIDE ELO (yoksa boş)"><input class="inp" id="pfukd2" type="number" placeholder="UKD"><button class="btn" id="pfkaydet">Kaydet</button></div>
+    </details>
+  </div>`;
+}
+function profilSeridi(){
+  const p=PROFIL;
+  if(!p||!(p.elo||p.ukd)) return `<div class="pbar"><span>Sana uygun grupları görmek için profilini oluştur.</span><button class="btn pri" data-view-go="home">Profil oluştur</button></div>`;
+  return `<div class="pbar"><span class="pf-avatar sm">${esc((p.ad||'?').trim().charAt(0).toLocaleUpperCase('tr'))}</span>
+    <span><b>${esc(p.ad||'Profilim')}</b> ${p.elo?`${p.elo} ELO`:'ELO yok'}${p.ukd?`, ${p.ukd} UKD`:''}</span>
+    <button class="btn sm" data-view-go="home">Değiştir</button></div>`;
+}
+function bindRating(){
+  const ara=async()=>{ const q=document.getElementById('pfad').value.trim(); if(q.length<3){profilDurum='En az 3 harf yaz.'; render(); return;}
+    profilDurum='Aranıyor…'; profilSonuc=null; render();
+    try{ profilSonuc=await fideAra(q); profilDurum=profilSonuc.length?`${profilSonuc.length} sonuç. Kendini seç.`:''; }
+    catch(e){ profilSonuc=[]; profilDurum='FIDE listesi yüklenemedi; elle girebilirsin.'; }
+    render(); const i=document.getElementById('pfad'); if(i){ i.value=q; } };
+  const ad=document.getElementById('pfad');
+  if(ad){ ad.onkeydown=e=>{ if(e.key==='Enter') ara(); }; document.getElementById('pfara').onclick=ara; }
+  document.querySelectorAll('[data-fide]').forEach(b=>b.onclick=()=>{
+    const k=profilSonuc.find(x=>String(x[0])===b.dataset.fide); if(!k) return;
+    profilKaydet({ad:fideAdi(k[1]), fideId:k[0], unvan:UNVAN[k[2]]||'', elo:k[3]||0, hizli:k[4]||0, yildirim:k[5]||0, dogum:k[6]||'', k:k[8]||'', ukd:(PROFIL&&PROFIL.ukd)||0});
+    profilSonuc=null; profilDurum=''; render(); });
+  const kay=document.getElementById('pfkaydet');
+  if(kay) kay.onclick=()=>{ const elo=parseInt(document.getElementById('pfelo').value)||0, ukd=parseInt(document.getElementById('pfukd2').value)||0;
+    if(!elo&&!ukd) return; profilKaydet({ad:(document.getElementById('pfad').value||'').trim()||'Profilim', elo, ukd}); profilSonuc=null; render(); };
+  const u=document.getElementById('pfukd');
+  if(u){ const kaydetUkd=()=>{ PROFIL.ukd=parseInt(u.value)||0; profilKaydet(PROFIL); renderBody(); }; u.onchange=kaydetUkd; u.onkeydown=e=>{ if(e.key==='Enter'){ kaydetUkd(); u.blur(); } }; }
+  const d=document.getElementById('pfdegis'); if(d) d.onclick=()=>{ profilKaydet(null); try{localStorage.removeItem('tr-profil')}catch(e){} render(); setTimeout(()=>document.getElementById('pfad')?.focus(),0); };
+}
 
 const app = document.getElementById('app');
-function go(view,country){state.view=view;state.country=country||null;render();window.scrollTo({top:0});}
+function go(view,country){ if(view!=='canli') canliDurdur(); state.view=view;state.country=country||null;render();window.scrollTo({top:0});}
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>go(b.dataset.view));
 document.getElementById('logo').onclick=()=>go('home');
 document.getElementById('q').oninput=e=>{state.q=e.target.value.trim().toLocaleLowerCase('tr'); if(state.view!=='home'&&state.view!=='country'&&state.view!=='calendar') state.view='calendar'; render();};
@@ -526,31 +740,6 @@ function matchQ(t){ if(!state.q) return true; const c=COUNTRIES.find(x=>x.code==
   return (t.name+' '+(t.city||'')+' '+(t.il||'')+' '+(c?c.name:'')).toLocaleLowerCase('tr').includes(state.q); }
 
 /* ---------- views ---------- */
-function ratingBox(){
-  return `<div class="rating">
-    <label for="rt">Reytingim</label>
-    <input class="rating-num" id="rt" type="number" inputmode="numeric" min="0" max="3000" value="${state.rating||''}" aria-describedby="rh">
-    <div class="seg" role="group" aria-label="Reyting türü">
-      <button data-t="ELO" aria-pressed="${state.type==='ELO'}">ELO</button>
-      <button data-t="UKD" aria-pressed="${state.type==='UKD'}">UKD</button>
-    </div>
-    <button class="btn pri findbtn" id="findbtn">Bana uygun turnuvaları bul</button>
-    <div class="rating-hint" id="rh">${state.type==='UKD'
-      ?'Yurt dışında FIDE ELO esas alınır; UKD ile sadece Türkiye’deki UKD kategorilerine bakılır.'
-      :'Reytingini yazıp Enter’a bas; sana uygun turnuvaları ve hangi kategoride oynayacağını göstereyim.'}</div>
-  </div>`;
-}
-function bindRating(){
-  const i=document.getElementById('rt'); if(!i) return;
-  i.oninput=()=>{state.rating=parseInt(i.value)||0;save();renderBody(true);};
-  i.onkeydown=e=>{ if(e.key==='Enter'){ state.rating=parseInt(i.value)||0; save(); go('match'); } };
-  const fb=document.getElementById('findbtn'); if(fb) fb.onclick=()=>{ state.rating=parseInt(i.value)||0; save(); go('match'); };
-  document.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>{state.type=b.dataset.t;save();render();});
-}
-function effRating(t){ // UKD only counts for Turkish events
-  if(state.type==='UKD' && t.c!=='TR') return 0;
-  return state.rating; }
-
 function homeCards(){
   const up=upcoming().filter(matchQ);
   return COUNTRIES.map(c=>{
@@ -567,7 +756,7 @@ function homeCards(){
     return `<button class="ccard ${c.code==='TR'?'home':''}" data-c="${c.code}">
       <div class="chead"><span class="flag">${flag(c.code)}</span><div><div class="cname">${c.name}</div><div class="csub">${esc(c.sub)}</div></div>${badge}</div>
       <ul class="mini">${items}</ul>
-      <div class="cfoot">${list.length} turnuva, ${state.rating?`${fitN} tanesinde ${state.rating} için uygun grup var`:'reytingini gir, uygunları görelim'}</div>
+      <div class="cfoot">${list.length} turnuva, ${state.rating?`${fitN} tanesinde sana uygun grup var`:'profilini oluştur, uygunları görelim'}</div>
     </button>`;}).join('');
 }
 function viewHome(){
@@ -575,7 +764,7 @@ function viewHome(){
     <div class="season">2026/27 sezonu</div>
     <h1>Ülkeni seç</h1>
     <p>Türkiye’deki il turnuvalarından Avrupa’nın en sevilen açıklarına kadar; tarihleri, reyting gruplarını ve sana uygun olanları tek yerde gör.</p>
-    ${ratingBox()}
+    ${profilKarti()}
   </section>
   ${ziyaretBandi()}
   ${yeniSeridi()}
@@ -589,13 +778,14 @@ function yeniSeridi(){
   return `<div class="newstrip"><b>Bu hafta eklenenler</b>${y.slice(0,6).map(t=>`<button class="nchip" data-c="${t.c}"><span class="flag">${flag(t.c)}</span><span class="nm">${esc(t.name)}</span><i>${D(t.start).getDate()} ${AY[D(t.start).getMonth()]}</i></button>`).join('')}${y.length>6?`<button class="nchip more" data-view-go="yeni">+${y.length-6} daha</button>`:''}</div>`;
 }
 function yourGroup(t){
-  if(!state.rating) return '';
-  if(state.type==='UKD' && t.c!=='TR') return `<div class="yg no">Yurt dışında FIDE ELO esas alınır; ELO’nu girersen grubunu gösteririm.</div>`;
-  const f=fitSecs(t,state.rating);
-  if(f.length) return `<div class="yg">♟ ${state.rating} ${state.type} ile bu turnuvada <b>${f.map(s=>esc(secLabel(s))).join('</b> ya da <b>')}</b> grubunda oynarsın.</div>`;
+  const p=PROFIL||{};
+  if(!(p.elo||p.ukd)) return '';
+  if(t.c!=='TR' && !p.elo) return `<div class="yg no">Yurt dışı turnuvalarda FIDE ELO esas alınır; ELO’n olmadığı için grubunu hesaplayamadım.</div>`;
+  const r=effRating(t), f=fitSecs(t,r);
+  if(f.length) return `<div class="yg">♟ ${reytingEtiketi(t)} ile bu turnuvada <b>${f.map(s=>esc(secLabel(s))).join('</b> ya da <b>')}</b> grubunda oynarsın.</div>`;
   if(t.sections.every(s=>s.inv)) return `<div class="yg no">Davet ya da federasyon seçmesiyle katılınıyor.</div>`;
   if(t.sections.every(s=>s.age||s.inv)) return `<div class="yg no">Sadece yaş kategorileri var.</div>`;
-  return `<div class="yg no">${state.rating} için uygun grup yok.</div>`;
+  return `<div class="yg no">${reytingEtiketi(t)} için uygun grup yok.</div>`;
 }
 function tCard(t,withCountry){
   const r=effRating(t), c=COUNTRIES.find(x=>x.code===t.c)||{name:t.ulke||t.c}, d=D(t.start), left=daysLeft(t), gecti=D(t.end)<today;
@@ -657,7 +847,7 @@ function viewTR(){
     <button class="btn" data-pick="Türkiye geneli">Ulusal şampiyonalar (${nat})</button>
   </div>
   ${guncellemeKutusu()}
-  <div class="illeg"><span><i class="sq ok"></i>Tarandı, turnuva var</span><span><i class="sq bos"></i>Tarandı, yaklaşan ilan yok</span><span><i class="sq no"></i>Henüz taranmadı</span>${state.rating?`<span>Sayı: ${state.rating} için uygun / toplam</span>`:''}<span>${checked} / 81 il tarandı</span></div>
+  <div class="illeg"><span><i class="sq ok"></i>Tarandı, turnuva var</span><span><i class="sq bos"></i>Tarandı, yaklaşan ilan yok</span><span><i class="sq no"></i>Henüz taranmadı</span>${state.rating?`<span>Sayı: sana uygun / toplam</span>`:''}<span>${checked} / 81 il tarandı</span></div>
   ${Object.entries(BOLGE).map(([b,l])=>`<section class="region" data-region><h2>${b}</h2><div class="ilgrid">${l.split(',').map(tile).join('')}</div></section>`).join('')}
   <p class="empty-note" id="ilnone" hidden>Bu isimde il yok.</p>`;
 }
@@ -678,7 +868,7 @@ function viewIl(){
   <div class="dhead"><span class="flag">${flag('TR')}</span><div><h1>${esc(n)}</h1><div class="csub">${status}</div></div></div>
   ${IL_NOT[n]?`<p class="dnote">${esc(IL_NOT[n])}</p>`:''}
   ${n!=='Türkiye geneli'?`<div class="links"><a class="btn pri" href="${ilUrl(n)}" target="_blank" rel="noopener">TSF ${esc(n)} il sayfası</a></div>`:''}
-  ${ratingBox()}
+  ${profilSeridi()}
   <div class="toolbar"><button class="chip" id="fit" aria-pressed="${state.onlyFit}">Sadece bana uygun olanlar</button><span class="count">${list.length} turnuva</span></div>
   <div class="tlist" id="body">${list.length?list.map(t=>tCard(t)).join(''):`<div class="emptybox">${state.onlyFit?'Bu ilde reytingine uygun grubu olan turnuva yok.':empty}</div>`}</div>`;
 }
@@ -688,7 +878,7 @@ function viewCountry(){
   return `<button class="back" id="back">‹ Tüm ülkeler</button>
   <div class="dhead"><span class="flag">${flag(c.code)}</span><div><h1>${c.name}</h1><div class="csub">${esc(c.sub)}</div></div></div>
   <p class="dnote">${esc(c.note)}</p>
-  ${ratingBox()}
+  ${profilSeridi()}
   ${c.code==='TR'?'<div class="links"><button class="btn" id="backtr">‹ İl seçimine dön</button></div>':''}
   <div class="toolbar"><button class="chip" id="fit" aria-pressed="${state.onlyFit}">Sadece bana uygun olanlar</button>${state.il?`<button class="chip" id="clril" aria-pressed="true">${esc(state.il)} ✕</button>`:''}<span class="count" id="cnt">${list.length} turnuva</span></div>
   ${state.il?ilInfo(state.il):''}
@@ -708,7 +898,7 @@ function calendarBody(){
 }
 function viewCalendar(){
   return `<div class="page-h"><h1>Takvim</h1><p>Tüm ülkelerdeki yaklaşan turnuvalar tarih sırasıyla. Satıra dokununca ülkenin sayfası açılır.</p></div>
-  ${ratingBox()}
+  ${profilSeridi()}
   <div class="toolbar"><button class="chip" id="fit" aria-pressed="${state.onlyFit}">Sadece bana uygun olanlar</button></div>
   <div id="body">${calendarBody()}</div>`;
 }
@@ -718,17 +908,17 @@ function viewMatch(){
   const up=upcoming();
   const ok=up.filter(t=>fits(t,effRating(t)));
   const tr=ok.filter(t=>t.c==='TR'), ab=ok.filter(t=>t.c!=='TR');
-  const head= r?`${r} ${state.type} için ${ok.length} turnuva buldum`:'Önce reytingini gir';
-  return `<div class="page-h"><h1>${head}</h1><p>Her kartta hangi grupta oynayacağın yazıyor. Türkiye’de kategori genelde ELO’ya, ELO’su olmayanlar için UKD’ye göre belirlenir; Ankara gibi bazı iller ikisinden yüksek olanı esas alır.</p></div>
-  ${ratingBox()}
+  const p=PROFIL||{}; const head= r?`${p.ad&&p.ad!=='Profilim'?esc(p.ad.split(' ')[0])+', s':'S'}ana uygun ${ok.length} turnuva buldum`:'Önce profilini oluştur';
+  return `<div class="page-h"><h1>${head}</h1><p>Her kartta hangi grupta oynayacağın yazıyor. Türkiye’de ELO ve UKD’nden yüksek olanı, yurt dışında FIDE standart reytingini esas aldım; kesin kural her turnuvanın yönergesinde.</p></div>
+  ${profilSeridi()}
   ${r?`<h2 class="sect">Türkiye <span>${tr.length}</span></h2><div class="tlist">${tr.length?tr.map(t=>tCard(t)).join(''):'<div class="emptybox">Taranan illerde şu an senin reytingine uygun ilan yok. 81 ilin tamamı taranınca bu liste büyüyecek.</div>'}</div>
-  <h2 class="sect">Yurt dışı <span>${ab.length}</span></h2><div class="tlist">${ab.length?ab.map(t=>tCard(t,true)).join(''):`<div class="emptybox">${state.type==='UKD'?'Yurt dışı turnuvalar FIDE ELO ile eşleşir. ELO’na geçip tekrar dene.':'Uygun yurt dışı turnuvası yok.'}</div>`}</div>`:''}`;
+  <h2 class="sect">Yurt dışı <span>${ab.length}</span></h2><div class="tlist">${ab.length?ab.map(t=>tCard(t,true)).join(''):`<div class="emptybox">${!(PROFIL&&PROFIL.elo)?'Yurt dışı turnuvalar FIDE ELO ile eşleşir; profilinde ELO olmadığı için gösteremiyorum.':'Uygun yurt dışı turnuvası yok.'}</div>`}</div>`:''}`;
 }
 
 /* ---------- calculators ---------- */
 const calc = {
-  elo:{r:state.type==='ELO'?state.rating:2000,k:20,games:[{o:2050,s:1},{o:1980,s:.5},{o:2100,s:0}]},
-  ukd:{r:1600,k:20,games:[{o:1650,s:1},{o:1550,s:.5}]}
+  elo:{r:(PROFIL&&PROFIL.elo)||2000,k:[40,20,10].includes(+(PROFIL&&PROFIL.k))?+PROFIL.k:20,games:[{o:2050,s:1},{o:1980,s:.5},{o:2100,s:0}]},
+  ukd:{r:(PROFIL&&PROFIL.ukd)||1600,k:20,games:[{o:1650,s:1},{o:1550,s:.5}]}
 };
 function expected(r,o){let d=o-r; if(d>400)d=400; if(d<-400)d=-400; return 1/(1+Math.pow(10,d/400));}
 function perf(games){ if(!games.length) return null;
@@ -804,6 +994,357 @@ function rerenderCalc(id,focusLast){
 }
 
 /* ---------- sources ---------- */
+/* ================= CANLI: Lichess yayınları, kendi tahtamız ve Stockfish analizi ================= */
+const LI = 'https://lichess.org';
+const CANLI = { mod:'liste', liste:null, hata:'', yukleniyor:false, tur:null, turlar:null, oyunlar:[], seg:null,
+  secili:null, poz:null, ply:0, takip:true, sadeceTR:false, trOnce:true, flip:false, deneme:null, secKare:null,
+  zaman:null, motorAcik:true, analiz:null, sonGuncelleme:null };
+
+function canliDurdur(){ if(CANLI.zaman){ clearInterval(CANLI.zaman); CANLI.zaman=null; } motorDur(); }
+
+async function canliJson(url){
+  const r = await fetch(url, {headers:{Accept:'application/json'}});
+  if(!r.ok) throw new Error(r.status===429?'Lichess çok sık istek nedeniyle bir süre bekletiyor, biraz sonra tekrar dene.':'Lichess yanıt vermedi ('+r.status+').');
+  return r.json();
+}
+function turunRaundu(x){
+  if(x.round) return x.round;
+  const rs=x.rounds||[];
+  return rs.find(r=>r.ongoing) || rs.find(r=>r.id===x.defaultRoundId) || rs[rs.length-1] || null;
+}
+function raundUrl(x){ const r=turunRaundu(x); if(!r) return x.tour&&x.tour.url;
+  return r.url || `${LI}/broadcast/${x.tour.slug}/${r.slug}/${r.id}`; }
+
+async function canliListeGetir(){
+  CANLI.yukleniyor=true; CANLI.hata=''; render();
+  try{ CANLI.liste = await canliJson(`${LI}/api/broadcast/top?page=1`); }
+  catch(e){ CANLI.hata = e.message && !/fetch/i.test(e.message) ? e.message : 'Lichess’e bağlanılamadı. (Claude önizlemesinde canlı veri çalışmaz; GitHub’daki sitende çalışır.)'; }
+  CANLI.yukleniyor=false; if(state.view==='canli') render();
+}
+
+/* lichess.org/broadcast/<tur>/<raund>/<raundId>[/<oyunId>] */
+function yayinLinkiCoz(url){
+  const m=String(url).match(/lichess\.org\/broadcast\/([^/?#]+)\/([^/?#]+)\/([A-Za-z0-9]{8})(?:\/([A-Za-z0-9]{8}))?/);
+  return m ? {tslug:m[1], rslug:m[2], rid:m[3], gid:m[4]||null} : null;
+}
+async function canliTurAc(url, oyunId){
+  const s=yayinLinkiCoz(url); if(!s){ alert('Bu bir Lichess yayın linki gibi görünmüyor.'); return; }
+  CANLI.seg=s; CANLI.mod='tur'; CANLI.tur=null; CANLI.oyunlar=[]; CANLI.turlar=null; CANLI.hata=''; CANLI.yukleniyor=true;
+  canliDurdur(); render(); window.scrollTo({top:0});
+  await canliTurYenile();
+  CANLI.yukleniyor=false;
+  const gid = oyunId || s.gid;
+  if(gid && CANLI.oyunlar.some(g=>g.id===gid)) return canliOyunAc(gid);
+  render();
+  CANLI.zaman=setInterval(()=>{ if(!document.hidden) canliTurYenile().then(()=>{ if(CANLI.mod==='tur') renderCanliGovde(); }); }, 15000);
+  if(CANLI.tur && CANLI.tur.tour && CANLI.tur.tour.id){
+    canliJson(`${LI}/api/broadcast/${CANLI.tur.tour.id}`).then(v=>{ CANLI.turlar=v.rounds||null; if(CANLI.mod==='tur') render(); }).catch(()=>{});
+  }
+}
+async function canliTurYenile(){
+  const s=CANLI.seg;
+  try{
+    const v=await canliJson(`${LI}/api/broadcast/${s.tslug}/${s.rslug}/${s.rid}`);
+    CANLI.tur=v; CANLI.oyunlar=v.games||[]; CANLI.hata=''; CANLI.sonGuncelleme=new Date();
+  }catch(e){ CANLI.hata=e.message; }
+}
+
+/* ---------- PGN ---------- */
+function pgnCoz(pgn){
+  const bas={}; pgn.replace(/\[(\w+)\s+"([^"]*)"\]/g,(_,k,v)=>{bas[k]=v;});
+  const govde=pgn.replace(/\[(\w+)\s+"([^"]*)"\]\s*/g,'');
+  const oyun=new Chess(bas.FEN||undefined);
+  const poz=[{fen:oyun.fen(), san:null, uci:null, clk:null}];
+  const tok=govde.match(/\{[^}]*\}|\([^()]*\)|\$\d+|\d+\.(?:\.\.)?|1-0|0-1|1\/2-1\/2|\*|[^\s{}()]+/g)||[];
+  let derinlik=0;
+  for(const t of tok){
+    if(t[0]==='{'){ const c=t.match(/\[%clk\s+([\d:]+)/); if(c&&poz.length>1) poz[poz.length-1].clk=c[1]; continue; }
+    if(t[0]==='('||t[0]==='$'||/^\d+\.(\.\.)?$/.test(t)||/^(1-0|0-1|1\/2-1\/2|\*)$/.test(t)) continue;
+    const m=oyun.move(t.replace(/[?!]+$/,''),{sloppy:true});
+    if(!m) break;
+    poz.push({fen:oyun.fen(), san:m.san, uci:m.from+m.to, clk:null, check:oyun.in_check()});
+  }
+  return {bas, poz, sonuc:bas.Result||'*'};
+}
+
+async function canliOyunAc(gid){
+  CANLI.mod='oyun'; CANLI.secili=gid; CANLI.poz=null; CANLI.deneme=null; CANLI.secKare=null; CANLI.takip=true; CANLI.analiz=null;
+  canliDurdur(); render(); window.scrollTo({top:0});
+  await canliPgnYenile(true);
+  CANLI.zaman=setInterval(async()=>{ if(document.hidden) return;
+    await Promise.all([canliTurYenile(), canliPgnYenile(false)]); if(CANLI.mod==='oyun') renderCanliGovde(); }, 10000);
+}
+async function canliPgnYenile(ilk){
+  const s=CANLI.seg, gid=CANLI.secili;
+  try{
+    const r=await fetch(`${LI}/api/study/${s.rid}/${gid}.pgn?clocks=true&comments=false&variations=false`);
+    if(!r.ok) throw new Error('PGN alınamadı ('+r.status+')');
+    const p=pgnCoz(await r.text());
+    const sondaydi = !CANLI.poz || CANLI.ply>=CANLI.poz.poz.length-1;
+    CANLI.poz=p;
+    if(ilk || (CANLI.takip && sondaydi && !CANLI.deneme)) CANLI.ply=p.poz.length-1;
+    CANLI.hata='';
+  }catch(e){ CANLI.hata=e.message; }
+  if(ilk && CANLI.mod==='oyun'){ render(); motorBaslat(); analizEt(); }
+}
+
+/* ---------- tahta ---------- */
+const TAS = {k:'K',q:'Q',r:'R',b:'B',n:'N',p:'P'};
+function fenIzgara(fen){
+  const satir=fen.split(' ')[0].split('/'), g=[];
+  satir.forEach(r=>{ const s=[]; for(const ch of r){ if(/\d/.test(ch)) for(let i=0;i<+ch;i++) s.push(null); else s.push(ch); } g.push(s); });
+  return g;
+}
+function kareAdi(r,c){ return 'abcdefgh'[c]+(8-r); }
+function tahtaHTML(fen, o={}){
+  const g=fenIzgara(fen), lm=o.son?[o.son.slice(0,2),o.son.slice(2,4)]:[], sira=fen.split(' ')[1];
+  let sah=null;
+  if(o.sah){ for(let r=0;r<8;r++) for(let c=0;c<8;c++){ const p=g[r][c]; if(p===(sira==='w'?'K':'k')) sah=kareAdi(r,c);} }
+  let h='';
+  for(let i=0;i<8;i++) for(let j=0;j<8;j++){
+    const r=o.flip?7-i:i, c=o.flip?7-j:j, ad=kareAdi(r,c), p=g[r][c];
+    const cls=['sq',(r+c)%2?'dk':'lt']; if(lm.includes(ad)) cls.push('lm'); if(ad===sah) cls.push('chk');
+    if(o.sec===ad) cls.push('sel'); if(o.hedef&&o.hedef.includes(ad)) cls.push(p?'cap':'dot');
+    const koord = o.koord ? `${j===0?`<i class="rk">${8-r}</i>`:''}${i===7?`<i class="fl">${'abcdefgh'[c]}</i>`:''}` : '';
+    h+=`<div class="${cls.join(' ')}" data-sq="${ad}">${p?`<img src="vendor/pieces/${p===p.toUpperCase()?'w':'b'}${TAS[p.toLowerCase()]}.svg" alt="" draggable="false">`:''}${koord}</div>`;
+  }
+  return `<div class="board ${o.mini?'mini':''}">${h}</div>`;
+}
+function saat(cs){ if(cs==null||cs==='') return ''; let s=typeof cs==='number'?Math.round(cs/100):null;
+  if(s==null){ const p=String(cs).split(':').map(Number); s=p.reduce((a,b)=>a*60+b,0); }
+  const h=Math.floor(s/3600), m=Math.floor(s%3600/60), sn=s%60;
+  return h?`${h}:${String(m).padStart(2,'0')}:${String(sn).padStart(2,'0')}`:`${m}:${String(sn).padStart(2,'0')}`; }
+function oyuncuHTML(p, o={}){
+  if(!p) return '';
+  const tr=p.fed==='TUR';
+  return `<div class="pl ${o.cls||''}">
+    ${p.title?`<span class="ttl">${esc(p.title)}</span>`:''}<span class="pn">${esc(p.name||'?')}</span>
+    ${p.rating?`<span class="pr">${p.rating}</span>`:''}${p.fed?`<span class="fed ${tr?'tr':''}">${tr?flag('TR'):''}${esc(p.fed)}</span>`:''}
+    ${o.saat?`<span class="clk ${o.aktif?'on':''}">${o.saat}</span>`:''}${o.puan!=null?`<span class="pts">${o.puan}</span>`:''}
+  </div>`;
+}
+function sonucPuan(st, beyaz){ if(!st||st==='*') return null; if(st==='1/2-1/2'||st==='½-½') return '½'; return (st==='1-0')===beyaz?'1':'0'; }
+
+/* ---------- motor (Stockfish, tarayıcıda) ---------- */
+let MOTOR=null, MOTOR_HAZIR=false, MOTOR_BEKLE=null, MOTOR_FEN=null;
+function motorBaslat(){
+  if(MOTOR || !CANLI.motorAcik) return;
+  try{
+    const wasm = typeof WebAssembly==='object' && WebAssembly.validate(Uint8Array.of(0,0x61,0x73,0x6d,1,0,0,0));
+    MOTOR = new Worker(wasm?'vendor/stockfish/stockfish.wasm.js':'vendor/stockfish/stockfish.js');
+    MOTOR.onmessage = e => motorMesaj(String(e.data));
+    MOTOR.postMessage('uci'); MOTOR.postMessage('setoption name MultiPV value 1'); MOTOR.postMessage('isready');
+  }catch(e){ MOTOR=null; CANLI.analiz={hata:'Motor başlatılamadı.'}; }
+}
+function motorDur(){ if(MOTOR){ try{ MOTOR.postMessage('stop'); MOTOR.terminate(); }catch(e){} } MOTOR=null; MOTOR_HAZIR=false; MOTOR_FEN=null; }
+function motorMesaj(m){
+  if(m==='readyok'){ MOTOR_HAZIR=true; if(MOTOR_BEKLE){ const f=MOTOR_BEKLE; MOTOR_BEKLE=null; motorGit(f); } return; }
+  if(!MOTOR_FEN || !m.startsWith('info') || m.indexOf(' pv ')<0) return;
+  const d=+(m.match(/ depth (\d+)/)||[])[1], cp=m.match(/ score cp (-?\d+)/), mt=m.match(/ score mate (-?\d+)/);
+  const pv=(m.split(' pv ')[1]||'').trim().split(/\s+/);
+  const beyaz = MOTOR_FEN.split(' ')[1]==='w' ? 1 : -1;
+  CANLI.analiz = {fen:MOTOR_FEN, derinlik:d, cp:cp?beyaz*+cp[1]:null, mat:mt?beyaz*+mt[1]:null, pv};
+  analizCiz();
+}
+function motorGit(fen){ MOTOR_FEN=fen; CANLI.analiz={fen, derinlik:0}; MOTOR.postMessage('position fen '+fen); MOTOR.postMessage('go depth 20'); }
+function analizEt(){
+  if(!CANLI.motorAcik || CANLI.mod!=='oyun') return;
+  motorBaslat(); if(!MOTOR) return;
+  const fen=gosterilenFen(); if(!fen || fen===MOTOR_FEN) return;
+  MOTOR_FEN=null; MOTOR.postMessage('stop'); MOTOR_BEKLE=fen; MOTOR_HAZIR=false; MOTOR.postMessage('isready');
+}
+function gosterilenFen(){ if(CANLI.deneme) return CANLI.deneme.fen; const p=CANLI.poz; return p? p.poz[Math.min(CANLI.ply,p.poz.length-1)].fen : null; }
+function evalYuzde(a){ if(!a) return 50; if(a.mat!=null) return a.mat>0?100:0; if(a.cp==null) return 50;
+  return Math.max(2, Math.min(98, 50+50*(2/(1+Math.exp(-0.0037*a.cp))-1))); }
+function evalYazi(a){ if(!a||(a.cp==null&&a.mat==null)) return '…'; if(a.mat!=null) return (a.mat>0?'+':'−')+'M'+Math.abs(a.mat); const v=a.cp/100; return (v>0?'+':v<0?'−':'')+Math.abs(v).toFixed(1); }
+function pvSan(fen, pv){
+  try{ const c=new Chess(fen); const out=[]; let no=+fen.split(' ')[5], beyaz=fen.split(' ')[1]==='w';
+    for(const u of pv.slice(0,10)){ const m=c.move({from:u.slice(0,2),to:u.slice(2,4),promotion:u[4]||'q'}); if(!m) break;
+      out.push((beyaz?no+'. ':(out.length?'':no+'... '))+m.san); if(!beyaz) no++; beyaz=!beyaz; }
+    return out.join(' ');
+  }catch(e){ return ''; }
+}
+function analizCiz(){
+  const a=CANLI.analiz, bar=document.getElementById('evalfill'), yz=document.getElementById('evaltxt'), ln=document.getElementById('evalline');
+  if(!bar) return;
+  const y=evalYuzde(a); bar.style.height=y+'%';
+  if(yz) yz.textContent=evalYazi(a);
+  if(ln) ln.innerHTML = a&&a.pv ? `<b>${evalYazi(a)}</b> <span class="dep">derinlik ${a.derinlik}</span> ${esc(pvSan(a.fen,a.pv))}` : (a&&a.hata?esc(a.hata):'Motor düşünüyor…');
+}
+
+/* ---------- görünümler ---------- */
+function viewCanli(){
+  if(CANLI.mod==='tur') return viewCanliTur();
+  if(CANLI.mod==='oyun') return viewCanliOyun();
+  if(!CANLI.liste && !CANLI.yukleniyor && !CANLI.hata) setTimeout(canliListeGetir,0);
+  const kart = x => { const r=turunRaundu(x)||{}, t=x.tour||{};
+    return `<button class="bc" data-yayin="${esc(raundUrl(x))}">
+      <div class="bc-img">${t.image?`<img src="${esc(t.image)}" alt="" loading="lazy">`:'<span>♟</span>'}</div>
+      <div class="bc-body"><div class="bc-meta">${r.ongoing?'<span class="live">CANLI</span>':''}${esc(r.name||'')}${!r.ongoing&&r.startsAt?` · ${new Date(r.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}`:''}</div>
+        <div class="bc-name">${esc(t.name||'')}</div></div></button>`; };
+  const L=CANLI.liste;
+  return `<div class="page-h"><h1>Canlı</h1><p>Lichess’in yayınladığı turnuvaları kendi tahtamızda izle, hamleleri geri sar, Stockfish ile analiz et. Türk oyuncuların oyunları öne çıkar.</p></div>
+  <div class="trtools"><input class="search ilsearch" id="yayinlink" placeholder="Lichess yayın linkini yapıştır (lichess.org/broadcast/…)"><button class="btn pri" id="yayinac">Aç</button><button class="btn" id="yayinyenile">Yenile</button></div>
+  ${CANLI.hata?`<div class="emptybox">${esc(CANLI.hata)}</div>`:''}
+  ${CANLI.yukleniyor?'<div class="emptybox">Yayınlar yükleniyor…</div>':''}
+  ${L?`<h2 class="sect">Şu an oynananlar <span>${(L.active||[]).length}</span></h2><div class="bcgrid">${(L.active||[]).map(kart).join('')||'<div class="emptybox">Şu an canlı yayın yok.</div>'}</div>
+    ${(L.upcoming||[]).length?`<h2 class="sect">Yakında <span>${L.upcoming.length}</span></h2><div class="bcgrid">${L.upcoming.map(kart).join('')}</div>`:''}`:''}
+  <p class="updline">Canlı veriler Lichess.org’un herkese açık yayın servisinden gelir.</p>`;
+}
+function turOyunlari(){
+  let g=CANLI.oyunlar.map((x,i)=>({...x,_i:i}));
+  const trMi=x=>(x.players||[]).some(p=>p&&p.fed==='TUR');
+  if(CANLI.sadeceTR) g=g.filter(trMi);
+  else if(CANLI.trOnce) g.sort((a,b)=>(trMi(b)-trMi(a))||(a._i-b._i));
+  return g;
+}
+function viewCanliTur(){
+  const v=CANLI.tur, t=v&&v.tour||{}, r=v&&v.round||{};
+  return `<button class="back" id="canligeri">‹ Tüm yayınlar</button>
+  <div class="lhead"><div><h1>${esc(t.name||'Yükleniyor…')}</h1>
+    <div class="csub">${r.ongoing?'<span class="live">CANLI</span> ':''}${esc(r.name||'')}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
+    ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(x.name)}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
+  </div>
+  <div class="toolbar"><button class="chip" id="trfiltre" aria-pressed="${CANLI.sadeceTR}">${flag('TR')} Sadece Türk oyuncular</button>
+    <span class="count">${CANLI.oyunlar.length} oyun, 15 saniyede bir yenilenir</span></div>
+  ${CANLI.hata?`<div class="emptybox">${esc(CANLI.hata)}</div>`:''}
+  <div id="canligovde">${turGovde()}</div>`;
+}
+function turGovde(){
+  if(CANLI.yukleniyor) return '<div class="emptybox">Tahtalar yükleniyor…</div>';
+  const g=turOyunlari();
+  if(!g.length) return `<div class="emptybox">${CANLI.sadeceTR?'Bu turda Türk oyuncu yok.':'Bu turda oyun yok.'}</div>`;
+  return `<div class="mgrid">${g.map(x=>{ const [w,b]=x.players||[]; const st=x.status;
+    return `<button class="mcard ${(x.players||[]).some(p=>p&&p.fed==='TUR')?'trg':''}" data-oyun="${x.id}">
+      ${oyuncuHTML(b,{saat:saat(b&&b.clock),puan:sonucPuan(st,false)})}
+      ${tahtaHTML(x.fen||'8/8/8/8/8/8/8/8 w - - 0 1',{mini:true,son:x.lastMove,sah:x.check})}
+      ${oyuncuHTML(w,{saat:saat(w&&w.clock),puan:sonucPuan(st,true)})}
+    </button>`;}).join('')}</div>`;
+}
+function viewCanliOyun(){
+  const g=CANLI.oyunlar.find(x=>x.id===CANLI.secili)||{}, [w,b]=g.players||[];
+  const P=CANLI.poz, n=P?P.poz.length-1:0, ply=Math.min(CANLI.ply,n);
+  const t=CANLI.tur&&CANLI.tur.tour||{};
+  return `<button class="back" id="canliturgeri">‹ ${esc(t.name||'Tur')}</button>
+  <div class="game">
+    <div class="gboard">
+      <div class="evalbar" title="Değerlendirme"><div id="evalfill" style="height:${evalYuzde(CANLI.analiz)}%"></div><span id="evaltxt">${evalYazi(CANLI.analiz)}</span></div>
+      <div class="gcol">
+        ${oyuncuHTML(CANLI.flip?w:b,{cls:'top',saat:canliSaat(CANLI.flip?'w':'b'),puan:sonucPuan(g.status,CANLI.flip)})}
+        <div id="bigboard">${buyukTahta()}</div>
+        ${oyuncuHTML(CANLI.flip?b:w,{cls:'bot',saat:canliSaat(CANLI.flip?'b':'w'),puan:sonucPuan(g.status,!CANLI.flip)})}
+        <div class="nav">
+          <button class="btn" data-git="0" aria-label="Başa">⏮</button><button class="btn" data-git="-1" aria-label="Geri">◀</button>
+          <button class="btn" data-git="1" aria-label="İleri">▶</button><button class="btn" data-git="99999" aria-label="Sona">⏭</button>
+          <button class="btn" id="cevir">Çevir</button>
+          <button class="chip" id="takip" aria-pressed="${CANLI.takip}">Canlı takip</button>
+        </div>
+      </div>
+    </div>
+    <aside class="gside">
+      <div class="engine"><label class="eng-t"><input type="checkbox" id="motorac" ${CANLI.motorAcik?'checked':''}> Stockfish analizi</label>
+        <div id="evalline" class="eline">${CANLI.motorAcik?'Motor düşünüyor…':'Kapalı'}</div></div>
+      ${CANLI.deneme?`<div class="deneme">Deneme: ${esc(CANLI.deneme.hamleler.join(' '))} <button class="btn sm" id="denemecik">Oyuna dön</button></div>`:'<div class="hint">İpucu: tahtada bir taşa, sonra gideceği kareye tıklayarak kendi hamleni dene; motor anında değerlendirir. Ok tuşlarıyla hamleler arasında gez.</div>'}
+      <div class="moves" id="hamleler">${hamleListesi(ply)}</div>
+      <div class="links">
+        <a class="btn" href="${LI}/broadcast/${CANLI.seg.tslug}/${CANLI.seg.rslug}/${CANLI.seg.rid}/${CANLI.secili}" target="_blank" rel="noopener">Lichess’te aç</a>
+        <a class="btn" href="${LI}/analysis/${encodeURIComponent((gosterilenFen()||'').replace(/ /g,'_'))}" target="_blank" rel="noopener">Analiz tahtası</a>
+      </div>
+      ${CANLI.hata?`<div class="tnote">${esc(CANLI.hata)}</div>`:''}
+    </aside>
+  </div>`;
+}
+function canliSaat(renk){
+  const P=CANLI.poz, g=CANLI.oyunlar.find(x=>x.id===CANLI.secili)||{};
+  if(P && CANLI.ply < P.poz.length-1){   // geçmişteki bir hamlede: o anki PGN saati
+    for(let i=CANLI.ply;i>0;i--){ const b=(i%2===1)===(P.poz[0].fen.split(' ')[1]==='w'); if((renk==='w')===b && P.poz[i].clk) return saat(P.poz[i].clk); }
+    return '';
+  }
+  const p=(g.players||[])[renk==='w'?0:1]; return saat(p&&p.clock);
+}
+function buyukTahta(){
+  const P=CANLI.poz; if(!P) return tahtaHTML('8/8/8/8/8/8/8/8 w - - 0 1',{koord:true});
+  const fen=gosterilenFen();
+  const son = CANLI.deneme ? CANLI.deneme.son : P.poz[Math.min(CANLI.ply,P.poz.length-1)].uci;
+  let hedef=null;
+  if(CANLI.secKare){ try{ hedef=new Chess(fen).moves({square:CANLI.secKare,verbose:true}).map(m=>m.to); }catch(e){} }
+  return tahtaHTML(fen,{koord:true,flip:CANLI.flip,son,sah:new Chess(fen).in_check(),sec:CANLI.secKare,hedef});
+}
+function hamleListesi(ply){
+  const P=CANLI.poz; if(!P) return '<div class="hint">Hamleler yükleniyor…</div>';
+  const beyazBasliyor=P.poz[0].fen.split(' ')[1]==='w'; let no=+P.poz[0].fen.split(' ')[5]||1, h='';
+  for(let i=1;i<P.poz.length;i++){
+    const beyaz=(i%2===1)===beyazBasliyor;
+    if(beyaz||i===1) h+=`<span class="mn">${no}.${beyaz?'':'..'}</span>`;
+    h+=`<button class="mv ${i===ply&&!CANLI.deneme?'on':''}" data-ply="${i}">${esc(P.poz[i].san)}</button>`;
+    if(!beyaz) no++;
+  }
+  return (h||'<div class="hint">Henüz hamle yok.</div>')+(P.sonuc&&P.sonuc!=='*'?`<div class="res">${esc(P.sonuc)}</div>`:'');
+}
+function renderCanliGovde(){
+  if(CANLI.mod==='tur'){ const el=document.getElementById('canligovde'); if(el){ el.innerHTML=turGovde(); bindCanli(); } return; }
+  if(CANLI.mod==='oyun'){ canliOyunCiz(); analizEt(); }
+}
+function canliOyunCiz(){
+  const bb=document.getElementById('bigboard'); if(!bb) return render();
+  bb.innerHTML=buyukTahta();
+  const P=CANLI.poz, n=P?P.poz.length-1:0;
+  const hl=document.getElementById('hamleler'); if(hl){ hl.innerHTML=hamleListesi(Math.min(CANLI.ply,n)); const on=hl.querySelector('.on'); if(on) on.scrollIntoView({block:'nearest'}); }
+  const g=CANLI.oyunlar.find(x=>x.id===CANLI.secili)||{}, [w,b]=g.players||[];
+  const top=document.querySelector('.gcol .pl.top'), bot=document.querySelector('.gcol .pl.bot');
+  if(top) top.outerHTML=oyuncuHTML(CANLI.flip?w:b,{cls:'top',saat:canliSaat(CANLI.flip?'w':'b'),puan:sonucPuan(g.status,CANLI.flip)});
+  if(bot) bot.outerHTML=oyuncuHTML(CANLI.flip?b:w,{cls:'bot',saat:canliSaat(CANLI.flip?'b':'w'),puan:sonucPuan(g.status,!CANLI.flip)});
+  bindCanliOyun(); analizCiz();
+}
+function plyGit(x){
+  const P=CANLI.poz; if(!P) return; const n=P.poz.length-1;
+  CANLI.deneme=null; CANLI.secKare=null;
+  CANLI.ply = x==='+1'?Math.min(n,CANLI.ply+1) : x==='-1'?Math.max(0,CANLI.ply-1) : Math.max(0,Math.min(n,+x));
+  CANLI.takip = CANLI.ply===n;
+  const t=document.getElementById('takip'); if(t) t.setAttribute('aria-pressed',CANLI.takip);
+  const dn=document.querySelector('.deneme'); if(dn){ render(); analizEt(); return; }
+  canliOyunCiz(); analizEt();
+}
+function kareTikla(sq){
+  const fen=gosterilenFen(); if(!fen) return;
+  const c=new Chess(fen);
+  if(CANLI.secKare){
+    const m=c.move({from:CANLI.secKare,to:sq,promotion:'q'});
+    if(m){ const d=CANLI.deneme||{hamleler:[]}; CANLI.deneme={fen:c.fen(), son:m.from+m.to, hamleler:[...d.hamleler, m.san]}; CANLI.secKare=null; CANLI.takip=false; render(); analizEt(); return; }
+  }
+  const p=c.get(sq); CANLI.secKare = p && p.color===c.turn() && CANLI.secKare!==sq ? sq : null;
+  canliOyunCiz();
+}
+function bindCanliOyun(){
+  document.querySelectorAll('#bigboard .sq').forEach(s=>s.onclick=()=>kareTikla(s.dataset.sq));
+  document.querySelectorAll('.mv[data-ply]').forEach(b=>b.onclick=()=>plyGit(b.dataset.ply));
+}
+function bindCanli(){
+  const q=id=>document.getElementById(id);
+  document.querySelectorAll('[data-yayin]').forEach(b=>b.onclick=()=>canliTurAc(b.dataset.yayin));
+  document.querySelectorAll('[data-oyun]').forEach(b=>b.onclick=()=>canliOyunAc(b.dataset.oyun));
+  if(q('yayinac')){ const ac=()=>canliTurAc(q('yayinlink').value.trim()); q('yayinac').onclick=ac; q('yayinlink').onkeydown=e=>{ if(e.key==='Enter') ac(); }; }
+  if(q('yayinyenile')) q('yayinyenile').onclick=()=>{ CANLI.liste=null; canliListeGetir(); };
+  if(q('canligeri')) q('canligeri').onclick=()=>{ canliDurdur(); CANLI.mod='liste'; render(); };
+  if(q('canliturgeri')) q('canliturgeri').onclick=()=>{ canliDurdur(); CANLI.mod='tur'; CANLI.deneme=null; render();
+    CANLI.zaman=setInterval(()=>{ if(!document.hidden) canliTurYenile().then(()=>{ if(CANLI.mod==='tur') renderCanliGovde(); }); },15000); };
+  if(q('trfiltre')) q('trfiltre').onclick=()=>{ CANLI.sadeceTR=!CANLI.sadeceTR; render(); };
+  if(q('raundsec')) q('raundsec').onchange=e=>{ if(e.target.value) canliTurAc(e.target.value); };
+  document.querySelectorAll('[data-git]').forEach(b=>b.onclick=()=>{ const v=b.dataset.git; plyGit(v==='1'?'+1':v==='-1'?'-1':v); });
+  if(q('cevir')) q('cevir').onclick=()=>{ CANLI.flip=!CANLI.flip; canliOyunCiz(); };
+  if(q('takip')) q('takip').onclick=()=>{ CANLI.takip=!CANLI.takip; if(CANLI.takip) plyGit(99999); else q('takip').setAttribute('aria-pressed','false'); };
+  if(q('motorac')) q('motorac').onchange=e=>{ CANLI.motorAcik=e.target.checked; if(CANLI.motorAcik){ analizEt(); } else { motorDur(); CANLI.analiz=null; analizCiz(); const l=q('evalline'); if(l) l.textContent='Kapalı'; } };
+  if(q('denemecik')) q('denemecik').onclick=()=>{ CANLI.deneme=null; CANLI.secKare=null; render(); analizEt(); };
+  if(CANLI.mod==='oyun'){ bindCanliOyun(); analizCiz(); }
+}
+document.addEventListener('keydown',e=>{
+  if(state.view!=='canli'||CANLI.mod!=='oyun'||/INPUT|SELECT|TEXTAREA/.test((e.target.tagName||''))) return;
+  if(e.key==='ArrowLeft'){ e.preventDefault(); plyGit('-1'); }
+  else if(e.key==='ArrowRight'){ e.preventDefault(); plyGit('+1'); }
+  else if(e.key==='Home'){ plyGit(0); } else if(e.key==='End'){ plyGit(99999); }
+  else if(e.key==='f'){ CANLI.flip=!CANLI.flip; canliOyunCiz(); }
+});
+
 function viewArsiv(){
   const a=arsiv().filter(matchQ);
   const groups={};
@@ -864,6 +1405,7 @@ function render(){
   else if(state.view==='tr'){app.innerHTML=viewTR(); bindCommon(); filterIl(); return;}
   else if(state.view==='il') app.innerHTML=viewIl();
   else if(state.view==='calc'){app.innerHTML=viewCalc(); bindCalc(); return;}
+  else if(state.view==='canli'){ app.innerHTML=viewCanli(); bindCommon(); bindCanli(); return; }
   else if(state.view==='arsiv') app.innerHTML=viewArsiv();
   else if(state.view==='yeni') app.innerHTML=viewYeni();
   else { app.innerHTML=viewSources(); }

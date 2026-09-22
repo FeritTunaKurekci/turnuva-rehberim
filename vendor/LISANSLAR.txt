@@ -1,0 +1,3 @@
+Taş görselleri: cburnett seti (Colin M.L. Burnett), lichess-org/lila deposundan; GPLv2+.
+Motor: stockfish.js 10.0.2 (GPLv3, bkz. stockfish/Copying.txt).
+Kurallar: chess.js 0.10.3 (BSD-2, bkz. chess.js.LICENSE).
