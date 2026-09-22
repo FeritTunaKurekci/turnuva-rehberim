@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-09-22T12:04",
+ "guncelleme": "2026-09-22T13:29",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
@@ -357,28 +357,6 @@
    "kaynak": "site",
    "kaynak_metin": "AVRUPA SPOR HAFTASI SATRANÇ ŞENLİĞİ AVRUPA SPOR HAFTASI SATRANÇ ŞENLİĞİ ♟️ SATRANÇ ŞENLİĞİNE DAVETLİSİNİZ! ♟️ 24 EYLÜL 2026 tarihinde saat 15.30’da , Diyarbakır Yeni Stadyumu Satranç Salonu’nda satrancın heyecanını ve keyfini hep birlikte yaşamak için ÖDÜLLÜ AVRUPA SPOR HAFTASI SATRANÇ ŞENLİĞİ düzenlenecektir. Konum için tıklayın . ♟️ Hamleni yap, heyecana ortak ol! Satranç tutkunları, gençler ve çocuklar bu özel günde buluşuyor! KAYITLAR 24 Eylül 2026 – Saat 15.00’te Diyarbakır Yeni Stadyumu Sa",
    "id": "c63045962b19",
-   "ilk_gorulme": "2026-09-22",
-   "son_gorulme": "2026-09-22",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "il": "Antalya",
-   "name": "TURNUVAYA KATILIM ESASLARI",
-   "start": "2026-09-25",
-   "end": "2026-09-25",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://antalya.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "TURNUVAYA KATILIM ESASLARI 1. Başvurular aşağıdaki kayıt bağlantısı üzerinden çevrimiçi olarak yapılacaktır. DİKKAT DOĞRU KATEGORİYE KAYIT YAPTIĞINIZDAN EMİN OLUNUZ... KATEGORİ KATEGORİ KRİTERİ KAYIT AÇIKLAMALAR AÇIK KATEGORİSİ 2020 ve Önceki Yıllarda Doğan Sporcular KAYIT İÇİN TIKLAYINIZ EŞLENDİRME/SONUÇLAR 12 YAŞ VE ALTI KATEGORİSİ 2015-2016 Yıllarında Doğan Sporcular EŞLENDİRME/SONUÇLAR 10 YAŞ VE ALTI KATEGORİSİ 2017-2018 Yıllarında Doğan Sporcular EŞLENDİRME/SONUÇLAR 8 YAŞ VE ALTI KATEGORİSİ",
-   "id": "d595c70ff39e",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-22",
    "durum": "yaklasan"
@@ -1191,29 +1169,6 @@
   },
   {
    "c": "TR",
-   "il": "Batman",
-   "name": "TURNUVA (EŞLENDİRME-SONUÇ)",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://batman.tsf.org.tr/turnuvalar/turnuva-eslendirme-sonuc",
-   "kaynak": "site",
-   "kaynak_metin": "TURNUVA (EŞLENDİRME-SONUÇ) TURNUVA EŞLENDİRME-SONUÇ 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası: 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası: 2009 - 2010 Doğumlu Final Listesi 2011 - 2012 Doğumlu Final Listesi 2013 - 2014 Doğumlu Final Listesi 2014 - 2015 Doğumlu Final Listesi",
-   "id": "57ae6738dd81",
-   "ilk_gorulme": "2026-09-22",
-   "son_gorulme": "2026-09-22",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
    "il": "Gümüşhane",
    "name": "Turnuva Haberleri",
    "start": "2026-10-29",
@@ -1231,28 +1186,6 @@
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri GÜMÜŞHANE - 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası (4) GÜMÜŞHANE - 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Cumhuriyet Bayramı dolayısıyla 29 Ekim Perşembe günü saat 19:00’da chess.com üzerinden online satranç turnuvası düzenlenecektir. Turnuvamız açık kategoride ve 5'+2\" eklemeli tempo ile 11 tur üzerinden gerçekleştirilecektir. Yönerge.pdf Turnuva Katılım Adımları: 1- chess.com sitesinden ücretsiz olarak kullanıcı adı alınması gerekmektedir.(chess.",
    "id": "1ec6896643dc",
-   "ilk_gorulme": "2026-09-22",
-   "son_gorulme": "2026-09-22",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "il": "Kütahya",
-   "name": "Turnuva Kayıt İPTAL",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://kutahya.tsf.org.tr/turnuva-kayt-iptal",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Kayıt İPTAL Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Turnuva Kayıt Kurullar Yönetim Kurulu İletişim Kayıt İptal yaptırmak istediğiniz turnuvayı tıklayınız 30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI 12 YAŞ ALTI 30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI 8 YAŞ 30 AĞUSTOS ZAFER BAYRAMI SATRA",
-   "id": "902e936f4777",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-22",
    "durum": "yaklasan"
