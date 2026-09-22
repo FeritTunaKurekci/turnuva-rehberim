@@ -66,8 +66,11 @@ def main():
                 return True
         return False
 
+    cop = re.compile(r"katılım esas|katilim esas|sonuç|sonuc|eşlendirme|sporcu liste|ana liste|kayıt iptal|yönerge|talimat|hakem|kurs|seminer")
     for t in tr.get("turnuvalar", []) + yd.get("turnuvalar", []):
         if not t.get("start") or not t.get("end") or not t.get("name"):
+            continue
+        if cop.search(tr_kucuk(t["name"])):
             continue
         if not kopya_mi(t):
             liste.append(t)
@@ -98,6 +101,8 @@ def main():
     for o in onceki.values():
         if o["id"] in sonuc or o["end"] < arsiv_siniri:
             continue
+        if o.get("kaynak") != "manuel" and re.search(r"katılım esas|katilim esas|sonuç|sonuc|eşlendirme|sporcu liste|ana liste|kayıt iptal|yönerge|talimat|hakem|kurs|seminer", tr_kucuk(o["name"])):
+            continue      # eski taramalardan kalan turnuva olmayan duyurular
         if o["end"] >= BUGUN_S and anahtar(o) in anahtarlar:
             continue      # ayni turnuvanin guncel (tarihi degismis) hali zaten var
         if o.get("kaynak") == "manuel" and o["end"] >= BUGUN_S:

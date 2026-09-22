@@ -49,6 +49,10 @@ RE_UST = re.compile(r"(\d{4})\s*(?:ve|ile)?\s*(?:üstü|üzeri|uzeri|ustu|\+)")
 RE_ARA = re.compile(r"(\d{4})\s*(?:ile|-|–)\s*(\d{4})")
 RE_ALT = re.compile(r"(\d{4})\s*(?:ve)?\s*(?:altı|altında|alti|altinda)")
 RE_TURNUVA = re.compile(r"turnuva|şenli|kupa|birinciliğ|açık|open|şampiyona", re.I)
+# Turnuva olmayan duyuru basliklari (kurallar, sonuclar, listeler, kayit duyurulari)
+RE_COP = re.compile(r"katılım esas|katilim esas|sonuç|sonuc|eşlendirme|eslendirme|sporcu liste|ana liste|kayıt iptal|kayit iptal|"
+                    r"kayıt formu|yönerge|yonerge|talimat|prosedür|genelge|hakem|antrenör|kurs|seminer|toplantı|başvuru formu|"
+                    r"^duyuru$|fotoğraf|galeri|tebrik|basın")
 RE_LISTE = re.compile(r"turnuva haber|turnuvalar|etkinlik takvim|etkinlik|duyuru|haberler|açık turnuva|ilçe turnuva|faaliyet")
 
 def gun(y, a, g):
@@ -156,7 +160,7 @@ def bloklar(soup):
     """(baslik, metin, link) adaylari: basliklar ve 'turnuva' gecen linkler."""
     for h in soup.find_all(["h1", "h2", "h3", "h4"]):
         baslik = h.get_text(" ", strip=True)
-        if not RE_TURNUVA.search(baslik): continue
+        if not RE_TURNUVA.search(baslik) or RE_COP.search(tr_kucuk(baslik)): continue
         govde = []
         for k in h.find_next_siblings(limit=4):
             if k.name in ("h1", "h2", "h3", "h4"): break
@@ -165,7 +169,7 @@ def bloklar(soup):
         yield baslik, baslik + " " + " ".join(govde), (a.get("href") if a else None)
     for a in soup.find_all("a"):
         baslik = a.get_text(" ", strip=True)
-        if len(baslik) < 15 or not RE_TURNUVA.search(baslik): continue
+        if len(baslik) < 15 or not RE_TURNUVA.search(baslik) or RE_COP.search(tr_kucuk(baslik)): continue
         ust = a.find_parent(["li", "tr", "article", "p"])
         metin = ust.get_text(" ", strip=True)[:600] if ust else baslik
         yield baslik, baslik + " " + metin, a.get("href")
