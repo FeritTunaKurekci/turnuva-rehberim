@@ -1,0 +1,1019 @@
+{
+ "guncelleme": "2026-09-22T11:23",
+ "ilk_kurulum": "2026-09-22",
+ "kaynaklar": {
+  "tsf": {
+   "tarama": null,
+   "il_sayisi": 0
+  },
+  "yurtdisi": {
+   "tarama": null,
+   "kaynak": "https://mychess.events"
+  }
+ },
+ "iller": [],
+ "turnuvalar": [
+  {
+   "c": "TR",
+   "il": "Ankara",
+   "name": "Ankara Eylül Ayı UKD Satranç Turnuvası",
+   "city": "Ankara, Altındağ (TSF Ulus Atatürk Satranç Merkezi)",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "v",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "C Kategorisi",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "org": "TSF Ankara İl Temsilciliği",
+   "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1730-ankara-eyluel-ay-ukd-satranc-turnuvas",
+   "note": "Kategori “maksimum kuvvet puanına” göre belirleniyor (ELO ya da UKD’den yüksek olanı). Her kategoride kontenjan 64 sporcu.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "e9f7b0974afc",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "İzmir",
+   "name": "Türkiye Uzay Kampı Satranç Turnuvası",
+   "city": "İzmir, Gaziemir (Ege Serbest Bölge)",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "org": "ESBAŞ, İzmir İl Temsilciliği",
+   "url": "https://www.tsf.org.tr/tum-il-haberleri/19364-turkiye-uzay-kampi-satranc-turnuvasi",
+   "note": "Kategoriler ve UKD/ELO durumu yönergede.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "4b693d377f9d",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "İstanbul",
+   "name": "V Metroway AVM Satranç Turnuvası",
+   "city": "İstanbul, Başakşehir",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "v",
+   "sections": [
+    {
+     "n": "10 yaş altı",
+     "age": true
+    },
+    {
+     "n": "14 yaş altı",
+     "age": true
+    }
+   ],
+   "tc": "35 dk + 30 sn, 6 tur (UKD)",
+   "prize": "14.000 TL",
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5281-v-metroway-avm-satranc-turnuvas-eylul2026",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "0485002e34cd",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "Open Mallorca Amateur S2400",
+   "city": "Palma de Mallorca",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Amatör",
+     "min": null,
+     "max": 2399
+    }
+   ],
+   "org": "GPRO Valparaiso Palace",
+   "url": "https://mychess.events/event/open-mallorca-amateur-s2400-2026/",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "6b9aaff0b411",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "Ankara",
+   "name": "Başkent Sanat Merkezi – Caissa Ödüllü Turnuvası",
+   "city": "Ankara, Mamak (Nata Vega AVM)",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "v",
+   "sections": [
+    {
+     "n": "7 yaş",
+     "age": true
+    },
+    {
+     "n": "8 yaş",
+     "age": true
+    },
+    {
+     "n": "10 yaş altı",
+     "age": true
+    },
+    {
+     "n": "12 yaş altı",
+     "age": true
+    },
+    {
+     "n": "14 yaş altı",
+     "age": true
+    }
+   ],
+   "fee": "500 TL",
+   "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1726-baskent-sanat-merkezi-caissa-satranc-akademisi-oeduellue-satranc-turnuvas",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "d813a341d665",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "Muğla",
+   "name": "Bodrum “En İyi 32” Ekim Ayı Turnuvası",
+   "city": "Muğla, Bodrum",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Tek kategori (en yüksek 32 reyting)",
+     "min": null,
+     "max": null
+    }
+   ],
+   "tc": "45 dk + 30 sn",
+   "org": "Bodrum Satranç İlçe Temsilciliği",
+   "url": "https://bodrumsatranc.com/",
+   "note": "Aylık seri, genelde ayın ilk hafta sonu. Kontenjan maksimum reytingi en yüksek 32 sporcu, yani yüksek reyting avantajlı. Kayıt mugla.tsf.org.tr üzerinden. Ekim tarihi tahmini.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "f497e17a86a8",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "Hatay",
+   "name": "Hatay Yürekli Süveydi SSK Satranç Turnuvası",
+   "city": "Hatay, Samandağ",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "org": "Yürekli Süveydi Satranç Spor Kulübü",
+   "url": "https://www.tsf.org.tr/tum-il-haberleri/19370-hatay-yurekli-suveydi-satranc-spor-kulubu-satranc-turnuvasi-kayitlari-basladi",
+   "note": "Kategoriler yönergede.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "33c23e55dae9",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "3rd Ébano Open 60+30",
+   "city": "Tenerife, La Laguna",
+   "start": "2026-10-22",
+   "end": "2026-10-25",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mychess.events/event/3rd-ebano-open-60-30-2026/",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "7294c893ba51",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "III Open Ciudad de Tomelloso",
+   "city": "Tomelloso",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mychess.events/event/iii-open-de-ajedrez-ciudad-de-tomelloso-2026/",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "82f9a7fb3fc3",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "İzmir",
+   "name": "İzmir Ekim Ayı ELO Turnuvası",
+   "city": "İzmir, Çiğli",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Açık (ELO)",
+     "min": 1400,
+     "max": 2399
+    }
+   ],
+   "tc": "60 dk + 30 sn, 7 tur",
+   "org": "İzmir GSİM ve İzmir İl Temsilciliği",
+   "url": "https://www.izmir.tsf.org.tr/turnuvalar/2597-2026-temmuz-ayi-elo-satranc-turnuvasi",
+   "note": "Aylık seri. Temmuz turnuvası 2399 ve altı ELO’lulara açıktı; 1400 altı UKD’li ve ELO’suz oyuncuların kaydı siliniyordu. Ekim tarihi ilan edilince güncellenecek.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "e4a9b533d3a4",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "Ankara",
+   "name": "Ankara 29 Ekim Cumhuriyet Bayramı Turnuvası",
+   "city": "Ankara",
+   "start": "2026-10-24",
+   "end": "2026-10-26",
+   "status": "e",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "C Kategorisi",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://ankara.tsf.org.tr/",
+   "note": "Her yıl düzenleniyor (2024’te 25–27 Ekim, 8 kategori). 2026 duyurusu henüz yok; kategoriler geçmiş yönergeye göre.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "e8d74c0836aa",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "Hatay",
+   "name": "Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Turnuvası",
+   "city": "Hatay, Defne",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "org": "Hatay Doğuş Okulları",
+   "url": "https://www.tsf.org.tr/tum-il-haberleri/19371-hatay-dogus-okullari-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-kayitlari-basladi",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "3085de5487c0",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "Benidorm Chess Open",
+   "city": "Benidorm, Alicante",
+   "start": "2026-10-25",
+   "end": "2026-11-01",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1999
+    }
+   ],
+   "prize": "€25.510 (106 ödül)",
+   "fee": "€90",
+   "tc": "90 dk + 30 sn, 9 tur",
+   "hotel": "Open A/B oyuncuları Hotel Meliá Benidorm’da kalmak zorunda: 7 gece tam pansiyon, iki kişilik odada kişi başı €490, tek kişilik €749.",
+   "url": "https://benidormchess.com/?lang=en",
+   "src": "https://mychess.events/event/benidorm-chess-open-2026/",
+   "note": "Kayıt son günü 22 Ekim. FIDE reytingi olmayanlar sadece Open B’de oynayabilir.",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "e5f43ce87b19",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "GR",
+   "name": "Avrupa Yaş Grupları Şampiyonası",
+   "city": "Rodos",
+   "start": "2026-11-02",
+   "end": "2026-11-13",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Yaş grupları",
+     "inv": true
+    }
+   ],
+   "url": "https://www.europechess.org/",
+   "note": "Gençler için; federasyon seçmesi gerekir.",
+   "ulke": "Yunanistan",
+   "bayrak": "gr",
+   "kaynak": "manuel",
+   "id": "c381ebc83ef5",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "Gran Hotel Bali Uluslararası Festivali",
+   "city": "Benidorm",
+   "start": "2026-11-30",
+   "end": "2026-12-10",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Açık (IM/GM hariç)",
+     "min": null,
+     "max": 2300
+    }
+   ],
+   "prize": "€20.000",
+   "tc": "90 dk + 30 sn, 10 tur",
+   "url": "http://www.ajedrezenelbali.com",
+   "src": "https://www.sunwaychessfestival.com/en/sitges/other-tournaments",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "42e63340fd50",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IT",
+   "name": "Roma Città Aperta Festivali",
+   "city": "Roma",
+   "start": "2026-12-03",
+   "end": "2026-12-10",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "€7.000",
+   "tc": "90 dk + 30 sn, 9 tur",
+   "url": "http://www.scuolapopolarediscacchi.com",
+   "src": "https://www.sunwaychessfestival.com/en/sitges/other-tournaments",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "kaynak": "manuel",
+   "id": "3358543353ee",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "Türkiye geneli",
+   "name": "Türkiye Satranç Şampiyonası",
+   "city": "Ev sahibi il açıklanmadı",
+   "start": "2026-12-03",
+   "end": "2026-12-14",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Final (seçmeli)",
+     "inv": true
+    }
+   ],
+   "org": "TSF",
+   "url": "https://www.tsf.org.tr/",
+   "note": "TSF 2026–27 faaliyet takviminde. Katılım yarı final ve kriterlerle belirlenir.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "417b82c6af1b",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "VII Llobregat Open",
+   "city": "Sant Boi de Llobregat (Barselona)",
+   "start": "2026-12-03",
+   "end": "2026-12-08",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Açık gruplar",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mychess.events/event/vii-llobregat-open-2026/",
+   "note": "Reyting grupları organizatör sayfasından kontrol edilmeli.",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "cd527957228e",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "III Abierto Sub-2400 Ciudad de Utrera",
+   "city": "Utrera, Sevilla",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Sub-2400",
+     "min": null,
+     "max": 2399
+    }
+   ],
+   "url": "https://mychess.events/event/iii-abierto-internacional-de-ajedrez-sub-2400-ciudad-de-utrera-2026/",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "21d0fb1c99be",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "Sunway Sitges Uluslararası Festivali",
+   "city": "Sitges (Barselona)",
+   "start": "2026-12-12",
+   "end": "2026-12-22",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Grup A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Grup B (alt reyting)",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "€25.000+",
+   "hotel": "Turnuva Hotel Sunway Playa Golf & Spa’da oynanıyor; otel paketleri festival sitesinde.",
+   "url": "https://www.sunwaychessfestival.com/",
+   "note": "Grup B sınırı yönergede. Öncesinde Bali/Llobregat, sonrasında Lorca veya Rilton ile birleştirilebilir.",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "6c6ca2b62830",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "name": "Böblinger Open",
+   "city": "Böblingen (Stuttgart)",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "€8.000",
+   "tc": "90 dk (40) + 30 dk + 30 sn, 9 tur",
+   "url": "http://www.boeblinger-open.de",
+   "src": "https://www.sunwaychessfestival.com/en/sitges/other-tournaments",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "kaynak": "manuel",
+   "id": "e319d75242bf",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "Ciudad de Lorca Uluslararası Festivali",
+   "city": "Lorca, Murcia",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "€7.500",
+   "url": "http://www.clubajedrezlorca.com",
+   "src": "https://www.sunwaychessfestival.com/en/sitges/other-tournaments",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "ad96bc800ab9",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "SE",
+   "name": "Rilton Cup 2026/27",
+   "city": "Stockholm",
+   "start": "2026-12-27",
+   "end": "2027-01-05",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Rilton Cup",
+     "min": 2200,
+     "max": null
+    },
+    {
+     "n": "Rilton U2200",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Rilton U1800",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": "€18.000",
+   "tc": "40 hamle/90 dk + 30 dk, +30 sn, 9 tur",
+   "hotel": "Geçmiş yıllarda turnuva oteli Scandic Continental’dı; indirimli oda rilton.se üzerinden.",
+   "url": "https://www.rilton.se",
+   "src": "https://www.sunwaychessfestival.com/en/sitges/other-tournaments",
+   "note": "Ana grup 2200+ (kadınlar ve gençler için 2100). 1 Ocak dinlenme günü.",
+   "ulke": "İsveç",
+   "bayrak": "se",
+   "kaynak": "manuel",
+   "id": "e0d2020b06ce",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "name": "100. Hastings Uluslararası Satranç Kongresi",
+   "city": "Hastings",
+   "start": "2026-12-28",
+   "end": "2027-01-04",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Masters",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Con Power U2150",
+     "min": null,
+     "max": 2149
+    },
+    {
+     "n": "Con Power U1950",
+     "min": null,
+     "max": 1949
+    },
+    {
+     "n": "Con Power U1750",
+     "min": null,
+     "max": 1749
+    }
+   ],
+   "tc": "Masters: 90 dk + 30 sn, 9 tur",
+   "url": "https://hastingschess.com/",
+   "note": "99. edisyon 28 Aralık 2025’te başladı. 100. edisyonun kesin tarihi ve grupları doğrulanmadı.",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "kaynak": "manuel",
+   "id": "f2170944ba26",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "İstanbul",
+   "name": "36. Eyüboğlu Beyaz Fil Uluslararası Turnuvası",
+   "city": "İstanbul",
+   "start": "2027-01-06",
+   "end": "2027-01-11",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Elit kategori",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Okullararası yaş grupları",
+     "age": true
+    }
+   ],
+   "org": "Eyüboğlu Eğitim Kurumları",
+   "url": "https://istanbul.tsf.org.tr/",
+   "note": "35. edisyon 7–11 Ocak 2026’da 800’ü aşkın sporcuyla oynandı. 2027 tarihi ilan edilmedi.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "adfe512c14a4",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "NL",
+   "name": "Tata Steel amatör grupları",
+   "city": "Wijk aan Zee",
+   "start": "2027-01-15",
+   "end": "2027-01-31",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Amatör grupları",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tatasteelchess.com/",
+   "note": "Elit turnuvayla aynı salonda, Ocak ortası. 2027 tarihi tahmini.",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "kaynak": "manuel",
+   "id": "14f0f509052d",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "Antalya",
+   "name": "Avrupa Okullar Satranç Şampiyonası",
+   "city": "Antalya",
+   "start": "2027-03-21",
+   "end": "2027-03-31",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Okul yaş grupları",
+     "inv": true
+    }
+   ],
+   "org": "ECU, TSF",
+   "url": "https://www.tsf.org.tr/",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "3b47732a3ce3",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IS",
+   "name": "Reykjavík Open",
+   "city": "Reykjavík",
+   "start": "2027-03-24",
+   "end": "2027-03-30",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.reykjavikopen.com/",
+   "note": "2026 edisyonu 25–31 Mart’taydı. 2027 tarihi tahmini.",
+   "ulke": "İzlanda",
+   "bayrak": "is",
+   "kaynak": "manuel",
+   "id": "e482494cb88b",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "name": "GRENKE Chess Open",
+   "city": "Karlsruhe",
+   "start": "2027-03-25",
+   "end": "2027-03-29",
+   "status": "e",
+   "sections": [
+    {
+     "n": "A/B/C grupları (reytinge göre)",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.grenkechess.com/",
+   "note": "Her yıl Paskalya’da (2027 Paskalya 28 Mart). Grup sınırları duyuruyla netleşecek.",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "kaynak": "manuel",
+   "id": "ad312a46f33c",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "Sunway Formentera Festivali",
+   "city": "Formentera (Balear)",
+   "start": "2027-04-10",
+   "end": "2027-04-17",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.sunwaychessfestival.com/en/formentera",
+   "note": "Her yıl Nisan’da. 2027 tarihi henüz açıklanmadı.",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "730b51196329",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "GE",
+   "name": "Avrupa Bireysel Satranç Şampiyonası",
+   "city": "Gürcistan",
+   "start": "2027-05-11",
+   "end": "2027-05-24",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Federasyon kaydıyla",
+     "inv": true
+    }
+   ],
+   "url": "https://www.europechess.org/",
+   "note": "TSF 2026–27 takviminde. Kayıt TSF üzerinden; uluslararası katılım kriterleri duyurusuna bak.",
+   "ulke": "Gürcistan",
+   "bayrak": "ge",
+   "kaynak": "manuel",
+   "id": "f4d7c794e9fa",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "name": "Benasque Open",
+   "city": "Benasque, Pireneler",
+   "start": "2027-07-03",
+   "end": "2027-07-12",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mychess.events/all-chess-tournaments/",
+   "note": "Temmuz’un geleneksel büyük açığı. Tarih tahmini.",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "kaynak": "manuel",
+   "id": "2360dc52e563",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "name": "Biel Satranç Festivali",
+   "city": "Biel/Bienne",
+   "start": "2027-07-10",
+   "end": "2027-07-23",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Master open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Amatör grupları",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.bielchessfestival.ch/",
+   "note": "2026 festivali 11–24 Temmuz’daydı. 2027 tarihi tahmini.",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "kaynak": "manuel",
+   "id": "66035cdd9643",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "name": "Czech Open",
+   "city": "Pardubice",
+   "start": "2027-07-15",
+   "end": "2027-07-25",
+   "status": "e",
+   "sections": [
+    {
+     "n": "Çok sayıda reyting grubu",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.czechopen.net/",
+   "note": "Temmuz ortası geleneksel festival. Tarih tahmini.",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "kaynak": "manuel",
+   "id": "c25841ba590e",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "İstanbul",
+   "name": "10. İstanbul Uluslararası Açık",
+   "city": "İstanbul",
+   "start": "2027-08-23",
+   "end": "2027-08-29",
+   "status": "e",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": 1700,
+     "max": 1999
+    },
+    {
+     "n": "C Kategorisi",
+     "min": 1400,
+     "max": 1699
+    },
+    {
+     "n": "D Kategorisi",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "org": "TSF İstanbul İl Temsilciliği",
+   "prize": "2026’da toplam 1 milyon TL",
+   "url": "https://istanbulopen.tsf.org.tr",
+   "note": "9. edisyon 24–30 Ağustos 2026’da 19 ülkeden 682 oyuncuyla oynandı. Gruplar ELO’ya, ELO’su olmayanlar için UKD’ye göre. 2027 tarihi tahmini.",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "c9cad86c327b",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "il": "Antalya",
+   "name": "Dünya 13–17 Yaş Altı Şampiyonası",
+   "city": "Antalya",
+   "start": "2027-10-26",
+   "end": "2027-11-05",
+   "status": "v",
+   "sections": [
+    {
+     "n": "Yaş grupları",
+     "inv": true
+    }
+   ],
+   "org": "FIDE, TSF",
+   "url": "https://www.tsf.org.tr/",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "kaynak": "manuel",
+   "id": "2125e4769de9",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-22",
+   "durum": "yaklasan"
+  }
+ ]
+}

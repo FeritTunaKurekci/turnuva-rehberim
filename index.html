@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Turnuva Rehberim</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0f1a17; --bg2:#13211d; --card:#16241f; --card2:#1b2c26; --line:#243731;
+  --text:#e7efeb; --muted:#8fa39b; --dim:#62766e;
+  --acc:#3ddc97; --acc-ink:#062a1b; --acc-soft:rgba(61,220,151,.12);
+  --warn:#e3b341; --warn-soft:rgba(227,179,65,.13);
+  --red:#ef5b5b; --red-soft:rgba(239,91,91,.14);
+  --blue:#6aa9ff; --blue-soft:rgba(106,169,255,.13);
+  --r-lg:16px; --r-md:12px; --r-sm:8px;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:Figtree,system-ui,-apple-system,"Segoe UI",sans-serif;font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+h1,h2,h3{font-family:"Bricolage Grotesque",Figtree,system-ui,sans-serif;margin:0;letter-spacing:-.01em}
+a{color:var(--acc)}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px;border-radius:6px}
+
+/* header */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:rgba(15,26,23,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top-in{max-width:1100px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 18px}
+.logo{display:flex;align-items:center;gap:9px;font-weight:700;white-space:nowrap;cursor:pointer;background:none;border:0;padding:0}
+.logo-mark{width:26px;height:26px;border-radius:7px;display:grid;grid-template-columns:1fr 1fr;overflow:hidden;border:2px solid var(--acc)}
+.logo-mark i:nth-child(1),.logo-mark i:nth-child(4){background:var(--acc)}
+.search{flex:0 1 220px;min-width:120px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:7px 11px;outline:none}
+.search::placeholder{color:var(--dim)}
+.tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;margin-left:auto}
+.tabs::-webkit-scrollbar{display:none}
+.tab{background:none;border:0;padding:7px 13px;border-radius:999px;color:var(--muted);font-weight:600;cursor:pointer;white-space:nowrap}
+.tab:hover{color:var(--text)}
+.tab[aria-current="page"]{background:var(--acc-soft);color:var(--acc)}
+
+main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
+
+/* hero */
+.hero{text-align:center;padding:44px 0 26px}
+.season{color:var(--acc);font-weight:700;font-size:13px;letter-spacing:.04em}
+.hero h1{font-size:clamp(34px,6vw,52px);font-weight:800;margin:8px 0 10px}
+.hero p{color:var(--muted);max-width:560px;margin:0 auto}
+
+/* rating dial – the one bold element */
+.rating{margin:26px auto 0;max-width:560px;background:var(--card);border:1px solid var(--line);border-radius:var(--r-lg);padding:16px 18px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;justify-content:center}
+.rating label{color:var(--muted);font-weight:600}
+.rating-num{width:118px;background:transparent;border:0;border-bottom:2px solid var(--acc);font-family:"Bricolage Grotesque",sans-serif;font-size:40px;font-weight:800;color:var(--acc);text-align:center;outline:none;padding:0 2px;-moz-appearance:textfield}
+.rating-num::-webkit-outer-spin-button,.rating-num::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+.seg{display:inline-flex;background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:3px}
+.seg button{background:none;border:0;border-radius:999px;padding:5px 14px;font-weight:700;color:var(--muted);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--acc);color:var(--acc-ink)}
+.rating-hint{flex-basis:100%;text-align:center;color:var(--dim);font-size:13px;margin-top:-4px}
+
+/* country grid */
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:26px}
+@media (max-width:720px){.grid{grid-template-columns:1fr}.top-in{flex-wrap:wrap}.tabs{margin-left:0;width:100%}.search{flex:1 1 auto}}
+.ccard{background:var(--card);border:1px solid var(--line);border-radius:var(--r-lg);padding:18px 20px;text-align:left;cursor:pointer;display:flex;flex-direction:column;gap:12px;width:100%}
+.ccard:hover{border-color:#35524a}
+.ccard.home{border-color:var(--acc);box-shadow:0 0 0 1px var(--acc) inset}
+.chead{display:flex;align-items:center;gap:12px}
+.flag{width:40px;height:27px;border-radius:4px;overflow:hidden;flex:none;box-shadow:0 0 0 1px rgba(255,255,255,.08)}
+.flag svg{display:block;width:100%;height:100%}
+.cname{font-family:"Bricolage Grotesque",sans-serif;font-size:19px;font-weight:700;line-height:1.15}
+.csub{color:var(--muted);font-size:13px}
+.badge{margin-left:auto;font-size:12px;font-weight:700;padding:4px 10px;border-radius:999px;background:var(--card2);color:var(--muted);white-space:nowrap}
+.badge.live{background:var(--red-soft);color:var(--red)}
+.mini{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+.mini li{display:grid;grid-template-columns:18px 1fr auto;gap:10px;align-items:center;font-size:14px}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--dim);justify-self:center}
+.dot.ok{background:var(--acc)}.dot.inv{background:var(--blue)}
+.mini .nm{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#cfdad5}
+.mini .dt{color:var(--acc);font-weight:700;font-variant-numeric:tabular-nums}
+.mini .empty{color:var(--dim);display:block}
+.cfoot{color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:10px}
+.legend{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;color:var(--muted);font-size:13px;margin-top:18px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+
+/* country detail */
+.back{background:none;border:0;color:var(--muted);cursor:pointer;padding:18px 0 0;font-weight:600}
+.back:hover{color:var(--text)}
+.dhead{display:flex;align-items:center;gap:16px;padding:14px 0 6px}
+.dhead .flag{width:60px;height:40px;border-radius:6px}
+.dhead h1{font-size:clamp(28px,5vw,40px);font-weight:800}
+.dnote{color:var(--muted);max-width:720px;margin:6px 0 0}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:20px 0 14px}
+.chip{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:6px 13px;font-weight:600;font-size:13px;color:var(--muted);cursor:pointer}
+.chip[aria-pressed="true"]{border-color:var(--acc);color:var(--acc);background:var(--acc-soft)}
+.count{margin-left:auto;color:var(--dim);font-size:13px}
+
+.tlist{display:flex;flex-direction:column;gap:12px}
+.tcard{background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:16px 18px;display:grid;grid-template-columns:92px 1fr;gap:16px}
+@media (max-width:560px){.tcard{grid-template-columns:1fr}}
+.when{background:var(--bg2);border-radius:var(--r-sm);padding:10px 8px;text-align:center;align-self:start}
+.when .d{font-family:"Bricolage Grotesque",sans-serif;font-size:26px;font-weight:800;line-height:1}
+.when .m{color:var(--muted);font-size:13px;font-weight:600;margin-top:3px}
+.when .left{margin-top:8px;font-size:12px;color:var(--acc);font-weight:700}
+@media (max-width:560px){.when{display:flex;gap:10px;align-items:baseline;text-align:left;padding:8px 12px}.when .left{margin:0 0 0 auto}}
+.ttop{display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap}
+.tname{font-family:"Bricolage Grotesque",sans-serif;font-size:18px;font-weight:700;line-height:1.25;flex:1 1 260px}
+.st{font-size:12px;font-weight:700;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.st.v{background:var(--acc-soft);color:var(--acc)}
+.st.e{background:var(--warn-soft);color:var(--warn)}
+.meta{color:var(--muted);font-size:14px;margin-top:3px}
+.secs{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.sec{font-size:13px;padding:4px 10px;border-radius:var(--r-sm);background:var(--bg2);border:1px solid var(--line);color:var(--muted)}
+.sec.fit{border-color:var(--acc);color:var(--acc);background:var(--acc-soft);font-weight:600}
+.sec.inv{border-color:rgba(106,169,255,.4);color:var(--blue)}
+.facts{display:flex;flex-wrap:wrap;gap:4px 18px;margin-top:10px;font-size:14px}
+.facts b{color:var(--muted);font-weight:600}
+.tnote{margin-top:10px;font-size:14px;color:#c4d1cb;background:var(--bg2);border-left:3px solid var(--warn);padding:8px 12px;border-radius:0 var(--r-sm) var(--r-sm) 0}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.btn{display:inline-flex;align-items:center;gap:6px;text-decoration:none;font-weight:600;font-size:13px;padding:7px 12px;border-radius:var(--r-sm);border:1px solid var(--line);color:var(--text);background:var(--card2)}
+.btn:hover{border-color:var(--acc)}
+.btn.pri{background:var(--acc);color:var(--acc-ink);border-color:var(--acc)}
+.emptybox{border:1px dashed var(--line);border-radius:var(--r-md);padding:26px;text-align:center;color:var(--muted)}
+
+/* calendar */
+.month{margin-top:26px}
+.month h2{font-size:20px;font-weight:700;margin-bottom:10px;color:var(--muted)}
+.row{display:grid;grid-template-columns:64px 40px 1fr auto;gap:12px;align-items:center;padding:10px 12px;border-bottom:1px solid var(--line);cursor:pointer;background:none;border-left:0;border-right:0;border-top:0;width:100%;text-align:left}
+.row:hover{background:var(--card)}
+.row .flag{width:30px;height:20px}
+.row .rd{font-weight:700;font-variant-numeric:tabular-nums;color:var(--acc)}
+.row .rn{min-width:0}
+.row .rn div:first-child{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row .rn div:last-child{font-size:13px;color:var(--muted)}
+
+/* calculators */
+.calcs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:22px}
+@media (max-width:820px){.calcs{grid-template-columns:1fr}}
+.calc{background:var(--card);border:1px solid var(--line);border-radius:var(--r-lg);padding:20px}
+.calc h2{font-size:22px;font-weight:800}
+.calc .sub{color:var(--muted);font-size:14px;margin:4px 0 16px}
+.frow{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+.field{display:flex;flex-direction:column;gap:4px;flex:1 1 120px}
+.field span{font-size:13px;color:var(--muted);font-weight:600}
+.inp{background:var(--bg);border:1px solid var(--line);border-radius:var(--r-sm);padding:8px 10px;outline:none;width:100%}
+.inp:focus{border-color:var(--acc)}
+.games{display:flex;flex-direction:column;gap:6px;margin:6px 0 10px}
+.game{display:grid;grid-template-columns:28px 1fr 130px 32px;gap:8px;align-items:center}
+.game .no{color:var(--dim);font-size:13px;text-align:right}
+.res{display:flex;background:var(--bg);border:1px solid var(--line);border-radius:var(--r-sm);overflow:hidden}
+.res button{flex:1;background:none;border:0;padding:7px 0;cursor:pointer;color:var(--muted);font-weight:700}
+.res button[aria-pressed="true"]{background:var(--acc);color:var(--acc-ink)}
+.x{background:none;border:0;color:var(--dim);cursor:pointer;font-size:18px;line-height:1}
+.x:hover{color:var(--red)}
+.add{background:none;border:1px dashed var(--line);color:var(--muted);border-radius:var(--r-sm);padding:7px;width:100%;cursor:pointer;font-weight:600}
+.add:hover{border-color:var(--acc);color:var(--acc)}
+.out{margin-top:16px;display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.out div{background:var(--bg2);border-radius:var(--r-sm);padding:10px 12px}
+.out small{display:block;color:var(--muted);font-size:12px;font-weight:600}
+.out strong{font-family:"Bricolage Grotesque",sans-serif;font-size:24px}
+.out .big{grid-column:1/-1}
+.out .big strong{font-size:34px}
+.pos{color:var(--acc)}.neg{color:var(--red)}
+.fine{color:var(--dim);font-size:13px;margin-top:12px}
+
+/* sources */
+.srcs{display:flex;flex-direction:column;gap:12px;margin-top:22px}
+.src{background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:16px 18px}
+.src h3{font-size:17px;font-weight:700;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.src p{margin:6px 0 0;color:#c4d1cb;font-size:14px;max-width:760px}
+.page-h{padding:34px 0 0}
+.page-h h1{font-size:clamp(28px,5vw,40px);font-weight:800}
+.page-h p{color:var(--muted);margin:6px 0 0;max-width:680px}
+.findbtn{border:0;cursor:pointer}
+.yg{margin-top:10px;font-size:14px;background:var(--acc-soft);color:var(--text);border:1px solid rgba(61,220,151,.35);padding:8px 12px;border-radius:var(--r-sm)}
+.yg b{color:var(--acc)}
+.yg.no{background:var(--bg2);border-color:var(--line);color:var(--muted)}
+.sec.age{border-style:dashed}
+.sect{font-size:22px;font-weight:800;margin:30px 0 12px;display:flex;gap:10px;align-items:baseline}
+.sect span{font-size:15px;color:var(--muted);font-weight:600}
+.ilbox{margin-top:22px;background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:12px 16px}
+.ilbox summary{cursor:pointer;font-weight:700;font-family:"Bricolage Grotesque",sans-serif;font-size:18px}
+.ilbox summary span{font-family:Figtree,sans-serif;font-size:13px;color:var(--muted);font-weight:500;margin-left:8px}
+.ilgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:6px;margin-top:12px}
+.il{display:flex;justify-content:space-between;align-items:center;gap:6px;background:var(--bg2);border:1px solid var(--line);border-radius:var(--r-sm);padding:6px 9px;font-size:13px;cursor:pointer;color:var(--dim);text-align:left}
+.il i{font-style:normal;font-weight:700}
+.il.ok{color:var(--text);border-color:rgba(61,220,151,.45)}.il.ok i{color:var(--acc)}
+.il.bos{color:var(--muted);border-color:#35524a}
+.il.sel{background:var(--acc);color:var(--acc-ink);border-color:var(--acc)}.il.sel i{color:var(--acc-ink)}
+.illeg{display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:10px}
+.illeg span{display:inline-flex;gap:6px;align-items:center}
+.sq{width:10px;height:10px;border-radius:3px;border:1px solid var(--line);background:var(--bg2)}
+.sq.ok{border-color:var(--acc)}.sq.bos{border-color:#5d7a71}
+.st.new{background:var(--acc);color:var(--acc-ink)}
+.st.done{background:var(--card2);color:var(--muted)}
+.badge.new{background:var(--acc);color:var(--acc-ink)}
+.noflag{display:grid;place-items:center;width:100%;height:100%;background:var(--card2);font-size:11px;font-weight:700;color:var(--muted)}
+.flag img{display:block;width:100%;height:100%;object-fit:cover}
+.notice{display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between;background:var(--acc-soft);border:1px solid rgba(61,220,151,.4);border-radius:var(--r-md);padding:12px 16px;margin-top:18px}
+.notice .links{margin-top:0}
+.newstrip{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:18px}
+.newstrip>b{margin-right:4px}
+.nchip{display:inline-flex;align-items:center;gap:8px;max-width:320px;background:var(--card);border:1px solid rgba(61,220,151,.45);border-radius:999px;padding:5px 12px 5px 6px;cursor:pointer;font-size:13px}
+.nchip .flag{width:22px;height:15px;border-radius:3px}
+.nchip .nm{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.nchip i{font-style:normal;color:var(--acc);font-weight:700;white-space:nowrap}
+.nchip.more{padding:5px 12px;color:var(--muted)}
+.updline{color:var(--dim);font-size:13px;text-align:center;margin-top:22px}
+.st.a{background:var(--blue-soft);color:var(--blue)}
+.scanbox{display:flex;gap:12px;flex-wrap:wrap;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:var(--r-md);padding:12px 16px;margin:14px 0;font-size:14px;color:#c4d1cb}
+.scanbox>div{flex:1 1 260px}
+.upl{cursor:pointer}
+.quote{margin-top:8px;font-size:13px;color:var(--muted)}
+.quote summary{cursor:pointer}
+.quote p{margin:6px 0 0;background:var(--bg2);padding:8px 10px;border-radius:var(--r-sm)}
+.trtools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:18px 0 10px}
+.ilsearch{flex:1 1 220px;max-width:340px;padding:10px 13px;font-size:16px}
+.region{margin-top:22px}
+.region h2{font-size:18px;font-weight:700;color:var(--muted);margin-bottom:8px}
+.region .ilgrid{margin-top:0}
+.il{padding:9px 11px;font-size:14px}
+.empty-note{color:var(--muted);margin-top:20px}
+.ilinfo{font-size:14px;color:#c4d1cb;margin-bottom:12px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <button class="logo" id="logo" aria-label="Ana sayfa"><span class="logo-mark"><i></i><i></i><i></i><i></i></span>Turnuva Rehberim</button>
+    <input class="search" id="q" type="search" placeholder="Turnuva veya şehir ara" aria-label="Turnuva veya şehir ara">
+    <nav class="tabs" aria-label="Bölümler">
+      <button class="tab" data-view="home">Ülkeler</button>
+      <button class="tab" data-view="match">Bana uygun</button>
+      <button class="tab" data-view="calendar">Takvim</button>
+      <button class="tab" data-view="yeni">Yeni</button>
+      <button class="tab" data-view="arsiv">Arşiv</button>
+      <button class="tab" data-view="calc">Hesaplayıcılar</button>
+      <button class="tab" data-view="sources">Veri kaynakları</button>
+    </nav>
+  </div>
+</header>
+<main id="app"></main>
+
+<script>
+/* ---------- Flags (SVG, because Windows doesn't render flag emoji) ---------- */
+const FLAGS = {
+  TR:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#E30A17"/><circle cx="11" cy="10" r="5" fill="#fff"/><circle cx="12.3" cy="10" r="4" fill="#E30A17"/><polygon fill="#fff" points="16.2,10 18.9,9.1 18.9,6.9 20.3,8.9 23,8.1 21.3,10 23,11.9 20.3,11.1 18.9,13.1 18.9,10.9"/></svg>',
+  ES:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#AA151B"/><rect y="5" width="30" height="10" fill="#F1BF00"/></svg>',
+  SE:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#006AA7"/><rect x="9" width="4" height="20" fill="#FECC00"/><rect y="8" width="30" height="4" fill="#FECC00"/></svg>',
+  EN:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#fff"/><rect x="13" width="4" height="20" fill="#CE1124"/><rect y="8" width="30" height="4" fill="#CE1124"/></svg>',
+  NL:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#21468B"/><rect width="30" height="13.3" fill="#fff"/><rect width="30" height="6.7" fill="#AE1C28"/></svg>',
+  CZ:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#D7141A"/><rect width="30" height="10" fill="#fff"/><polygon points="0,0 15,10 0,20" fill="#11457E"/></svg>',
+  IS:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#02529C"/><rect x="8" width="6" height="20" fill="#fff"/><rect y="7" width="30" height="6" fill="#fff"/><rect x="9.5" width="3" height="20" fill="#DC1E35"/><rect y="8.5" width="30" height="3" fill="#DC1E35"/></svg>',
+  GE:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#fff"/><rect x="13" width="4" height="20" fill="#E8112D"/><rect y="8" width="30" height="4" fill="#E8112D"/><g fill="#E8112D"><rect x="5.6" y="2" width="1.8" height="5"/><rect x="4" y="3.6" width="5" height="1.8"/><rect x="22.6" y="2" width="1.8" height="5"/><rect x="21" y="3.6" width="5" height="1.8"/><rect x="5.6" y="13" width="1.8" height="5"/><rect x="4" y="14.6" width="5" height="1.8"/><rect x="22.6" y="13" width="1.8" height="5"/><rect x="21" y="14.6" width="5" height="1.8"/></g></svg>',
+  CH:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#DA291C"/><rect x="13" y="4" width="4" height="12" fill="#fff"/><rect x="9" y="8" width="12" height="4" fill="#fff"/></svg>',
+  DE:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#FFCE00"/><rect width="30" height="13.3" fill="#DD0000"/><rect width="30" height="6.7" fill="#000"/></svg>',
+  IT:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#CE2B37"/><rect width="20" height="20" fill="#fff"/><rect width="10" height="20" fill="#009246"/></svg>',
+  GR:'<svg viewBox="0 0 30 20"><rect width="30" height="20" fill="#0D5EAF"/><g fill="#fff"><rect y="2.22" width="30" height="2.22"/><rect y="6.67" width="30" height="2.22"/><rect y="11.1" width="30" height="2.22"/><rect y="15.56" width="30" height="2.22"/></g><rect width="11.1" height="11.1" fill="#0D5EAF"/><rect x="4.44" width="2.22" height="11.1" fill="#fff"/><rect y="4.44" width="11.1" height="2.22" fill="#fff"/></svg>'
+};
+
+const COUNTRIES = [
+  {code:'TR', name:'Türkiye', sub:'TSF il temsilcilikleri', note:'TSF ana sayfası ve il temsilciliği sayfalarındaki duyurulardan derlendi. İl turnuvaları genelde 1–2 hafta önceden ilan edildiği için bu liste sık güncellenmeli; aylık tekrar eden seriler “tahmini” olarak işaretli.'},
+  {code:'ES', name:'İspanya', sub:'Açık turnuva cenneti', note:'Avrupa’da amatörler için en yoğun takvim. Birçok turnuvada reyting sınırlı alt gruplar var ve otel paketleri turnuvayla birlikte satılıyor.'},
+  {code:'SE', name:'İsveç', sub:'Stockholm', note:'Rilton Cup, yılbaşı döneminin klasik turnuvası; 2200 altı oyuncular için ayrı grup açılıyor.'},
+  {code:'EN', name:'İngiltere', sub:'Hastings', note:'Dünyanın en eski turnuva kongresi. 2026/27 yüzüncü edisyon olacak; kesin takvim henüz doğrulanmadı.'},
+  {code:'DE', name:'Almanya', sub:'Böblingen, Karlsruhe', note:'Almanya’daki açıklar genelde çok gruplu ve kalabalık; Paskalya’daki GRENKE Open Avrupa’nın en büyüklerinden.'},
+  {code:'IT', name:'İtalya', sub:'Roma', note:'Sitges öncesi Aralık başında oynanıyor; Sunway ile aynı seyahate sığdırılabilir.'},
+  {code:'NL', name:'Hollanda', sub:'Wijk aan Zee', note:'Tata Steel’in yanında düzenlenen amatör grupları, elit turnuvayla aynı salonda oynama şansı veriyor.'},
+  {code:'CZ', name:'Çekya', sub:'Pardubice', note:'Czech Open, yaz aylarında çok sayıda reyting grubuyla oynanan dev bir festival.'},
+  {code:'IS', name:'İzlanda', sub:'Reykjavík', note:'Reykjavík Open herkese açık ve güçlü; GM’lerle eşleşme ihtimali yüksek.'},
+  {code:'CH', name:'İsviçre', sub:'Biel', note:'Biel festivalinde elit turnuvanın yanında açık ve amatör gruplar oynanıyor.'},
+  {code:'GE', name:'Gürcistan', sub:'Avrupa şampiyonası', note:'Avrupa Bireysel Şampiyonası’na katılım federasyon üzerinden yapılır; TSF’nin uluslararası katılım kriterlerini kontrol et.'},
+  {code:'GR', name:'Yunanistan', sub:'Rodos', note:'Yakın mesafe; bu sezon Avrupa Yaş Grupları Şampiyonası Rodos’ta.'}
+];
+
+/* ---------- Tournament data ----------
+   status: v = kaynaktan doğrulandı, e = geleneksel tarihe göre tahmini
+   sections: min/max reyting sınırları (null = sınırsız), inv = davet/seçmeli */
+let T = [   // yedek veri: data/turnuvalar.json okunamazsa kullanılır
+
+  // Türkiye (il alanı = il sayfası filtresi için)
+  {c:'TR',il:'Ankara',name:'Ankara Eylül Ayı UKD Satranç Turnuvası',city:'Ankara, Altındağ (TSF Ulus Atatürk Satranç Merkezi)',start:'2026-09-26',end:'2026-09-27',status:'v',
+   sections:[{n:'A Kategorisi',min:1600,max:null},{n:'B Kategorisi',min:1400,max:1599},{n:'C Kategorisi',min:null,max:1399}],
+   org:'TSF Ankara İl Temsilciliği',url:'https://ankara.tsf.org.tr/95-turnuva-haber/1730-ankara-eyluel-ay-ukd-satranc-turnuvas',
+   note:'Kategori “maksimum kuvvet puanına” göre belirleniyor (ELO ya da UKD’den yüksek olanı). Her kategoride kontenjan 64 sporcu.'},
+  {c:'TR',il:'İzmir',name:'Türkiye Uzay Kampı Satranç Turnuvası',city:'İzmir, Gaziemir (Ege Serbest Bölge)',start:'2026-09-26',end:'2026-09-27',status:'v',
+   sections:[{n:'Genel',min:null,max:null}],org:'ESBAŞ, İzmir İl Temsilciliği',
+   url:'https://www.tsf.org.tr/tum-il-haberleri/19364-turkiye-uzay-kampi-satranc-turnuvasi',note:'Kategoriler ve UKD/ELO durumu yönergede.'},
+  {c:'TR',il:'İstanbul',name:'V Metroway AVM Satranç Turnuvası',city:'İstanbul, Başakşehir',start:'2026-09-26',end:'2026-09-27',status:'v',
+   sections:[{n:'10 yaş altı',age:true},{n:'14 yaş altı',age:true}],tc:'35 dk + 30 sn, 6 tur (UKD)',prize:'14.000 TL',
+   url:'https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5281-v-metroway-avm-satranc-turnuvas-eylul2026'},
+  {c:'TR',il:'Ankara',name:'Başkent Sanat Merkezi – Caissa Ödüllü Turnuvası',city:'Ankara, Mamak (Nata Vega AVM)',start:'2026-10-03',end:'2026-10-04',status:'v',
+   sections:[{n:'7 yaş',age:true},{n:'8 yaş',age:true},{n:'10 yaş altı',age:true},{n:'12 yaş altı',age:true},{n:'14 yaş altı',age:true}],fee:'500 TL',
+   url:'https://ankara.tsf.org.tr/95-turnuva-haber/1726-baskent-sanat-merkezi-caissa-satranc-akademisi-oeduellue-satranc-turnuvas'},
+  {c:'TR',il:'Hatay',name:'Hatay Yürekli Süveydi SSK Satranç Turnuvası',city:'Hatay, Samandağ',start:'2026-10-10',end:'2026-10-11',status:'v',
+   sections:[{n:'Genel',min:null,max:null}],org:'Yürekli Süveydi Satranç Spor Kulübü',
+   url:'https://www.tsf.org.tr/tum-il-haberleri/19370-hatay-yurekli-suveydi-satranc-spor-kulubu-satranc-turnuvasi-kayitlari-basladi',note:'Kategoriler yönergede.'},
+  {c:'TR',il:'İzmir',name:'İzmir Ekim Ayı ELO Turnuvası',city:'İzmir, Çiğli',start:'2026-10-23',end:'2026-10-25',status:'e',
+   sections:[{n:'Açık (ELO)',min:1400,max:2399}],tc:'60 dk + 30 sn, 7 tur',org:'İzmir GSİM ve İzmir İl Temsilciliği',
+   url:'https://www.izmir.tsf.org.tr/turnuvalar/2597-2026-temmuz-ayi-elo-satranc-turnuvasi',
+   note:'Aylık seri. Temmuz turnuvası 2399 ve altı ELO’lulara açıktı; 1400 altı UKD’li ve ELO’suz oyuncuların kaydı siliniyordu. Ekim tarihi ilan edilince güncellenecek.'},
+  {c:'TR',il:'Hatay',name:'Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Turnuvası',city:'Hatay, Defne',start:'2026-10-24',end:'2026-10-25',status:'v',
+   sections:[{n:'Genel',min:null,max:null}],org:'Hatay Doğuş Okulları',
+   url:'https://www.tsf.org.tr/tum-il-haberleri/19371-hatay-dogus-okullari-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-kayitlari-basladi'},
+  {c:'TR',il:'Ankara',name:'Ankara 29 Ekim Cumhuriyet Bayramı Turnuvası',city:'Ankara',start:'2026-10-24',end:'2026-10-26',status:'e',
+   sections:[{n:'A Kategorisi',min:1600,max:null},{n:'B Kategorisi',min:1400,max:1599},{n:'C Kategorisi',min:null,max:1399},{n:'Yaş kategorileri',age:true}],
+   url:'https://ankara.tsf.org.tr/',note:'Her yıl düzenleniyor (2024’te 25–27 Ekim, 8 kategori). 2026 duyurusu henüz yok; kategoriler geçmiş yönergeye göre.'},
+  {c:'TR',il:'Muğla',name:'Bodrum “En İyi 32” Ekim Ayı Turnuvası',city:'Muğla, Bodrum',start:'2026-10-03',end:'2026-10-04',status:'e',
+   sections:[{n:'Tek kategori (en yüksek 32 reyting)',min:null,max:null}],tc:'45 dk + 30 sn',org:'Bodrum Satranç İlçe Temsilciliği',
+   url:'https://bodrumsatranc.com/',note:'Aylık seri, genelde ayın ilk hafta sonu. Kontenjan maksimum reytingi en yüksek 32 sporcu, yani yüksek reyting avantajlı. Kayıt mugla.tsf.org.tr üzerinden. Ekim tarihi tahmini.'},
+  {c:'TR',il:'Türkiye geneli',name:'Türkiye Satranç Şampiyonası',city:'Ev sahibi il açıklanmadı',start:'2026-12-03',end:'2026-12-14',status:'v',
+   sections:[{n:'Final (seçmeli)',inv:true}],org:'TSF',url:'https://www.tsf.org.tr/',note:'TSF 2026–27 faaliyet takviminde. Katılım yarı final ve kriterlerle belirlenir.'},
+  {c:'TR',il:'İstanbul',name:'36. Eyüboğlu Beyaz Fil Uluslararası Turnuvası',city:'İstanbul',start:'2027-01-06',end:'2027-01-11',status:'e',
+   sections:[{n:'Elit kategori',min:null,max:null},{n:'Okullararası yaş grupları',age:true}],org:'Eyüboğlu Eğitim Kurumları',
+   url:'https://istanbul.tsf.org.tr/',note:'35. edisyon 7–11 Ocak 2026’da 800’ü aşkın sporcuyla oynandı. 2027 tarihi ilan edilmedi.'},
+  {c:'TR',il:'Antalya',name:'Avrupa Okullar Satranç Şampiyonası',city:'Antalya',start:'2027-03-21',end:'2027-03-31',status:'v',
+   sections:[{n:'Okul yaş grupları',inv:true}],org:'ECU, TSF',url:'https://www.tsf.org.tr/'},
+  {c:'TR',il:'İstanbul',name:'10. İstanbul Uluslararası Açık',city:'İstanbul',start:'2027-08-23',end:'2027-08-29',status:'e',
+   sections:[{n:'A Kategorisi',min:2000,max:null},{n:'B Kategorisi',min:1700,max:1999},{n:'C Kategorisi',min:1400,max:1699},{n:'D Kategorisi',min:null,max:1399}],
+   org:'TSF İstanbul İl Temsilciliği',prize:'2026’da toplam 1 milyon TL',url:'https://istanbulopen.tsf.org.tr',
+   note:'9. edisyon 24–30 Ağustos 2026’da 19 ülkeden 682 oyuncuyla oynandı. Gruplar ELO’ya, ELO’su olmayanlar için UKD’ye göre. 2027 tarihi tahmini.'},
+  {c:'TR',il:'Antalya',name:'Dünya 13–17 Yaş Altı Şampiyonası',city:'Antalya',start:'2027-10-26',end:'2027-11-05',status:'v',
+   sections:[{n:'Yaş grupları',inv:true}],org:'FIDE, TSF',url:'https://www.tsf.org.tr/'},
+
+  // İspanya
+  {c:'ES',name:'Open Mallorca Amateur S2400',city:'Palma de Mallorca',start:'2026-10-02',end:'2026-10-04',status:'v',
+   sections:[{n:'Amatör',min:null,max:2399}],org:'GPRO Valparaiso Palace',url:'https://mychess.events/event/open-mallorca-amateur-s2400-2026/'},
+  {c:'ES',name:'3rd Ébano Open 60+30',city:'Tenerife, La Laguna',start:'2026-10-22',end:'2026-10-25',status:'v',
+   sections:[{n:'Açık',min:null,max:null}],url:'https://mychess.events/event/3rd-ebano-open-60-30-2026/'},
+  {c:'ES',name:'III Open Ciudad de Tomelloso',city:'Tomelloso',start:'2026-10-23',end:'2026-10-25',status:'v',
+   sections:[{n:'Açık',min:null,max:null}],url:'https://mychess.events/event/iii-open-de-ajedrez-ciudad-de-tomelloso-2026/'},
+  {c:'ES',name:'Benidorm Chess Open',city:'Benidorm, Alicante',start:'2026-10-25',end:'2026-11-01',status:'v',
+   sections:[{n:'Open A',min:1800,max:null},{n:'Open B',min:null,max:1999}],
+   prize:'€25.510 (106 ödül)',fee:'€90',tc:'90 dk + 30 sn, 9 tur',
+   hotel:'Open A/B oyuncuları Hotel Meliá Benidorm’da kalmak zorunda: 7 gece tam pansiyon, iki kişilik odada kişi başı €490, tek kişilik €749.',
+   url:'https://benidormchess.com/?lang=en',src:'https://mychess.events/event/benidorm-chess-open-2026/',
+   note:'Kayıt son günü 22 Ekim. FIDE reytingi olmayanlar sadece Open B’de oynayabilir.'},
+  {c:'ES',name:'Gran Hotel Bali Uluslararası Festivali',city:'Benidorm',start:'2026-11-30',end:'2026-12-10',status:'v',
+   sections:[{n:'Açık (IM/GM hariç)',min:null,max:2300}],prize:'€20.000',tc:'90 dk + 30 sn, 10 tur',
+   url:'http://www.ajedrezenelbali.com',src:'https://www.sunwaychessfestival.com/en/sitges/other-tournaments'},
+  {c:'ES',name:'VII Llobregat Open',city:'Sant Boi de Llobregat (Barselona)',start:'2026-12-03',end:'2026-12-08',status:'v',
+   sections:[{n:'Açık gruplar',min:null,max:null}],url:'https://mychess.events/event/vii-llobregat-open-2026/',
+   note:'Reyting grupları organizatör sayfasından kontrol edilmeli.'},
+  {c:'ES',name:'III Abierto Sub-2400 Ciudad de Utrera',city:'Utrera, Sevilla',start:'2026-12-11',end:'2026-12-13',status:'v',
+   sections:[{n:'Sub-2400',min:null,max:2399}],url:'https://mychess.events/event/iii-abierto-internacional-de-ajedrez-sub-2400-ciudad-de-utrera-2026/'},
+  {c:'ES',name:'Sunway Sitges Uluslararası Festivali',city:'Sitges (Barselona)',start:'2026-12-12',end:'2026-12-22',status:'v',
+   sections:[{n:'Grup A',min:null,max:null},{n:'Grup B (alt reyting)',min:null,max:null}],prize:'€25.000+',
+   hotel:'Turnuva Hotel Sunway Playa Golf & Spa’da oynanıyor; otel paketleri festival sitesinde.',
+   url:'https://www.sunwaychessfestival.com/',note:'Grup B sınırı yönergede. Öncesinde Bali/Llobregat, sonrasında Lorca veya Rilton ile birleştirilebilir.'},
+  {c:'ES',name:'Ciudad de Lorca Uluslararası Festivali',city:'Lorca, Murcia',start:'2026-12-26',end:'2026-12-30',status:'v',
+   sections:[{n:'Açık',min:null,max:null}],prize:'€7.500',url:'http://www.clubajedrezlorca.com',src:'https://www.sunwaychessfestival.com/en/sitges/other-tournaments'},
+  {c:'ES',name:'Sunway Formentera Festivali',city:'Formentera (Balear)',start:'2027-04-10',end:'2027-04-17',status:'e',
+   sections:[{n:'Açık',min:null,max:null}],url:'https://www.sunwaychessfestival.com/en/formentera',note:'Her yıl Nisan’da. 2027 tarihi henüz açıklanmadı.'},
+  {c:'ES',name:'Benasque Open',city:'Benasque, Pireneler',start:'2027-07-03',end:'2027-07-12',status:'e',
+   sections:[{n:'Açık',min:null,max:null}],url:'https://mychess.events/all-chess-tournaments/',note:'Temmuz’un geleneksel büyük açığı. Tarih tahmini.'},
+
+  // İsveç
+  {c:'SE',name:'Rilton Cup 2026/27',city:'Stockholm',start:'2026-12-27',end:'2027-01-05',status:'v',
+   sections:[{n:'Rilton Cup',min:2200,max:null},{n:'Rilton U2200',min:null,max:2199},{n:'Rilton U1800',min:null,max:1799}],
+   prize:'€18.000',tc:'40 hamle/90 dk + 30 dk, +30 sn, 9 tur',
+   hotel:'Geçmiş yıllarda turnuva oteli Scandic Continental’dı; indirimli oda rilton.se üzerinden.',
+   url:'https://www.rilton.se',src:'https://www.sunwaychessfestival.com/en/sitges/other-tournaments',
+   note:'Ana grup 2200+ (kadınlar ve gençler için 2100). 1 Ocak dinlenme günü.'},
+
+  // İngiltere
+  {c:'EN',name:'100. Hastings Uluslararası Satranç Kongresi',city:'Hastings',start:'2026-12-28',end:'2027-01-04',status:'e',
+   sections:[{n:'Masters',min:null,max:null},{n:'Con Power U2150',min:null,max:2149},{n:'Con Power U1950',min:null,max:1949},{n:'Con Power U1750',min:null,max:1749}],
+   tc:'Masters: 90 dk + 30 sn, 9 tur',url:'https://hastingschess.com/',
+   note:'99. edisyon 28 Aralık 2025’te başladı. 100. edisyonun kesin tarihi ve grupları doğrulanmadı.'},
+
+  // Almanya
+  {c:'DE',name:'Böblinger Open',city:'Böblingen (Stuttgart)',start:'2026-12-26',end:'2026-12-30',status:'v',
+   sections:[{n:'Açık',min:null,max:null}],prize:'€8.000',tc:'90 dk (40) + 30 dk + 30 sn, 9 tur',
+   url:'http://www.boeblinger-open.de',src:'https://www.sunwaychessfestival.com/en/sitges/other-tournaments'},
+  {c:'DE',name:'GRENKE Chess Open',city:'Karlsruhe',start:'2027-03-25',end:'2027-03-29',status:'e',
+   sections:[{n:'A/B/C grupları (reytinge göre)',min:null,max:null}],url:'https://www.grenkechess.com/',
+   note:'Her yıl Paskalya’da (2027 Paskalya 28 Mart). Grup sınırları duyuruyla netleşecek.'},
+
+  // İtalya
+  {c:'IT',name:'Roma Città Aperta Festivali',city:'Roma',start:'2026-12-03',end:'2026-12-10',status:'v',
+   sections:[{n:'Açık',min:null,max:null}],prize:'€7.000',tc:'90 dk + 30 sn, 9 tur',
+   url:'http://www.scuolapopolarediscacchi.com',src:'https://www.sunwaychessfestival.com/en/sitges/other-tournaments'},
+
+  // Hollanda
+  {c:'NL',name:'Tata Steel amatör grupları',city:'Wijk aan Zee',start:'2027-01-15',end:'2027-01-31',status:'e',
+   sections:[{n:'Amatör grupları',min:null,max:null}],url:'https://tatasteelchess.com/',note:'Elit turnuvayla aynı salonda, Ocak ortası. 2027 tarihi tahmini.'},
+
+  // Çekya
+  {c:'CZ',name:'Czech Open',city:'Pardubice',start:'2027-07-15',end:'2027-07-25',status:'e',
+   sections:[{n:'Çok sayıda reyting grubu',min:null,max:null}],url:'https://www.czechopen.net/',note:'Temmuz ortası geleneksel festival. Tarih tahmini.'},
+
+  // İzlanda
+  {c:'IS',name:'Reykjavík Open',city:'Reykjavík',start:'2027-03-24',end:'2027-03-30',status:'e',
+   sections:[{n:'Açık',min:null,max:null}],url:'https://www.reykjavikopen.com/',note:'2026 edisyonu 25–31 Mart’taydı. 2027 tarihi tahmini.'},
+
+  // İsviçre
+  {c:'CH',name:'Biel Satranç Festivali',city:'Biel/Bienne',start:'2027-07-10',end:'2027-07-23',status:'e',
+   sections:[{n:'Master open',min:null,max:null},{n:'Amatör grupları',min:null,max:null}],url:'https://www.bielchessfestival.ch/',
+   note:'2026 festivali 11–24 Temmuz’daydı. 2027 tarihi tahmini.'},
+
+  // Gürcistan
+  {c:'GE',name:'Avrupa Bireysel Satranç Şampiyonası',city:'Gürcistan',start:'2027-05-11',end:'2027-05-24',status:'v',
+   sections:[{n:'Federasyon kaydıyla',inv:true}],url:'https://www.europechess.org/',
+   note:'TSF 2026–27 takviminde. Kayıt TSF üzerinden; uluslararası katılım kriterleri duyurusuna bak.'},
+
+  // Yunanistan
+  {c:'GR',name:'Avrupa Yaş Grupları Şampiyonası',city:'Rodos',start:'2026-11-02',end:'2026-11-13',status:'v',
+   sections:[{n:'Yaş grupları',inv:true}],url:'https://www.europechess.org/',note:'Gençler için; federasyon seçmesi gerekir.'}
+];
+
+/* ---------- 81 il ---------- */
+const ILLER='Adana,Adıyaman,Afyonkarahisar,Ağrı,Aksaray,Amasya,Ankara,Antalya,Ardahan,Artvin,Aydın,Balıkesir,Bartın,Batman,Bayburt,Bilecik,Bingöl,Bitlis,Bolu,Burdur,Bursa,Çanakkale,Çankırı,Çorum,Denizli,Diyarbakır,Düzce,Edirne,Elazığ,Erzincan,Erzurum,Eskişehir,Gaziantep,Giresun,Gümüşhane,Hakkari,Hatay,Iğdır,Isparta,İstanbul,İzmir,Kahramanmaraş,Karabük,Karaman,Kars,Kastamonu,Kayseri,Kilis,Kırıkkale,Kırklareli,Kırşehir,Kocaeli,Konya,Kütahya,Malatya,Manisa,Mardin,Mersin,Muğla,Muş,Nevşehir,Niğde,Ordu,Osmaniye,Rize,Sakarya,Samsun,Siirt,Sinop,Sivas,Şanlıurfa,Şırnak,Tekirdağ,Tokat,Trabzon,Tunceli,Uşak,Van,Yalova,Yozgat,Zonguldak'.split(',');
+const BOLGE={
+ 'Marmara':'Balıkesir,Bilecik,Bursa,Çanakkale,Edirne,İstanbul,Kırklareli,Kocaeli,Sakarya,Tekirdağ,Yalova',
+ 'Ege':'Afyonkarahisar,Aydın,Denizli,İzmir,Kütahya,Manisa,Muğla,Uşak',
+ 'Akdeniz':'Adana,Antalya,Burdur,Hatay,Isparta,Kahramanmaraş,Mersin,Osmaniye',
+ 'İç Anadolu':'Aksaray,Ankara,Çankırı,Eskişehir,Karaman,Kayseri,Kırıkkale,Kırşehir,Konya,Nevşehir,Niğde,Sivas,Yozgat',
+ 'Karadeniz':'Amasya,Artvin,Bartın,Bayburt,Bolu,Çorum,Düzce,Giresun,Gümüşhane,Karabük,Kastamonu,Ordu,Rize,Samsun,Sinop,Tokat,Trabzon,Zonguldak',
+ 'Doğu Anadolu':'Ağrı,Ardahan,Bingöl,Bitlis,Elazığ,Erzincan,Erzurum,Hakkari,Iğdır,Kars,Malatya,Muş,Tunceli,Van',
+ 'Güneydoğu Anadolu':'Adıyaman,Batman,Diyarbakır,Gaziantep,Kilis,Mardin,Siirt,Şanlıurfa,Şırnak'};
+/* Tarama durumu (22 Eylül 2026): ok = sayfa okundu, yaklaşan turnuva var; bos = okundu, yaklaşan ilan yok */
+const IL_DURUM={'Muğla':'ok','Ankara':'ok','İstanbul':'ok','İzmir':'ok','Hatay':'ok','Edirne':'bos','Isparta':'bos','Antalya':'ok'};
+const IL_NOT={'Edirne':'Son ilan 19–20 Eylül Gaziler Günü etkinliğiydi; Ekim için duyuru yok.','Isparta':'12–13 Eylül ELO turnuvası oynandı; yenisi ilan edilmedi.','Muğla':'Bodrum ilçe temsilciliği her ay “En İyi 32” turnuvası düzenliyor.','İstanbul':'Geçen sezon 342 turnuva (180 UKD, 25 ELO). Ekim ilanları beklenmekte.'};
+function ilSlug(n){ if(n==='Afyonkarahisar') return 'afyon';
+  return n.toLocaleLowerCase('tr').replace(/ç/g,'c').replace(/ğ/g,'g').replace(/ı/g,'i').replace(/ö/g,'o').replace(/ş/g,'s').replace(/ü/g,'u'); }
+const ilUrl = n => `https://${ilSlug(n)}.tsf.org.tr/`;
+
+/* ---------- otomatik veri (data/turnuvalar.json, GitHub Actions günceller) ---------- */
+let META = null;
+const BAYRAK = {TR:'tr',ES:'es',SE:'se',EN:'gb-eng',DE:'de',IT:'it',NL:'nl',CZ:'cz',IS:'is',CH:'ch',GE:'ge',GR:'gr'};
+function flag(code){
+  if(FLAGS[code]) return FLAGS[code];
+  if(BAYRAK[code]) return `<img src="https://flagcdn.com/${BAYRAK[code]}.svg" alt="" loading="lazy">`;
+  return `<span class="noflag">${esc(code)}</span>`;
+}
+function veriyiUygula(v){
+  if(!v || !Array.isArray(v.turnuvalar) || !v.turnuvalar.length) return false;
+  META = v;
+  T = v.turnuvalar.map(t=>({...t, city:t.city||t.il||'', sections:(t.sections&&t.sections.length)?t.sections:[{n:'Genel',min:null,max:null}],
+    alinti:t.alinti||t.kaynak_metin||'',
+    note:t.note || (t.kaynak==='site'||t.kaynak==='takvim' ? `${t.reyting_turu?t.reyting_turu+' turnuvası. ':''}Bilgiler TSF il sayfasındaki duyurudan otomatik çıkarıldı; kesin bilgi yönergede.`
+                  : t.kaynak==='mychess' ? `MyChess.events üzerinden otomatik eklendi.${t.kayit_kapali?' Kayıtlar kapanmış.':''}` : '')}));
+  // yeni ülkeler kendiliğinden eklenir
+  const bilinen = new Set(COUNTRIES.map(c=>c.code));
+  const yeni = {};
+  T.forEach(t=>{ if(t.bayrak && !BAYRAK[t.c]) BAYRAK[t.c]=t.bayrak;
+    if(!bilinen.has(t.c)){ (yeni[t.c]=yeni[t.c]||{code:t.c,name:t.ulke||t.c,sehir:{},auto:true}); if(t.city) yeni[t.c].sehir[t.city]=(yeni[t.c].sehir[t.city]||0)+1; }});
+  Object.values(yeni).forEach(c=>{ c.sub=Object.entries(c.sehir).sort((a,b)=>b[1]-a[1]).slice(0,2).map(x=>x[0]).join(', ')||'';
+    c.note='Bu ülke yeni bir turnuva ilan edildiği için otomatik olarak eklendi.'; COUNTRIES.push(c); });
+  // il durumları
+  (v.iller||[]).forEach(r=>{ if(r.durum==='ok') IL_DURUM[r.il] = T.some(t=>t.il===r.il&&D(t.end)>=today)?'ok':'bos'; });
+  return true;
+}
+const gunFark = (a,b)=>Math.round((D(a)-D(b))/864e5);
+const bugunS = ()=>{const d=new Date(); return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');};
+function yeniMi(t){ return META && t.ilk_gorulme && META.ilk_kurulum && t.ilk_gorulme>META.ilk_kurulum && gunFark(bugunS(),t.ilk_gorulme)<=7 && D(t.end)>=today; }
+const arsiv = () => T.filter(t=>D(t.end)<today).sort((a,b)=>D(b.end)-D(a.end));
+function fmtZaman(s){ if(!s) return '–'; const d=new Date(s.length<=16?s+':00':s); if(isNaN(d)) return s;
+  return `${d.getDate()} ${AYU[d.getMonth()]} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`; }
+function guncellemeKutusu(sade){
+  if(!META) return `<div class="scanbox"><div><b>Otomatik güncelleme</b> Veri dosyasına ulaşılamadı; şu an yerleşik liste gösteriliyor.</div></div>`;
+  const k=META.kaynaklar||{};
+  return `<div class="scanbox"><div><b>Otomatik güncelleniyor</b> Son güncelleme ${fmtZaman(META.guncelleme)}.${sade?'':` TSF 81 il taraması: ${fmtZaman(k.tsf&&k.tsf.tarama)} (${(k.tsf&&k.tsf.il_sayisi)||0} il). Yurt dışı: ${fmtZaman(k.yurtdisi&&k.yurtdisi.tarama)}.`}</div>
+    <a class="btn" href="feed.xml" target="_blank" rel="noopener">RSS ile takip et</a></div>`;
+}
+/* son ziyaretten beri ne değişti */
+let ZIYARET = null;
+function ziyaretHesapla(){
+  let son=null; try{ son=localStorage.getItem('tr-son-ziyaret'); }catch(e){}
+  const b=bugunS();
+  if(son && son<b && META){
+    const yeni=T.filter(t=>t.ilk_gorulme && t.ilk_gorulme>son && D(t.end)>=today);
+    const oynandi=T.filter(t=>t.end>=son && t.end<b);
+    if(yeni.length||oynandi.length) ZIYARET={son, yeni, oynandi};
+  }
+  try{ localStorage.setItem('tr-son-ziyaret', b); }catch(e){}
+}
+function ziyaretBandi(){
+  if(!ZIYARET) return '';
+  const {yeni,oynandi}=ZIYARET;
+  return `<div class="notice" role="status">
+    <div><b>Son ziyaretinden beri:</b> ${yeni.length?`${yeni.length} yeni turnuva eklendi`:''}${yeni.length&&oynandi.length?', ':''}${oynandi.length?`${oynandi.length} turnuva oynandı ve arşive taşındı`:''}.</div>
+    <div class="links">${yeni.length?'<button class="btn pri" data-view-go="yeni">Yenileri gör</button>':''}${oynandi.length?'<button class="btn" data-view-go="arsiv">Arşiv</button>':''}<button class="btn" id="noticeclose" aria-label="Kapat">✕</button></div>
+  </div>`;
+}
+
+/* ---------- helpers ---------- */
+const AY = ['Oca','Şub','Mar','Nis','May','Haz','Tem','Ağu','Eyl','Eki','Kas','Ara'];
+const AYU = ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'];
+const D = s => new Date(s+'T12:00:00');
+const today = new Date(); today.setHours(0,0,0,0);
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function fmtRange(a,b){const x=D(a),y=D(b);
+  if(x.getMonth()===y.getMonth()&&x.getFullYear()===y.getFullYear()) return `${x.getDate()}–${y.getDate()} ${AYU[x.getMonth()]} ${x.getFullYear()}`;
+  return `${x.getDate()} ${AYU[x.getMonth()]}${x.getFullYear()!==y.getFullYear()?' '+x.getFullYear():''} – ${y.getDate()} ${AYU[y.getMonth()]} ${y.getFullYear()}`;}
+function daysLeft(t){const s=D(t.start),e=D(t.end);
+  if(e<today) return null;
+  if(s<=today) return 'Şu an oynanıyor';
+  const n=Math.round((s-today)/864e5); return n===1?'Yarın':`${n} gün kaldı`;}
+const fitSecs = (t,r)=>t.sections.filter(s=>secState(s,r)==='fit');
+const upcoming = () => T.filter(t=>D(t.end)>=today).sort((a,b)=>D(a.start)-D(b.start));
+function secState(s,r){ if(s.inv) return 'inv'; if(s.age) return 'age'; if(!r) return '';
+  return ((s.min==null||r>=s.min)&&(s.max==null||r<=s.max))?'fit':''; }
+function fits(t,r){ return t.sections.some(s=>secState(s,r)==='fit'); }
+function secLabel(s){ if(s.inv||s.age) return s.n;
+  if(s.min!=null&&s.max!=null) return `${s.n} (${s.min}–${s.max})`;
+  if(s.min!=null) return `${s.n} (${s.min} ve üstü)`;
+  if(s.max!=null) return `${s.n} (${s.max} ve altı)`;
+  return `${s.n} (herkese açık)`;}
+function hotelUrl(t){const q=encodeURIComponent((t.city||t.il||'').split('(')[0].trim());
+  return `https://www.booking.com/searchresults.html?ss=${q}&checkin=${t.start}&checkout=${t.end}`;}
+
+/* ---------- state ---------- */
+const state = {view:'home', country:null, il:null, rating:2000, type:'ELO', onlyFit:false, q:''};
+try{const s=JSON.parse(localStorage.getItem('tr-rehber')||'{}'); if(s.rating) state.rating=s.rating; if(s.type) state.type=s.type;}catch(e){}
+function save(){try{localStorage.setItem('tr-rehber',JSON.stringify({rating:state.rating,type:state.type}))}catch(e){}}
+
+const app = document.getElementById('app');
+function go(view,country){state.view=view;state.country=country||null;render();window.scrollTo({top:0});}
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>go(b.dataset.view));
+document.getElementById('logo').onclick=()=>go('home');
+document.getElementById('q').oninput=e=>{state.q=e.target.value.trim().toLocaleLowerCase('tr'); if(state.view!=='home'&&state.view!=='country'&&state.view!=='calendar') state.view='calendar'; render();};
+
+function matchQ(t){ if(!state.q) return true; const c=COUNTRIES.find(x=>x.code===t.c);
+  return (t.name+' '+(t.city||'')+' '+(t.il||'')+' '+(c?c.name:'')).toLocaleLowerCase('tr').includes(state.q); }
+
+/* ---------- views ---------- */
+function ratingBox(){
+  return `<div class="rating">
+    <label for="rt">Reytingim</label>
+    <input class="rating-num" id="rt" type="number" inputmode="numeric" min="0" max="3000" value="${state.rating||''}" aria-describedby="rh">
+    <div class="seg" role="group" aria-label="Reyting türü">
+      <button data-t="ELO" aria-pressed="${state.type==='ELO'}">ELO</button>
+      <button data-t="UKD" aria-pressed="${state.type==='UKD'}">UKD</button>
+    </div>
+    <button class="btn pri findbtn" id="findbtn">Bana uygun turnuvaları bul</button>
+    <div class="rating-hint" id="rh">${state.type==='UKD'
+      ?'Yurt dışında FIDE ELO esas alınır; UKD ile sadece Türkiye’deki UKD kategorilerine bakılır.'
+      :'Reytingini yazıp Enter’a bas; sana uygun turnuvaları ve hangi kategoride oynayacağını göstereyim.'}</div>
+  </div>`;
+}
+function bindRating(){
+  const i=document.getElementById('rt'); if(!i) return;
+  i.oninput=()=>{state.rating=parseInt(i.value)||0;save();renderBody(true);};
+  i.onkeydown=e=>{ if(e.key==='Enter'){ state.rating=parseInt(i.value)||0; save(); go('match'); } };
+  const fb=document.getElementById('findbtn'); if(fb) fb.onclick=()=>{ state.rating=parseInt(i.value)||0; save(); go('match'); };
+  document.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>{state.type=b.dataset.t;save();render();});
+}
+function effRating(t){ // UKD only counts for Turkish events
+  if(state.type==='UKD' && t.c!=='TR') return 0;
+  return state.rating; }
+
+function homeCards(){
+  const up=upcoming().filter(matchQ);
+  return COUNTRIES.map(c=>{
+    const list=up.filter(t=>t.c===c.code);
+    if((state.q||c.auto) && !list.length) return '';
+    const fitN=list.filter(t=>fits(t,effRating(t))).length;
+    const items=list.slice(0,4).map(t=>{
+      const st=t.sections.every(s=>s.inv)?'inv':(fits(t,effRating(t))?'ok':'');
+      const d=D(t.start);
+      return `<li><span class="dot ${st}"></span><span class="nm">${esc(t.name)}</span><span class="dt">${d.getDate()} ${AY[d.getMonth()]}</span></li>`;}).join('')
+      || '<li><span class="empty">Yaklaşan turnuva eklenmedi</span></li>';
+    const yN=list.filter(yeniMi).length;
+    const badge=yN?`<span class="badge new">${yN} yeni</span>`:c.code==='TR'?'<span class="badge live">TSF</span>':c.auto?'<span class="badge">Yeni ülke</span>':`<span class="badge">${list.length} turnuva</span>`;
+    return `<button class="ccard ${c.code==='TR'?'home':''}" data-c="${c.code}">
+      <div class="chead"><span class="flag">${flag(c.code)}</span><div><div class="cname">${c.name}</div><div class="csub">${esc(c.sub)}</div></div>${badge}</div>
+      <ul class="mini">${items}</ul>
+      <div class="cfoot">${list.length} turnuva, ${state.rating?`${fitN} tanesinde ${state.rating} için uygun grup var`:'reytingini gir, uygunları görelim'}</div>
+    </button>`;}).join('');
+}
+function viewHome(){
+  return `<section class="hero">
+    <div class="season">2026/27 sezonu</div>
+    <h1>Ülkeni seç</h1>
+    <p>Türkiye’deki il turnuvalarından Avrupa’nın en sevilen açıklarına kadar; tarihleri, reyting gruplarını ve sana uygun olanları tek yerde gör.</p>
+    ${ratingBox()}
+  </section>
+  ${ziyaretBandi()}
+  ${yeniSeridi()}
+  <div class="legend"><span><i class="dot ok"></i>Reytingine uygun grup var</span><span><i class="dot"></i>Uygun grup yok</span><span><i class="dot inv"></i>Davet / federasyon seçmesi</span></div>
+  <div class="grid" id="body">${homeCards()}</div>
+  <p class="updline">${META?`Liste kendiliğinden güncelleniyor. Son güncelleme: ${fmtZaman(META.guncelleme)}.`:'Yerleşik liste gösteriliyor.'}</p>`;
+}
+function yeniSeridi(){
+  const y=upcoming().filter(yeniMi);
+  if(!y.length) return '';
+  return `<div class="newstrip"><b>Bu hafta eklenenler</b>${y.slice(0,6).map(t=>`<button class="nchip" data-c="${t.c}"><span class="flag">${flag(t.c)}</span><span class="nm">${esc(t.name)}</span><i>${D(t.start).getDate()} ${AY[D(t.start).getMonth()]}</i></button>`).join('')}${y.length>6?`<button class="nchip more" data-view-go="yeni">+${y.length-6} daha</button>`:''}</div>`;
+}
+function yourGroup(t){
+  if(!state.rating) return '';
+  if(state.type==='UKD' && t.c!=='TR') return `<div class="yg no">Yurt dışında FIDE ELO esas alınır; ELO’nu girersen grubunu gösteririm.</div>`;
+  const f=fitSecs(t,state.rating);
+  if(f.length) return `<div class="yg">♟ ${state.rating} ${state.type} ile bu turnuvada <b>${f.map(s=>esc(secLabel(s))).join('</b> ya da <b>')}</b> grubunda oynarsın.</div>`;
+  if(t.sections.every(s=>s.inv)) return `<div class="yg no">Davet ya da federasyon seçmesiyle katılınıyor.</div>`;
+  if(t.sections.every(s=>s.age||s.inv)) return `<div class="yg no">Sadece yaş kategorileri var.</div>`;
+  return `<div class="yg no">${state.rating} için uygun grup yok.</div>`;
+}
+function tCard(t,withCountry){
+  const r=effRating(t), c=COUNTRIES.find(x=>x.code===t.c)||{name:t.ulke||t.c}, d=D(t.start), left=daysLeft(t), gecti=D(t.end)<today;
+  const secs=t.sections.map(s=>`<span class="sec ${secState(s,r)}">${esc(secLabel(s))}</span>`).join('');
+  const facts=[t.tc&&`<span><b>Tempo</b> ${esc(t.tc)}</span>`,t.prize&&`<span><b>Ödül</b> ${esc(t.prize)}</span>`,t.fee&&`<span><b>Kayıt</b> ${esc(t.fee)}</span>`,t.org&&`<span><b>Düzenleyen</b> ${esc(t.org)}</span>`].filter(Boolean).join('');
+  return `<article class="tcard">
+    <div class="when"><div class="d">${d.getDate()}</div><div class="m">${AY[d.getMonth()]} ${d.getFullYear()}</div>${left?`<div class="left">${left}</div>`:''}</div>
+    <div>
+      <div class="ttop"><h3 class="tname">${esc(t.name)}</h3>${gecti?'<span class="st done">Oynandı</span>':`${yeniMi(t)?'<span class="st new">Yeni</span>':''}<span class="st ${t.status}">${t.status==='v'?'Tarih doğrulandı':t.status==='a'?'Otomatik bulundu':'Tahmini tarih'}</span>`}</div>
+      <div class="meta">${withCountry?esc(c.name)+', ':''}${t.c==='TR'&&t.il&&!(t.city||'').startsWith(t.il)&&t.il!=='Türkiye geneli'?esc(t.il)+(t.city?', ':''):''}${esc(t.city)}, ${fmtRange(t.start,t.end)}</div>
+      ${t.tarih_degisti&&!gecti?`<div class="tnote">📅 Tarih değişti: ${esc(t.tarih_degisti.split(' → ').map(x=>{const q=D(x);return q.getDate()+' '+AYU[q.getMonth()];}).join(' → '))}</div>`:''}
+      ${gecti?'':yourGroup(t)}
+      <div class="secs">${secs}</div>
+      ${facts?`<div class="facts">${facts}</div>`:''}
+      ${t.hotel?`<div class="tnote" style="border-left-color:var(--acc)">🏨 ${esc(t.hotel)}</div>`:''}
+      ${t.note?`<div class="tnote">${esc(t.note)}</div>`:''}
+      ${t.alinti?`<details class="quote"><summary>Duyuru metninden</summary><p>${esc(t.alinti)}</p></details>`:''}
+      <div class="links">
+        ${gecti&&t.cr?`<a class="btn pri" href="${esc(t.cr)}" target="_blank" rel="noopener">Sonuçlar (chess-results)</a>`:''}
+        <a class="btn ${gecti&&t.cr?'':'pri'}" href="${esc(t.url)}" target="_blank" rel="noopener">Resmi sayfa</a>
+        ${!gecti&&t.cr?`<a class="btn" href="${esc(t.cr)}" target="_blank" rel="noopener">Katılımcılar / eşlendirme</a>`:''}
+        ${t.src&&t.src!==t.url?`<a class="btn" href="${esc(t.src)}" target="_blank" rel="noopener">Kaynak</a>`:''}
+        ${!gecti&&(t.c!=='TR'||!t.sections.every(s=>s.inv))?`<a class="btn" href="${hotelUrl(t)}" target="_blank" rel="noopener">Bu tarihlerde otel ara</a>`:''}
+      </div>
+    </div>
+  </article>`;
+}
+function countryList(){
+  const c=COUNTRIES.find(x=>x.code===state.country);
+  let list=upcoming().filter(t=>t.c===c.code).filter(matchQ);
+  if(c.code==='TR' && state.il) list=list.filter(t=>t.il===state.il);
+  if(state.onlyFit) list=list.filter(t=>fits(t,effRating(t)));
+  if(!list.length && state.il) return {list, html:`<div class="emptybox">${esc(state.il)} için yaklaşan turnuva kaydı yok.</div>`};
+  return {list, html: list.length?list.map(t=>tCard(t)).join(''):`<div class="emptybox">${state.onlyFit?'Bu ülkede reytingine uygun grubu olan turnuva yok. Filtreyi kapatıp tüm listeye bakabilirsin.':'Bu ülke için yaklaşan turnuva eklenmedi.'}</div>`};
+}
+function ilGrid(){
+  const up=upcoming();
+  const checked=Object.keys(IL_DURUM).length;
+  return `<details class="ilbox" ${state.il?'open':''}><summary>81 il <span>${checked} il tarandı, ${81-checked} il sırada</span></summary>
+    <div class="ilgrid">${ILLER.map(n=>{const k=up.filter(t=>t.il===n).length, d=IL_DURUM[n];
+      return `<button class="il ${d||'no'} ${state.il===n?'sel':''}" data-il="${esc(n)}"><span>${esc(n)}</span><i>${k?k:(d==='bos'?'–':'')}</i></button>`;}).join('')}</div>
+    <div class="illeg"><span><i class="sq ok"></i>Tarandı, turnuva var</span><span><i class="sq bos"></i>Tarandı, yaklaşan ilan yok</span><span><i class="sq no"></i>Henüz taranmadı</span></div>
+  </details>`;
+}
+function ilInfo(n){ const d=IL_DURUM[n];
+  return `<div class="ilinfo"><b>${esc(n)}</b> ${d?(d==='ok'?'22 Eylül’de tarandı.':'22 Eylül’de tarandı, yaklaşan ilan yok.'):'Bu il henüz taranmadı.'} ${IL_NOT[n]?esc(IL_NOT[n]):''} <a href="${ilUrl(n)}" target="_blank" rel="noopener">TSF ${esc(n)} sayfası</a></div>`;
+}
+function viewTR(){
+  const up=upcoming().filter(t=>t.c==='TR');
+  const checked=Object.keys(IL_DURUM).length;
+  const nat=up.filter(t=>t.il==='Türkiye geneli').length;
+  const tile=n=>{const k=up.filter(t=>t.il===n).length, d=IL_DURUM[n], f=up.filter(t=>t.il===n&&fits(t,effRating(t))).length;
+    return `<button class="il ${d||'no'}" data-pick="${esc(n)}" data-name="${esc(n.toLocaleLowerCase('tr'))}"><span>${esc(n)}</span><i>${k?(state.rating&&f?`${f}/${k}`:k):(d==='bos'?'–':'')}</i></button>`;};
+  return `<button class="back" id="back">‹ Tüm ülkeler</button>
+  <div class="dhead"><span class="flag">${flag('TR')}</span><div><h1>İlini seç</h1><div class="csub">81 il, TSF il temsilcilikleri</div></div></div>
+  <div class="trtools">
+    <input class="search ilsearch" id="ilq" type="search" placeholder="İl ara, ör. Konya" value="${esc(state.ilq||'')}" aria-label="İl ara">
+    <button class="btn" id="alltr">Tüm Türkiye listesi (${up.length})</button>
+    <button class="btn" data-pick="Türkiye geneli">Ulusal şampiyonalar (${nat})</button>
+  </div>
+  ${guncellemeKutusu()}
+  <div class="illeg"><span><i class="sq ok"></i>Tarandı, turnuva var</span><span><i class="sq bos"></i>Tarandı, yaklaşan ilan yok</span><span><i class="sq no"></i>Henüz taranmadı</span>${state.rating?`<span>Sayı: ${state.rating} için uygun / toplam</span>`:''}<span>${checked} / 81 il tarandı</span></div>
+  ${Object.entries(BOLGE).map(([b,l])=>`<section class="region" data-region><h2>${b}</h2><div class="ilgrid">${l.split(',').map(tile).join('')}</div></section>`).join('')}
+  <p class="empty-note" id="ilnone" hidden>Bu isimde il yok.</p>`;
+}
+function filterIl(){ const q=(state.ilq||'').toLocaleLowerCase('tr').trim();
+  document.querySelectorAll('[data-region]').forEach(sec=>{let any=false;
+    sec.querySelectorAll('.il').forEach(b=>{const m=!q||b.dataset.name.includes(q); b.hidden=!m; if(m) any=true;}); sec.hidden=!any;});
+  const none=document.getElementById('ilnone'); if(none) none.hidden=!!document.querySelector('.il:not([hidden])');
+}
+function viewIl(){
+  const n=state.il, d=IL_DURUM[n];
+  let list=upcoming().filter(t=>t.c==='TR'&&t.il===n);
+  if(state.onlyFit) list=list.filter(t=>fits(t,effRating(t)));
+  const status = n==='Türkiye geneli'?'TSF’nin ulusal şampiyonaları ve Türkiye’de yapılan uluslararası organizasyonlar.'
+    : d==='ok'?'22 Eylül 2026’da TSF il sayfası tarandı.' : d==='bos'?'22 Eylül 2026’da tarandı; yaklaşan ilan yok.' : 'Bu ilin TSF sayfası henüz taranmadı.';
+  const empty = d? `${esc(n)} için şu an yaklaşan turnuva ilanı yok. Sezon 16 Eylül’de başladı; Ekim–Kasım turnuvaları genelde 1–2 hafta önce ilan ediliyor.`
+    : `${esc(n)} henüz taranmadı. 81 il tarayıcısı çalıştığında turnuvalar burada görünecek; o zamana kadar il sayfasına doğrudan bakabilirsin.`;
+  return `<button class="back" id="backtr">‹ 81 il</button>
+  <div class="dhead"><span class="flag">${flag('TR')}</span><div><h1>${esc(n)}</h1><div class="csub">${status}</div></div></div>
+  ${IL_NOT[n]?`<p class="dnote">${esc(IL_NOT[n])}</p>`:''}
+  ${n!=='Türkiye geneli'?`<div class="links"><a class="btn pri" href="${ilUrl(n)}" target="_blank" rel="noopener">TSF ${esc(n)} il sayfası</a></div>`:''}
+  ${ratingBox()}
+  <div class="toolbar"><button class="chip" id="fit" aria-pressed="${state.onlyFit}">Sadece bana uygun olanlar</button><span class="count">${list.length} turnuva</span></div>
+  <div class="tlist" id="body">${list.length?list.map(t=>tCard(t)).join(''):`<div class="emptybox">${state.onlyFit?'Bu ilde reytingine uygun grubu olan turnuva yok.':empty}</div>`}</div>`;
+}
+function viewCountry(){
+  const c=COUNTRIES.find(x=>x.code===state.country);
+  const {list,html}=countryList();
+  return `<button class="back" id="back">‹ Tüm ülkeler</button>
+  <div class="dhead"><span class="flag">${flag(c.code)}</span><div><h1>${c.name}</h1><div class="csub">${esc(c.sub)}</div></div></div>
+  <p class="dnote">${esc(c.note)}</p>
+  ${ratingBox()}
+  ${c.code==='TR'?'<div class="links"><button class="btn" id="backtr">‹ İl seçimine dön</button></div>':''}
+  <div class="toolbar"><button class="chip" id="fit" aria-pressed="${state.onlyFit}">Sadece bana uygun olanlar</button>${state.il?`<button class="chip" id="clril" aria-pressed="true">${esc(state.il)} ✕</button>`:''}<span class="count" id="cnt">${list.length} turnuva</span></div>
+  ${state.il?ilInfo(state.il):''}
+  <div class="tlist" id="body">${html}</div>`;
+}
+function calendarBody(){
+  const list=upcoming().filter(matchQ).filter(t=>!state.onlyFit||fits(t,effRating(t)));
+  if(!list.length) return '<div class="emptybox" style="margin-top:20px">Aramana uyan turnuva yok.</div>';
+  const groups={};
+  list.forEach(t=>{const d=D(t.start),k=d.getFullYear()*100+d.getMonth();(groups[k]=groups[k]||[]).push(t);});
+  return Object.keys(groups).sort().map(k=>{const y=Math.floor(k/100),m=k%100;
+    return `<section class="month"><h2>${AYU[m]} ${y}</h2>${groups[k].map(t=>{
+      const c=COUNTRIES.find(x=>x.code===t.c),d=D(t.start),e=D(t.end);
+      const st=t.sections.every(s=>s.inv)?'inv':(fits(t,effRating(t))?'ok':'');
+      return `<button class="row" data-c="${t.c}"><span class="rd">${d.getDate()}–${e.getDate()} ${AY[e.getMonth()]}</span><span class="flag">${flag(t.c)}</span>
+        <span class="rn"><div>${esc(t.name)}</div><div>${esc(c.name)}, ${esc(t.city)}${t.status==='e'?' (tahmini)':''}</div></span><span class="dot ${st}"></span></button>`;}).join('')}</section>`;}).join('');
+}
+function viewCalendar(){
+  return `<div class="page-h"><h1>Takvim</h1><p>Tüm ülkelerdeki yaklaşan turnuvalar tarih sırasıyla. Satıra dokununca ülkenin sayfası açılır.</p></div>
+  ${ratingBox()}
+  <div class="toolbar"><button class="chip" id="fit" aria-pressed="${state.onlyFit}">Sadece bana uygun olanlar</button></div>
+  <div id="body">${calendarBody()}</div>`;
+}
+
+function viewMatch(){
+  const r=state.rating;
+  const up=upcoming();
+  const ok=up.filter(t=>fits(t,effRating(t)));
+  const tr=ok.filter(t=>t.c==='TR'), ab=ok.filter(t=>t.c!=='TR');
+  const head= r?`${r} ${state.type} için ${ok.length} turnuva buldum`:'Önce reytingini gir';
+  return `<div class="page-h"><h1>${head}</h1><p>Her kartta hangi grupta oynayacağın yazıyor. Türkiye’de kategori genelde ELO’ya, ELO’su olmayanlar için UKD’ye göre belirlenir; Ankara gibi bazı iller ikisinden yüksek olanı esas alır.</p></div>
+  ${ratingBox()}
+  ${r?`<h2 class="sect">Türkiye <span>${tr.length}</span></h2><div class="tlist">${tr.length?tr.map(t=>tCard(t)).join(''):'<div class="emptybox">Taranan illerde şu an senin reytingine uygun ilan yok. 81 ilin tamamı taranınca bu liste büyüyecek.</div>'}</div>
+  <h2 class="sect">Yurt dışı <span>${ab.length}</span></h2><div class="tlist">${ab.length?ab.map(t=>tCard(t,true)).join(''):`<div class="emptybox">${state.type==='UKD'?'Yurt dışı turnuvalar FIDE ELO ile eşleşir. ELO’na geçip tekrar dene.':'Uygun yurt dışı turnuvası yok.'}</div>`}</div>`:''}`;
+}
+
+/* ---------- calculators ---------- */
+const calc = {
+  elo:{r:state.type==='ELO'?state.rating:2000,k:20,games:[{o:2050,s:1},{o:1980,s:.5},{o:2100,s:0}]},
+  ukd:{r:1600,k:20,games:[{o:1650,s:1},{o:1550,s:.5}]}
+};
+function expected(r,o){let d=o-r; if(d>400)d=400; if(d<-400)d=-400; return 1/(1+Math.pow(10,d/400));}
+function perf(games){ if(!games.length) return null;
+  const avg=games.reduce((a,g)=>a+g.o,0)/games.length, p=games.reduce((a,g)=>a+g.s,0)/games.length;
+  let dp; if(p>=1) dp=800; else if(p<=0) dp=-800; else dp=Math.max(-800,Math.min(800,-400*Math.log10(1/p-1)));
+  return Math.round(avg+dp);}
+function calcCard(id,title,sub,kOpts,fine){
+  const c=calc[id];
+  return `<section class="calc" id="c-${id}"><h2>${title}</h2><p class="sub">${sub}</p>
+    <div class="frow">
+      <label class="field"><span>Mevcut reyting</span><input class="inp" type="number" data-f="r" value="${c.r}"></label>
+      <label class="field"><span>K katsayısı</span><select class="inp" data-f="k">${kOpts.map(([v,l])=>`<option value="${v}" ${+v===c.k?'selected':''}>${l}</option>`).join('')}</select></label>
+    </div>
+    <div class="games">${c.games.map((g,i)=>`<div class="game"><span class="no">${i+1}.</span>
+      <input class="inp" type="number" data-g="${i}" value="${g.o}" aria-label="${i+1}. rakip reytingi" placeholder="Rakip reytingi">
+      <div class="res" role="group" aria-label="Sonuç">${[[1,'1'],[.5,'½'],[0,'0']].map(([v,l])=>`<button data-gi="${i}" data-s="${v}" aria-pressed="${g.s===v}">${l}</button>`).join('')}</div>
+      <button class="x" data-del="${i}" aria-label="${i+1}. maçı sil">×</button></div>`).join('')}</div>
+    <button class="add" data-add>+ Maç ekle</button>
+    <div class="out" data-out></div>
+    <p class="fine">${fine}</p></section>`;
+}
+function calcOut(id){
+  const c=calc[id], el=document.querySelector(`#c-${id} [data-out]`); if(!el) return;
+  const g=c.games.filter(x=>x.o>0);
+  const E=g.reduce((a,x)=>a+expected(c.r,x.o),0), S=g.reduce((a,x)=>a+x.s,0), d=c.k*(S-E);
+  const p=perf(g);
+  el.innerHTML=`<div class="big"><small>Reyting değişimi</small><strong class="${d>=0?'pos':'neg'}">${d>=0?'+':''}${d.toFixed(1)}</strong></div>
+    <div><small>Yeni reyting</small><strong>${Math.round(c.r+d)}</strong></div>
+    <div><small>Puan / beklenen</small><strong>${S} / ${E.toFixed(2)}</strong></div>
+    <div><small>Performans (yaklaşık)</small><strong>${p??'–'}</strong></div>
+    <div><small>Maç sayısı</small><strong>${g.length}</strong></div>`;
+}
+function viewCalc(){
+  return `<div class="page-h"><h1>Hesaplayıcılar</h1><p>Turnuva öncesinde hedefini, sonrasında kazancını hesapla. Rakip reytinglerini gir, sonucu seç.</p></div>
+  <div class="calcs">
+    ${calcCard('elo','FIDE ELO','Standart FIDE formülü: değişim = K × (puan − beklenen puan). 400 puan kuralı uygulanır.',
+      [[40,'40 (yeni oyuncu / 18 yaş altı ve 2300 altı)'],[20,'20 (2400 altı)'],[10,'10 (2400’e ulaşmış)']],
+      'Beklenen puan FIDE tablosunun formül karşılığıyla hesaplanır, resmi tablodan ±0,01 sapabilir.')}
+    ${calcCard('ukd','UKD','TSF’nin ulusal kuvvet derecesi. Aynı beklenen puan mantığıyla çalışır.',
+      [[40,'40'],[30,'30'],[20,'20'],[15,'15'],[10,'10']],
+      'UKD’de K katsayısı oyuncunun maç sayısı ve derecesine göre TSF UKD yönergesinde belirlenir; kendi K değerini <a href="http://ukd.tsf.org.tr/" target="_blank" rel="noopener">UKD Bilgi Sistemi</a>’nden kontrol edip seç.')}
+  </div>`;
+}
+function bindCalc(){
+  ['elo','ukd'].forEach(id=>{
+    const root=document.getElementById('c-'+id), c=calc[id];
+    root.addEventListener('input',e=>{const t=e.target;
+      if(t.dataset.f==='r'){c.r=+t.value||0;} else if(t.dataset.f==='k'){c.k=+t.value;} else if(t.dataset.g!=null){c.games[+t.dataset.g].o=+t.value||0;}
+      calcOut(id);});
+    root.addEventListener('change',e=>{if(e.target.dataset.f==='k'){c.k=+e.target.value;calcOut(id);}});
+    root.addEventListener('click',e=>{const t=e.target.closest('button'); if(!t) return;
+      if(t.dataset.gi!=null){c.games[+t.dataset.gi].s=+t.dataset.s; rerenderCalc(id);}
+      else if(t.dataset.del!=null){c.games.splice(+t.dataset.del,1); rerenderCalc(id);}
+      else if(t.hasAttribute('data-add')){c.games.push({o:c.games.length?c.games[c.games.length-1].o:c.r,s:.5}); rerenderCalc(id,true);}
+    });
+    calcOut(id);
+  });
+}
+function rerenderCalc(id,focusLast){
+  const html=viewCalc(); const tmp=document.createElement('div'); tmp.innerHTML=html;
+  document.getElementById('c-'+id).replaceWith(tmp.querySelector('#c-'+id));
+  const root=document.getElementById('c-'+id); const c=calc[id];
+  // re-bind only this card
+  root.addEventListener('input',e=>{const t=e.target;
+    if(t.dataset.f==='r'){c.r=+t.value||0;} else if(t.dataset.g!=null){c.games[+t.dataset.g].o=+t.value||0;} calcOut(id);});
+  root.addEventListener('change',e=>{if(e.target.dataset.f==='k'){c.k=+e.target.value;calcOut(id);}});
+  root.addEventListener('click',e=>{const t=e.target.closest('button'); if(!t) return;
+    if(t.dataset.gi!=null){c.games[+t.dataset.gi].s=+t.dataset.s; rerenderCalc(id);}
+    else if(t.dataset.del!=null){c.games.splice(+t.dataset.del,1); rerenderCalc(id);}
+    else if(t.hasAttribute('data-add')){c.games.push({o:c.games.length?c.games[c.games.length-1].o:c.r,s:.5}); rerenderCalc(id,true);} });
+  calcOut(id);
+  if(focusLast){const ins=root.querySelectorAll('[data-g]'); ins[ins.length-1]?.focus();}
+}
+
+/* ---------- sources ---------- */
+function viewArsiv(){
+  const a=arsiv().filter(matchQ);
+  const groups={};
+  a.forEach(t=>{const d=D(t.end),k=d.getFullYear()*100+d.getMonth();(groups[k]=groups[k]||[]).push(t);});
+  return `<div class="page-h"><h1>Arşiv</h1><p>Oynanmış turnuvalar. Bitiş tarihi geçen her turnuva kendiliğinden buraya taşınır ve bir yıl saklanır; chess-results bağlantısı olanlarda sonuçlara ulaşabilirsin.</p></div>
+  ${a.length?Object.keys(groups).sort().reverse().map(k=>`<section class="month"><h2>${AYU[k%100]} ${Math.floor(k/100)}</h2><div class="tlist">${groups[k].map(t=>tCard(t,true)).join('')}</div></section>`).join('')
+    :'<div class="emptybox" style="margin-top:20px">Henüz oynanmış turnuva yok.</div>'}`;
+}
+function viewYeni(){
+  const y=upcoming().filter(t=>META&&t.ilk_gorulme&&t.ilk_gorulme>META.ilk_kurulum&&gunFark(bugunS(),t.ilk_gorulme)<=14).sort((a,b)=>b.ilk_gorulme.localeCompare(a.ilk_gorulme));
+  return `<div class="page-h"><h1>Yeni eklenenler</h1><p>Son 14 günde ilan edilip listeye kendiliğinden eklenen turnuvalar, en yeniden eskiye.</p></div>
+  ${guncellemeKutusu(true)}
+  <div class="tlist">${y.length?y.map(t=>tCard(t,true)).join(''):'<div class="emptybox">Son 14 günde yeni turnuva eklenmedi. Sistem her gün birkaç kez kontrol ediyor.</div>'}</div>`;
+}
+function viewSources(){
+  const S=[
+    ['TSF il temsilcilikleri (otomatik)','Türkiye','Tüm il turnuvaları burada ilan ediliyor (ör. izmir.tsf.org.tr, istanbul.tsf.org.tr). Ana site (tsf.org.tr) bazı sayfalarda otomatik erişimi kapatıyor, ama il alt alan adları (ankara.tsf.org.tr gibi) taramaya açık. Sistem 81 ilin sayfasını günde birkaç kez tarıyor; nazik hızda ve robots.txt kurallarına uyarak.','https://www.tsf.org.tr/'],
+    ['TSF 2026–27 Etkinlik Takvimi','Türkiye','Şampiyonalar ve federasyonun yurt dışı etkinlikleri. PDF olarak yayınlanıyor.','https://www.tsf.org.tr/kaynaklar/etkinlik-takvimi'],
+    ['MyChess.events (otomatik)','Yurt dışı','Dünya genelindeki açıkları ülke, tarih ve harita bazında listeliyor; kayıt ücreti, program ve otel bilgisi de var. Yurt dışı için en kullanışlı başlangıç noktası, ileride otel önerileri için de işe yarar.','https://mychess.events/chess-tournaments-by-country/'],
+    ['FIDE Calendar','Yurt dışı','Resmi FIDE etkinlikleri ve FIDE Circuit turnuvaları. Güvenilir ama amatör açıkların çoğu burada yok.','https://calendar.fide.com/'],
+    ['chess-results.com','Her ikisi','Neredeyse her turnuvanın eşlendirme ve kayıt listesi burada. Federasyon bazında gelecek turnuvalar görülebilir; otomatik veri çekmek için sitenin iznine ihtiyaç var.','https://chess-results.com/'],
+    ['Organizatör siteleri','Yurt dışı','Kesin tarih, grup sınırları ve ücretler için son söz her zaman organizatörde. Sitedeki “Resmi sayfa” butonları buraya gider.','']
+  ];
+  return `<div class="page-h"><h1>Veri kaynakları</h1><p>Sitedeki her turnuva bir kaynağa bağlı. “Tarih doğrulandı” etiketi kaynakta 2026/27 tarihinin yayınlandığını, “Tahmini tarih” ise geleneksel döneme göre yerleştirildiğini gösterir.</p></div>
+  ${guncellemeKutusu()}
+  <div class="srcs">${S.map(([n,k,d,u])=>`<div class="src"><h3>${n}<span class="badge" style="margin-left:0">${k}</span></h3><p>${d}</p>${u?`<div class="links"><a class="btn" href="${u}" target="_blank" rel="noopener">Siteye git</a></div>`:''}</div>`).join('')}</div>`;
+}
+
+/* ---------- render ---------- */
+function bindCommon(){
+  document.querySelectorAll('[data-c]').forEach(b=>b.onclick=()=>{state.onlyFit=false;state.il=null; b.dataset.c==='TR'?go('tr'):go('country',b.dataset.c);});
+  document.querySelectorAll('[data-pick]').forEach(b=>b.onclick=()=>{state.il=b.dataset.pick;state.onlyFit=false;go('il');});
+  const ilq=document.getElementById('ilq'); if(ilq){ ilq.oninput=()=>{state.ilq=ilq.value;filterIl();}; ilq.onkeydown=e=>{if(e.key==='Enter'){const f=document.querySelector('.il:not([hidden])'); if(f) f.click();}}; }
+  const btr=document.getElementById('backtr'); if(btr) btr.onclick=()=>{state.il=null;go('tr');};
+  const allTr=document.getElementById('alltr'); if(allTr) allTr.onclick=()=>{state.il=null;state.onlyFit=false;go('country','TR');};
+  const back=document.getElementById('back'); if(back) back.onclick=()=>go('home');
+  document.querySelectorAll('[data-il]').forEach(b=>b.onclick=()=>{state.il=state.il===b.dataset.il?null:b.dataset.il;render();});
+  const cl=document.getElementById('clril'); if(cl) cl.onclick=()=>{state.il=null;render();};
+  document.querySelectorAll('[data-view-go]').forEach(b=>b.onclick=()=>go(b.dataset.viewGo));
+  const nc=document.getElementById('noticeclose'); if(nc) nc.onclick=()=>{ZIYARET=null; render();};
+  const fit=document.getElementById('fit'); if(fit) fit.onclick=()=>{state.onlyFit=!state.onlyFit;fit.setAttribute('aria-pressed',state.onlyFit); state.view==='il'?render():renderBody();};
+  bindRating();
+}
+function renderBody(){ // updates list without touching the rating input (keeps focus)
+  const body=document.getElementById('body'); if(!body){render();return;}
+  if(state.view==='home') body.innerHTML=homeCards();
+  else if(state.view==='country'){const {list,html}=countryList(); body.innerHTML=html; const cn=document.getElementById('cnt'); if(cn) cn.textContent=list.length+' turnuva';}
+  else if(state.view==='calendar') body.innerHTML=calendarBody();
+  else if(state.view==='match'||state.view==='il'||state.view==='tr'){render();return;}
+  document.querySelectorAll('#body [data-c]').forEach(b=>b.onclick=()=>{state.onlyFit=false;state.il=null; b.dataset.c==='TR'?go('tr'):go('country',b.dataset.c);});
+}
+function render(){
+  document.querySelectorAll('.tab').forEach(b=>b.setAttribute('aria-current',(b.dataset.view===state.view||((state.view==='country'||state.view==='tr'||state.view==='il')&&b.dataset.view==='home'))?'page':'false'));
+  if(state.view==='home') app.innerHTML=viewHome();
+  else if(state.view==='country') app.innerHTML=viewCountry();
+  else if(state.view==='calendar') app.innerHTML=viewCalendar();
+  else if(state.view==='match') app.innerHTML=viewMatch();
+  else if(state.view==='tr'){app.innerHTML=viewTR(); bindCommon(); filterIl(); return;}
+  else if(state.view==='il') app.innerHTML=viewIl();
+  else if(state.view==='calc'){app.innerHTML=viewCalc(); bindCalc(); return;}
+  else if(state.view==='arsiv') app.innerHTML=viewArsiv();
+  else if(state.view==='yeni') app.innerHTML=viewYeni();
+  else { app.innerHTML=viewSources(); }
+  bindCommon();
+}
+render();
+fetch('data/turnuvalar.json',{cache:'no-store'})
+  .then(r=>r.ok?r.json():null)
+  .then(v=>{ if(veriyiUygula(v)){ ziyaretHesapla(); render(); } })
+  .catch(()=>{});
+</script>
+</body>
+</html>

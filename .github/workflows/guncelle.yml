@@ -1,0 +1,73 @@
+name: Turnuvalari guncelle
+
+on:
+  schedule:
+    - cron: "0 3,11,17 * * *"     # Turkiye saatiyle 06:00, 14:00, 20:00
+  workflow_dispatch:               # GitHub'da "Run workflow" ile elle de calistirilabilir
+  push:
+    branches: [main]               # manuel.json'u ya da siteyi degistirince yeniden yayinla
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: guncelle
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    environment:
+      name: github-pages
+      url: ${{ steps.yayin.outputs.page_url }}
+    env:
+      PYTHONIOENCODING: utf-8
+      SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Kutuphaneler
+        run: pip install requests beautifulsoup4
+
+      - name: TSF 81 il taramasi
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python scripts/tsf_il_tarayici.py --cikti data/tr_tarama.json
+
+      - name: Yurt disi taramasi (MyChess.events)
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python scripts/yurtdisi_tarayici.py
+
+      - name: Birlestir, arsivle, bildir
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        run: python scripts/birlestir.py
+
+      - name: Veriyi kaydet
+        run: |
+          git config user.name "turnuva-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data feed.xml
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok"
+          else
+            git commit -m "Otomatik guncelleme $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: yayin
+        uses: actions/deploy-pages@v4
