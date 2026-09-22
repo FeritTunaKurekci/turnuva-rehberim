@@ -322,6 +322,20 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .moves .res{width:100%;text-align:center;font-weight:800;margin-top:6px}
 .hint{color:var(--dim);font-size:13px}
 .deneme{background:var(--warn-soft);border-radius:var(--r-sm);padding:8px 10px;font-size:14px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.profile.quick{padding:14px 18px}
+.pq-title{font-family:"Bricolage Grotesque",sans-serif;font-weight:700;font-size:17px;margin-bottom:8px}
+.pq-row{display:flex;gap:10px;flex-wrap:wrap;align-items:stretch}
+.pq-f{flex:1 1 120px;display:flex;align-items:center;gap:10px;background:var(--bg2);border:1px solid var(--line);border-radius:var(--r-sm);padding:6px 12px}
+.pq-f:focus-within{border-color:var(--acc)}
+.pq-f span{font-weight:700;color:var(--muted);font-size:13px}
+.pq-f input{flex:1;min-width:0;background:transparent;border:0;outline:none;font-family:"Bricolage Grotesque",sans-serif;font-size:26px;font-weight:800;color:var(--acc);-moz-appearance:textfield;width:100%}
+.pq-f input::-webkit-outer-spin-button,.pq-f input::-webkit-inner-spin-button{-webkit-appearance:none}
+.pq-f input::placeholder{font-size:14px;font-weight:500;color:var(--dim)}
+.pq-row .btn{border:0;cursor:pointer}
+.pf-hint a{color:var(--muted)}
+.bchips{display:flex;gap:8px;overflow-x:auto;padding:18px 0 4px;scrollbar-width:thin}
+.bchip{flex:none;display:inline-flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-weight:600;font-size:13px;cursor:pointer;white-space:nowrap;max-width:280px;overflow:hidden;text-overflow:ellipsis}
+.bchip[aria-pressed="true"]{border-color:var(--acc);background:var(--acc-soft);color:var(--acc)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
 </head>
@@ -619,15 +633,14 @@ const state = {view:'home', country:null, il:null, rating:2000, type:'ELO', only
 /* ---------- profil (FIDE listesinden ya da elle) ---------- */
 let PROFIL = null;
 try{ PROFIL = JSON.parse(localStorage.getItem('tr-profil')||'null'); }catch(e){}
-try{ if(!PROFIL){ const s=JSON.parse(localStorage.getItem('tr-rehber')||'{}');   // eski sürümden taşı
-  if(s.rating) PROFIL = s.type==='UKD'?{ukd:s.rating}:{elo:s.rating}; } }catch(e){}
+// eski sürümün tek reyting kutusu artık kullanılmıyor; herkes profilini isimle oluşturur
 function profilUygula(){
   const p=PROFIL||{};
   state.rating = p.elo || p.ukd || 0;
   state.type = p.elo ? 'ELO' : 'UKD';
 }
 function profilKaydet(p){ PROFIL=p; try{ localStorage.setItem('tr-profil', JSON.stringify(p)); }catch(e){} profilUygula();
-  try{ if(p){ if(p.elo) calc.elo.r=p.elo; if([40,20,10].includes(+p.k)) calc.elo.k=+p.k; if(p.ukd) calc.ukd.r=p.ukd; } }catch(e){} }
+  try{ if(p){ if(p.elo) calc.elo.r=p.elo; if(p.ukd) calc.ukd.r=p.ukd; } }catch(e){} }
 function save(){}   // eski çağrılar için
 profilUygula();
 
@@ -668,70 +681,38 @@ async function fideAra(sorgu){
 function fideAdi(n){ const [s,a]=String(n).split(','); return a? `${a.trim()} ${s.trim()}` : n; }
 const UNVAN={GM:'GM',IM:'IM',FM:'FM',CM:'CM',WGM:'WGM',WIM:'WIM',WFM:'WFM',WCM:'WCM',g:'GM',m:'IM',f:'FM',c:'CM',wg:'WGM',wm:'WIM',wf:'WFM',wc:'WCM'};
 
-let profilSonuc=null, profilDurum='';
 function profilKarti(){
-  const p=PROFIL;
-  if(p && (p.elo||p.ukd)){
-    return `<div class="profile">
-      <div class="pf-main">
-        <div class="pf-avatar">${esc((p.ad||'?').trim().charAt(0).toLocaleUpperCase('tr'))}</div>
-        <div><div class="pf-name">${p.unvan?`<span class="ttl">${esc(p.unvan)}</span> `:''}${esc(p.ad||'Profilim')}</div>
-          <div class="pf-sub">${p.fideId?`FIDE ID ${p.fideId}${p.dogum?`, ${p.dogum} doğumlu`:''}`:'Elle girilen reyting'}</div></div>
-      </div>
-      <div class="pf-stats">
-        <div><small>Standart</small><b>${p.elo||'–'}</b>${p.k?`<i>K${p.k}</i>`:''}</div>
-        <div><small>Hızlı</small><b>${p.hizli||'–'}</b></div>
-        <div><small>Yıldırım</small><b>${p.yildirim||'–'}</b></div>
-        <div><small>UKD</small><input class="pf-ukd" id="pfukd" type="number" inputmode="numeric" placeholder="gir" value="${p.ukd||''}" aria-label="UKD puanın"></div>
-      </div>
-      <div class="pf-actions">
-        <button class="btn pri" data-view-go="match">Bana uygun turnuvalar</button>
-        ${p.fideId?`<a class="btn" href="https://ratings.fide.com/profile/${p.fideId}" target="_blank" rel="noopener">FIDE profili</a>`:''}
-        <a class="btn" href="https://ukd.tsf.org.tr/" target="_blank" rel="noopener">UKD sorgula</a>
-        <button class="btn" id="pfdegis">Değiştir</button>
-      </div>
-    </div>`;
-  }
-  return `<div class="profile setup">
-    <div class="pf-q"><label for="pfad">Adın soyadın</label>
-      <div class="pf-row"><input class="inp pf-in" id="pfad" placeholder="ör. Ferit Tuna Kürekci" autocomplete="name"><button class="btn pri" id="pfara">FIDE'de bul</button></div>
-      <div class="pf-hint">${esc(profilDurum)||'Türkiye FIDE listesinde ararız; standart, hızlı ve yıldırım reytingin kendiliğinden gelir.'}</div>
+  const p=PROFIL||{};
+  return `<div class="profile quick">
+    <div class="pq-title">Reytinglerin</div>
+    <div class="pq-row">
+      <label class="pq-f"><span>ELO</span><input id="pfelo" type="number" inputmode="numeric" min="0" max="3000" placeholder="yoksa boş" value="${p.elo||''}"></label>
+      <label class="pq-f"><span>UKD</span><input id="pfukd" type="number" inputmode="numeric" min="0" max="3000" placeholder="yoksa boş" value="${p.ukd||''}"></label>
+      <button class="btn pri" id="pfbul">Bana uygun turnuvalar</button>
     </div>
-    ${profilSonuc?`<div class="pf-res">${profilSonuc.length?profilSonuc.map(k=>`<button class="pf-hit" data-fide="${k[0]}"><span class="nm">${k[2]&&UNVAN[k[2]]?`<span class="ttl">${UNVAN[k[2]]}</span> `:''}${esc(fideAdi(k[1]))}</span><span class="yr">${k[6]||''}</span><span class="rt">${k[3]||'–'}<small> std</small></span></button>`).join(''):'<div class="pf-none">FIDE listesinde bulunamadı. ELO’n yoksa aşağıya UKD’ni yazabilirsin.</div>'}</div>`:''}
-    <details class="pf-manual" ${profilSonuc&&!profilSonuc.length?'open':''}><summary>Listede yoksan ya da elle girmek istersen</summary>
-      <div class="pf-row"><input class="inp" id="pfelo" type="number" placeholder="FIDE ELO (yoksa boş)"><input class="inp" id="pfukd2" type="number" placeholder="UKD"><button class="btn" id="pfkaydet">Kaydet</button></div>
-    </details>
+    <div class="pf-hint">Türkiye’deki turnuvalarda ikisinden yüksek olanı, yurt dışında FIDE ELO’nu esas alırım. Yazdıkların bu tarayıcıda saklanır.
+      <a href="https://ratings.fide.com/" target="_blank" rel="noopener">ELO’nu bul</a> · <a href="https://ukd.tsf.org.tr/" target="_blank" rel="noopener">UKD’ni bul</a></div>
   </div>`;
 }
 function profilSeridi(){
   const p=PROFIL;
-  if(!p||!(p.elo||p.ukd)) return `<div class="pbar"><span>Sana uygun grupları görmek için profilini oluştur.</span><button class="btn pri" data-view-go="home">Profil oluştur</button></div>`;
-  return `<div class="pbar"><span class="pf-avatar sm">${esc((p.ad||'?').trim().charAt(0).toLocaleUpperCase('tr'))}</span>
-    <span><b>${esc(p.ad||'Profilim')}</b> ${p.elo?`${p.elo} ELO`:'ELO yok'}${p.ukd?`, ${p.ukd} UKD`:''}</span>
+  if(!p||!(p.elo||p.ukd)) return `<div class="pbar"><span></span><span>Sana uygun grupları görmek için ELO ya da UKD’ni gir.</span><button class="btn pri sm" data-view-go="home">Reyting gir</button></div>`;
+  return `<div class="pbar"><span class="pf-avatar sm">♟</span>
+    <span>${p.elo?`<b>${p.elo}</b> ELO`:'ELO yok'}${p.ukd?` · <b>${p.ukd}</b> UKD`:''}</span>
     <button class="btn sm" data-view-go="home">Değiştir</button></div>`;
 }
 function bindRating(){
-  const ara=async()=>{ const q=document.getElementById('pfad').value.trim(); if(q.length<3){profilDurum='En az 3 harf yaz.'; render(); return;}
-    profilDurum='Aranıyor…'; profilSonuc=null; render();
-    try{ profilSonuc=await fideAra(q); profilDurum=profilSonuc.length?`${profilSonuc.length} sonuç. Kendini seç.`:''; }
-    catch(e){ profilSonuc=[]; profilDurum='FIDE listesi yüklenemedi; elle girebilirsin.'; }
-    render(); const i=document.getElementById('pfad'); if(i){ i.value=q; } };
-  const ad=document.getElementById('pfad');
-  if(ad){ ad.onkeydown=e=>{ if(e.key==='Enter') ara(); }; document.getElementById('pfara').onclick=ara; }
-  document.querySelectorAll('[data-fide]').forEach(b=>b.onclick=()=>{
-    const k=profilSonuc.find(x=>String(x[0])===b.dataset.fide); if(!k) return;
-    profilKaydet({ad:fideAdi(k[1]), fideId:k[0], unvan:UNVAN[k[2]]||'', elo:k[3]||0, hizli:k[4]||0, yildirim:k[5]||0, dogum:k[6]||'', k:k[8]||'', ukd:(PROFIL&&PROFIL.ukd)||0});
-    profilSonuc=null; profilDurum=''; render(); });
-  const kay=document.getElementById('pfkaydet');
-  if(kay) kay.onclick=()=>{ const elo=parseInt(document.getElementById('pfelo').value)||0, ukd=parseInt(document.getElementById('pfukd2').value)||0;
-    if(!elo&&!ukd) return; profilKaydet({ad:(document.getElementById('pfad').value||'').trim()||'Profilim', elo, ukd}); profilSonuc=null; render(); };
-  const u=document.getElementById('pfukd');
-  if(u){ const kaydetUkd=()=>{ PROFIL.ukd=parseInt(u.value)||0; profilKaydet(PROFIL); renderBody(); }; u.onchange=kaydetUkd; u.onkeydown=e=>{ if(e.key==='Enter'){ kaydetUkd(); u.blur(); } }; }
-  const d=document.getElementById('pfdegis'); if(d) d.onclick=()=>{ profilKaydet(null); try{localStorage.removeItem('tr-profil')}catch(e){} render(); setTimeout(()=>document.getElementById('pfad')?.focus(),0); };
+  const e=document.getElementById('pfelo'), u=document.getElementById('pfukd');
+  if(!e) return;
+  const kaydet=()=>{ profilKaydet({...(PROFIL||{}), elo:parseInt(e.value)||0, ukd:parseInt(u.value)||0}); renderBody(); };
+  [e,u].forEach(i=>{ i.oninput=kaydet; i.onkeydown=ev=>{ if(ev.key==='Enter'){ kaydet(); go('match'); } }; });
+  document.getElementById('pfbul').onclick=()=>{ kaydet(); go('match'); };
 }
 
 const app = document.getElementById('app');
-function go(view,country){ if(view!=='canli') canliDurdur(); state.view=view;state.country=country||null;render();window.scrollTo({top:0});}
+function go(view,country){ if(view!=='canli') canliDurdur();
+  if(view==='canli' && CANLI.seg && !CANLI.zaman){ const s=CANLI.seg; setTimeout(()=> CANLI.mod==='oyun' ? canliOyunAc(CANLI.secili) : canliTurAc(`${LI}/broadcast/${s.tslug}/${s.rslug}/${s.rid}`),0); }
+  state.view=view;state.country=country||null;render();window.scrollTo({top:0});}
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>go(b.dataset.view));
 document.getElementById('logo').onclick=()=>go('home');
 document.getElementById('q').oninput=e=>{state.q=e.target.value.trim().toLocaleLowerCase('tr'); if(state.view!=='home'&&state.view!=='country'&&state.view!=='calendar') state.view='calendar'; render();};
@@ -780,7 +761,7 @@ function yeniSeridi(){
 function yourGroup(t){
   const p=PROFIL||{};
   if(!(p.elo||p.ukd)) return '';
-  if(t.c!=='TR' && !p.elo) return `<div class="yg no">Yurt dışı turnuvalarda FIDE ELO esas alınır; ELO’n olmadığı için grubunu hesaplayamadım.</div>`;
+  if(t.c!=='TR' && !p.elo) return `<div class="yg no">Yurt dışında FIDE ELO esas alınır; ELO’nu girersen grubunu gösteririm.</div>`;
   const r=effRating(t), f=fitSecs(t,r);
   if(f.length) return `<div class="yg">♟ ${reytingEtiketi(t)} ile bu turnuvada <b>${f.map(s=>esc(secLabel(s))).join('</b> ya da <b>')}</b> grubunda oynarsın.</div>`;
   if(t.sections.every(s=>s.inv)) return `<div class="yg no">Davet ya da federasyon seçmesiyle katılınıyor.</div>`;
@@ -908,7 +889,7 @@ function viewMatch(){
   const up=upcoming();
   const ok=up.filter(t=>fits(t,effRating(t)));
   const tr=ok.filter(t=>t.c==='TR'), ab=ok.filter(t=>t.c!=='TR');
-  const p=PROFIL||{}; const head= r?`${p.ad&&p.ad!=='Profilim'?esc(p.ad.split(' ')[0])+', s':'S'}ana uygun ${ok.length} turnuva buldum`:'Önce profilini oluştur';
+  const head= r?`Sana uygun ${ok.length} turnuva buldum`:'Önce ELO ya da UKD’ni gir';
   return `<div class="page-h"><h1>${head}</h1><p>Her kartta hangi grupta oynayacağın yazıyor. Türkiye’de ELO ve UKD’nden yüksek olanı, yurt dışında FIDE standart reytingini esas aldım; kesin kural her turnuvanın yönergesinde.</p></div>
   ${profilSeridi()}
   ${r?`<h2 class="sect">Türkiye <span>${tr.length}</span></h2><div class="tlist">${tr.length?tr.map(t=>tCard(t)).join(''):'<div class="emptybox">Taranan illerde şu an senin reytingine uygun ilan yok. 81 ilin tamamı taranınca bu liste büyüyecek.</div>'}</div>
@@ -1017,7 +998,9 @@ function raundUrl(x){ const r=turunRaundu(x); if(!r) return x.tour&&x.tour.url;
 
 async function canliListeGetir(){
   CANLI.yukleniyor=true; CANLI.hata=''; render();
-  try{ CANLI.liste = await canliJson(`${LI}/api/broadcast/top?page=1`); }
+  try{ CANLI.liste = await canliJson(`${LI}/api/broadcast/top?page=1`);
+    const ilk=(CANLI.liste.active||[])[0];
+    if(ilk && CANLI.mod==='liste' && state.view==='canli'){ CANLI.yukleniyor=false; return canliTurAc(raundUrl(ilk)); } }
   catch(e){ CANLI.hata = e.message && !/fetch/i.test(e.message) ? e.message : 'Lichess’e bağlanılamadı. (Claude önizlemesinde canlı veri çalışmaz; GitHub’daki sitende çalışır.)'; }
   CANLI.yukleniyor=false; if(state.view==='canli') render();
 }
@@ -1029,6 +1012,7 @@ function yayinLinkiCoz(url){
 }
 async function canliTurAc(url, oyunId){
   const s=yayinLinkiCoz(url); if(!s){ alert('Bu bir Lichess yayın linki gibi görünmüyor.'); return; }
+  if(!CANLI.liste) canliJson(`${LI}/api/broadcast/top?page=1`).then(v=>{ CANLI.liste=v; if(CANLI.mod==='tur') render(); }).catch(()=>{});
   CANLI.seg=s; CANLI.mod='tur'; CANLI.tur=null; CANLI.oyunlar=[]; CANLI.turlar=null; CANLI.hata=''; CANLI.yukleniyor=true;
   canliDurdur(); render(); window.scrollTo({top:0});
   await canliTurYenile();
@@ -1184,7 +1168,6 @@ function viewCanli(){
         <div class="bc-name">${esc(t.name||'')}</div></div></button>`; };
   const L=CANLI.liste;
   return `<div class="page-h"><h1>Canlı</h1><p>Lichess’in yayınladığı turnuvaları kendi tahtamızda izle, hamleleri geri sar, Stockfish ile analiz et. Türk oyuncuların oyunları öne çıkar.</p></div>
-  <div class="trtools"><input class="search ilsearch" id="yayinlink" placeholder="Lichess yayın linkini yapıştır (lichess.org/broadcast/…)"><button class="btn pri" id="yayinac">Aç</button><button class="btn" id="yayinyenile">Yenile</button></div>
   ${CANLI.hata?`<div class="emptybox">${esc(CANLI.hata)}</div>`:''}
   ${CANLI.yukleniyor?'<div class="emptybox">Yayınlar yükleniyor…</div>':''}
   ${L?`<h2 class="sect">Şu an oynananlar <span>${(L.active||[]).length}</span></h2><div class="bcgrid">${(L.active||[]).map(kart).join('')||'<div class="emptybox">Şu an canlı yayın yok.</div>'}</div>
@@ -1200,7 +1183,9 @@ function turOyunlari(){
 }
 function viewCanliTur(){
   const v=CANLI.tur, t=v&&v.tour||{}, r=v&&v.round||{};
-  return `<button class="back" id="canligeri">‹ Tüm yayınlar</button>
+  const akt=(CANLI.liste&&CANLI.liste.active)||[];
+  return `${akt.length>1?`<div class="bchips" role="tablist" aria-label="Canlı turnuvalar">${akt.map(x=>{const rr=turunRaundu(x)||{};
+      return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}">${rr.ongoing?'<i class="ldot"></i>':''}${esc(x.tour.name)}</button>`;}).join('')}</div>`:''}
   <div class="lhead"><div><h1>${esc(t.name||'Yükleniyor…')}</h1>
     <div class="csub">${r.ongoing?'<span class="live">CANLI</span> ':''}${esc(r.name||'')}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
     ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(x.name)}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
