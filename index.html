@@ -992,7 +992,7 @@ function rerenderCalc(id,focusLast){
 const LI = 'https://lichess.org';
 const CANLI = { mod:'liste', liste:null, hata:'', yukleniyor:false, tur:null, turlar:null, oyunlar:[], seg:null,
   secili:null, poz:null, ply:0, takip:true, sadeceTR:false, trOnce:true, flip:false, deneme:null, secKare:null,
-  zaman:null, motorAcik:true, analiz:null, sonGuncelleme:null };
+  zaman:null, motorAcik:false, analiz:null, sonGuncelleme:null };
 
 function canliDurdur(){ if(CANLI.zaman){ clearInterval(CANLI.zaman); CANLI.zaman=null; }
   if(CANLI.tik){ clearInterval(CANLI.tik); CANLI.tik=null; } motorDur(); }
@@ -1039,7 +1039,6 @@ function raundUrl(x){ const r=turunRaundu(x); if(!r) return x.tour&&x.tour.url;
 async function canliListeGetir(){
   CANLI.yukleniyor=true; CANLI.hata=''; render();
   try{ CANLI.liste = await canliJson(`${LI}/api/broadcast/top?page=1`);
-    setTimeout(canliDurumTara,1200);
     const ilk=(CANLI.liste.active||[])[0];
     if(ilk && CANLI.mod==='liste' && state.view==='canli'){ CANLI.yukleniyor=false; return canliTurAc(raundUrl(ilk)); } }
   catch(e){ CANLI.hata = e.message && !/fetch/i.test(e.message) ? e.message : 'Lichess’e bağlanılamadı. (Claude önizlemesinde canlı veri çalışmaz; GitHub’daki sitende çalışır.)'; }
@@ -1053,7 +1052,7 @@ function yayinLinkiCoz(url){
 }
 async function canliTurAc(url, oyunId){
   const s=yayinLinkiCoz(url); if(!s){ alert('Bu bir Lichess yayın linki gibi görünmüyor.'); return; }
-  if(!CANLI.liste) canliJson(`${LI}/api/broadcast/top?page=1`).then(v=>{ CANLI.liste=v; if(CANLI.mod==='tur') render(); setTimeout(canliDurumTara,1200); }).catch(()=>{});
+  if(!CANLI.liste) canliJson(`${LI}/api/broadcast/top?page=1`).then(v=>{ CANLI.liste=v; if(CANLI.mod==='tur') render(); }).catch(()=>{});
   CANLI.seg=s; CANLI.mod='tur'; CANLI.tur=null; CANLI.oyunlar=[]; CANLI.turlar=null; CANLI.hata=''; CANLI.yukleniyor=true;
   canliDurdur(); render(); window.scrollTo({top:0});
   await canliTurYenile();
@@ -1115,6 +1114,9 @@ async function canliPgnYenile(ilk){
 
 /* ---------- tahta ---------- */
 const TAS = {k:'K',q:'Q',r:'R',b:'B',n:'N',p:'P'};
+const BASLANGIC = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1';
+/* oyun henüz başlamadıysa boş tahta yerine normal diziliş */
+function tahtaFen(fen){ return (!fen || /^8\/8\/8\/8\/8\/8\/8\/8/.test(fen)) ? BASLANGIC : fen; }
 function fenIzgara(fen){
   const satir=fen.split(' ')[0].split('/'), g=[];
   satir.forEach(r=>{ const s=[]; for(const ch of r){ if(/\d/.test(ch)) for(let i=0;i<+ch;i++) s.push(null); else s.push(ch); } g.push(s); });
@@ -1227,7 +1229,9 @@ function analizCiz(){
   if(!bar) return;
   const y=evalYuzde(a); bar.style.height=y+'%';
   if(yz) yz.textContent=evalYazi(a);
-  if(ln) ln.innerHTML = a&&a.pv ? `<b>${evalYazi(a)}</b> <span class="dep">derinlik ${a.derinlik}</span> ${esc(pvSan(a.fen,a.pv))}` : (a&&a.hata?esc(a.hata):'Motor düşünüyor…');
+  if(ln) ln.innerHTML = !CANLI.motorAcik ? 'Açmak için kutuyu işaretle; analiz senin bilgisayarında çalışır.'
+    : a&&a.pv ? `<b>${evalYazi(a)}</b> <span class="dep">derinlik ${a.derinlik}</span> ${esc(pvSan(a.fen,a.pv))}`
+    : (a&&a.hata?esc(a.hata):'Motor düşünüyor…');
 }
 
 /* ---------- görünümler ---------- */
@@ -1238,7 +1242,7 @@ function viewCanli(){
   const kart = x => { const r=turunRaundu(x)||{}, t=x.tour||{};
     return `<button class="bc" data-yayin="${esc(raundUrl(x))}">
       <div class="bc-img">${t.image?`<img src="${esc(t.image)}" alt="" loading="lazy">`:'<span>♟</span>'}</div>
-      <div class="bc-body"><div class="bc-meta">${raundCanli(x)?'<span class="live">CANLI</span>':''}${esc(temizAd(r.name))}${!raundCanli(x)&&r.startsAt?` · ${new Date(r.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}`:''}</div>
+      <div class="bc-body"><div class="bc-meta">${esc(temizAd(r.name))}${r.startsAt?` · ${new Date(r.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}`:''}</div>
         <div class="bc-name">${esc(temizAd(t.name))}</div></div></button>`; };
   const L=CANLI.liste;
   return `<div class="page-h"><h1>Canlı</h1><p>Lichess’in yayınladığı turnuvaları kendi tahtamızda izle, hamleleri geri sar, Stockfish ile analiz et. Türk oyuncuların oyunları öne çıkar.</p></div>
@@ -1259,12 +1263,10 @@ function viewCanliTur(){
   const v=CANLI.tur, t=v&&v.tour||{}, r=v&&v.round||{};
   const akt=(CANLI.liste&&CANLI.liste.active)||[];
   return `${akt.length>1?`<div class="bchips" role="tablist" aria-label="Canlı turnuvalar">${akt.map(x=>{const rr=turunRaundu(x)||{};
-      const canli = raundCanli(x);
-      const ne = canli ? '<i class="ldot" title="Şu an oynanıyor"></i>'
-        : rr.startsAt ? `<i class="bsaat">${new Date(rr.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}</i>` : '';
-      return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}" title="${canli?'Şu an oynanıyor':'Şu an oyun akmıyor'}">${ne}${esc(temizAd(x.tour.name))}</button>`;}).join('')}</div>`:''}
+      const ne = rr.startsAt ? `<i class="bsaat">${new Date(rr.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}</i>` : '';
+      return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}">${ne}${esc(temizAd(x.tour.name))}</button>`;}).join('')}</div>`:''}
   <div class="lhead"><div><h1>${esc(temizAd(t.name)||'Yükleniyor…')}</h1>
-    <div class="csub">${turAkiyor()?'<span class="live">CANLI</span> ':''}${esc(temizAd(r.name))}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
+    <div class="csub">${esc(temizAd(r.name))}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
     ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(temizAd(x.name))}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
   </div>
   <div class="toolbar"><button class="trbtn" id="trfiltre" aria-pressed="${CANLI.sadeceTR}" title="Sadece Türk oyuncuların tahtalarını göster"><span class="fl-tr">${flag('TR')}</span><span>Sadece Türk oyuncular</span></button>
@@ -1279,7 +1281,7 @@ function turGovde(){
   return `<div class="mgrid">${g.map(x=>{ const [w,b]=x.players||[]; const st=x.status;
     return `<button class="mcard ${(x.players||[]).some(p=>p&&p.fed==='TUR')?'trg':''}" data-oyun="${x.id}">
       ${oyuncuHTML(b,{kisa:true,saat:saat(saatDegeri(x,'b')),clkKey:`${x.id}|b`,aktif:akiyor(x)&&aktifRenk(x)==='b',puan:sonucPuan(st,false)})}
-      ${tahtaHTML(x.fen||'8/8/8/8/8/8/8/8 w - - 0 1',{mini:true,son:x.lastMove,sah:x.check})}
+      ${tahtaHTML(tahtaFen(x.fen),{mini:true,son:x.lastMove,sah:x.check})}
       ${oyuncuHTML(w,{kisa:true,saat:saat(saatDegeri(x,'w')),clkKey:`${x.id}|w`,aktif:akiyor(x)&&aktifRenk(x)==='w',puan:sonucPuan(st,true)})}
     </button>`;}).join('')}</div>`;
 }
@@ -1305,7 +1307,7 @@ function viewCanliOyun(){
     </div>
     <aside class="gside">
       <div class="engine"><label class="eng-t"><input type="checkbox" id="motorac" ${CANLI.motorAcik?'checked':''}> Stockfish analizi</label>
-        <div id="evalline" class="eline">${CANLI.motorAcik?'Motor düşünüyor…':'Kapalı'}</div></div>
+        <div id="evalline" class="eline">${CANLI.motorAcik?'Motor düşünüyor…':'Açmak için kutuyu işaretle; analiz senin bilgisayarında çalışır.'}</div></div>
       ${CANLI.deneme?`<div class="deneme">Deneme: ${esc(CANLI.deneme.hamleler.join(' '))} <button class="btn sm" id="denemecik">Oyuna dön</button></div>`:'<div class="hint">İpucu: tahtada bir taşa, sonra gideceği kareye tıklayarak kendi hamleni dene; motor anında değerlendirir. Ok tuşlarıyla hamleler arasında gez.</div>'}
       <div class="moves" id="hamleler">${hamleListesi(ply)}</div>
       <div class="links">
@@ -1330,7 +1332,7 @@ function canliSaatKey(renk){
   return `${CANLI.secili}|${renk}`;
 }
 function buyukTahta(){
-  const P=CANLI.poz; if(!P) return tahtaHTML('8/8/8/8/8/8/8/8 w - - 0 1',{koord:true});
+  const P=CANLI.poz; if(!P){ const g=CANLI.oyunlar.find(x=>x.id===CANLI.secili)||{}; return tahtaHTML(tahtaFen(g.fen),{koord:true,flip:CANLI.flip}); }
   const fen=gosterilenFen();
   const son = CANLI.deneme ? CANLI.deneme.son : P.poz[Math.min(CANLI.ply,P.poz.length-1)].uci;
   let hedef=null;
