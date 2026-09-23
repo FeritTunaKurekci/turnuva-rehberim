@@ -6,27 +6,23 @@ on:
   workflow_dispatch:
     inputs:
       tarama:
-        description: "Taramalari calistir (false = sadece yayinla)"
+        description: "Taramalari calistir (false = sadece veriyi birlestir)"
         default: "true"
-  push:
-    branches: [main]
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: guncelle
+  group: tarama
   cancel-in-progress: false
 
+# Site artik dogrudan main dalindan yayinlanir (Pages: deploy from branch).
+# Bu is akisi sadece turnuva verisini toplar ve kaydeder; yayin GitHub tarafinda
+# kendiliginden olur, kuyruk beklemez.
 jobs:
   guncelle:
     runs-on: ubuntu-latest
     timeout-minutes: 150
-    environment:
-      name: github-pages
-      url: ${{ steps.yayin.outputs.page_url }}
     env:
       PYTHONIOENCODING: utf-8
       SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
@@ -59,9 +55,6 @@ jobs:
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
         run: python scripts/birlestir.py
 
-      # Tarama surerken sen de bir sey yukleyebilirsin. O yuzden once en son hali cekip
-      # uzerine yaziyoruz; veri dosyalarinda cakisma olursa botun yeni verisi kazanir.
-      # Kaydetme basarisiz olsa bile site yine yayinlanir (continue-on-error).
       - name: Veriyi kaydet
         continue-on-error: true
         run: |
@@ -76,11 +69,4 @@ jobs:
             if git push origin HEAD:main; then echo "Kaydedildi"; exit 0; fi
             echo "Push reddedildi, tekrar deneniyor ($deneme)"; sleep 10
           done
-          echo "::warning::Veri kaydedilemedi, site yine de yayinlaniyor"
-
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-      - id: yayin
-        uses: actions/deploy-pages@v4
+          echo "::warning::Veri kaydedilemedi"
