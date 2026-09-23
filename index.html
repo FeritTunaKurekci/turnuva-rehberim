@@ -385,6 +385,8 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .bul-bilgi .satir{display:flex;justify-content:space-between;font-size:14px;color:var(--muted)}
 .bul-bilgi .satir b{color:var(--text);font-size:16px}
 .konular{display:flex;flex-wrap:wrap;gap:6px}
+.bul-zorluk{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.bul-zorluk .inp{font-weight:500;color:var(--text)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
 </head>
@@ -1570,8 +1572,18 @@ document.addEventListener('keydown',e=>{
 /* ================= BULMACA: Lichess'in CC0 bulmaca veritabanı, puanlı ================= */
 const BUL = { kova:{}, meta:null, p:null, oyun:null, cozum:[], adim:0, durum:'yukleniyor', flip:false,
   secKare:null, hata:'', ipucu:null, gosterildi:false, puanDegisim:null, yukleniyor:false };
-let PROFIL_B = { reyting:1500, cozulen:0, dogru:0, seri:0, enIyiSeri:0, gorulen:[] };
-try{ const s=JSON.parse(localStorage.getItem('tr-bulmaca')||'null'); if(s&&s.reyting) PROFIL_B={...PROFIL_B,...s}; }catch(e){}
+let PROFIL_B = { reyting:null, cozulen:0, dogru:0, seri:0, enIyiSeri:0, gorulen:[], zorluk:0 };
+try{ const s=JSON.parse(localStorage.getItem('tr-bulmaca')||'null'); if(s) PROFIL_B={...PROFIL_B,...s}; }catch(e){}
+/* Başlangıç puanı: profilindeki ELO/UKD. Hiç reyting yoksa 1500'den başlar,
+   sonrası çözdükçe kendi kendine yükselir ya da düşer. */
+function bulBaslangic(){
+  const p=PROFIL||{};
+  return Math.max(p.elo||0, p.ukd||0) || 1500;
+}
+function bulReyting(){
+  if(PROFIL_B.reyting==null){ PROFIL_B.reyting = bulBaslangic(); bulKaydet(); }
+  return PROFIL_B.reyting;
+}
 function bulKaydet(){ try{ localStorage.setItem('tr-bulmaca', JSON.stringify({...PROFIL_B, gorulen:PROFIL_B.gorulen.slice(-400)})); }catch(e){} }
 
 const BUL_KOVA = 100, BUL_ALT = 600, BUL_UST = 2700;
@@ -1585,7 +1597,7 @@ async function bulKovaGetir(k){
 }
 async function bulmacaSec(){
   BUL.yukleniyor=true; BUL.hata=''; render();
-  const hedef = bulKova(PROFIL_B.reyting);
+  const hedef = bulKova(bulReyting() + (PROFIL_B.zorluk||0));
   const adaylar = [hedef, hedef-BUL_KOVA, hedef+BUL_KOVA, hedef-2*BUL_KOVA, hedef+2*BUL_KOVA]
     .filter(k=>k>=BUL_ALT && k<=BUL_UST);
   let havuz=[];
@@ -1642,7 +1654,7 @@ function bulBitir(dogru){
   const beklenen = 1/(1+Math.pow(10,(pr-PROFIL_B.reyting)/400));
   const K = PROFIL_B.cozulen<20 ? 40 : 24;
   const delta = BUL.gosterildi ? 0 : Math.round(K*((dogru?1:0)-beklenen));
-  PROFIL_B.reyting = Math.max(400, PROFIL_B.reyting + delta);
+  PROFIL_B.reyting = Math.max(400, bulReyting() + delta);
   PROFIL_B.cozulen++; if(dogru) PROFIL_B.dogru++;
   PROFIL_B.seri = dogru ? PROFIL_B.seri+1 : 0;
   PROFIL_B.enIyiSeri = Math.max(PROFIL_B.enIyiSeri, PROFIL_B.seri);
@@ -1716,7 +1728,7 @@ function viewBulmaca(){
     </div>
     <aside class="bul-sag">
       <div class="bul-puan">
-        <div><small>Bulmaca puanın</small><strong>${PROFIL_B.reyting}</strong></div>
+        <div><small>Bulmaca puanın</small><strong>${bulReyting()}</strong>${!PROFIL_B.cozulen?`<i>${(PROFIL&&(PROFIL.elo||PROFIL.ukd))?'reytinginden başladı':'varsayılan'}</i>`:''}</div>
         <div><small>Seri</small><strong>${PROFIL_B.seri}</strong>${PROFIL_B.enIyiSeri?`<i>en iyi ${PROFIL_B.enIyiSeri}</i>`:''}</div>
         <div><small>Çözülen</small><strong>${PROFIL_B.cozulen}</strong>${PROFIL_B.cozulen?`<i>%${oran} doğru</i>`:''}</div>
       </div>
@@ -1725,6 +1737,16 @@ function viewBulmaca(){
         ${BUL.durum==='bitti'&&p[4]?`<div class="konular">${String(p[4]).split(' ').filter(Boolean).slice(0,6).map(k=>`<span class="sec">${esc(bulKonuAdi(k))}</span>`).join('')}</div>`:'<div class="hint">Konular çözdükten sonra görünür (ipucu vermesin diye).</div>'}
         ${BUL.durum==='bitti'&&p[5]?`<div class="links"><a class="btn" href="${esc(p[5])}" target="_blank" rel="noopener">Oyunun tamamı</a><a class="btn" href="https://lichess.org/training/${esc(p[0])}" target="_blank" rel="noopener">Lichess’te aç</a></div>`:''}
       </div>`:''}
+      <label class="bul-zorluk">Zorluk
+        <select class="inp" id="bulzor">
+          <option value="-400" ${PROFIL_B.zorluk===-400?'selected':''}>Çok kolay (puanının 400 altı)</option>
+          <option value="-200" ${PROFIL_B.zorluk===-200?'selected':''}>Kolay (200 altı)</option>
+          <option value="0" ${!PROFIL_B.zorluk?'selected':''}>Normal (kendi puanın)</option>
+          <option value="200" ${PROFIL_B.zorluk===200?'selected':''}>Zor (200 üstü)</option>
+          <option value="400" ${PROFIL_B.zorluk===400?'selected':''}>Çok zor (400 üstü)</option>
+        </select>
+      </label>
+      <button class="btn sm" id="bulsifirla">Puanı reytingimden başlat</button>
       <div class="hint">Taşa, sonra gideceği kareye tıkla. Bulmacalar Lichess’in CC0 lisanslı veritabanından; puan hesabı bu sitede, senin tarayıcında tutulur.</div>
     </aside>
   </div>`;
@@ -1736,6 +1758,8 @@ function bindBulmaca(){
   if(q('bulcozum')) q('bulcozum').onclick=bulCozumuGoster;
   if(q('bulsonraki')) q('bulsonraki').onclick=()=>{ if(BUL.durum!=='bitti'&&BUL.p){ PROFIL_B.gorulen.push(BUL.p[0]); bulKaydet(); } bulmacaSec(); };
   if(q('bulcevir')) q('bulcevir').onclick=()=>{ BUL.flip=!BUL.flip; bulCiz(); };
+  if(q('bulzor')) q('bulzor').onchange=e=>{ PROFIL_B.zorluk=parseInt(e.target.value)||0; bulKaydet(); bulmacaSec(); };
+  if(q('bulsifirla')) q('bulsifirla').onclick=()=>{ PROFIL_B.reyting=bulBaslangic(); PROFIL_B.cozulen=0; PROFIL_B.dogru=0; PROFIL_B.seri=0; bulKaydet(); bulmacaSec(); };
 }
 
 function viewArsiv(){
