@@ -342,8 +342,12 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .bchip{flex:none;display:inline-flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-weight:600;font-size:13px;cursor:pointer;white-space:nowrap;max-width:280px;overflow:hidden;text-overflow:ellipsis}
 .bchip[aria-pressed="true"]{border-color:var(--acc);background:var(--acc-soft);color:var(--acc)}
 .bsaat{font-style:normal;font-size:11px;color:var(--dim);font-weight:600}
-.fl-mini{display:inline-block;width:18px;height:12px;border-radius:2px;overflow:hidden;flex:none}
-.fl-mini svg{display:block;width:100%;height:100%}
+.trbtn{display:inline-flex;align-items:center;gap:9px;background:none;border:0;padding:2px 0;color:var(--muted);font-weight:600;font-size:14px;cursor:pointer}
+.trbtn:hover{color:var(--text)}
+.trbtn[aria-pressed="true"]{color:var(--acc)}
+.fl-tr{display:inline-block;width:30px;height:20px;border-radius:3px;overflow:hidden;flex:none;opacity:.55;filter:grayscale(.5)}
+.fl-tr svg{display:block;width:100%;height:100%}
+.trbtn[aria-pressed="true"] .fl-tr{opacity:1;filter:none;box-shadow:0 0 0 2px var(--acc)}
 .chip{display:inline-flex;align-items:center;gap:7px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
@@ -1223,7 +1227,7 @@ function viewCanliTur(){
     <div class="csub">${r.ongoing?'<span class="live">CANLI</span> ':''}${esc(r.name||'')}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
     ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(x.name)}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
   </div>
-  <div class="toolbar"><button class="chip" id="trfiltre" aria-pressed="${CANLI.sadeceTR}"><span class="fl-mini">${flag('TR')}</span>Sadece Türk oyuncular</button>
+  <div class="toolbar"><button class="trbtn" id="trfiltre" aria-pressed="${CANLI.sadeceTR}" title="Sadece Türk oyuncuların tahtalarını göster"><span class="fl-tr">${flag('TR')}</span><span>Sadece Türk oyuncular</span></button>
     <span class="count">${CANLI.oyunlar.length} oyun, 15 saniyede bir yenilenir</span></div>
   ${CANLI.hata?`<div class="emptybox">${esc(CANLI.hata)}</div>`:''}
   <div id="canligovde">${turGovde()}</div>`;
