@@ -1115,7 +1115,11 @@ function saatDegeri(g, renk){
   const p=(g.players||[])[renk==='w'?0:1];
   if(!p || p.clock==null) return null;
   let cs=p.clock;
-  if(suruyor(g) && renk===aktifRenk(g) && CANLI.saatAn) cs -= (Date.now()-CANLI.saatAn)/10;   // 1 sn = 100 santisaniye
+  if(suruyor(g) && renk===aktifRenk(g)){
+    // Lichess saati "son hamle anındaki" değeriyle verir; o hamleden beri geçen süreyi de düşmeliyiz
+    cs -= (g.thinkTime||0)*100;                                   // 1 sn = 100 santisaniye
+    if(CANLI.saatAn) cs -= (Date.now()-CANLI.saatAn)/10;          // veriyi aldığımızdan beri geçen süre
+  }
   return Math.max(0, cs);
 }
 function saatTik(){
