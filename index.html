@@ -1008,14 +1008,30 @@ function turunRaundu(x){
   const rs=x.rounds||[];
   return rs.find(r=>r.ongoing) || rs.find(r=>r.id===x.defaultRoundId) || rs[rs.length-1] || null;
 }
+/* adlardaki bayrak/emoji karakterleri Windows'ta boş kutu çıkıyor: temizle */
+function temizAd(s){ return String(s||'').replace(/[\u{1F1E6}-\u{1F1FF}\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE0F}\u{2190}-\u{21FF}]/gu,'').replace(/\s{2,}/g,' ').trim(); }
+
+/* Hangi turnuvada şu an gerçekten oyun var? Tahtalara bakarak buluruz. */
+const CANLI_DURUM = {};
 function raundCanli(x){
   const r=turunRaundu(x)||{};
-  // Açık olan turnuvada gerçek duruma bak: tahtalarda süren oyun var mı?
-  if(CANLI.seg && r.id===CANLI.seg.rid) return CANLI.oyunlar.some(g=>suruyor(g));
+  if(CANLI.seg && r.id===CANLI.seg.rid) return CANLI.oyunlar.some(g=>suruyor(g));   // açık turnuva: elimizde gerçek veri var
+  if(r.id in CANLI_DURUM) return CANLI_DURUM[r.id];                                  // kontrol ettiklerimiz
   if(r.finished || r.finishedAt) return false;
-  if(r.ongoing) return true;
-  // başlamış ama "ongoing" işareti gelmemişse: son 10 saat içinde başladıysa canlı say
-  return r.startsAt ? (Date.now()>=r.startsAt && Date.now()-r.startsAt < 36e6) : false;
+  return !!r.ongoing;                                                                // kontrol bitene kadar Lichess'in işareti
+}
+async function canliDurumTara(){
+  const akt=(CANLI.liste&&CANLI.liste.active)||[];
+  for(const x of akt.slice(0,8)){
+    const r=turunRaundu(x); if(!r||!r.id) continue;
+    if(CANLI.seg && r.id===CANLI.seg.rid) continue;
+    const s=yayinLinkiCoz(raundUrl(x)); if(!s) continue;
+    try{
+      const v=await canliJson(`${LI}/api/broadcast/${s.tslug}/${s.rslug}/${s.rid}`);
+      CANLI_DURUM[r.id]=(v.games||[]).some(g=>suruyor(g));
+    }catch(e){ /* sessiz geç */ }
+  }
+  if(state.view==='canli') render();
 }
 function raundUrl(x){ const r=turunRaundu(x); if(!r) return x.tour&&x.tour.url;
   return r.url || `${LI}/broadcast/${x.tour.slug}/${r.slug}/${r.id}`; }
@@ -1023,6 +1039,7 @@ function raundUrl(x){ const r=turunRaundu(x); if(!r) return x.tour&&x.tour.url;
 async function canliListeGetir(){
   CANLI.yukleniyor=true; CANLI.hata=''; render();
   try{ CANLI.liste = await canliJson(`${LI}/api/broadcast/top?page=1`);
+    setTimeout(canliDurumTara,1200);
     const ilk=(CANLI.liste.active||[])[0];
     if(ilk && CANLI.mod==='liste' && state.view==='canli'){ CANLI.yukleniyor=false; return canliTurAc(raundUrl(ilk)); } }
   catch(e){ CANLI.hata = e.message && !/fetch/i.test(e.message) ? e.message : 'Lichess’e bağlanılamadı. (Claude önizlemesinde canlı veri çalışmaz; GitHub’daki sitende çalışır.)'; }
@@ -1036,7 +1053,7 @@ function yayinLinkiCoz(url){
 }
 async function canliTurAc(url, oyunId){
   const s=yayinLinkiCoz(url); if(!s){ alert('Bu bir Lichess yayın linki gibi görünmüyor.'); return; }
-  if(!CANLI.liste) canliJson(`${LI}/api/broadcast/top?page=1`).then(v=>{ CANLI.liste=v; if(CANLI.mod==='tur') render(); }).catch(()=>{});
+  if(!CANLI.liste) canliJson(`${LI}/api/broadcast/top?page=1`).then(v=>{ CANLI.liste=v; if(CANLI.mod==='tur') render(); setTimeout(canliDurumTara,1200); }).catch(()=>{});
   CANLI.seg=s; CANLI.mod='tur'; CANLI.tur=null; CANLI.oyunlar=[]; CANLI.turlar=null; CANLI.hata=''; CANLI.yukleniyor=true;
   canliDurdur(); render(); window.scrollTo({top:0});
   await canliTurYenile();
@@ -1212,8 +1229,8 @@ function viewCanli(){
   const kart = x => { const r=turunRaundu(x)||{}, t=x.tour||{};
     return `<button class="bc" data-yayin="${esc(raundUrl(x))}">
       <div class="bc-img">${t.image?`<img src="${esc(t.image)}" alt="" loading="lazy">`:'<span>♟</span>'}</div>
-      <div class="bc-body"><div class="bc-meta">${raundCanli(x)?'<span class="live">CANLI</span>':''}${esc(r.name||'')}${!raundCanli(x)&&r.startsAt?` · ${new Date(r.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}`:''}</div>
-        <div class="bc-name">${esc(t.name||'')}</div></div></button>`; };
+      <div class="bc-body"><div class="bc-meta">${raundCanli(x)?'<span class="live">CANLI</span>':''}${esc(temizAd(r.name))}${!raundCanli(x)&&r.startsAt?` · ${new Date(r.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}`:''}</div>
+        <div class="bc-name">${esc(temizAd(t.name))}</div></div></button>`; };
   const L=CANLI.liste;
   return `<div class="page-h"><h1>Canlı</h1><p>Lichess’in yayınladığı turnuvaları kendi tahtamızda izle, hamleleri geri sar, Stockfish ile analiz et. Türk oyuncuların oyunları öne çıkar.</p></div>
   ${CANLI.hata?`<div class="emptybox">${esc(CANLI.hata)}</div>`:''}
@@ -1236,10 +1253,10 @@ function viewCanliTur(){
       const canli = raundCanli(x);
       const ne = canli ? '<i class="ldot" title="Şu an oynanıyor"></i>'
         : rr.startsAt ? `<i class="bsaat">${new Date(rr.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}</i>` : '';
-      return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}" title="${canli?'Şu an oynanıyor':'Şu an oyun akmıyor'}">${ne}${esc(x.tour.name)}</button>`;}).join('')}</div>`:''}
-  <div class="lhead"><div><h1>${esc(t.name||'Yükleniyor…')}</h1>
-    <div class="csub">${CANLI.oyunlar.some(g=>suruyor(g))?'<span class="live">CANLI</span> ':''}${esc(r.name||'')}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
-    ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(x.name)}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
+      return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}" title="${canli?'Şu an oynanıyor':'Şu an oyun akmıyor'}">${ne}${esc(temizAd(x.tour.name))}</button>`;}).join('')}</div>`:''}
+  <div class="lhead"><div><h1>${esc(temizAd(t.name)||'Yükleniyor…')}</h1>
+    <div class="csub">${CANLI.oyunlar.some(g=>suruyor(g))?'<span class="live">CANLI</span> ':''}${esc(temizAd(r.name))}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
+    ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(temizAd(x.name))}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
   </div>
   <div class="toolbar"><button class="trbtn" id="trfiltre" aria-pressed="${CANLI.sadeceTR}" title="Sadece Türk oyuncuların tahtalarını göster"><span class="fl-tr">${flag('TR')}</span><span>Sadece Türk oyuncular</span></button>
     <span class="count">${CANLI.oyunlar.length} oyun, 15 saniyede bir yenilenir</span></div>
@@ -1261,7 +1278,7 @@ function viewCanliOyun(){
   const g=CANLI.oyunlar.find(x=>x.id===CANLI.secili)||{}, [w,b]=g.players||[];
   const P=CANLI.poz, n=P?P.poz.length-1:0, ply=Math.min(CANLI.ply,n);
   const t=CANLI.tur&&CANLI.tur.tour||{};
-  return `<button class="back" id="canliturgeri">‹ ${esc(t.name||'Tur')}</button>
+  return `<button class="back" id="canliturgeri">‹ ${esc(temizAd(t.name)||'Tur')}</button>
   <div class="game">
     <div class="gboard">
       <div class="evalbar" title="Değerlendirme"><div id="evalfill" style="height:${evalYuzde(CANLI.analiz)}%"></div><span id="evaltxt">${evalYazi(CANLI.analiz)}</span></div>
