@@ -1015,7 +1015,7 @@ function temizAd(s){ return String(s||'').replace(/[\u{1F1E6}-\u{1F1FF}\u{1F300}
 const CANLI_DURUM = {};
 function raundCanli(x){
   const r=turunRaundu(x)||{};
-  if(CANLI.seg && r.id===CANLI.seg.rid) return CANLI.oyunlar.some(g=>suruyor(g));   // açık turnuva: elimizde gerçek veri var
+  if(CANLI.seg && r.id===CANLI.seg.rid) return turAkiyor();   // açık turnuva: elimizde gerçek veri var
   if(r.id in CANLI_DURUM) return CANLI_DURUM[r.id];                                  // kontrol ettiklerimiz
   if(r.finished || r.finishedAt) return false;
   return !!r.ongoing;                                                                // kontrol bitene kadar Lichess'in işareti
@@ -1028,7 +1028,7 @@ async function canliDurumTara(){
     const s=yayinLinkiCoz(raundUrl(x)); if(!s) continue;
     try{
       const v=await canliJson(`${LI}/api/broadcast/${s.tslug}/${s.rslug}/${s.rid}`);
-      CANLI_DURUM[r.id]=(v.games||[]).some(g=>suruyor(g));
+      CANLI_DURUM[r.id]=(v.games||[]).some(akiyor);
     }catch(e){ /* sessiz geç */ }
   }
   if(state.view==='canli') render();
@@ -1136,12 +1136,21 @@ function tahtaHTML(fen, o={}){
   return `<div class="board${o.mini?' bmini':''}">${h}</div>`;
 }
 function aktifRenk(g){ return (g&&g.fen||'').split(' ')[1]==='b' ? 'b' : 'w'; }
-function suruyor(g){ return !g.status || g.status==='*'; }
+function suruyor(g){ return !!g && (!g.status || g.status==='*'); }
+/* Saati işleyen oyun = gerçekten oynanan oyun.
+   Sonucu girilmemiş ama saatlerdir kımıldamayan oyunlar canlı sayılmaz. */
+function akiyor(g){
+  if(!suruyor(g)) return false;
+  const t=g.thinkTime;
+  if(typeof t==='number') return t < 2700;         // 45 dakikadan uzun süredir hamle yoksa: akmıyor
+  return !!(g.players||[]).some(p=>p&&p.clock!=null);
+}
+function turAkiyor(){ return CANLI.oyunlar.some(akiyor); }
 function saatDegeri(g, renk){
   const p=(g.players||[])[renk==='w'?0:1];
   if(!p || p.clock==null) return null;
   let cs=p.clock;
-  if(suruyor(g) && renk===aktifRenk(g)){
+  if(akiyor(g) && renk===aktifRenk(g)){
     // Lichess saati "son hamle anındaki" değeriyle verir; o hamleden beri geçen süreyi de düşmeliyiz
     cs -= (g.thinkTime||0)*100;                                   // 1 sn = 100 santisaniye
     if(CANLI.saatAn) cs -= (Date.now()-CANLI.saatAn)/10;          // veriyi aldığımızdan beri geçen süre
@@ -1154,7 +1163,7 @@ function saatTik(){
     const g=CANLI.oyunlar.find(x=>x.id===gid); if(!g) return;
     const v=saatDegeri(g,renk); if(v==null) return;
     el.textContent=saat(v);
-    el.classList.toggle('on', suruyor(g) && renk===aktifRenk(g));
+    el.classList.toggle('on', akiyor(g) && renk===aktifRenk(g));
     el.classList.toggle('az', v<6000);
   });
 }
@@ -1255,7 +1264,7 @@ function viewCanliTur(){
         : rr.startsAt ? `<i class="bsaat">${new Date(rr.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}</i>` : '';
       return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}" title="${canli?'Şu an oynanıyor':'Şu an oyun akmıyor'}">${ne}${esc(temizAd(x.tour.name))}</button>`;}).join('')}</div>`:''}
   <div class="lhead"><div><h1>${esc(temizAd(t.name)||'Yükleniyor…')}</h1>
-    <div class="csub">${CANLI.oyunlar.some(g=>suruyor(g))?'<span class="live">CANLI</span> ':''}${esc(temizAd(r.name))}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
+    <div class="csub">${turAkiyor()?'<span class="live">CANLI</span> ':''}${esc(temizAd(r.name))}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
     ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(temizAd(x.name))}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
   </div>
   <div class="toolbar"><button class="trbtn" id="trfiltre" aria-pressed="${CANLI.sadeceTR}" title="Sadece Türk oyuncuların tahtalarını göster"><span class="fl-tr">${flag('TR')}</span><span>Sadece Türk oyuncular</span></button>
@@ -1269,9 +1278,9 @@ function turGovde(){
   if(!g.length) return `<div class="emptybox">${CANLI.sadeceTR?'Bu turda Türk oyuncu yok.':'Bu turda oyun yok.'}</div>`;
   return `<div class="mgrid">${g.map(x=>{ const [w,b]=x.players||[]; const st=x.status;
     return `<button class="mcard ${(x.players||[]).some(p=>p&&p.fed==='TUR')?'trg':''}" data-oyun="${x.id}">
-      ${oyuncuHTML(b,{kisa:true,saat:saat(saatDegeri(x,'b')),clkKey:`${x.id}|b`,aktif:suruyor(x)&&aktifRenk(x)==='b',puan:sonucPuan(st,false)})}
+      ${oyuncuHTML(b,{kisa:true,saat:saat(saatDegeri(x,'b')),clkKey:`${x.id}|b`,aktif:akiyor(x)&&aktifRenk(x)==='b',puan:sonucPuan(st,false)})}
       ${tahtaHTML(x.fen||'8/8/8/8/8/8/8/8 w - - 0 1',{mini:true,son:x.lastMove,sah:x.check})}
-      ${oyuncuHTML(w,{kisa:true,saat:saat(saatDegeri(x,'w')),clkKey:`${x.id}|w`,aktif:suruyor(x)&&aktifRenk(x)==='w',puan:sonucPuan(st,true)})}
+      ${oyuncuHTML(w,{kisa:true,saat:saat(saatDegeri(x,'w')),clkKey:`${x.id}|w`,aktif:akiyor(x)&&aktifRenk(x)==='w',puan:sonucPuan(st,true)})}
     </button>`;}).join('')}</div>`;
 }
 function viewCanliOyun(){
@@ -1283,9 +1292,9 @@ function viewCanliOyun(){
     <div class="gboard">
       <div class="evalbar" title="Değerlendirme"><div id="evalfill" style="height:${evalYuzde(CANLI.analiz)}%"></div><span id="evaltxt">${evalYazi(CANLI.analiz)}</span></div>
       <div class="gcol">
-        ${oyuncuHTML(CANLI.flip?w:b,{cls:'top',saat:canliSaat(CANLI.flip?'w':'b'),clkKey:canliSaatKey(CANLI.flip?'w':'b'),aktif:suruyor(g)&&aktifRenk(g)===(CANLI.flip?'w':'b'),puan:sonucPuan(g.status,CANLI.flip)})}
+        ${oyuncuHTML(CANLI.flip?w:b,{cls:'top',saat:canliSaat(CANLI.flip?'w':'b'),clkKey:canliSaatKey(CANLI.flip?'w':'b'),aktif:akiyor(g)&&aktifRenk(g)===(CANLI.flip?'w':'b'),puan:sonucPuan(g.status,CANLI.flip)})}
         <div id="bigboard">${buyukTahta()}</div>
-        ${oyuncuHTML(CANLI.flip?b:w,{cls:'bot',saat:canliSaat(CANLI.flip?'b':'w'),clkKey:canliSaatKey(CANLI.flip?'b':'w'),aktif:suruyor(g)&&aktifRenk(g)===(CANLI.flip?'b':'w'),puan:sonucPuan(g.status,!CANLI.flip)})}
+        ${oyuncuHTML(CANLI.flip?b:w,{cls:'bot',saat:canliSaat(CANLI.flip?'b':'w'),clkKey:canliSaatKey(CANLI.flip?'b':'w'),aktif:akiyor(g)&&aktifRenk(g)===(CANLI.flip?'b':'w'),puan:sonucPuan(g.status,!CANLI.flip)})}
         <div class="nav">
           <button class="btn" data-git="0" aria-label="Başa">⏮</button><button class="btn" data-git="-1" aria-label="Geri">◀</button>
           <button class="btn" data-git="1" aria-label="İleri">▶</button><button class="btn" data-git="99999" aria-label="Sona">⏭</button>
