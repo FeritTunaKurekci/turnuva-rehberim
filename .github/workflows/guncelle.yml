@@ -37,7 +37,7 @@ jobs:
           python-version: "3.12"
 
       - name: Kutuphaneler
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 zstandard
 
       - name: TSF 81 il taramasi
         if: env.TARA == 'true'
@@ -48,6 +48,11 @@ jobs:
         if: env.TARA == 'true'
         continue-on-error: true
         run: python scripts/yurtdisi_tarayici.py
+
+      - name: Bulmacalar (ayda bir, Lichess CC0 veritabani)
+        if: env.TARA == 'true'
+        continue-on-error: true
+        run: python scripts/bulmaca_indir.py
 
       - name: Birlestir, arsivle, bildir
         env:
