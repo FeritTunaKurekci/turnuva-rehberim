@@ -288,6 +288,7 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .pl .fed.tr{color:var(--red)}
 .pl .clk{font-variant-numeric:tabular-nums;background:var(--bg2);padding:1px 6px;border-radius:4px;font-size:12px}
 .pl .clk.on{background:var(--acc);color:var(--acc-ink)}
+.pl .clk.on.az{background:var(--red);color:#fff}
 .pl .pts{font-weight:800;color:var(--acc)}
 .board{display:grid;gap:0;grid-template-columns:repeat(8,1fr);grid-template-rows:repeat(8,1fr);aspect-ratio:1;width:100%;border-radius:3px;overflow:hidden;user-select:none;box-shadow:0 2px 10px rgba(0,0,0,.4)}
 .bsq{position:relative;min-width:0;margin:0;padding:0;border:0}
@@ -985,7 +986,9 @@ const CANLI = { mod:'liste', liste:null, hata:'', yukleniyor:false, tur:null, tu
   secili:null, poz:null, ply:0, takip:true, sadeceTR:false, trOnce:true, flip:false, deneme:null, secKare:null,
   zaman:null, motorAcik:true, analiz:null, sonGuncelleme:null };
 
-function canliDurdur(){ if(CANLI.zaman){ clearInterval(CANLI.zaman); CANLI.zaman=null; } motorDur(); }
+function canliDurdur(){ if(CANLI.zaman){ clearInterval(CANLI.zaman); CANLI.zaman=null; }
+  if(CANLI.tik){ clearInterval(CANLI.tik); CANLI.tik=null; } motorDur(); }
+function saatBaslat(){ if(!CANLI.tik) CANLI.tik=setInterval(()=>{ if(!document.hidden) saatTik(); },1000); }
 
 async function canliJson(url){
   const r = await fetch(url, {headers:{Accept:'application/json'}});
@@ -1033,7 +1036,7 @@ async function canliTurYenile(){
   const s=CANLI.seg;
   try{
     const v=await canliJson(`${LI}/api/broadcast/${s.tslug}/${s.rslug}/${s.rid}`);
-    CANLI.tur=v; CANLI.oyunlar=v.games||[]; CANLI.hata=''; CANLI.sonGuncelleme=new Date();
+    CANLI.tur=v; CANLI.oyunlar=v.games||[]; CANLI.hata=''; CANLI.sonGuncelleme=new Date(); CANLI.saatAn=Date.now();
   }catch(e){ CANLI.hata=e.message; }
 }
 
@@ -1098,6 +1101,25 @@ function tahtaHTML(fen, o={}){
   }
   return `<div class="board${o.mini?' bmini':''}">${h}</div>`;
 }
+function aktifRenk(g){ return (g&&g.fen||'').split(' ')[1]==='b' ? 'b' : 'w'; }
+function suruyor(g){ return !g.status || g.status==='*'; }
+function saatDegeri(g, renk){
+  const p=(g.players||[])[renk==='w'?0:1];
+  if(!p || p.clock==null) return null;
+  let cs=p.clock;
+  if(suruyor(g) && renk===aktifRenk(g) && CANLI.saatAn) cs -= (Date.now()-CANLI.saatAn)/10;   // 1 sn = 100 santisaniye
+  return Math.max(0, cs);
+}
+function saatTik(){
+  document.querySelectorAll('[data-clk]').forEach(el=>{
+    const [gid,renk]=el.dataset.clk.split('|');
+    const g=CANLI.oyunlar.find(x=>x.id===gid); if(!g) return;
+    const v=saatDegeri(g,renk); if(v==null) return;
+    el.textContent=saat(v);
+    el.classList.toggle('on', suruyor(g) && renk===aktifRenk(g));
+    el.classList.toggle('az', v<6000);
+  });
+}
 function saat(cs){ if(cs==null||cs==='') return ''; let s=typeof cs==='number'?Math.round(cs/100):null;
   if(s==null){ const p=String(cs).split(':').map(Number); s=p.reduce((a,b)=>a*60+b,0); }
   const h=Math.floor(s/3600), m=Math.floor(s%3600/60), sn=s%60;
@@ -1109,7 +1131,7 @@ function oyuncuHTML(p, o={}){
   return `<div class="pl ${o.cls||''}">
     ${p.title?`<span class="ttl">${esc(p.title)}</span>`:''}<span class="pn" title="${esc(p.name||'')}">${esc(ad)}</span>
     ${p.rating?`<span class="pr">${p.rating}</span>`:''}${p.fed?`<span class="fed ${tr?'tr':''}">${tr?flag('TR'):''}${esc(p.fed)}</span>`:''}
-    ${o.saat?`<span class="clk ${o.aktif?'on':''}">${o.saat}</span>`:''}${o.puan!=null?`<span class="pts">${o.puan}</span>`:''}
+    ${o.saat!=null&&o.saat!==''?`<span class="clk ${o.aktif?'on':''}"${o.clkKey?` data-clk="${o.clkKey}"`:''}>${o.saat}</span>`:''}${o.puan!=null?`<span class="pts">${o.puan}</span>`:''}
   </div>`;
 }
 function sonucPuan(st, beyaz){ if(!st||st==='*') return null; if(st==='1/2-1/2'||st==='½-½') return '½'; return (st==='1-0')===beyaz?'1':'0'; }
@@ -1206,9 +1228,9 @@ function turGovde(){
   if(!g.length) return `<div class="emptybox">${CANLI.sadeceTR?'Bu turda Türk oyuncu yok.':'Bu turda oyun yok.'}</div>`;
   return `<div class="mgrid">${g.map(x=>{ const [w,b]=x.players||[]; const st=x.status;
     return `<button class="mcard ${(x.players||[]).some(p=>p&&p.fed==='TUR')?'trg':''}" data-oyun="${x.id}">
-      ${oyuncuHTML(b,{kisa:true,saat:saat(b&&b.clock),puan:sonucPuan(st,false)})}
+      ${oyuncuHTML(b,{kisa:true,saat:saat(saatDegeri(x,'b')),clkKey:`${x.id}|b`,aktif:suruyor(x)&&aktifRenk(x)==='b',puan:sonucPuan(st,false)})}
       ${tahtaHTML(x.fen||'8/8/8/8/8/8/8/8 w - - 0 1',{mini:true,son:x.lastMove,sah:x.check})}
-      ${oyuncuHTML(w,{kisa:true,saat:saat(w&&w.clock),puan:sonucPuan(st,true)})}
+      ${oyuncuHTML(w,{kisa:true,saat:saat(saatDegeri(x,'w')),clkKey:`${x.id}|w`,aktif:suruyor(x)&&aktifRenk(x)==='w',puan:sonucPuan(st,true)})}
     </button>`;}).join('')}</div>`;
 }
 function viewCanliOyun(){
@@ -1220,9 +1242,9 @@ function viewCanliOyun(){
     <div class="gboard">
       <div class="evalbar" title="Değerlendirme"><div id="evalfill" style="height:${evalYuzde(CANLI.analiz)}%"></div><span id="evaltxt">${evalYazi(CANLI.analiz)}</span></div>
       <div class="gcol">
-        ${oyuncuHTML(CANLI.flip?w:b,{cls:'top',saat:canliSaat(CANLI.flip?'w':'b'),puan:sonucPuan(g.status,CANLI.flip)})}
+        ${oyuncuHTML(CANLI.flip?w:b,{cls:'top',saat:canliSaat(CANLI.flip?'w':'b'),clkKey:canliSaatKey(CANLI.flip?'w':'b'),aktif:suruyor(g)&&aktifRenk(g)===(CANLI.flip?'w':'b'),puan:sonucPuan(g.status,CANLI.flip)})}
         <div id="bigboard">${buyukTahta()}</div>
-        ${oyuncuHTML(CANLI.flip?b:w,{cls:'bot',saat:canliSaat(CANLI.flip?'b':'w'),puan:sonucPuan(g.status,!CANLI.flip)})}
+        ${oyuncuHTML(CANLI.flip?b:w,{cls:'bot',saat:canliSaat(CANLI.flip?'b':'w'),clkKey:canliSaatKey(CANLI.flip?'b':'w'),aktif:suruyor(g)&&aktifRenk(g)===(CANLI.flip?'b':'w'),puan:sonucPuan(g.status,!CANLI.flip)})}
         <div class="nav">
           <button class="btn" data-git="0" aria-label="Başa">⏮</button><button class="btn" data-git="-1" aria-label="Geri">◀</button>
           <button class="btn" data-git="1" aria-label="İleri">▶</button><button class="btn" data-git="99999" aria-label="Sona">⏭</button>
@@ -1246,11 +1268,16 @@ function viewCanliOyun(){
 }
 function canliSaat(renk){
   const P=CANLI.poz, g=CANLI.oyunlar.find(x=>x.id===CANLI.secili)||{};
-  if(P && CANLI.ply < P.poz.length-1){   // geçmişteki bir hamlede: o anki PGN saati
-    for(let i=CANLI.ply;i>0;i--){ const b=(i%2===1)===(P.poz[0].fen.split(' ')[1]==='w'); if((renk==='w')===b && P.poz[i].clk) return saat(P.poz[i].clk); }
+  if(P && (CANLI.ply < P.poz.length-1 || CANLI.deneme)){   // geçmişteki bir hamlede: o anki PGN saati
+    for(let i=Math.min(CANLI.ply,P.poz.length-1);i>0;i--){ const b=(i%2===1)===(P.poz[0].fen.split(' ')[1]==='w'); if((renk==='w')===b && P.poz[i].clk) return saat(P.poz[i].clk); }
     return '';
   }
-  const p=(g.players||[])[renk==='w'?0:1]; return saat(p&&p.clock);
+  return saat(saatDegeri(g,renk));
+}
+function canliSaatKey(renk){
+  const P=CANLI.poz;
+  if(P && (CANLI.ply < P.poz.length-1 || CANLI.deneme)) return '';   // geçmişte donuk kalsın
+  return `${CANLI.secili}|${renk}`;
 }
 function buyukTahta(){
   const P=CANLI.poz; if(!P) return tahtaHTML('8/8/8/8/8/8/8/8 w - - 0 1',{koord:true});
@@ -1326,6 +1353,7 @@ function bindCanli(){
   if(q('motorac')) q('motorac').onchange=e=>{ CANLI.motorAcik=e.target.checked; if(CANLI.motorAcik){ analizEt(); } else { motorDur(); CANLI.analiz=null; analizCiz(); const l=q('evalline'); if(l) l.textContent='Kapalı'; } };
   if(q('denemecik')) q('denemecik').onclick=()=>{ CANLI.deneme=null; CANLI.secKare=null; render(); analizEt(); };
   if(CANLI.mod==='oyun'){ bindCanliOyun(); analizCiz(); }
+  if(CANLI.mod!=='liste'){ saatTik(); saatBaslat(); }
 }
 document.addEventListener('keydown',e=>{
   if(state.view!=='canli'||CANLI.mod!=='oyun'||/INPUT|SELECT|TEXTAREA/.test((e.target.tagName||''))) return;
