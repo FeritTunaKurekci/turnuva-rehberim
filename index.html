@@ -1008,6 +1008,15 @@ function turunRaundu(x){
   const rs=x.rounds||[];
   return rs.find(r=>r.ongoing) || rs.find(r=>r.id===x.defaultRoundId) || rs[rs.length-1] || null;
 }
+function raundCanli(x){
+  const r=turunRaundu(x)||{};
+  // Açık olan turnuvada gerçek duruma bak: tahtalarda süren oyun var mı?
+  if(CANLI.seg && r.id===CANLI.seg.rid) return CANLI.oyunlar.some(g=>suruyor(g));
+  if(r.finished || r.finishedAt) return false;
+  if(r.ongoing) return true;
+  // başlamış ama "ongoing" işareti gelmemişse: son 10 saat içinde başladıysa canlı say
+  return r.startsAt ? (Date.now()>=r.startsAt && Date.now()-r.startsAt < 36e6) : false;
+}
 function raundUrl(x){ const r=turunRaundu(x); if(!r) return x.tour&&x.tour.url;
   return r.url || `${LI}/broadcast/${x.tour.slug}/${r.slug}/${r.id}`; }
 
@@ -1203,7 +1212,7 @@ function viewCanli(){
   const kart = x => { const r=turunRaundu(x)||{}, t=x.tour||{};
     return `<button class="bc" data-yayin="${esc(raundUrl(x))}">
       <div class="bc-img">${t.image?`<img src="${esc(t.image)}" alt="" loading="lazy">`:'<span>♟</span>'}</div>
-      <div class="bc-body"><div class="bc-meta">${r.ongoing?'<span class="live">CANLI</span>':''}${esc(r.name||'')}${!r.ongoing&&r.startsAt?` · ${new Date(r.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}`:''}</div>
+      <div class="bc-body"><div class="bc-meta">${raundCanli(x)?'<span class="live">CANLI</span>':''}${esc(r.name||'')}${!raundCanli(x)&&r.startsAt?` · ${new Date(r.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}`:''}</div>
         <div class="bc-name">${esc(t.name||'')}</div></div></button>`; };
   const L=CANLI.liste;
   return `<div class="page-h"><h1>Canlı</h1><p>Lichess’in yayınladığı turnuvaları kendi tahtamızda izle, hamleleri geri sar, Stockfish ile analiz et. Türk oyuncuların oyunları öne çıkar.</p></div>
@@ -1224,11 +1233,12 @@ function viewCanliTur(){
   const v=CANLI.tur, t=v&&v.tour||{}, r=v&&v.round||{};
   const akt=(CANLI.liste&&CANLI.liste.active)||[];
   return `${akt.length>1?`<div class="bchips" role="tablist" aria-label="Canlı turnuvalar">${akt.map(x=>{const rr=turunRaundu(x)||{};
-      const ne = rr.ongoing ? '<i class="ldot" title="Şu an oynanıyor"></i>'
+      const canli = raundCanli(x);
+      const ne = canli ? '<i class="ldot" title="Şu an oynanıyor"></i>'
         : rr.startsAt ? `<i class="bsaat">${new Date(rr.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}</i>` : '';
-      return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}" title="${rr.ongoing?'Şu an oynanıyor':'Şu an oyun akmıyor'}">${ne}${esc(x.tour.name)}</button>`;}).join('')}</div>`:''}
+      return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}" title="${canli?'Şu an oynanıyor':'Şu an oyun akmıyor'}">${ne}${esc(x.tour.name)}</button>`;}).join('')}</div>`:''}
   <div class="lhead"><div><h1>${esc(t.name||'Yükleniyor…')}</h1>
-    <div class="csub">${r.ongoing?'<span class="live">CANLI</span> ':''}${esc(r.name||'')}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
+    <div class="csub">${CANLI.oyunlar.some(g=>suruyor(g))?'<span class="live">CANLI</span> ':''}${esc(r.name||'')}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
     ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(x.name)}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
   </div>
   <div class="toolbar"><button class="trbtn" id="trfiltre" aria-pressed="${CANLI.sadeceTR}" title="Sadece Türk oyuncuların tahtalarını göster"><span class="fl-tr">${flag('TR')}</span><span>Sadece Türk oyuncular</span></button>
