@@ -289,8 +289,9 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .pl .clk{font-variant-numeric:tabular-nums;background:var(--bg2);padding:1px 6px;border-radius:4px;font-size:12px}
 .pl .clk.on{background:var(--acc);color:var(--acc-ink)}
 .pl .pts{font-weight:800;color:var(--acc)}
-.board{display:grid;grid-template-columns:repeat(8,1fr);grid-template-rows:repeat(8,1fr);aspect-ratio:1;width:100%;border-radius:3px;overflow:hidden;user-select:none;box-shadow:0 2px 10px rgba(0,0,0,.4)}
-.bsq{position:relative;min-width:0}
+.board{display:grid;gap:0;grid-template-columns:repeat(8,1fr);grid-template-rows:repeat(8,1fr);aspect-ratio:1;width:100%;border-radius:3px;overflow:hidden;user-select:none;box-shadow:0 2px 10px rgba(0,0,0,.4)}
+.bsq{position:relative;min-width:0;margin:0;padding:0;border:0}
+.board.bmini .rk,.board.bmini .fl{display:none}
 .bsq.lt{background:#f0d9b5}.bsq.dk{background:#b58863}
 .bsq.lm::before{content:"";position:absolute;inset:0;background:rgba(155,199,0,.41)}
 .bsq.chk{background-image:radial-gradient(ellipse at center,#ff0000 0%,#e70000 25%,rgba(169,0,0,0) 89%,rgba(158,0,0,0) 100%)}
@@ -1095,7 +1096,7 @@ function tahtaHTML(fen, o={}){
     const koord = o.koord ? `${j===0?`<i class="rk">${8-r}</i>`:''}${i===7?`<i class="fl">${'abcdefgh'[c]}</i>`:''}` : '';
     h+=`<div class="${cls.join(' ')}" data-sq="${ad}">${p?`<img src="vendor/pieces/${p===p.toUpperCase()?'w':'b'}${TAS[p.toLowerCase()]}.svg" alt="" draggable="false">`:''}${koord}</div>`;
   }
-  return `<div class="board ${o.mini?'mini':''}">${h}</div>`;
+  return `<div class="board${o.mini?' bmini':''}">${h}</div>`;
 }
 function saat(cs){ if(cs==null||cs==='') return ''; let s=typeof cs==='number'?Math.round(cs/100):null;
   if(s==null){ const p=String(cs).split(':').map(Number); s=p.reduce((a,b)=>a*60+b,0); }
