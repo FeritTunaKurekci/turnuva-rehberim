@@ -1096,51 +1096,37 @@ async function canliTurAc(url, oyunId){
   render();
   CANLI.zaman=setInterval(()=>{ if(!document.hidden) canliTurYenile().then(()=>{ if(CANLI.mod==='tur') renderCanliGovde(); }); }, 15000);
   if(CANLI.tur && CANLI.tur.tour && CANLI.tur.tour.id){
-    canliJson(`${LI}/api/broadcast/${CANLI.tur.tour.id}`).then(v=>{ CANLI.turlar=v.rounds||null; if(CANLI.mod==='tur') render(); }).catch(()=>{});
+    turBilgisi(CANLI.tur.tour.id);
   }
 }
 /* Bir yayın bir gruba bağlı olabilir (Olimpiyat: Açık 1-12, 13-37, Kadınlar…).
    Aynı gruptaki diğer bölümleri bulup seçilebilir hale getiriyoruz. */
-function yayinListesiCoz(metin){
+const bolumAdi = ad => temizAd(String(ad||'').split('|').slice(1).join(' | ').trim() || ad);
+/* Lichess bölünmüş yayınları grup altında veriyor:
+   /api/broadcast/<tourId> -> group:{name, tours:[{id,name,active,live}]} */
+async function turBilgisi(tourId){
   try{
-    const v=JSON.parse(metin);
-    if(Array.isArray(v)) return v;
-    if(v && Array.isArray(v.currentPageResults)) return v.currentPageResults;
-    if(v && Array.isArray(v.active)) return [...(v.active||[]),...(v.upcoming||[]),...((v.past&&v.past.currentPageResults)||[])];
-  }catch(e){
-    return metin.split('\n').filter(Boolean).map(s=>{ try{ return JSON.parse(s); }catch(e2){ return null; } }).filter(Boolean);
-  }
-  return [];
+    const v=await canliJson(`${LI}/api/broadcast/${tourId}`);
+    CANLI.turlar = v.rounds||null;
+    CANLI.grup = (v.group && Array.isArray(v.group.tours) && v.group.tours.length>1) ? v.group : null;
+    if(state.view==='canli' && CANLI.mod==='tur') render();
+  }catch(e){ /* yoksa sorun değil */ }
 }
-const grupAdi = x => (x && (x.group || (x.tour && x.tour.group))) || '';
-/* Lichess grup alanını her zaman vermiyor. Bölünmüş yayınlar aynı adla başlar:
-   "46th FIDE Chess Olympiad Samarkand 2026 | Open | Matches 1-12"
-   Adın ilk parçasını anahtar alıp aynı turnuvanın tüm bölümlerini topluyoruz. */
-const grupAnahtar = ad => temizAd(String(ad||'').split('|')[0]).toLocaleLowerCase('tr').trim();
-const bolumAdi = ad => { const p=String(ad||'').split('|').slice(1).join(' | ').trim(); return temizAd(p||ad); };
-async function gruplariGetir(tourAd){
-  const anahtar=grupAnahtar(tourAd);
-  if(!anahtar){ CANLI.grup=null; return; }
-  const havuz=[];
-  const ekle=x=>{ if(x&&x.tour&&x.tour.id&&!havuz.some(y=>y.tour.id===x.tour.id)) havuz.push(x); };
-  const L=CANLI.liste||{};
-  [...(L.active||[]),...(L.upcoming||[]),...((L.past&&L.past.currentPageResults)||[])].forEach(ekle);
+/* Gruptaki başka bir bölüme geç: o bölümün canlı ya da varsayılan turunu aç */
+async function bolumAc(tourId){
   try{
-    const r=await fetch(`${LI}/api/broadcast?nb=100`,{headers:{Accept:'application/json'}});
-    yayinListesiCoz(await r.text()).forEach(ekle);
-  }catch(e){ /* liste alınamazsa elimizdekiyle devam */ }
-  const ayni=havuz.filter(x=>grupAnahtar(x.tour.name)===anahtar && raundUrl(x));
-  CANLI.grup = ayni.length>1 ? {ad:anahtar, liste:ayni.sort((a,b)=>a.tour.name.localeCompare(b.tour.name,'tr'))} : null;
-  if(state.view==='canli' && CANLI.mod==='tur') render();
+    const v=await canliJson(`${LI}/api/broadcast/${tourId}`);
+    const rs=v.rounds||[];
+    const r=rs.find(x=>x.ongoing) || rs.find(x=>x.id===v.defaultRoundId) || rs[rs.length-1];
+    if(r && (r.url || (v.tour&&v.tour.slug))) return canliTurAc(r.url || `${LI}/broadcast/${v.tour.slug}/${r.slug}/${r.id}`);
+  }catch(e){ alert('Bu bölüm açılamadı.'); }
 }
 async function canliTurYenile(){
   const s=CANLI.seg;
   try{
     const v=await canliJson(`${LI}/api/broadcast/${s.tslug}/${s.rslug}/${s.rid}`);
     hareketIsle(s.rid, v.games);
-    const grupYeni = (v.tour&&v.tour.name)||'';
     CANLI.tur=v; CANLI.oyunlar=v.games||[]; CANLI.hata=''; CANLI.sonGuncelleme=new Date(); CANLI.saatAn=Date.now();
-    if(grupYeni && (!CANLI.grup || CANLI.grup.ad!==grupAnahtar(grupYeni))) gruplariGetir(grupYeni);
   }catch(e){ CANLI.hata=e.message; }
 }
 
@@ -1345,9 +1331,8 @@ function viewCanliTur(){
       return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}">${ne}${esc(temizAd(x.tour.name))}</button>`;}).join('')}</div>`:''}
   <div class="lhead"><div><h1>${esc(temizAd(t.name)||'Yükleniyor…')}</h1>
     <div class="csub">${turAkiyor()?'<span class="akiyor"><i class="ydot"></i>hamleler akıyor</span> · ':''}${esc(temizAd(r.name))}${(!turAkiyor()&&kalanSure(r.startsAt))?` · <span class="basliyor">${kalanSure(r.startsAt)} başlıyor</span>`:''}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
-    ${CANLI.grup?`<select class="inp rsel" id="grupsec" aria-label="Bölüm seç">${CANLI.grup.liste.map(x=>{
-        const rr=turunRaundu(x)||{}; const u=raundUrl(x);
-        return `<option value="${esc(u||'')}" ${x.tour.id===(CANLI.tur&&CANLI.tur.tour&&CANLI.tur.tour.id)?'selected':''}>${esc(bolumAdi(x.tour.name))}</option>`;}).join('')}</select>`:''}
+    ${CANLI.grup?`<select class="inp rsel" id="grupsec" aria-label="Bölüm seç">${CANLI.grup.tours.map(x=>
+        `<option value="${esc(x.id)}" ${x.id===(CANLI.tur&&CANLI.tur.tour&&CANLI.tur.tour.id)?'selected':''}>${esc(temizAd(x.name))}${x.live?' — canlı':''}</option>`).join('')}</select>`:''}
     ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(temizAd(x.name))}${kalanSure(x.startsAt)?` — ${kalanSure(x.startsAt)}`:''}</option>`).join('')}</select>`:''}
   </div>
   <div class="toolbar"><button class="trbtn" id="trfiltre" aria-pressed="${CANLI.sadeceTR}" title="Sadece Türk oyuncuların tahtalarını göster"><span class="fl-tr">${flag('TR')}</span><span>Sadece Türk oyuncular</span></button>
@@ -1480,7 +1465,7 @@ function bindCanli(){
     CANLI.zaman=setInterval(()=>{ if(!document.hidden) canliTurYenile().then(()=>{ if(CANLI.mod==='tur') renderCanliGovde(); }); },15000); };
   if(q('trfiltre')) q('trfiltre').onclick=()=>{ CANLI.sadeceTR=!CANLI.sadeceTR; render(); };
   if(q('raundsec')) q('raundsec').onchange=e=>{ if(e.target.value) canliTurAc(e.target.value); };
-  if(q('grupsec')) q('grupsec').onchange=e=>{ if(e.target.value) canliTurAc(e.target.value); };
+  if(q('grupsec')) q('grupsec').onchange=e=>{ if(e.target.value) bolumAc(e.target.value); };
   document.querySelectorAll('[data-git]').forEach(b=>b.onclick=()=>{ const v=b.dataset.git; plyGit(v==='1'?'+1':v==='-1'?'-1':v); });
   if(q('cevir')) q('cevir').onclick=()=>{ CANLI.flip=!CANLI.flip; canliOyunCiz(); };
   if(q('takip')) q('takip').onclick=()=>{ CANLI.takip=!CANLI.takip; if(CANLI.takip) plyGit(99999); else q('takip').setAttribute('aria-pressed','false'); };
