@@ -1074,7 +1074,7 @@ async function canliListeGetir(){
   CANLI.yukleniyor=true; CANLI.hata=''; render();
   try{ CANLI.liste = await canliJson(`${LI}/api/broadcast/top?page=1`);
     const ilk=(CANLI.liste.active||[])[0];
-    if(ilk && CANLI.mod==='liste' && state.view==='canli'){ CANLI.yukleniyor=false; return canliTurAc(raundUrl(ilk)); } }
+    if(ilk && CANLI.mod==='liste' && state.view==='canli'){ CANLI.yukleniyor=false; return canliTurAc(raundUrl(ilk), null, true); } }
   catch(e){ CANLI.hata = e.message && !/fetch/i.test(e.message) ? e.message : 'Lichess’e bağlanılamadı. (Claude önizlemesinde canlı veri çalışmaz; GitHub’daki sitende çalışır.)'; }
   CANLI.yukleniyor=false; if(state.view==='canli') render();
 }
@@ -1084,9 +1084,10 @@ function yayinLinkiCoz(url){
   const m=String(url).match(/lichess\.org\/broadcast\/([^/?#]+)\/([^/?#]+)\/([A-Za-z0-9]{8})(?:\/([A-Za-z0-9]{8}))?/);
   return m ? {tslug:m[1], rslug:m[2], rid:m[3], gid:m[4]||null} : null;
 }
-async function canliTurAc(url, oyunId){
+async function canliTurAc(url, oyunId, otomatik){
   const s=yayinLinkiCoz(url); if(!s){ alert('Bu bir Lichess yayın linki gibi görünmüyor.'); return; }
   if(!CANLI.liste) canliJson(`${LI}/api/broadcast/top?page=1`).then(v=>{ CANLI.liste=v; if(CANLI.mod==='tur') render(); }).catch(()=>{});
+  CANLI.otomatik = !!otomatik;   // kendiliğinden açıldıysa gruptaki ilk bölüme (üst masalara) geçeriz
   CANLI.seg=s; CANLI.mod='tur'; CANLI.tur=null; CANLI.oyunlar=[]; CANLI.turlar=null; CANLI.hata=''; CANLI.yukleniyor=true;
   canliDurdur(); render(); window.scrollTo({top:0});
   await canliTurYenile();
@@ -1109,17 +1110,24 @@ async function turBilgisi(tourId){
     const v=await canliJson(`${LI}/api/broadcast/${tourId}`);
     CANLI.turlar = v.rounds||null;
     CANLI.grup = (v.group && Array.isArray(v.group.tours) && v.group.tours.length>1) ? v.group : null;
+    // Kendiliğinden açıldıysa ve bu bölüm grubun ilki değilse üst masalara geç
+    if(CANLI.otomatik && CANLI.grup){
+      const ilkBolum=CANLI.grup.tours[0];
+      CANLI.otomatik=false;
+      if(ilkBolum && ilkBolum.id!==tourId) return bolumAc(ilkBolum.id);
+    }
     if(state.view==='canli' && CANLI.mod==='tur') render();
   }catch(e){ /* yoksa sorun değil */ }
 }
 /* Gruptaki başka bir bölüme geç: o bölümün canlı ya da varsayılan turunu aç */
 async function bolumAc(tourId){
+  CANLI.otomatik=false;
   try{
     const v=await canliJson(`${LI}/api/broadcast/${tourId}`);
     const rs=v.rounds||[];
     const r=rs.find(x=>x.ongoing) || rs.find(x=>x.id===v.defaultRoundId) || rs[rs.length-1];
     if(r && (r.url || (v.tour&&v.tour.slug))) return canliTurAc(r.url || `${LI}/broadcast/${v.tour.slug}/${r.slug}/${r.id}`);
-  }catch(e){ alert('Bu bölüm açılamadı.'); }
+  }catch(e){ if(state.view==='canli' && CANLI.mod==='tur') render(); }
 }
 async function canliTurYenile(){
   const s=CANLI.seg;
@@ -1456,7 +1464,7 @@ function bindCanliOyun(){
 }
 function bindCanli(){
   const q=id=>document.getElementById(id);
-  document.querySelectorAll('[data-yayin]').forEach(b=>b.onclick=()=>canliTurAc(b.dataset.yayin));
+  document.querySelectorAll('[data-yayin]').forEach(b=>b.onclick=()=>canliTurAc(b.dataset.yayin, null, true));
   document.querySelectorAll('[data-oyun]').forEach(b=>b.onclick=()=>canliOyunAc(b.dataset.oyun));
   if(q('yayinac')){ const ac=()=>canliTurAc(q('yayinlink').value.trim()); q('yayinac').onclick=ac; q('yayinlink').onkeydown=e=>{ if(e.key==='Enter') ac(); }; }
   if(q('yayinyenile')) q('yayinyenile').onclick=()=>{ CANLI.liste=null; canliListeGetir(); };
