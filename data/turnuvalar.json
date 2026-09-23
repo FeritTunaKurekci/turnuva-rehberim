@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-23T08:03",
+ "guncelleme": "2026-09-23T09:17",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-22T20:49",
+   "tarama": "2026-09-23T09:08",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-22T21:01",
+   "tarama": "2026-09-23T09:17",
    "kaynak": "https://mychess.events"
   }
  },
@@ -339,6 +339,84 @@
  ],
  "turnuvalar": [
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2026 Fall Tuesday Night Marathon",
+   "city": "CA 94104",
+   "start": "2026-09-01",
+   "end": "2026-10-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "2000+",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "1600–1999",
+     "min": 1600,
+     "max": 1999
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": "≈ $2,400",
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://www.milibrary.org/chess/tournaments/2026-fall-tuesday-night-marathon",
+   "src": "https://mychess.events/event/2026-fall-tuesday-night-marathon/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-14T09:44:20+00:00",
+   "id": "a35bbbe7bb09",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "suruyor"
+  },
+  {
+   "c": "UZ",
+   "ulke": "Özbekistan",
+   "bayrak": "uz",
+   "name": "46th FIDE Chess Olympiad 2026",
+   "city": "Silk Road EXPO, Rowing canal, Konigil massif, Samarkand, 140",
+   "start": "2026-09-15",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Olympiad",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Olympiad",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Combined Classification",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes for the rest of the game, with a 30-second increment from move one",
+   "url": "https://mychess.events/event/46th-fide-chess-olympiad-2026/",
+   "src": "https://mychess.events/event/46th-fide-chess-olympiad-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-20T07:07:55+00:00",
+   "id": "adb2dbf75aa9",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "suruyor"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -399,6 +477,106 @@
    "lastmod": "2026-09-02T09:36:54+00:00",
    "id": "8fec3aad96aa",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "suruyor"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "42nd Martorell International Open 2026 – Group A",
+   "city": "Barcelona",
+   "start": "2026-09-19",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City / Region",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Pairing System",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time Control",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $5,190",
+   "tc": "90 minutes plus a 30-second increment per move",
+   "url": "https://clubescacsmartorell.com/xlii-open-internacional-martorell-2026/",
+   "src": "https://mychess.events/event/42nd-martorell-international-open-2026-group-a/",
+   "cr": "https://chess-results.com/tnr1451113.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T18:38:00+00:00",
+   "id": "d894ccbcea7a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "suruyor"
+  },
+  {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "SixDays Budapest September 2026",
+   "city": "Budapest",
+   "start": "2026-09-20",
+   "end": "2026-09-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Group",
+     "inv": true
+    },
+    {
+     "n": "IM Group",
+     "inv": true
+    },
+    {
+     "n": "U2250 Rating Group",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/sixdays-budapest-september-2026/",
+   "src": "https://mychess.events/event/sixdays-budapest-september-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-05T06:30:40+00:00",
+   "id": "5bd8fa47a206",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "suruyor"
   },
@@ -467,6 +645,92 @@
    "durum": "suruyor"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "12th Cornellà Open 2026 – Dr Josep Vallvé Memorial",
+   "city": "Barcelona",
+   "start": "2026-09-21",
+   "end": "2026-11-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Licence",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Maximum capacity",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Minimum field",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus a 30-second increment per move",
+   "url": "https://clubescacscornella.blogspot.com/",
+   "src": "https://mychess.events/event/12th-cornella-open-2026-dr-josep-vallve-memorial/",
+   "cr": "https://chess-results.com/tnr1456157.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T18:38:38+00:00",
+   "id": "da05408fc1b2",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "suruyor"
+  },
+  {
+   "c": "PL",
+   "ulke": "Polonya",
+   "bayrak": "pl",
+   "name": "Warsaw Chess Masters Autumn 2026",
+   "city": "Warsaw",
+   "start": "2026-09-21",
+   "end": "2026-09-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Round Robin",
+     "inv": true
+    },
+    {
+     "n": "IM Round Robin",
+     "inv": true
+    },
+    {
+     "n": "Challengers",
+     "min": 1850,
+     "max": 2150
+    },
+    {
+     "n": "Futures",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/warsaw-chess-masters-autumn-2026/",
+   "src": "https://mychess.events/event/warsaw-chess-masters-autumn-2026/",
+   "cr": "https://chess-results.com/tnr1419713.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-28T09:01:51+00:00",
+   "id": "0383cecde941",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "suruyor"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -526,6 +790,206 @@
    "durum": "yaklasan"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "Dragones-Playitas Chess Festival 2026",
+   "city": "Fuerteventura",
+   "start": "2026-09-25",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "VI Nocturnal Blitz / IV Pedro Calero Mem",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "VI Active Dragones-Playitas",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3 minutes plus 2 seconds per move",
+   "url": "https://mychess.events/event/dragones-playitas-chess-festival-2026/",
+   "src": "https://mychess.events/event/dragones-playitas-chess-festival-2026/",
+   "cr": "https://chess-results.com/tnr1399685.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-28T08:19:40+00:00",
+   "id": "b602f2158e2b",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Hull 4NCL Congress 2026",
+   "city": "England",
+   "start": "2026-09-25",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "U1500",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": "≈ $5,690",
+   "tc": null,
+   "url": "https://mychess.events/event/hull-4ncl-congress-2026/",
+   "src": "https://mychess.events/event/hull-4ncl-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-21T12:49:41+00:00",
+   "id": "4f38ec88be82",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Offene Lüdenscheider Stadtmeisterschaft 2026",
+   "city": "Lüdenscheid",
+   "start": "2026-09-25",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Lüdenscheid City Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating categories",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 15 minutes for the rest, plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/offene-ludenscheider-stadtmeisterschaft-2026/",
+   "src": "https://mychess.events/event/offene-ludenscheider-stadtmeisterschaft-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-21T02:59:34+00:00",
+   "id": "a49ab48a9c46",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Pohár Penzionu Rodina 2026",
+   "city": "Czech Republic",
+   "start": "2026-09-25",
+   "end": "2026-09-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Rapid Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Fischer Event",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "25 minutes per player",
+   "url": "https://mychess.events/event/pohar-penzionu-rodina-2026/",
+   "src": "https://mychess.events/event/pohar-penzionu-rodina-2026/",
+   "cr": "https://chess-results.com/tnr1387348.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-28T08:34:05+00:00",
+   "id": "1f7c2399d0dd",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "NO",
+   "ulke": "Norveç",
+   "bayrak": "no",
+   "name": "Stavanger NGP September 2026",
+   "city": "Stavanger",
+   "start": "2026-09-25",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Group B",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Group C",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": "≈ $1,770",
+   "tc": null,
+   "url": "https://mychess.events/event/stavanger-ngp-september-2026/",
+   "src": "https://mychess.events/event/stavanger-ngp-september-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-21T16:50:21+00:00",
+   "id": "0ae2d064eb6e",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -546,6 +1010,35 @@
    "kaynak_metin": "2026 MANAVGAT GAZİLER HAFTASI SATRANÇ TURNUVASI 2026 MANAVGAT GAZİLER HAFTASI SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği, Manavgat İlçe Temsilciliği tarafından, 26-27 Eylül 2026 tarihlerinde, Özel Manavgat Koleji Anadolu Lisesi'nde 2026 Manavgat Gaziler Haftası Satranç Turnuvası düzenlenecektir. Müsabaka 35'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLA",
    "id": "bd579433f789",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "5th Deetzer Rapid Chess Open 2026",
+   "city": "OT Deetz",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Rapid Field",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes per player; no increment confirmed in the current file",
+   "url": "https://mychess.events/event/5th-deetzer-rapid-chess-open-2026/",
+   "src": "https://mychess.events/event/5th-deetzer-rapid-chess-open-2026/",
+   "cr": "https://chess-results.com/tnr1419321.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T11:05:10+00:00",
+   "id": "e056d55f1ce7",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -582,6 +1075,45 @@
    "kaynak": "manuel",
    "id": "e9f7b0974afc",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Camberley Keith Richardson Rapid Play 2026",
+   "city": "Camberley GU15 1BB",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Section",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior Award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-1600 Award",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": "≈ $530",
+   "tc": "20 minutes plus 5 seconds per move",
+   "url": "https://mychess.events/event/camberley-keith-richardson-rapid-play-2026/",
+   "src": "https://mychess.events/event/camberley-keith-richardson-rapid-play-2026/",
+   "cr": "https://chess-results.com/tnr1440531.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T08:39:36+00:00",
+   "id": "f4439e2836f5",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -630,6 +1162,40 @@
    "durum": "yaklasan"
   },
   {
+   "c": "PL",
+   "ulke": "Polonya",
+   "bayrak": "pl",
+   "name": "Drugi Krok September 2026 – 1250–1600 PZSzach",
+   "city": "50-158 Wrocław",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Drugi Krok Main Field",
+     "min": 1250,
+     "max": 1600
+    },
+    {
+     "n": "Category Development",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "30 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/drugi-krok-september-2026-1250-1600-pzszach/",
+   "src": "https://mychess.events/event/drugi-krok-september-2026-1250-1600-pzszach/",
+   "cr": "https://chess-results.com/tnr1406074.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T09:44:05+00:00",
+   "id": "9fa37be63d7c",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -655,6 +1221,40 @@
    "durum": "yaklasan"
   },
   {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "NK Bedrijvenschaak 2026",
+   "city": "EG Wijk aan Zee",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Company Team Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Team Captain Role",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes plus 5 seconds per move",
+   "url": "https://mychess.events/event/nk-bedrijvenschaak-2026/",
+   "src": "https://mychess.events/event/nk-bedrijvenschaak-2026/",
+   "cr": "https://chess-results.com/tnr1429431.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T09:59:00+00:00",
+   "id": "db0e163edfb8",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -675,6 +1275,45 @@
    "kaynak_metin": "SONBAHAR KUPASI SATRANÇ TURNUVASI SONBAHAR KUPASI SATRANÇ TURNUVASI Sonbahar Kupası Sa tranç Turnuvası ; Mardin İl GSM, Midyat Kaymakamlığı, Midyat İlçe GSM, ve Mardin Satranç İl Temsilciliği organizasyonunda, 26 Eylül 2026 tarihi saat 10.00’da başlayacak ve Midyat Belediyesi Spor Salonunda yapılacaktır. Her Kategoride ilk üç sporcuya madalya ve hediyeler verilecektir. (Her Kategoride ilk üç sporcuya verilecek hediyeler : 8 Yaş ve altı : Satranç Takımı, 10 Yaş ve altı :500 Parçalık Yap-Boz Takım",
    "id": "7872ec516fe1",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress – September 2026",
+   "city": "Southall UB1 1GH",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes plus 30 seconds per move",
+   "url": "https://londonfidecongress.com/southall-congress-1",
+   "src": "https://mychess.events/event/southall-fide-congress-september-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-03T17:58:46+00:00",
+   "id": "3b4af2ea5a89",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -734,6 +1373,79 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CL",
+   "ulke": "Şili",
+   "bayrak": "cl",
+   "name": "2nd JobChess Academy Rapid Tournament 2026",
+   "city": "Santiago",
+   "start": "2026-09-27",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Academy Rapid Field",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes plus 2 seconds per move",
+   "url": "https://mychess.events/event/2nd-jobchess-academy-rapid-tournament-2026/",
+   "src": "https://mychess.events/event/2nd-jobchess-academy-rapid-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1414232.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T09:26:25+00:00",
+   "id": "9064f0f9d4af",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "39th Eybens Main Rapid Chess Tournament 2026",
+   "city": "Eybens",
+   "start": "2026-09-27",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main event",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating status",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Eligibility",
+     "min": 1700,
+     "max": null
+    },
+    {
+     "n": "Playing hall",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $700",
+   "tc": null,
+   "url": "https://mychess.events/event/39th-eybens-main-rapid-chess-tournament-2026/",
+   "src": "https://mychess.events/event/39th-eybens-main-rapid-chess-tournament-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-13T14:05:14+00:00",
+   "id": "08e774e26b3e",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "BG",
    "ulke": "Bulgaristan",
    "bayrak": "bg",
@@ -784,6 +1496,113 @@
    "lastmod": "2026-09-20T05:33:48+00:00",
    "id": "da9f98e77226",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Zürcher Jugendschachkönig 2026",
+   "city": "Zürich",
+   "start": "2026-09-27",
+   "end": "2026-09-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U18",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "10 minutes plus 5 seconds per move",
+   "url": "https://mychess.events/event/zurcher-jugendschachkonig-2026/",
+   "src": "https://mychess.events/event/zurcher-jugendschachkonig-2026/",
+   "cr": "https://chess-results.com/tnr1435887.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T09:03:11+00:00",
+   "id": "fa44c1675a0e",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "36th National Under-17 Open & Girls Chess Championships 2026",
+   "city": "Jammu 181205",
+   "start": "2026-09-28",
+   "end": "2026-10-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls Championship",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/36th-national-under-17-open-girls-chess-championships-2026/",
+   "src": "https://mychess.events/event/36th-national-under-17-open-girls-chess-championships-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-23T12:44:33+00:00",
+   "id": "d3afc8b6e2d0",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "51st Styrian Senior Chess Championship 2026",
+   "city": "Graz",
+   "start": "2026-09-29",
+   "end": "2026-11-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Styrian Senior Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Possible Age Categories",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/51st-styrian-senior-chess-championship-2026/",
+   "src": "https://mychess.events/event/51st-styrian-senior-chess-championship-2026/",
+   "cr": "https://chess-results.com/tnr1435740.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T08:27:51+00:00",
+   "id": "4da652e6e90a",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -896,6 +1715,65 @@
    "durum": "yaklasan"
   },
   {
+   "c": "GR",
+   "ulke": "Yunanistan",
+   "bayrak": "gr",
+   "name": "ACO 2026 World Senior (50+) Chess Championship",
+   "city": "Crete",
+   "start": "2026-10-01",
+   "end": "2026-10-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": 2201,
+     "max": 2400
+    },
+    {
+     "n": "Group B",
+     "min": 2001,
+     "max": 2200
+    },
+    {
+     "n": "Group C",
+     "min": 1901,
+     "max": 2000
+    },
+    {
+     "n": "Group D",
+     "min": 1751,
+     "max": 1900
+    },
+    {
+     "n": "Group E",
+     "min": 1651,
+     "max": 1750
+    },
+    {
+     "n": "Group F",
+     "min": 1501,
+     "max": 1650
+    },
+    {
+     "n": "Group G",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $5,690",
+   "tc": "90 minutes for 40 moves, then 15 minutes for the rest, plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/aco-2026-world-senior-50-plus-chess-championship/",
+   "src": "https://mychess.events/event/aco-2026-world-senior-50-plus-chess-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-03T17:59:15+00:00",
+   "id": "438058079f66",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -945,6 +1823,79 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "4th International Chess Tournament “Piacenza Chess Festival” 2026",
+   "city": "Piacenza PC",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1950,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": "≈ $5,130",
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/4th-international-chess-tournament-piacenza-chess-festival-2026/",
+   "src": "https://mychess.events/event/4th-international-chess-tournament-piacenza-chess-festival-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-06T20:36:50+00:00",
+   "id": "6768170b0474",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "NO",
+   "ulke": "Norveç",
+   "bayrak": "no",
+   "name": "Advokatfirmaet FINN Rapid Chess International 2026",
+   "city": "Harstad",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "B",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "25 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/advokatfirmaet-finn-rapid-chess-international-2026/",
+   "src": "https://mychess.events/event/advokatfirmaet-finn-rapid-chess-international-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T06:47:55+00:00",
+   "id": "eb182db4c5f6",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "RO",
    "ulke": "Romanya",
    "bayrak": "ro",
@@ -975,6 +1926,60 @@
   },
   {
    "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "IV Ibiza Chess Festival 2026",
+   "city": "Balearic Islands",
+   "start": "2026-10-02",
+   "end": "2026-10-02",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Maximum Players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Categories",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Youth Category",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Prize",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,640",
+   "tc": "3 minutes + 2 seconds increment per move",
+   "url": "https://mychess.events/event/iv-ibiza-chess-festival-2026/",
+   "src": "https://mychess.events/event/iv-ibiza-chess-festival-2026/",
+   "cr": "https://s2.chess-results.com/tnr1385074.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-13T15:26:16+00:00",
+   "id": "79db6d60f72a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
    "name": "Open Mallorca Amateur S2400",
    "city": "Palma de Mallorca",
    "start": "2026-10-02",
@@ -994,6 +1999,173 @@
    "kaynak": "manuel",
    "id": "6b9aaff0b411",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "SE",
+   "ulke": "İsveç",
+   "bayrak": "se",
+   "name": "Swedish Blitz & Rapid Chess Championships 2026",
+   "city": "Västerås",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 4",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,200",
+   "tc": null,
+   "url": "https://mychess.events/event/swedish-blitz-rapid-chess-championships-2026/",
+   "src": "https://mychess.events/event/swedish-blitz-rapid-chess-championships-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T06:42:03+00:00",
+   "id": "1fdecce14c65",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "ZÜRICHSee - October Festival 2026 - Amateur General Open",
+   "city": "CH-8808 Pfäffikon (SZ)",
+   "start": "2026-10-02",
+   "end": "2026-10-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 2, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 2, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 3, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 3, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 4, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 4, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 4, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,650",
+   "tc": null,
+   "url": "https://mychess.events/event/zurichsee-october-festival-2026-amateur-general-open/",
+   "src": "https://mychess.events/event/zurichsee-october-festival-2026-amateur-general-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-22T08:35:26+00:00",
+   "id": "4973a440c880",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "10th Peter & Peggy Clarke Memorial Rapidplay 2026",
+   "city": "Devon EX21 5XR",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Opening ceremony",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 4",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 6",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $490",
+   "tc": "25 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/10th-peter-peggy-clarke-memorial-rapidplay-2026/",
+   "src": "https://mychess.events/event/10th-peter-peggy-clarke-memorial-rapidplay-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T07:08:39+00:00",
+   "id": "06c39f964f11",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -1023,6 +2195,40 @@
    "lastmod": "2026-09-08T06:37:31+00:00",
    "id": "7ed8d1c4aa43",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "3rd Gambito Vilão Chess Festival 2026",
+   "city": "RS 92717-310",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Gambito Vilão Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Gambito Vilão Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $980",
+   "tc": null,
+   "url": "https://mychess.events/event/3rd-gambito-vilao-chess-festival-2026/",
+   "src": "https://mychess.events/event/3rd-gambito-vilao-chess-festival-2026/",
+   "cr": "https://chess-results.com/tnr1444690.aspx?lan=1&utm_source=chatgpt.com",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-08T11:49:25+00:00",
+   "id": "ce9a68c3610c",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -1217,6 +2423,65 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Dolňácká Bleskovka 2026",
+   "city": "Czech Republic",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Zlín Regional Men’s Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Zlín Regional Women’s Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Zlín Regional Junior Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Categories",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior Award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Club Award",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $480",
+   "tc": "5 minutes + 3-second increment per move",
+   "url": "https://mychess.events/event/dolnacka-bleskovka-2026/",
+   "src": "https://mychess.events/event/dolnacka-bleskovka-2026/",
+   "cr": "https://chess-results.com/tnr1351816.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-08T11:53:49+00:00",
+   "id": "4f21d54bfad5",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -1330,6 +2595,42 @@
    "durum": "yaklasan"
   },
   {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "First Saturday Budapest October 2026",
+   "city": "Budapest",
+   "start": "2026-10-03",
+   "end": "2026-10-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Group",
+     "inv": true
+    },
+    {
+     "n": "IM Group",
+     "inv": true
+    },
+    {
+     "n": "FIDE Elo Group",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes, plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/first-saturday-budapest-october-2026/",
+   "src": "https://mychess.events/event/first-saturday-budapest-october-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-05T07:03:39+00:00",
+   "id": "42bc0f4e9541",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -1423,6 +2724,99 @@
    "durum": "yaklasan"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "XXI Trofeo IberCaja Ciudad de Zaragoza 2026",
+   "city": "Zaragoza",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Player accreditation",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rounds 2–9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Prize ceremony",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,830",
+   "tc": "12 minutes + 3 seconds per move",
+   "url": "https://mychess.events/event/xxi-trofeo-ibercaja-ciudad-de-zaragoza-2026/",
+   "src": "https://mychess.events/event/xxi-trofeo-ibercaja-ciudad-de-zaragoza-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T06:34:45+00:00",
+   "id": "3562c0711e14",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "4° Torneo Semilampo delle Terre Matildiche 2026",
+   "city": "Votigno di Canossa (RE)",
+   "start": "2026-10-04",
+   "end": "2026-10-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Registration closes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tournament finishes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Prize ceremony",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $690",
+   "tc": "12 minutes + 3 seconds per move",
+   "url": "https://mychess.events/event/4-torneo-semilampo-delle-terre-matildiche-2026/",
+   "src": "https://mychess.events/event/4-torneo-semilampo-delle-terre-matildiche-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T05:52:25+00:00",
+   "id": "9ffa4724c3f0",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "LV",
    "ulke": "Letonya",
    "bayrak": "lv",
@@ -1448,6 +2842,114 @@
    "lastmod": "2026-09-03T11:08:02+00:00",
    "id": "af63fa1d1561",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Offene Saarländische Schach-Einzelmeisterschaften Riegelsberg 2026",
+   "city": "Riegelsberg/Walpershofen",
+   "start": "2026-10-04",
+   "end": "2026-10-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 2, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 4, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 4, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 5, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 6, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 7, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 8, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 9, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,390",
+   "tc": null,
+   "url": "https://mychess.events/event/offene-saarlandische-schach-einzelmeisterschaften-riegelsberg-2026/",
+   "src": "https://mychess.events/event/offene-saarlandische-schach-einzelmeisterschaften-riegelsberg-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-22T10:08:56+00:00",
+   "id": "a15b8658f3c9",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Trophée Roger Pelat 2026",
+   "city": "Villeneuve-Tolosane",
+   "start": "2026-10-04",
+   "end": "2026-10-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Venue opens",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Lunch break",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Final rounds / awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,390",
+   "tc": "20 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/trophee-roger-pelat-2026/",
+   "src": "https://mychess.events/event/trophee-roger-pelat-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T06:27:51+00:00",
+   "id": "c00815b38339",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -1632,6 +3134,50 @@
    "durum": "yaklasan"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2026 AGCA FIDE Fall Open",
+   "city": "TX 78729",
+   "start": "2026-10-09",
+   "end": "2026-10-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Section Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $7,150",
+   "tc": "90 minutes + 30 seconds per move from move one",
+   "url": "https://www.austinchesstournaments.com/2026-agca-fide-fall-open/",
+   "src": "https://mychess.events/event/2026-agca-fide-fall-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-15T03:54:44+00:00",
+   "id": "c35b0f306b76",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "AR",
    "ulke": "Arjantin",
    "bayrak": "ar",
@@ -1808,6 +3354,34 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "Thanksgiving Open 2026, BC Closed & BC Women’s Championship",
+   "city": "BC",
+   "start": "2026-10-09",
+   "end": "2026-10-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "BC Closed",
+     "inv": true
+    }
+   ],
+   "prize": "≈ $3,240",
+   "tc": "90 minutes + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/thanksgiving-open-2026-bc-closed-bc-womens-championship/",
+   "src": "https://mychess.events/event/thanksgiving-open-2026-bc-closed-bc-womens-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-15T03:36:15+00:00",
+   "id": "95feaa2b02fd",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -1892,6 +3466,70 @@
    "lastmod": "2026-09-19T22:15:38+00:00",
    "id": "eb62849a45f7",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "2026 Maritime Open Chess Championship",
+   "city": "PE C1N 1T2",
+   "start": "2026-10-10",
+   "end": "2026-10-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 10, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 10, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 10, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 11, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 11, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 12, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 12, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 12, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,210",
+   "tc": null,
+   "url": "https://mychess.events/event/2026-maritime-open-chess-championship/",
+   "src": "https://mychess.events/event/2026-maritime-open-chess-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-22T17:53:56+00:00",
+   "id": "d0b935d924b0",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -2117,6 +3755,119 @@
    "durum": "yaklasan"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Centenary Rapid Levallois-Potemkine 2026",
+   "city": "Levallois-Perret",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Check-in",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 4",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Lunch break",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 6",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $930",
+   "tc": "12 minutes + 3 seconds per move",
+   "url": "https://mychess.events/event/centenary-rapid-levallois-potemkine-2026/",
+   "src": "https://mychess.events/event/centenary-rapid-levallois-potemkine-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T02:40:38+00:00",
+   "id": "f607ec867883",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Eurode Open 2026",
+   "city": "LZ Kerkrade",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1",
+     "min": 1901,
+     "max": 2100
+    },
+    {
+     "n": "2",
+     "min": 1701,
+     "max": 1900
+    },
+    {
+     "n": "3",
+     "min": 1501,
+     "max": 1700
+    },
+    {
+     "n": "4",
+     "min": 1301,
+     "max": 1500
+    },
+    {
+     "n": "5",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,120",
+   "tc": "10 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/eurode-open-2026/",
+   "src": "https://mychess.events/event/eurode-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T05:40:54+00:00",
+   "id": "0a5625fc287a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "il": "Hatay",
    "name": "Hatay Yürekli Süveydi SSK Satranç Turnuvası",
@@ -2310,6 +4061,104 @@
    "durum": "yaklasan"
   },
   {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "V Manaus Chess Open 2026",
+   "city": "Amazonas",
+   "start": "2026-10-10",
+   "end": "2026-10-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Eligibility",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Federation Registration",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating List",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Identification",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Final Authority",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $16,740",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/v-manaus-chess-open-2026/",
+   "src": "https://mychess.events/event/v-manaus-chess-open-2026/",
+   "cr": "https://chess-results.com/tnr1346749.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-27T09:08:13+00:00",
+   "id": "2847a35924d3",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CN",
+   "ulke": "Çin",
+   "bayrak": "cn",
+   "name": "2026 FISU World University Championship Mind Sports",
+   "city": "Shandong",
+   "start": "2026-10-11",
+   "end": "2026-10-16",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Men’s Individual Chess",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Individual Chess",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mixed Team Classification",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz Chess",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Bridge",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2026-fisu-world-university-championship-mind-sports/",
+   "src": "https://mychess.events/event/2026-fisu-world-university-championship-mind-sports/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-08T13:46:11+00:00",
+   "id": "b6f12439f51e",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "SK",
    "ulke": "Slovakya",
    "bayrak": "sk",
@@ -2388,6 +4237,60 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "Maratona Blitz FIDE 5'+3'' Villa Cortese 2026",
+   "city": "Villa Cortese (MI)",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Player call",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Morning session",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Lunch break",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Afternoon session",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Prize ceremony",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "5 minutes + 3 seconds per move",
+   "url": "https://mychess.events/event/maratona-blitz-fide-5-3-villa-cortese-2026/",
+   "src": "https://mychess.events/event/maratona-blitz-fide-5-3-villa-cortese-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T02:06:18+00:00",
+   "id": "26004a566c79",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "DK",
    "ulke": "Danimarka",
    "bayrak": "dk",
@@ -2448,6 +4351,70 @@
    "lastmod": "2026-08-19T08:05:07+00:00",
    "id": "fd4c9296c0c9",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Chess Cruise Panama Canal 2026",
+   "city": "USA",
+   "start": "2026-10-13",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 13, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 13, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 13, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 14, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 14, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 15, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 16, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 16, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/chess-cruise-panama-canal-2026/",
+   "src": "https://mychess.events/event/chess-cruise-panama-canal-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-03-07T07:38:33+00:00",
+   "id": "9e510e366522",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -2639,6 +4606,65 @@
    "lastmod": "2026-08-19T08:08:22+00:00",
    "id": "ef0c9221bd0d",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "3. Sparkassen Schachopen Lautertal 2026",
+   "city": "Lautertal-Gadernheim",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 16, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 16, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 17, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 17, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 18, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 18, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 18, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,580",
+   "tc": null,
+   "url": "https://mychess.events/event/3-sparkassen-schachopen-lautertal-2026/",
+   "src": "https://mychess.events/event/3-sparkassen-schachopen-lautertal-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-24T08:00:13+00:00",
+   "id": "103e75122998",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -2844,6 +4870,45 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IE",
+   "ulke": "İrlanda",
+   "bayrak": "ie",
+   "name": "The 34rd Cork Congress 2026",
+   "city": "T12 RD6E",
+   "start": "2026-10-16",
+   "end": "2026-10-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 16, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 17, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 18, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,480",
+   "tc": null,
+   "url": "https://mychess.events/event/the-34rd-cork-congress-2026/",
+   "src": "https://mychess.events/event/the-34rd-cork-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-23T20:52:29+00:00",
+   "id": "ea690e5e98a4",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -2952,6 +5017,39 @@
    "durum": "yaklasan"
   },
   {
+   "c": "RS",
+   "ulke": "Sırbistan",
+   "bayrak": "rs",
+   "name": "First League of Central Serbia 2026",
+   "city": "Novi Pazar",
+   "start": "2026-10-17",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "First League Main Competition",
+     "inv": true
+    },
+    {
+     "n": "Team Rosters",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/first-league-of-central-serbia-2026/",
+   "src": "https://mychess.events/event/first-league-of-central-serbia-2026/",
+   "cr": "https://chess-results.com/tnr1431558.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T14:12:00+00:00",
+   "id": "a1681730290a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -3007,6 +5105,70 @@
    "lastmod": "2026-09-19T05:43:10+00:00",
    "id": "e0835ea0cc89",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Open International de Liffré 2026",
+   "city": "Liffré",
+   "start": "2026-10-17",
+   "end": "2026-10-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 17, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 17, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 17, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 17, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 18, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 18, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 19, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 20, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $5,800",
+   "tc": null,
+   "url": "https://mychess.events/event/open-international-de-liffre-2026/",
+   "src": "https://mychess.events/event/open-international-de-liffre-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-06T11:40:31+00:00",
+   "id": "bc86d9783c6b",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -3102,6 +5264,40 @@
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
+   "name": "9ème Festival International de Perpignan – Open Rapide FIDE 2026",
+   "city": "Perpignan",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Principal",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1500",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/9eme-festival-international-de-perpignan-open-rapide-fide-2026/",
+   "src": "https://mychess.events/event/9eme-festival-international-de-perpignan-open-rapide-fide-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T02:04:04+00:00",
+   "id": "3406d27ca003",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
    "name": "1er Open International du Lille Métropole Chess 2026",
    "city": "Lille",
    "start": "2026-10-19",
@@ -3159,6 +5355,70 @@
    "lastmod": "2026-08-19T05:10:50+00:00",
    "id": "f0fa1a0de7e0",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "HR",
+   "ulke": "Hırvatistan",
+   "bayrak": "hr",
+   "name": "5th Open Hvar 2026: Join the Chess Competition",
+   "city": "Hvar",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 19, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 19, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 19, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 20, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 20, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 21, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 21, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 22, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $21.600",
+   "tc": null,
+   "url": "https://mychess.events/event/5th-open-hvar-2026/",
+   "src": "https://mychess.events/event/5th-open-hvar-2026/",
+   "cr": "https://s3.chess-results.com/tnr1282073.aspx?lan=13&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-05T17:08:32+00:00",
+   "id": "15fd5a42e090",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -3459,6 +5719,78 @@
    "durum": "yaklasan"
   },
   {
+   "c": "RS",
+   "ulke": "Sırbistan",
+   "bayrak": "rs",
+   "name": "First Women’s League of Central Serbia 2026",
+   "city": "Dimitrovgrad",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Women’s First League",
+     "inv": true
+    },
+    {
+     "n": "Registered Team Rosters",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/first-womens-league-of-central-serbia-2026/",
+   "src": "https://mychess.events/event/first-womens-league-of-central-serbia-2026/",
+   "cr": "https://chess-results.com/tnr1439410.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-30T06:23:53+00:00",
+   "id": "b70c2e6b898f",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Hampshire Chess Congress & Hampshire Individual Championship 2026",
+   "city": "Hampshire PO16 7BQ",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": "≈ $2,370",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://congress.org.uk/congress/795/home",
+   "src": "https://mychess.events/event/hampshire-chess-congress-hampshire-individual-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T07:28:00+00:00",
+   "id": "d5554ab8acfb",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "name": "III Open Ciudad de Tomelloso",
    "city": "Tomelloso",
@@ -3478,6 +5810,291 @@
    "kaynak": "manuel",
    "id": "82f9a7fb3fc3",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Karur 3rd International FIDE Rating Below 1700 Chess Tournament 2026",
+   "city": "Tamil Nadu 639003",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Eligibility",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Federation Registration",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating List",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Identification",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Final Authority",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,150",
+   "tc": "30 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/karur-3rd-international-fide-rating-below-1700-chess-tournament-2026/",
+   "src": "https://mychess.events/event/karur-3rd-international-fide-rating-below-1700-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1376312.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-27T08:49:30+00:00",
+   "id": "1b9c6dfb231c",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DK",
+   "ulke": "Danimarka",
+   "bayrak": "dk",
+   "name": "Københavns Mesterskabet 2026 - Formula X Agency OPEN",
+   "city": "Hvidovre",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,410",
+   "tc": null,
+   "url": "https://mychess.events/event/kobenhavns-mesterskabet-2026-formula-x-agency-open/",
+   "src": "https://mychess.events/event/kobenhavns-mesterskabet-2026-formula-x-agency-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-26T07:26:36+00:00",
+   "id": "ba44861827c1",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "Open Burgenland State Championship 2026",
+   "city": "Burgenland",
+   "start": "2026-10-23",
+   "end": "2026-10-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Player requirement",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Competition field",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Maximum capacity",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $830",
+   "tc": "90 minutes for 40 moves, then 30 minutes for the rest, with a 30-second increment from move one",
+   "url": "https://www.bsbschach.club/",
+   "src": "https://mychess.events/event/open-burgenland-state-championship-2026/",
+   "cr": "https://chess-results.com/tnr1406388.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T18:35:14+00:00",
+   "id": "34a10053c304",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Open du CEG 2026",
+   "city": "Geneva",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "October 23, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 23, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 23, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 23, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 24, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 24, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 25, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 25, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,840",
+   "tc": null,
+   "url": "https://mychess.events/event/open-du-ceg-2026/",
+   "src": "https://mychess.events/event/open-du-ceg-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-25T06:55:56+00:00",
+   "id": "2a555de8747b",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "XXIII Fehérvár Kupa 2026",
+   "city": "Székesfehérvár",
+   "start": "2026-10-23",
+   "end": "2026-10-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://chess.hu/xxiii-fehervar-kupa-2026-10-23-26/",
+   "src": "https://mychess.events/event/xxiii-fehervar-kupa-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T07:22:02+00:00",
+   "id": "5ed1a6fa8eeb",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -3505,6 +6122,65 @@
    "kaynak": "manuel",
    "id": "e4a9b533d3a4",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "4e Open d’échecs de Loches 2026",
+   "city": "Loches",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $720",
+   "tc": "60 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/4e-open-dechecs-de-loches-2026/",
+   "src": "https://mychess.events/event/4e-open-dechecs-de-loches-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-26T08:30:43+00:00",
+   "id": "9a28c44f3d6a",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -3544,6 +6220,94 @@
    "kaynak": "manuel",
    "id": "e8d74c0836aa",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Bushey FIDE Congress 2026",
+   "city": "Bushey WD23 1DT",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "ECF U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": "≈ $1,680",
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/bushey-fide-congress-2026/",
+   "src": "https://mychess.events/event/bushey-fide-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-26T06:07:39+00:00",
+   "id": "16b744043337",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Czech Youth Chess Championship U12–U16 2026",
+   "city": "Czech Republic",
+   "start": "2026-10-24",
+   "end": "2026-10-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U12 Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U14 Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U16 Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/czech-youth-chess-championship-u12-u16-2026/",
+   "src": "https://mychess.events/event/czech-youth-chess-championship-u12-u16-2026/",
+   "cr": "https://chess-results.com/tnr1440496.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-30T06:32:42+00:00",
+   "id": "1344e5869729",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -3721,6 +6485,124 @@
    "lastmod": "2026-08-31T07:47:17+00:00",
    "id": "22cb4245a050",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "SE",
+   "ulke": "İsveç",
+   "bayrak": "se",
+   "name": "Södermanlands Öppna DM 2026",
+   "city": "Eskilstuna",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $535",
+   "tc": null,
+   "url": "https://mychess.events/event/sodermanlands-oppna-dm-2026/",
+   "src": "https://mychess.events/event/sodermanlands-oppna-dm-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-26T09:01:11+00:00",
+   "id": "1d5d20895579",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "BE",
+   "ulke": "Belçika",
+   "bayrak": "be",
+   "name": "Wapichess 2026",
+   "city": "Leuze-en-Hainaut",
+   "start": "2026-10-24",
+   "end": "2026-10-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, October 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, October 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, October 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, October 28",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/wapichess-2026/",
+   "src": "https://mychess.events/event/wapichess-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T07:51:36+00:00",
+   "id": "d25d6fbff1a7",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -3921,6 +6803,55 @@
    "durum": "yaklasan"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Open Rapide Tours et Détours 2026",
+   "city": "Rozay-en-Brie",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Check-in / licence verification",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Lunch break",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Prize ceremony",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $580",
+   "tc": "12 minutes + 3 seconds per move",
+   "url": "https://mychess.events/event/open-rapide-tours-et-detours-2026/",
+   "src": "https://mychess.events/event/open-rapide-tours-et-detours-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T01:58:59+00:00",
+   "id": "1a2cddb588d9",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -3955,6 +6886,45 @@
    "durum": "yaklasan"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Muswell Hill FIDE Congress – October 2026",
+   "city": "London N2 9HR",
+   "start": "2026-10-27",
+   "end": "2026-10-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Two-Day Congress",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Related one-day events",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating status",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/muswell-hill-fide-congress-october-2026/",
+   "src": "https://mychess.events/event/muswell-hill-fide-congress-october-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-03T18:00:41+00:00",
+   "id": "429986965e44",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -3976,6 +6946,40 @@
    "kaynak_metin": "İl Dışı Turnuvalarımız İl Dışı Turnuvalarımız Adıyaman Belediyesi ve Adıyaman İl Temsilciliği iş birliği ile toplam 7000 TL ödülün dağıtılacağı ADIYAMAN BELEDİYESİ 1.ULUSAL SATRANÇ TURNUVASI 3-4-5 Kasımda gerçekleşecektir. Ayrıntılar için lütfen tıklayınız... Antalya'da ise 27-29 Ekim tarihlerinde ödüllü Cumhuriyet Bayramı Satranç Turnuvası gerçekleştirilecek olup www.antalya.tsf.org.tr adresinden ilgili haber metnine ulaşabilirsiniz. < Önceki Sonraki >",
    "id": "600a369dfce1",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "1. Freiburger Bogoljubow Open 2026",
+   "city": "Freiburg im Breisgau",
+   "start": "2026-10-28",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "A Tournament",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "B Tournament",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": "≈ $8,600",
+   "tc": "90 minutes for 40 moves + 30 minutes + 30 seconds increment per move",
+   "url": "https://schachbezirk-freiburg.de/?p=2834",
+   "src": "https://mychess.events/event/freiburger-bogoljubow-open-2026/",
+   "cr": "https://chess-results.com/tnr1430219.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-20T05:57:56+00:00",
+   "id": "22d712abe5f1",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -4028,6 +7032,50 @@
    "durum": "yaklasan"
   },
   {
+   "c": "RO",
+   "ulke": "Romanya",
+   "bayrak": "ro",
+   "name": "Trofeul Cavalerii Mării Negre 2026 – 3rd Edition",
+   "city": "Năvodari",
+   "start": "2026-10-28",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE U20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Unregistered U20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Unregistered U10",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $8,100",
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/trofeul-cavalerii-marii-negre-2026-3rd-edition/",
+   "src": "https://mychess.events/event/trofeul-cavalerii-marii-negre-2026-3rd-edition/",
+   "cr": "https://chess-results.com/tnr1386391.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T13:03:03+00:00",
+   "id": "68ddd80ee89b",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -4064,14 +7112,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://bartin.tsf.org.tr/satranc-haberleri/390-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi2024",
+   "url": "https://bartin.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimiz 2024 - 2025 Etkinlik Takviminde yer alan 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 26-27 EKİM 2024 tarihlerinde BARTIN GENÇLİK MERKEZİ oyun salonunda üç kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış 2018 ve öncesi doğumlu TC Vatandaşı sporcular katılabilirler. TURNUVA KAYIT bölümünden turnuvaya 25 EKİM 2024 Cuma günü saat 18.00 a kadar kayıt olabilirsiniz. İlk 4 e giren sporculara madalya",
+   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimiz 2026 - 2027 Etkinlik Takviminde yer alan 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 24-25 Ekim 2026 tarihlerinde Bartın Gençlik Merkezinde 8 Yaş ve Altı, 12 Yaş ve Altı ve Açık kategorileri olmak üzere toplam 3 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış 2020 ve öncesi doğumlu sporcular katılabilirler. * Turnuva Tarihi : 24-25 Ekim 2026 * Turnuva Yeri : Bartın Gençlik Merkezi * Düşünme Süresi 35'+30\" Eklemeli Tempo * Son Kayıt Tari",
    "id": "369742943d48",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-23",
@@ -4328,6 +7375,124 @@
    "durum": "yaklasan"
   },
   {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2026 MCC Greg Hjorth Open",
+   "city": "Fitzroy VIC 3065",
+   "start": "2026-10-30",
+   "end": "2026-11-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, November 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, November 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, November 3",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $5,660",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/2026-mcc-greg-hjorth-open/",
+   "src": "https://mychess.events/event/2026-mcc-greg-hjorth-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T09:49:28+00:00",
+   "id": "f62b70a63131",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "25. Lugano Open 2026",
+   "city": "Lugano",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "http://www.swisschesstour.com/1/lugano_open_2130427.html",
+   "src": "https://mychess.events/event/25-lugano-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T08:59:36+00:00",
+   "id": "4b718aeab969",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -4430,6 +7595,323 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "Torneo Angelo Neri 2026",
+   "city": "Milan",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1599,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "CIG",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $930",
+   "tc": null,
+   "url": "https://mychess.events/event/torneo-angelo-neri-2026/",
+   "src": "https://mychess.events/event/torneo-angelo-neri-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T10:20:09+00:00",
+   "id": "0340d707f8e2",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "13th Witney Weekend Congress 2026",
+   "city": "Cokethorpe School – Witney OX29 7PU",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1700",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": "≈ $2,400",
+   "tc": "90 minutes + 15 seconds per move",
+   "url": "https://mychess.events/event/13th-witney-weekend-congress-2026/",
+   "src": "https://mychess.events/event/13th-witney-weekend-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-26T05:28:04+00:00",
+   "id": "7fcaaf6ef835",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "1er Open International d'Échecs du Morvan – Trophée du Parc 2026",
+   "city": "Maison du Parc Naturel Régional du Morvan – 58230 Saint-Brisson",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $470",
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/1er-open-international-dechecs-du-morvan-trophee-du-parc-2026/",
+   "src": "https://mychess.events/event/1er-open-international-dechecs-du-morvan-trophee-du-parc-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T08:51:57+00:00",
+   "id": "f6c26f78a8c9",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "29. Offene Internationale Bayerische Schachmeisterschaft 2026",
+   "city": "Gmund am Tegernsee",
+   "start": "2026-10-31",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $17,200",
+   "tc": "90 minutes for 40 moves + 30 minutes + 30 seconds increment per move",
+   "url": "https://www.schach-tegernsee.de/",
+   "src": "https://mychess.events/event/29-offene-internationale-bayerische-schachmeisterschaft-2026/",
+   "cr": "https://chess-results.com/tnr1434293.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-20T05:58:29+00:00",
+   "id": "955388d68cf2",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "4th Freundschachts-Open Friedberg 2026",
+   "city": "Friedberg",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior Classification",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Categories",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/4th-freundschachts-open-friedberg-2026/",
+   "src": "https://mychess.events/event/4th-freundschachts-open-friedberg-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-05T15:20:54+00:00",
+   "id": "3d7f54c66726",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Brno Open 2026",
+   "city": "Czech Republic",
+   "start": "2026-10-31",
+   "end": "2026-11-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "IM Round Robin",
+     "inv": true
+    },
+    {
+     "n": "Brno Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,470",
+   "tc": "Classical: 90 minutes for 40 moves + 30 minutes + 30 seconds per move; Rapid: 10+5; Blitz: 3+2",
+   "url": "https://mychess.events/event/brno-open-2026/",
+   "src": "https://mychess.events/event/brno-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-05T15:02:17+00:00",
+   "id": "0deae819c8ab",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "Open Coppa d'Oro – XLII Edizione – Memorial Achille Taborelli 2026",
+   "city": "Villa Guardia (CO)",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $700",
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/open-coppa-doro-xlii-edizione-memorial-achille-taborelli-2026/",
+   "src": "https://mychess.events/event/open-coppa-doro-xlii-edizione-memorial-achille-taborelli-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-16T08:32:15+00:00",
+   "id": "ffaa82612f84",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -4528,6 +8010,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "1. Adolf-Anderssen-Cup 2026",
+   "city": "Bad Soden-Salmünster",
+   "start": "2026-11-02",
+   "end": "2026-11-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,000",
+   "tc": "130 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/adolf-anderssen-cup-2026/",
+   "src": "https://mychess.events/event/adolf-anderssen-cup-2026/",
+   "cr": "https://chess-results.com/tnr1439101.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-13T14:50:36+00:00",
+   "id": "b468a73eedb3",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "GR",
    "name": "Avrupa Yaş Grupları Şampiyonası",
    "city": "Rodos",
@@ -4595,6 +8106,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "SSS Bern 2026",
+   "city": "Bern",
+   "start": "2026-11-02",
+   "end": "2026-11-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "SSS Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "110 minutes plus a 30-second increment from move one",
+   "url": "https://www.schweizer-schach-senioren.ch/bern",
+   "src": "https://mychess.events/event/sss-bern-2026/",
+   "cr": "https://s1.chess-results.com/tnr1294791.aspx?lan=1&turdet=YES&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T04:15:42+00:00",
+   "id": "bd845d7fb9b1",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -4620,6 +8160,40 @@
    "lastmod": "2026-09-21T17:07:36+00:00",
    "id": "ed3945b2848a",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "MCC November Blitz 2026",
+   "city": "ON L5C 1E7",
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "MCC November Blitz – Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Classifications",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3 minutes plus 2 seconds per move",
+   "url": "https://mychess.events/event/mcc-november-blitz-2026/",
+   "src": "https://mychess.events/event/mcc-november-blitz-2026/",
+   "cr": "https://chess-results.com/tnr1427837.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T12:33:30+00:00",
+   "id": "01dd498c04f5",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -4776,6 +8350,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "2º Open Internacional Sub2200 “Hotel Vértice CHIPIONA MAR” 2026 Dates and Details",
+   "city": "Chipiona (Cádiz)",
+   "start": "2026-11-06",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, November 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 8",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $864",
+   "tc": "80 minutes per player + 10 seconds per move",
+   "url": "https://mychess.events/event/2-open-internacional-sub2200-hotel-vertice-chipiona-mar-2026/",
+   "src": "https://mychess.events/event/2-open-internacional-sub2200-hotel-vertice-chipiona-mar-2026/",
+   "cr": "https://chess-results.com/tnr1346686.aspx?lan=3",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-28T10:46:50+00:00",
+   "id": "50ae6766bc81",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -4816,6 +8454,70 @@
    "lastmod": "2026-08-21T06:35:34+00:00",
    "id": "a45cbe6af8d9",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "BE",
+   "ulke": "Belçika",
+   "bayrak": "be",
+   "name": "5th Tournoi des 3 Vallées 2026",
+   "city": "Tihange-Huy",
+   "start": "2026-11-06",
+   "end": "2026-11-11",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, November 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, November 9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, November 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 11",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,500",
+   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/5th-tournoi-des-3-vallees-2026/",
+   "src": "https://mychess.events/event/5th-tournoi-des-3-vallees-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-28T11:22:04+00:00",
+   "id": "affc5fc38d50",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -5030,6 +8732,153 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Hradec Králové Open 2026",
+   "city": "Czech Republic",
+   "start": "2026-11-07",
+   "end": "2026-11-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Hradec Králové Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,180",
+   "tc": "Open: 90+30; Rapid: 10+5; Blitz: 3+2",
+   "url": "https://mychess.events/event/hradec-kralove-open-2026/",
+   "src": "https://mychess.events/event/hradec-kralove-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-05T14:43:39+00:00",
+   "id": "6da0067f2e0d",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "IV International Chess Open Hotel Cap Negret 2026",
+   "city": "Alicante",
+   "start": "2026-11-07",
+   "end": "2026-11-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, November 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, November 9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, November 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, November 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 13",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $6,400",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/iv-international-chess-open-hotel-cap-negret-2026/",
+   "src": "https://mychess.events/event/iv-international-chess-open-hotel-cap-negret-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-28T11:55:16+00:00",
+   "id": "62a2a7bc4426",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "SP Open Juniors School Chess Circuit 2026 – Stage 5",
+   "city": "SP 04087-031",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group D",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "12 minutes plus 3 seconds per move",
+   "url": "https://mychess.events/event/sp-open-juniors-school-chess-circuit-2026-stage-5/",
+   "src": "https://mychess.events/event/sp-open-juniors-school-chess-circuit-2026-stage-5/",
+   "cr": "https://chess-results.com/tnr1336730.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T12:45:00+00:00",
+   "id": "261548d37641",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CA",
    "ulke": "Kanada",
    "bayrak": "ca",
@@ -5229,6 +9078,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Bartın",
+   "name": "10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/satranc-haberleri/412-10-kasim-atatuerkue-anma-haftasi-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI İ limiz 2 025 Faaliyet takviminde yer alan 10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 8-9 Kasım 2025 tarihlerinde Bartın Gençlik Merkezinde yapılacaktır. Turnuva üç (8 yaş ve altı,10 yaş ve altı, Açık Kategorisi) kategoride gerçekleştirilecektir. Turnuvaya 2019 yılı ve öncesi doğan vizesi yapılmış sporcular katılabilirler . * Turnuva Tarihi : 8-9 Kasım 2025 * Turnuva Yeri : Bartın Gençlik M",
+   "id": "2de805d08a78",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Mersin",
    "name": "2021-2022 Yılı Turnuvaları",
    "start": "2026-11-10",
@@ -5324,6 +9197,70 @@
    "lastmod": "2026-09-21T18:05:56+00:00",
    "id": "6b26f2c149cc",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Isle of Wight Ocean Chess Tournament 2026",
+   "city": "Shanklin PO37 6BB",
+   "start": "2026-11-10",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tuesday, November 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, November 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, November 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, November 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 13",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 13",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/isle-of-wight-ocean-chess-tournament-2026/",
+   "src": "https://mychess.events/event/isle-of-wight-ocean-chess-tournament-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-28T13:12:21+00:00",
+   "id": "e975edd056cd",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -6208,6 +10145,65 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IS",
+   "ulke": "İzlanda",
+   "bayrak": "is",
+   "name": "Sel Hótel Mývatn/Mývatn Öl Open 2026",
+   "city": "Mývatn",
+   "start": "2026-11-19",
+   "end": "2026-11-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Thursday, November 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,270",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/sel-hotel-myvatn-myvatn-ol-open-2026/",
+   "src": "https://mychess.events/event/sel-hotel-myvatn-myvatn-ol-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-29T12:25:37+00:00",
+   "id": "cc3261793f28",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -6312,6 +10308,60 @@
    "lastmod": "2026-09-16T07:50:35+00:00",
    "id": "8ebca5ea2684",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "58th Torbay Chess Congress 2026",
+   "city": "England",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/58th-torbay-chess-congress-2026/",
+   "src": "https://mychess.events/event/58th-torbay-chess-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-30T03:03:02+00:00",
+   "id": "3fcafa723c3e",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -6594,7 +10644,7 @@
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
    "name": "3rd Warwick Congress 2026",
-   "city": "University of Warwick – Coventry CV4 8UW",
+   "city": "Coventry CV4 8EJ",
    "start": "2026-11-21",
    "end": "2026-11-22",
    "status": "a",
@@ -6612,12 +10662,12 @@
     }
    ],
    "prize": "≈ $1,610",
-   "tc": "60+30",
+   "tc": "60 minutes + 30 seconds per move from move one",
    "url": "https://mychess.events/event/3rd-warwick-congress-2026/",
    "src": "https://mychess.events/event/3rd-warwick-congress-2026/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-09-22T18:09:48+00:00",
+   "lastmod": "2026-09-22T21:18:40+00:00",
    "id": "56831fcbe9de",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-23",
@@ -6659,6 +10709,60 @@
    "lastmod": "2026-08-20T12:35:34+00:00",
    "id": "d038774cc695",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "František Zikuda Memorial 2026",
+   "city": "Czech Republic",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "08:45–09:15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "09:20–09:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "09:30–12:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:30–13:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "13:30–15:50",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "16:00",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $380",
+   "tc": "10 minutes plus a 5-second increment per move",
+   "url": "https://mychess.events/event/frantisek-zikuda-memorial-2026/",
+   "src": "https://mychess.events/event/frantisek-zikuda-memorial-2026/",
+   "cr": "https://chess-results.com/tnr1432758.aspx?lan=1&utm_source=chatgpt.com",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-14T05:40:26+00:00",
+   "id": "6cebe9a50658",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -6712,6 +10816,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "26th Open Senior Individual Chess Championship Mecklenburg-Vorpommern 2026",
+   "city": "Ostseebad Heringsdorf/Usedom",
+   "start": "2026-11-23",
+   "end": "2026-12-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Wednesday, November 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, November 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, November 30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,350",
+   "tc": "40 moves in 90 minutes, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/26th-open-senior-individual-chess-championship-mecklenburg-vorpommern-2026/",
+   "src": "https://mychess.events/event/26th-open-senior-individual-chess-championship-mecklenburg-vorpommern-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-30T03:20:50+00:00",
+   "id": "9a52102a106e",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -6757,6 +10925,30 @@
    "lastmod": "2026-08-20T13:02:53+00:00",
    "id": "7f1911fc0e18",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
+   "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/satranc-haberleri/413-24-kasim-oegretmenler-guenue-satranc-turnuvasi2025",
+   "kaynak": "site",
+   "kaynak_metin": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İ limiz 2 025 Faaliyet takviminde yer alan 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 22-23 KASIM 2025 tarihlerinde Bartın Gençlik Merkezinde yapılacaktır. Turnuva üç (8 yaş ve altı,10 yaş ve altı, Açık Kategorisi) kategoride gerçekleştirilecektir. Turnuvaya 2019 yılı ve öncesi doğan vizesi yapılmış sporcular katılabilirler . * Turnuva Tarihi : 22-23 Kasım 2025 * Turnuva Yeri : Bartın Gençlik Merkezi * Son K",
+   "id": "cd7d7757d5c9",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -6942,6 +11134,99 @@
    "durum": "yaklasan"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Binzer Senior Winter Chess Tournament 2026",
+   "city": "Germany.",
+   "start": "2026-11-26",
+   "end": "2026-12-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "130 minutes per player",
+   "url": "https://mychess.events/event/binzer-senior-winter-chess-tournament-2026/",
+   "src": "https://mychess.events/event/binzer-senior-winter-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1336130.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-30T07:53:16+00:00",
+   "id": "d11d7d12583a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "QQChess International Open 1800 and Above FIDE Rating Chess Tournament 2026",
+   "city": "Goa 403705",
+   "start": "2026-11-26",
+   "end": "2026-12-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "November 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 28",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $6,280",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/qqqchess-international-open-1800-fide-rating-tournament-2026/",
+   "src": "https://mychess.events/event/qqqchess-international-open-1800-fide-rating-tournament-2026/",
+   "cr": "https://s3.chess-results.com/tnr1487030.aspx?SNode=S0&lan=19",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T08:25:06+00:00",
+   "id": "34c63f5465b6",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -6977,6 +11262,70 @@
    "lastmod": "2026-08-20T11:15:01+00:00",
    "id": "667119cf44e2",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "22nd Jura International Chess Open 2026",
+   "city": "CH-2800 Delémont",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, November 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 29",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,460",
+   "tc": "Rounds 1–3: 20 minutes + 5 seconds per move; Rounds 4–7: 90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/22nd-jura-international-chess-open-2026/",
+   "src": "https://mychess.events/event/22nd-jura-international-chess-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-05-30T03:50:01+00:00",
+   "id": "ecb0e5812d65",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -7162,6 +11511,152 @@
    "durum": "yaklasan"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "31st San Andrés Chess Tournament – Azkoitia 2026",
+   "city": "Azkoitia",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3 minutes plus 2 seconds per move",
+   "url": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
+   "src": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
+   "cr": "https://chess-results.com/tnr1356330.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T10:49:20+00:00",
+   "id": "59d4cfaff860",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "Final of the LBX South Minas Cup – Itanhandu 2026",
+   "city": "Brazil – exact final venue to be announced or reconfirmed",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Youth",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Adult",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Family",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $590",
+   "tc": null,
+   "url": "https://mychess.events/event/final-of-the-lbx-south-minas-cup-itanhandu-2026/",
+   "src": "https://mychess.events/event/final-of-the-lbx-south-minas-cup-itanhandu-2026/",
+   "cr": "https://chess-results.com/tnr1356837.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-30T08:46:27+00:00",
+   "id": "2aa937c25cc4",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "Schach im Turm Dürnstein Rapid and Blitz 2026",
+   "city": "Dürnstein",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Blitz A",
+     "min": null,
+     "max": 1600
+    },
+    {
+     "n": "Blitz B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid A",
+     "min": null,
+     "max": 1600
+    },
+    {
+     "n": "Rapid B",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/schach-im-turm-durnstein-rapid-and-blitz-2026/",
+   "src": "https://mychess.events/event/schach-im-turm-durnstein-rapid-and-blitz-2026/",
+   "cr": "https://chess-results.com/tnr1423439.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-30T08:19:23+00:00",
+   "id": "415d6ec702a0",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "28th Bad Griesbach (Young) Senior Chess Open 2026",
+   "city": "Bad Griesbach",
+   "start": "2026-11-29",
+   "end": "2026-12-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,240",
+   "tc": "150 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/28th-bad-griesbach-young-senior-chess-open-2026/",
+   "src": "https://mychess.events/event/28th-bad-griesbach-young-senior-chess-open-2026/",
+   "cr": "https://chess-results.com/tnr1415455.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T12:26:32+00:00",
+   "id": "65071eee49cd",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -7235,6 +11730,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "LT",
+   "ulke": "Litvanya",
+   "bayrak": "lt",
+   "name": "Visaginas Chess Masters IV 2026",
+   "city": "Visaginas",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "10 minutes plus 5 seconds per move",
+   "url": "https://mychess.events/event/visaginas-chess-masters-iv-2026/",
+   "src": "https://mychess.events/event/visaginas-chess-masters-iv-2026/",
+   "cr": "https://chess-results.com/tnr1403736.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T11:09:00+00:00",
+   "id": "2ea5deb998bc",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "name": "Gran Hotel Bali Uluslararası Festivali",
    "city": "Benidorm",
@@ -7257,6 +11781,138 @@
    "kaynak": "manuel",
    "id": "42e63340fd50",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "LCC Weekday Tournament 2026 – London Chess Classic",
+   "city": "London W6 8DR",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": "≈ $2,600",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/lcc-weekday-tournament-2026-london-chess-classic/",
+   "src": "https://mychess.events/event/lcc-weekday-tournament-2026-london-chess-classic/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T08:54:57+00:00",
+   "id": "e8b6a4371881",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "SSS Bad Ragaz Year-End Tournament 2026",
+   "city": "Bad Ragaz",
+   "start": "2026-11-30",
+   "end": "2026-12-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "25 minutes plus 10 seconds per move",
+   "url": "https://mychess.events/event/sss-bad-ragaz-year-end-tournament-2026/",
+   "src": "https://mychess.events/event/sss-bad-ragaz-year-end-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1310287.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-30T08:51:41+00:00",
+   "id": "2a0bbb3b9f9e",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "SG",
+   "ulke": "Singapur",
+   "bayrak": "sg",
+   "name": "41st National Age Group Chess Championships 2026",
+   "city": "Singapore 828629",
+   "start": "2026-12-01",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Location",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE ID",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Categories",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time Control",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds increment from move one",
+   "url": "https://mychess.events/event/41st-national-age-group-chess-championships-2026/",
+   "src": "https://mychess.events/event/41st-national-age-group-chess-championships-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-17T17:38:19+00:00",
+   "id": "a4e602bce599",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -7503,6 +12159,65 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "1st Schaffhausen 2Days Open 2026",
+   "city": "CH-8200 Schaffhausen",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 6",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,930",
+   "tc": "60 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/1st-schaffhausen-2days-open-2026/",
+   "src": "https://mychess.events/event/1st-schaffhausen-2days-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-06T16:47:12+00:00",
+   "id": "f1f87542ad0f",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -7533,6 +12248,71 @@
    "lastmod": "2026-09-08T11:05:18+00:00",
    "id": "b590659998ea",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "9th Soorser Blitz Chess Championship 2026",
+   "city": "Sursee",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "5 minutes plus 2 seconds per move",
+   "url": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
+   "src": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
+   "cr": "https://chess-results.com/tnr1438001.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T13:07:49+00:00",
+   "id": "ac6361ae619a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "First Saturday Budapest December 2026",
+   "city": "Budapest",
+   "start": "2026-12-05",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Group",
+     "inv": true
+    },
+    {
+     "n": "IM Group",
+     "inv": true
+    },
+    {
+     "n": "FIDE Elo Group",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes, plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/first-saturday-budapest-december-2026/",
+   "src": "https://mychess.events/event/first-saturday-budapest-december-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-05T09:36:54+00:00",
+   "id": "49b08acf1b1a",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -7610,6 +12390,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "V Copa Campo Mourão Rapid Chess Tournament 2026",
+   "city": "Paraná",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,940",
+   "tc": "15 minutes plus 5 seconds per move",
+   "url": "https://mychess.events/event/v-copa-campo-mourao-rapid-chess-tournament-2026/",
+   "src": "https://mychess.events/event/v-copa-campo-mourao-rapid-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1403888.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T12:42:04+00:00",
+   "id": "994f152fa627",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -7678,6 +12487,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "7th International Chess Festival Roma Città Aperta 2026",
+   "city": "Rome",
+   "start": "2026-12-06",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sunday, December 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 8",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $23,280",
+   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/7th-international-chess-festival-roma-citta-aperta-2026/",
+   "src": "https://mychess.events/event/7th-international-chess-festival-roma-citta-aperta-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-07T04:59:10+00:00",
+   "id": "41334dcec7a1",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -7712,6 +12585,50 @@
    "lastmod": "2026-09-16T06:32:09+00:00",
    "id": "9d815e6fdfb4",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Open NRW Senior Individual Chess Championship 2026",
+   "city": "Oer-Erkenschwick",
+   "start": "2026-12-06",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Wednesday, December 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 6–12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 12",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "40 moves in 90 minutes, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/open-nrw-senior-individual-chess-championship-2026/",
+   "src": "https://mychess.events/event/open-nrw-senior-individual-chess-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-06T17:13:17+00:00",
+   "id": "7dfe1dc9b951",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -7857,6 +12774,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "Wellness Chess Tour GP17 Siófok Residence Hotel Balaton 2026",
+   "city": "Siófok",
+   "start": "2026-12-10",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Wednesday, December 9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 12",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $920",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/wellness-chess-tour-gp17-siofok-residence-hotel-balaton-2026/",
+   "src": "https://mychess.events/event/wellness-chess-tour-gp17-siofok-residence-hotel-balaton-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-07T05:14:12+00:00",
+   "id": "c73b6826d737",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -7997,6 +12978,45 @@
    "durum": "yaklasan"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "18th Northwick Park Chess Congress 2026",
+   "city": "London NW1 5LS",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Super U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "Major U1860",
+     "min": null,
+     "max": 1859
+    },
+    {
+     "n": "Minor U1500",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": "≈ $1,080",
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/18th-northwick-park-chess-congress-2026/",
+   "src": "https://mychess.events/event/18th-northwick-park-chess-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-26T05:02:56+00:00",
+   "id": "1f68390306c0",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "NL",
    "ulke": "Hollanda",
    "bayrak": "nl",
@@ -8037,6 +13057,50 @@
    "lastmod": "2026-08-22T11:35:53+00:00",
    "id": "c24c4bafd668",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "AFM1st Peel Region Winter Chess Championship 2026",
+   "city": "Ontario",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Masters",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2200",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes plus 30-second delay",
+   "url": "https://mychess.events/event/afm1st-peel-region-winter-chess-championship-2026/",
+   "src": "https://mychess.events/event/afm1st-peel-region-winter-chess-championship-2026/",
+   "cr": "https://chess-results.com/tnr1393496.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T11:37:24+00:00",
+   "id": "6332b2a89332",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -8095,6 +13159,40 @@
    "lastmod": "2026-08-22T11:23:13+00:00",
    "id": "fb825fa9f188",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "PL",
+   "ulke": "Polonya",
+   "bayrak": "pl",
+   "name": "Pierwszy Krok December 2026 – Wrocław",
+   "city": "Wrocław",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U12",
+     "min": 1000,
+     "max": 1200
+    },
+    {
+     "n": "13+",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "30 minutes per player in the verified U12 record; confirm the 13+ page",
+   "url": "https://mychess.events/event/pierwszy-krok-december-2026-wrocaw/",
+   "src": "https://mychess.events/event/pierwszy-krok-december-2026-wrocaw/",
+   "cr": "https://chess-results.com/tnr1406044.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T11:32:06+00:00",
+   "id": "dbda0494a372",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -8223,6 +13321,231 @@
    "durum": "yaklasan"
   },
   {
+   "c": "HR",
+   "ulke": "Hırvatistan",
+   "bayrak": "hr",
+   "name": "4th Dubrovnik Advent Open 2026",
+   "city": "Dubrovnik",
+   "start": "2026-12-17",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $8,560",
+   "tc": "60 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/4th-dubrovnik-advent-open-2026/",
+   "src": "https://mychess.events/event/4th-dubrovnik-advent-open-2026/",
+   "cr": "https://chess-results.com/tnr1432775.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T11:24:54+00:00",
+   "id": "f2ded8456408",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "Wellness Chess Tour GP18 Esztergom Hotel Bellevue 2026",
+   "city": "Esztergom",
+   "start": "2026-12-17",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Wednesday, December 16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 17",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 17",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 17",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 17",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,150",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/wellness-chess-tour-gp18-esztergom-hotel-bellevue-2026/",
+   "src": "https://mychess.events/event/wellness-chess-tour-gp18-esztergom-hotel-bellevue-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-07T13:19:15+00:00",
+   "id": "702edb483304",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2026 North American Junior Championships",
+   "city": "USA",
+   "start": "2026-12-18",
+   "end": "2026-12-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U20",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2026-north-american-junior-championships/",
+   "src": "https://mychess.events/event/2026-north-american-junior-championships/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-08T12:52:48+00:00",
+   "id": "647ede6bb334",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "Braunau Chess Open 2026",
+   "city": "Upper Austria",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth Tournament",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes per player",
+   "url": "https://mychess.events/event/braunau-chess-open-2026/",
+   "src": "https://mychess.events/event/braunau-chess-open-2026/",
+   "cr": "https://s1.chess-results.com/tnr1457129.aspx?lan=1&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T09:52:30+00:00",
+   "id": "4599829e0118",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Saint Louis Chess Club Championship 2026",
+   "city": "MO 63108",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $5,000",
+   "tc": "G/90 + 30-second increment from move one",
+   "url": "https://mychess.events/event/saint-louis-chess-club-championship-2026/",
+   "src": "https://mychess.events/event/saint-louis-chess-club-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-07T15:33:36+00:00",
+   "id": "0bcc256093c4",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -8302,6 +13625,177 @@
    "lastmod": "2026-09-17T07:27:56+00:00",
    "id": "c9497c0957f5",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "50th Shivani All India Below 1800 Chess Championship 2026",
+   "city": "Lucknow",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": "≈ $11,760",
+   "tc": "25 minutes plus 10 seconds per move",
+   "url": "https://mychess.events/event/50th-shivani-all-india-below-1800-chess-championship-2026/",
+   "src": "https://mychess.events/event/50th-shivani-all-india-below-1800-chess-championship-2026/",
+   "cr": "https://chess-results.com/tnr1431192.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T18:33:49+00:00",
+   "id": "998516e86f9a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Chessfestival Groningen 2026",
+   "city": "AC Groningen",
+   "start": "2026-12-19",
+   "end": "2026-12-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, December 23",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $11,580",
+   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/chessfestival-groningen-2026/",
+   "src": "https://mychess.events/event/chessfestival-groningen-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-07T16:35:09+00:00",
+   "id": "76e0dcb5f3d9",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "XII Open Internacional Villa de Santa Pola 2026",
+   "city": "Alicante",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,200",
+   "tc": null,
+   "url": "https://mychess.events/event/xii-open-internacional-villa-de-santa-pola-2026/",
+   "src": "https://mychess.events/event/xii-open-internacional-villa-de-santa-pola-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T06:11:34+00:00",
+   "id": "590268eb26fe",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "17e Open International de Corbas 2026",
+   "city": "Corbas",
+   "start": "2026-12-20",
+   "end": "2026-12-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 20–23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, December 23",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,980",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/17e-open-international-de-corbas-2026/",
+   "src": "https://mychess.events/event/17e-open-international-de-corbas-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-08T18:16:08+00:00",
+   "id": "8da577678412",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -8422,6 +13916,99 @@
    "c": "IN",
    "ulke": "Hindistan",
    "bayrak": "in",
+   "name": "Winter Cup Below 1700 Lakecity International Chess Tournament 2026",
+   "city": "Rajasthan",
+   "start": "2026-12-22",
+   "end": "2026-12-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": "≈ $16,930",
+   "tc": "30 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/winter-cup-below-1700-lakecity-international-chess-tournament-2026/",
+   "src": "https://mychess.events/event/winter-cup-below-1700-lakecity-international-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1441886.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-29T18:26:57+00:00",
+   "id": "b5fe631837c5",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CN",
+   "ulke": "Çin",
+   "bayrak": "cn",
+   "name": "Hong Kong International Open Chess Championship 2026",
+   "city": "Hong Kong SAR China",
+   "start": "2026-12-23",
+   "end": "2026-12-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tuesday, December 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, December 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, December 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, December 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $17,745",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/hong-kong-international-open-chess-championship-2026/",
+   "src": "https://mychess.events/event/hong-kong-international-open-chess-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-08T18:29:37+00:00",
+   "id": "403c2387a2f4",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
    "name": "Pune Grand Slam Chess Festival 2026",
    "city": "Maharashtra",
    "start": "2026-12-24",
@@ -8507,6 +14094,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "3rd Ramabai Ranade FIDE Classical Rating Tournament 2026",
+   "city": "Raigad 410210",
+   "start": "2026-12-25",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, December 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,700",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/3rd-ramabai-ranade-fide-classical-rating-tournament-2026/",
+   "src": "https://mychess.events/event/3rd-ramabai-ranade-fide-classical-rating-tournament-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-09T06:35:28+00:00",
+   "id": "2b196c745011",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -8570,6 +14221,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "36th Annual North American Open 2026",
+   "city": "NV 89103",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $130,000",
+   "tc": "40 moves in 90 minutes, then 30 minutes to finish, with 30-second delay",
+   "url": "https://mychess.events/event/36th-annual-north-american-open-2026/",
+   "src": "https://mychess.events/event/36th-annual-north-american-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-09T18:07:47+00:00",
+   "id": "12dc9a12e4f7",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -8610,6 +14325,183 @@
    "lastmod": "2026-09-18T12:55:24+00:00",
    "id": "e32fc7208b73",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "50th Zürcher Weihnachtsopen 2026",
+   "city": "Zürich",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $23,500",
+   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
+   "src": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-09T06:49:16+00:00",
+   "id": "60df5345f301",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "51st Annual Eastern Open 2026",
+   "city": "VA 22202",
+   "start": "2026-12-26",
+   "end": "2026-12-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "4-Day",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4-Day",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4-Day",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4-Day",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4-Day",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4-Day",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4-Day",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4-Day",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $30,000",
+   "tc": "40 moves in 80 minutes, then 30 minutes to finish, with 30-second delay",
+   "url": "https://mychess.events/event/51st-annual-eastern-open-2026/",
+   "src": "https://mychess.events/event/51st-annual-eastern-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-09T17:37:55+00:00",
+   "id": "69bc6f657908",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "RS",
+   "ulke": "Sırbistan",
+   "bayrak": "rs",
+   "name": "Apatin Open Winter 2026",
+   "city": "Apatin",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U16",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Open / U2400",
+   "url": "https://mychess.events/event/apatin-open-winter-2026/",
+   "src": "https://mychess.events/event/apatin-open-winter-2026/",
+   "cr": "https://chess-results.com/UploadData.aspx?Uid=2&lan=1&tnr=1470479",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-14T18:00:03+00:00",
+   "id": "eb1627810758",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -8661,6 +14553,325 @@
    "kaynak": "manuel",
    "id": "ad96bc800ab9",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Dallas Winter Open 2026",
+   "city": "TX 75070",
+   "start": "2026-12-26",
+   "end": "2026-12-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1400",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "U1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": "≈ $1,470",
+   "tc": "G/60; d10",
+   "url": "https://mychess.events/event/dallas-winter-open-2026/",
+   "src": "https://mychess.events/event/dallas-winter-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T07:51:21+00:00",
+   "id": "a312ea9255a2",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Memoriál Ing. Olexy 2026",
+   "city": "Czech Republic",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,230",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/memorial-ing-olexy-2026/",
+   "src": "https://mychess.events/event/memorial-ing-olexy-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T07:17:01+00:00",
+   "id": "6b7a8dac1d1a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Open Noël Plaza Futuroscope 2026",
+   "city": "Chasseneuil-du-Poitou",
+   "start": "2026-12-26",
+   "end": "2026-12-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 26–30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, December 30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $930",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/open-noel-plaza-futuroscope-2026/",
+   "src": "https://mychess.events/event/open-noel-plaza-futuroscope-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-09T17:12:08+00:00",
+   "id": "d808097d9a74",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "Richmond International Chess Festival 2026",
+   "city": "BC V7C 4N3",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,300",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/richmond-international-chess-festival-2026/",
+   "src": "https://mychess.events/event/richmond-international-chess-festival-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-09T08:37:15+00:00",
+   "id": "cb4c032af2e6",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "PT",
+   "ulke": "Portekiz",
+   "bayrak": "pt",
+   "name": "XVII Open Internacional de Xadrez Marquês de Pombal 2026",
+   "city": "-492 Pombal",
+   "start": "2026-12-26",
+   "end": "2026-12-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,690",
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/xvii-open-internacional-de-xadrez-marques-de-pombal-2026/",
+   "src": "https://mychess.events/event/xvii-open-internacional-de-xadrez-marques-de-pombal-2026/",
+   "cr": "https://s2.chess-results.com/tnr1397991.aspx?lan=1&flag=30&turdet=YES&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-06-09T09:11:44+00:00",
+   "id": "739f5845b3ba",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "15° Festival Città di Palmanova 2026",
+   "city": "Palmanova (UD)",
+   "start": "2026-12-27",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master – Tournament A",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Challengers – Tournament B",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "Experts – Tournament C",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "Amateur – Tournament D",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": "≈ $8440",
+   "tc": null,
+   "url": "https://mychess.events/event/15-festival-citta-di-palmanova-2026/",
+   "src": "https://mychess.events/event/15-festival-citta-di-palmanova-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T06:55:00+00:00",
+   "id": "7aa20a0b58b4",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -8865,6 +15076,60 @@
    "durum": "yaklasan"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Shropshire Congress 2027",
+   "city": "England",
+   "start": "2027-01-01",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Prize 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Prize 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Prize 3",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "100 minutes plus a 10-second increment from move one",
+   "url": "https://shropshirechess.org/shropshire-congress/shropshire-congress-2026/",
+   "src": "https://mychess.events/event/shropshire-congress-2027/",
+   "cr": "https://s1.chess-results.com/tnr1451270.aspx?lan=1&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T13:36:33+00:00",
+   "id": "8feacd49f7fe",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "HR",
    "ulke": "Hırvatistan",
    "bayrak": "hr",
@@ -8982,6 +15247,55 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "25th Prague Open 2027",
+   "city": "Czech Republic",
+   "start": "2027-01-08",
+   "end": "2027-01-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Prague Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Prague Open B",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Prague Open 30+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $5,130",
+   "tc": "Classical: 90 minutes/40 moves + 30 minutes + 30 seconds per move; Rapid: 10+5; Blitz: 3+2",
+   "url": "https://mychess.events/event/25th-prague-open-2027/",
+   "src": "https://mychess.events/event/25th-prague-open-2027/",
+   "cr": "https://chess-results.com/tnr1446797.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-07T12:20:07+00:00",
+   "id": "be3ad6d3c426",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -9007,6 +15321,35 @@
    "lastmod": "2026-09-07T07:42:14+00:00",
    "id": "ce241bba10ab",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Schaffhausen New Year Chess Open 2027",
+   "city": "Schaffhausen",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "General Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,230",
+   "tc": "90 minutes plus a 30-second increment from move one",
+   "url": "https://www.swisschesstour.com/1/schaffhausen_new_year_3235077.html",
+   "src": "https://mychess.events/event/schaffhausen-new-year-chess-open-2027/",
+   "cr": "https://s1.chess-results.com/tnr1339606.aspx?lan=1&flag=30&turdet=YES&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T17:24:35+00:00",
+   "id": "82854b2e5b04",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -9069,6 +15412,94 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "SSS Zürich 1 2027",
+   "city": "Zürich",
+   "start": "2027-01-11",
+   "end": "2027-01-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "SSS Zürich 1",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "110 minutes plus a 30-second increment from move one",
+   "url": "https://www.schweizer-schach-senioren.ch/kopie-zurich-1",
+   "src": "https://mychess.events/event/sss-zurich-1-2027/",
+   "cr": "https://s1.chess-results.com/tnr1334473.aspx?lan=1&turdet=YES&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T17:46:19+00:00",
+   "id": "542153a0a2e1",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "RS",
+   "ulke": "Sırbistan",
+   "bayrak": "rs",
+   "name": "Winter Chess Festival Paraćin 2027: Join the Excitement",
+   "city": "Paraćin",
+   "start": "2027-01-11",
+   "end": "2027-01-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Mix Swiss “Prestige 2027”",
+     "min": 2300,
+     "max": null
+    },
+    {
+     "n": "Amateur International Open “Prestige 202",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "Open Blitz “Aleksandar Aca Stojanović” M",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "GM Round Robin “Prestige 1 2027”",
+     "inv": true
+    },
+    {
+     "n": "IM Round Robin “Prestige 1 2027”",
+     "inv": true
+    },
+    {
+     "n": "FM Round Robin “Prestige 1 2027”",
+     "inv": true
+    },
+    {
+     "n": "GM Round Robin “Prestige 2 2027”",
+     "inv": true
+    },
+    {
+     "n": "IM Round Robin “Prestige 2 2027”",
+     "inv": true
+    }
+   ],
+   "prize": "≈ $2,970",
+   "tc": "90 minutes for 40 moves, then 15 minutes for the rest of the game, with a 30-second increment from move one",
+   "url": "https://mychess.events/event/winter-chess-festival-paracin-2027/",
+   "src": "https://mychess.events/event/winter-chess-festival-paracin-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-21T18:43:35+00:00",
+   "id": "3d7028f9a1a9",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -9090,6 +15521,40 @@
    "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,",
    "id": "b596864ec86b",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "SJEM 2027 Third Qualification Tournament – Geneva",
+   "city": "Switzerland – final playing hall in the official Swiss youth notice",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "SJEM age groups",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Qualification places",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/sjem-2027-third-qualification-tournament-geneva/",
+   "src": "https://mychess.events/event/sjem-2027-third-qualification-tournament-geneva/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-09T06:22:18+00:00",
+   "id": "3d41361cd227",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -9143,6 +15608,58 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "25th Marienbad Open 2027",
+   "city": "Czech Republic",
+   "start": "2027-01-16",
+   "end": "2027-01-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Round Robin",
+     "inv": true
+    },
+    {
+     "n": "IM Round Robin",
+     "inv": true
+    },
+    {
+     "n": "Marienbad Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open Seniors 50+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,200",
+   "tc": "Classical: 90 minutes/40 moves + 30 minutes + 30 seconds per move; Rapid: 10+5; Blitz: 3+2",
+   "url": "https://mychess.events/event/25th-marienbad-open-2027/",
+   "src": "https://mychess.events/event/25th-marienbad-open-2027/",
+   "cr": "https://chess-results.com/tnr1446837.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-09T06:02:16+00:00",
+   "id": "46e26cdf91f8",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -9173,6 +15690,79 @@
    "lastmod": "2026-09-16T12:23:47+00:00",
    "id": "2b98a46ec3e1",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "NZ",
+   "ulke": "Yeni Zelanda",
+   "bayrak": "nz",
+   "name": "Oceania Zonal 3.6 Chess Championships 2027",
+   "city": "Christchurch Central City",
+   "start": "2027-01-22",
+   "end": "2027-01-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Zonal",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Zonal",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $6,740",
+   "tc": "Open and Women’s: 90 minutes plus 30 seconds per move; Blitz: 3+2",
+   "url": "https://mychess.events/event/oceania-zonal-3-6-chess-championships-2027/",
+   "src": "https://mychess.events/event/oceania-zonal-3-6-chess-championships-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-07T11:36:07+00:00",
+   "id": "b728671c3f54",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Nyon Chess Weekend 2027",
+   "city": "Switzerland – final venue in the official club notice",
+   "start": "2027-01-29",
+   "end": "2027-01-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Nyon Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Nyon Standard Tournament",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/nyon-chess-weekend-2027/",
+   "src": "https://mychess.events/event/nyon-chess-weekend-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-09T06:51:57+00:00",
+   "id": "6577f1f5395b",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -9212,6 +15802,35 @@
    "lastmod": "2026-09-14T09:51:16+00:00",
    "id": "eed42b7ff5ca",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "25th Stadthaus Open Burgdorf 2027",
+   "city": "Burgdorf",
+   "start": "2027-02-12",
+   "end": "2027-02-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Stadthaus Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical; confirm the complete 2027 clock in the official notice",
+   "url": "https://mychess.events/event/25th-stadthaus-open-burgdorf-2027/",
+   "src": "https://mychess.events/event/25th-stadthaus-open-burgdorf-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-10T16:25:55+00:00",
+   "id": "0e6940280e3e",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -9416,6 +16035,79 @@
    "durum": "yaklasan"
   },
   {
+   "c": "SI",
+   "ulke": "Slovenya",
+   "bayrak": "si",
+   "name": "Bled Chess Festival 2027",
+   "city": "Bled",
+   "start": "2027-03-08",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Bled",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Groups",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Side Events and Seminars",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $6,840",
+   "tc": "Classical FIDE-rated control under the official 2027 regulations",
+   "url": "https://mychess.events/event/bled-chess-festival-2027/",
+   "src": "https://mychess.events/event/bled-chess-festival-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-07T11:51:20+00:00",
+   "id": "2999eb4ceb5c",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "5th Nový Bor Open 2027",
+   "city": "Czech Republic",
+   "start": "2027-03-13",
+   "end": "2027-03-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Nový Bor Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Side events",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,170",
+   "tc": "Main Open: 90 minutes plus 30 seconds per move; Rapid: 10+5; Blitz: 3+2",
+   "url": "https://mychess.events/event/5th-novy-bor-open-2027/",
+   "src": "https://mychess.events/event/5th-novy-bor-open-2027/",
+   "cr": "https://chess-results.com/tnr1447314.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-09T06:05:34+00:00",
+   "id": "4c3d96538713",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CZ",
    "ulke": "Çekya",
    "bayrak": "cz",
@@ -9508,6 +16200,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Open de la Broye 2027",
+   "city": "Switzerland – final venue in the official organizer notice",
+   "start": "2027-03-19",
+   "end": "2027-03-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Junior Open de la Broye",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/open-de-la-broye-2027/",
+   "src": "https://mychess.events/event/open-de-la-broye-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-07T12:33:22+00:00",
+   "id": "52d0ef1a372a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -9577,6 +16298,43 @@
    "lastmod": "2026-09-17T18:35:50+00:00",
    "id": "39840fd629b8",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "15th Pilsen Open 2027",
+   "city": "Czech Republic",
+   "start": "2027-03-21",
+   "end": "2027-03-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Petr Neuman Memorial GM",
+     "inv": true
+    },
+    {
+     "n": "Stefan Gros Memorial IM",
+     "inv": true
+    },
+    {
+     "n": "Open and side sections",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,920",
+   "tc": "90 minutes/40 moves + 30 minutes + 30 seconds per move in the published classical norm sections",
+   "url": "https://mychess.events/event/15th-pilsen-open-2027/",
+   "src": "https://mychess.events/event/15th-pilsen-open-2027/",
+   "cr": "https://chess-results.com/tnr1447321.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-09T06:13:27+00:00",
+   "id": "42c8cf2d779e",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -9964,6 +16722,106 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Therwil Youth Team Tournament 2027",
+   "city": "Switzerland – final team venue in the organizer notice",
+   "start": "2027-05-02",
+   "end": "2027-05-02",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Youth Team Event",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/therwil-youth-team-tournament-2027/",
+   "src": "https://mychess.events/event/therwil-youth-team-tournament-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-09T06:36:48+00:00",
+   "id": "d24d99213f61",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "Merano Chess and Wellness Seminar Tournament 2027",
+   "city": "Merano",
+   "start": "2027-05-07",
+   "end": "2027-05-16",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Seminar Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Analysis Program",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz and Evening Program",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "120 minutes per player for the game",
+   "url": "https://mychess.events/event/merano-chess-and-wellness-seminar-tournament-2027/",
+   "src": "https://mychess.events/event/merano-chess-and-wellness-seminar-tournament-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-04T03:56:51+00:00",
+   "id": "13583f58dd7c",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IM",
+   "ulke": "Man Adası",
+   "bayrak": "im",
+   "name": "FIDE Grand Swiss and Women’s Grand Swiss 2027",
+   "city": "Isle of Man",
+   "start": "2027-05-10",
+   "end": "2027-05-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE Grand Swiss",
+     "inv": true
+    },
+    {
+     "n": "FIDE Women’s Grand Swiss",
+     "inv": true
+    }
+   ],
+   "prize": "≈ $900,000",
+   "tc": null,
+   "url": "https://mychess.events/event/fide-grand-swiss-and-womens-grand-swiss-2027/",
+   "src": "https://mychess.events/event/fide-grand-swiss-and-womens-grand-swiss-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-07T11:07:14+00:00",
+   "id": "44d32de324dc",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "GE",
    "name": "Avrupa Bireysel Satranç Şampiyonası",
    "city": "Gürcistan",
@@ -10032,6 +16890,40 @@
    "lastmod": "2026-09-04T10:35:25+00:00",
    "id": "f1f0413fc599",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "SK",
+   "ulke": "Slovakya",
+   "bayrak": "sk",
+   "name": "Tatrafest Senior Championship 65+ 2027",
+   "city": "53 Vysoké Tatry",
+   "start": "2027-05-22",
+   "end": "2027-05-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Senior 65+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open Tatry 30+",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/tatrafest-senior-championship-65-2027/",
+   "src": "https://mychess.events/event/tatrafest-senior-championship-65-2027/",
+   "cr": "https://chess-results.com/tnr1443805.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-07T10:45:21+00:00",
+   "id": "de4121eee3e4",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -10110,6 +17002,35 @@
    "lastmod": "2026-09-11T07:40:14+00:00",
    "id": "6dbb6a04d3ff",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "San Bernardino 2Days Swiss Alpine Open 2027",
+   "city": "San Bernardino",
+   "start": "2027-06-05",
+   "end": "2027-06-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "General Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/san-bernardino-2days-swiss-alpine-open-2027/",
+   "src": "https://mychess.events/event/san-bernardino-2days-swiss-alpine-open-2027/",
+   "cr": "https://chess-results.com/tnr1434273.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-09T05:50:30+00:00",
+   "id": "154324d456b1",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -10317,6 +17238,45 @@
    "durum": "yaklasan"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Weimar Chess Seminar Tournament 2027",
+   "city": "Weimar",
+   "start": "2027-07-16",
+   "end": "2027-07-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Seminar Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Analysis and Lectures",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz and Cultural Program",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/weimar-chess-seminar-tournament-2027/",
+   "src": "https://mychess.events/event/weimar-chess-seminar-tournament-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-01T16:44:26+00:00",
+   "id": "254a3e6e0019",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -10501,6 +17461,35 @@
    "kaynak": "manuel",
    "id": "c9cad86c327b",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "SK",
+   "ulke": "Slovakya",
+   "bayrak": "sk",
+   "name": "T-Session X Rysy 2027",
+   "city": "Chata pod Rysmi – High Tatras",
+   "start": "2027-09-20",
+   "end": "2027-09-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/t-session-x-rysy-2027/",
+   "src": "https://mychess.events/event/t-session-x-rysy-2027/",
+   "cr": "https://chess-results.com/tnr1207714.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-07-09T05:54:35+00:00",
+   "id": "d70dfaa76b02",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },

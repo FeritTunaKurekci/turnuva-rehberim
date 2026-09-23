@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-22T20:49",
+ "taranma": "2026-09-23T09:08",
  "surum": "0.4",
  "iller": [
   {
@@ -78,7 +78,7 @@
    "il": "Bartın",
    "durum": "ok",
    "host": "bartin.tsf.org.tr",
-   "adet": 1
+   "adet": 4
   },
   {
    "il": "Batman",
@@ -746,14 +746,74 @@
    "reyting_turu": null,
    "sections": [
     {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimiz 2026 - 2027 Etkinlik Takviminde yer alan 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 24-25 Ekim 2026 tarihlerinde Bartın Gençlik Merkezinde 8 Yaş ve Altı, 12 Yaş ve Altı ve Açık kategorileri olmak üzere toplam 3 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış 2020 ve öncesi doğumlu sporcular katılabilirler. * Turnuva Tarihi : 24-25 Ekim 2026 * Turnuva Yeri : Bartın Gençlik Merkezi * Düşünme Süresi 35'+30\" Eklemeli Tempo * Son Kayıt Tari"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
+   "name": "TURNUVA KAYIT İÇİN TIKLAYINIZ",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
      "n": "Genel",
      "min": null,
      "max": null
     }
    ],
-   "url": "https://bartin.tsf.org.tr/satranc-haberleri/390-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi2024",
+   "url": "https://bartin.tsf.org.tr/turnuva-kayit-form?view=turnuvakayit&layout=tlist",
    "kaynak": "site",
-   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimiz 2024 - 2025 Etkinlik Takviminde yer alan 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 26-27 EKİM 2024 tarihlerinde BARTIN GENÇLİK MERKEZİ oyun salonunda üç kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış 2018 ve öncesi doğumlu TC Vatandaşı sporcular katılabilirler. TURNUVA KAYIT bölümünden turnuvaya 25 EKİM 2024 Cuma günü saat 18.00 a kadar kayıt olabilirsiniz. İlk 4 e giren sporculara madalya"
+   "kaynak_metin": "TURNUVA KAYIT İÇİN TIKLAYINIZ Anasayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecektir. TC Kimlik No Giriniz Baba Adı"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
+   "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/satranc-haberleri/413-24-kasim-oegretmenler-guenue-satranc-turnuvasi2025",
+   "kaynak": "site",
+   "kaynak_metin": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İ limiz 2 025 Faaliyet takviminde yer alan 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 22-23 KASIM 2025 tarihlerinde Bartın Gençlik Merkezinde yapılacaktır. Turnuva üç (8 yaş ve altı,10 yaş ve altı, Açık Kategorisi) kategoride gerçekleştirilecektir. Turnuvaya 2019 yılı ve öncesi doğan vizesi yapılmış sporcular katılabilirler . * Turnuva Tarihi : 22-23 Kasım 2025 * Turnuva Yeri : Bartın Gençlik Merkezi * Son K"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
+   "name": "10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/satranc-haberleri/412-10-kasim-atatuerkue-anma-haftasi-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI İ limiz 2 025 Faaliyet takviminde yer alan 10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 8-9 Kasım 2025 tarihlerinde Bartın Gençlik Merkezinde yapılacaktır. Turnuva üç (8 yaş ve altı,10 yaş ve altı, Açık Kategorisi) kategoride gerçekleştirilecektir. Turnuvaya 2019 yılı ve öncesi doğan vizesi yapılmış sporcular katılabilirler . * Turnuva Tarihi : 8-9 Kasım 2025 * Turnuva Yeri : Bartın Gençlik M"
   },
   {
    "c": "TR",
