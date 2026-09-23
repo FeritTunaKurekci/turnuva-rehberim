@@ -289,6 +289,10 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .pl .clk{font-variant-numeric:tabular-nums;background:var(--bg2);padding:1px 6px;border-radius:4px;font-size:12px}
 .pl .clk.on{background:var(--acc);color:var(--acc-ink)}
 .pl .clk.on.az{background:var(--red);color:#fff}
+.pl .clk.canli::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:currentColor;margin-right:5px;vertical-align:1px;animation:nabiz 1.6s infinite}
+@keyframes nabiz{0%,100%{opacity:1}50%{opacity:.25}}
+.ydot{width:7px;height:7px;border-radius:50%;background:var(--acc);box-shadow:0 0 0 3px var(--acc-soft);flex:none;display:inline-block;animation:nabiz 1.6s infinite}
+.akiyor{color:var(--acc);font-weight:700;display:inline-flex;align-items:center;gap:6px}
 .pl .pts{font-weight:800;color:var(--acc)}
 .board{display:grid;gap:0;grid-template-columns:repeat(8,1fr);grid-template-rows:repeat(8,1fr);aspect-ratio:1;width:100%;border-radius:3px;overflow:hidden;user-select:none;box-shadow:0 2px 10px rgba(0,0,0,.4)}
 .bsq{position:relative;min-width:0;margin:0;padding:0;border:0}
@@ -1012,7 +1016,24 @@ function turunRaundu(x){
 function temizAd(s){ return String(s||'').replace(/[\u{1F1E6}-\u{1F1FF}\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE0F}\u{2190}-\u{21FF}]/gu,'').replace(/\s{2,}/g,' ').trim(); }
 
 /* Hangi turnuvada şu an gerçekten oyun var? Tahtalara bakarak buluruz. */
-const CANLI_DURUM = {};
+const CANLI_DURUM = {};       // tur bazında: en son ne zaman hamle gördük
+const OYUN_HAREKET = {};      // oyun bazında: en son ne zaman hamle gördük
+const OYUN_FEN = {};
+function hareketIsle(rid, oyunlar){
+  let yeni=false;
+  (oyunlar||[]).forEach(g=>{
+    const f=(g.fen||'')+'|'+(g.lastMove||'');
+    if(OYUN_FEN[g.id] && OYUN_FEN[g.id]!==f){ OYUN_HAREKET[g.id]=Date.now(); yeni=true; }
+    OYUN_FEN[g.id]=f;
+  });
+  if(yeni) CANLI_DURUM[rid]=Date.now();
+}
+const HAREKET_SURESI = 12*60*1000;   // 12 dakikadır hamle yoksa "akıyor" deme
+function oyunCanli(g){
+  if(!suruyor(g)) return false;
+  if(OYUN_HAREKET[g.id] && Date.now()-OYUN_HAREKET[g.id] < HAREKET_SURESI) return true;  // gözümüzle gördük
+  return typeof g.thinkTime==='number' && g.thinkTime < 720;                              // ya da 12 dk içinde hamle olmuş
+}
 function raundCanli(x){
   const r=turunRaundu(x)||{};
   if(CANLI.seg && r.id===CANLI.seg.rid) return turAkiyor();   // açık turnuva: elimizde gerçek veri var
@@ -1069,6 +1090,7 @@ async function canliTurYenile(){
   const s=CANLI.seg;
   try{
     const v=await canliJson(`${LI}/api/broadcast/${s.tslug}/${s.rslug}/${s.rid}`);
+    hareketIsle(s.rid, v.games);
     CANLI.tur=v; CANLI.oyunlar=v.games||[]; CANLI.hata=''; CANLI.sonGuncelleme=new Date(); CANLI.saatAn=Date.now();
   }catch(e){ CANLI.hata=e.message; }
 }
@@ -1147,7 +1169,7 @@ function akiyor(g){
   if(typeof t==='number') return t < 2700;         // 45 dakikadan uzun süredir hamle yoksa: akmıyor
   return !!(g.players||[]).some(p=>p&&p.clock!=null);
 }
-function turAkiyor(){ return CANLI.oyunlar.some(akiyor); }
+function turAkiyor(){ return CANLI.oyunlar.some(oyunCanli); }
 function saatDegeri(g, renk){
   const p=(g.players||[])[renk==='w'?0:1];
   if(!p || p.clock==null) return null;
@@ -1165,7 +1187,9 @@ function saatTik(){
     const g=CANLI.oyunlar.find(x=>x.id===gid); if(!g) return;
     const v=saatDegeri(g,renk); if(v==null) return;
     el.textContent=saat(v);
-    el.classList.toggle('on', akiyor(g) && renk===aktifRenk(g));
+    const aktif = akiyor(g) && renk===aktifRenk(g);
+    el.classList.toggle('on', aktif);
+    el.classList.toggle('canli', aktif && oyunCanli(g));
     el.classList.toggle('az', v<6000);
   });
 }
@@ -1263,10 +1287,13 @@ function viewCanliTur(){
   const v=CANLI.tur, t=v&&v.tour||{}, r=v&&v.round||{};
   const akt=(CANLI.liste&&CANLI.liste.active)||[];
   return `${akt.length>1?`<div class="bchips" role="tablist" aria-label="Canlı turnuvalar">${akt.map(x=>{const rr=turunRaundu(x)||{};
-      const ne = rr.startsAt ? `<i class="bsaat">${new Date(rr.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}</i>` : '';
+      const hareket = (CANLI.seg && rr.id===CANLI.seg.rid) ? turAkiyor()
+        : (CANLI_DURUM[rr.id] && Date.now()-CANLI_DURUM[rr.id] < HAREKET_SURESI);
+      const ne = hareket ? '<i class="ydot" title="Şu an hamle yapılıyor"></i>'
+        : rr.startsAt ? `<i class="bsaat">${new Date(rr.startsAt).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})}</i>` : '';
       return `<button class="bchip" data-yayin="${esc(raundUrl(x))}" aria-pressed="${rr.id===CANLI.seg.rid}">${ne}${esc(temizAd(x.tour.name))}</button>`;}).join('')}</div>`:''}
   <div class="lhead"><div><h1>${esc(temizAd(t.name)||'Yükleniyor…')}</h1>
-    <div class="csub">${esc(temizAd(r.name))}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
+    <div class="csub">${turAkiyor()?'<span class="akiyor"><i class="ydot"></i>hamleler akıyor</span> · ':''}${esc(temizAd(r.name))}${CANLI.sonGuncelleme?` · güncellendi ${CANLI.sonGuncelleme.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`:''}</div></div>
     ${CANLI.turlar&&CANLI.turlar.length>1?`<select class="inp rsel" id="raundsec" aria-label="Tur seç">${CANLI.turlar.map(x=>`<option value="${esc(x.url||'')}" ${x.id===CANLI.seg.rid?'selected':''}>${esc(temizAd(x.name))}${x.ongoing?' (canlı)':''}</option>`).join('')}</select>`:''}
   </div>
   <div class="toolbar"><button class="trbtn" id="trfiltre" aria-pressed="${CANLI.sadeceTR}" title="Sadece Türk oyuncuların tahtalarını göster"><span class="fl-tr">${flag('TR')}</span><span>Sadece Türk oyuncular</span></button>
