@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-23T09:08",
+ "taranma": "2026-09-23T13:55",
  "surum": "0.4",
  "iller": [
   {
@@ -396,7 +396,7 @@
    "il": "Sakarya",
    "durum": "ok",
    "host": "sakarya.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Samsun",
@@ -568,7 +568,7 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Ankara",
-   "name": "Başkent Sanat Merkezi-Caissa Satranç Akademisi Ödüllü Satranç Turnuvası",
+   "name": "Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası",
    "start": "2026-10-03",
    "end": "2026-10-04",
    "status": "a",
@@ -581,7 +581,7 @@
    ],
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1726-baskent-sanat-merkezi-caissa-satranc-akademisi-oeduellue-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "Başkent Sanat Merkezi-Caissa Satranç Akademisi Ödüllü Satranç Turnuvası TSF Ankara Başkent Sanat Merkezi-Caissa Satranç Akademisi Ödüllü Satranç Turnuvası Başkent Sanat Merkezi-Caissa Satranç Akademisi Ödüllü Satranç Turnuvası, 3/4 Ekim 2026 tarihlerinde Başkent Sanat Merkezi'nde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktaktadır. Yönerge Turnuva Yeri : Başkent Sanat Merkezi, Nata Vega AVM Sinema Katı Mamak / Ankara Konum için tıklayınız... Her kategoride kayıt tarihine göre ilk 32"
+   "kaynak_metin": "Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası TSF Ankara Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası, 3/4 Ekim 2026 tarihlerinde Başkent Sanat Merkezi'nde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktaktadır. Yönerge Turnuva Yeri : Başkent Sanat Merkezi, Nata Vega AVM Sinema Katı Mamak / Ankara Konum için tıklayınız... Her kategoride kayıt tarihine göre "
   },
   {
    "c": "TR",
@@ -896,7 +896,7 @@
    ],
    "url": "https://corum.tsf.org.tr/haberler/754-duenyanin-merkezi-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DÜNYANIN MERKEZİ SATRANÇ TURNUVASI DÜNYANIN MERKEZİ SATRANÇ TURNUVASI Turnuva DÜNYANIN MERKEZİ SATRANÇ TURNUVASI Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 03-04 EKİM 2026 CUMARTESİ VE PAZAR Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 8 YAŞ ALTI (2019-2020 ARASI DOĞAN SPORCULAR) 10 YAŞ ALTI (2017-2020 ARASI DOĞAN SPORCULAR) 14 YAŞ ALTI ( 2012-20 20 Yılları ve Arasında Doğan Sporcular) AÇIK KATEGORİ 20 20 ve Önceki Yıllarda Doğan Sporcular) Tempo"
+   "kaynak_metin": "DÜNYANIN MERKEZİ SATRANÇ TURNUVASI DÜNYANIN MERKEZİ SATRANÇ TURNUVASI Turnuva DÜNYANIN MERKEZİ SATRANÇ TURNUVASI Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 03-04 EKİM 2026 CUMARTESİ VE PAZAR Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 8 YAŞ ALTI (2019-2020 ARASI DOĞAN SPORCULAR) 10 YAŞ ALTI (2017-2020 ARASI DOĞAN SPORCULAR) 14 YAŞ ALTI ( 2013-20 20 Yılları ve Arasında Doğan Sporcular) AÇIK KATEGORİ 20 20 ve Önceki Yıllarda Doğan Sporcular) Tempo"
   },
   {
    "c": "TR",
@@ -1534,6 +1534,27 @@
    "url": "https://mus.tsf.org.tr/turnuva-kayit-form",
    "kaynak": "site",
    "kaynak_metin": "BAŞVURU İÇİN TIKLAYINIZ Trkiye_Kupas_Satran_Mu_l_Birincilii.pdf Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İl ve İlçe Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Kuzey Kıbrıs Satranç İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 2025-2026 türkiye kupası muş il birinciliği HASKÖY KAYMAKAMLIK KUPASI SATRANÇ TURNUVASI T"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sakarya",
+   "name": "Sakarya Dünya Çocuk Günü Satranç Turnuvası",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sakarya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Sakarya Dünya Çocuk Günü Satranç Turnuvası Tarih: 03-04 Ekim 2026 Kayıt Tarihleri: 24 Eylül -02 Ekim 2026 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki yıllarda doğan sporcular katılabilir. Satranç lisansı hakkında detaylı bilgi için tıklayınız Not: DOĞUM TARİHİNİZE UYGUN KATEGORİYE KAYIT YAPINIZ. YÖNERGE TURNUVA KAYIT KAYIT İPTAL"
   },
   {
    "c": "TR",

@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-23T09:18",
+ "guncelleme": "2026-09-23T13:56",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-23T09:08",
+   "tarama": "2026-09-23T13:55",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-23T09:17",
+   "tarama": "2026-09-23T13:56",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2499,7 +2499,7 @@
    ],
    "url": "https://corum.tsf.org.tr/haberler/754-duenyanin-merkezi-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DÜNYANIN MERKEZİ SATRANÇ TURNUVASI DÜNYANIN MERKEZİ SATRANÇ TURNUVASI Turnuva DÜNYANIN MERKEZİ SATRANÇ TURNUVASI Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 03-04 EKİM 2026 CUMARTESİ VE PAZAR Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 8 YAŞ ALTI (2019-2020 ARASI DOĞAN SPORCULAR) 10 YAŞ ALTI (2017-2020 ARASI DOĞAN SPORCULAR) 14 YAŞ ALTI ( 2012-20 20 Yılları ve Arasında Doğan Sporcular) AÇIK KATEGORİ 20 20 ve Önceki Yıllarda Doğan Sporcular) Tempo",
+   "kaynak_metin": "DÜNYANIN MERKEZİ SATRANÇ TURNUVASI DÜNYANIN MERKEZİ SATRANÇ TURNUVASI Turnuva DÜNYANIN MERKEZİ SATRANÇ TURNUVASI Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 03-04 EKİM 2026 CUMARTESİ VE PAZAR Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 8 YAŞ ALTI (2019-2020 ARASI DOĞAN SPORCULAR) 10 YAŞ ALTI (2017-2020 ARASI DOĞAN SPORCULAR) 14 YAŞ ALTI ( 2013-20 20 Yılları ve Arasında Doğan Sporcular) AÇIK KATEGORİ 20 20 ve Önceki Yıllarda Doğan Sporcular) Tempo",
    "id": "dec67d343f6c",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-23",
@@ -2676,6 +2676,31 @@
    "lastmod": "2026-09-09T08:31:13+00:00",
    "id": "f8bed36072a6",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sakarya",
+   "name": "Sakarya Dünya Çocuk Günü Satranç Turnuvası",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sakarya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Sakarya Dünya Çocuk Günü Satranç Turnuvası Tarih: 03-04 Ekim 2026 Kayıt Tarihleri: 24 Eylül -02 Ekim 2026 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki yıllarda doğan sporcular katılabilir. Satranç lisansı hakkında detaylı bilgi için tıklayınız Not: DOĞUM TARİHİNİZE UYGUN KATEGORİYE KAYIT YAPINIZ. YÖNERGE TURNUVA KAYIT KAYIT İPTAL",
+   "id": "e4e93a1c626c",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
   },
@@ -4477,50 +4502,30 @@
    "ulke": "Almanya",
    "bayrak": "de",
    "name": "2026 Munich Autumn Chess Championships",
-   "city": "Germany",
+   "city": "Ottobrunn",
    "start": "2026-10-15",
    "end": "2026-10-18",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "1st Place",
+     "n": "Top (A)",
      "min": null,
      "max": null
     },
     {
-     "n": "2nd Place",
+     "n": "U1800 (B)",
      "min": null,
-     "max": null
-    },
-    {
-     "n": "3rd Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "4th Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "5th Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Top U2000 DWZ",
-     "min": null,
-     "max": 1999
+     "max": 1799
     }
    ],
    "prize": null,
-   "tc": "90+30",
+   "tc": "90 minutes + 30 seconds per move",
    "url": "https://mychess.events/event/2026-munich-autumn-chess-championships/",
    "src": "https://mychess.events/event/2026-munich-autumn-chess-championships/",
    "cr": "https://chess-results.com/tnr1496944.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-09-21T06:19:04+00:00",
+   "lastmod": "2026-09-23T11:58:22+00:00",
    "id": "b5318a6643cb",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-23",
@@ -13492,6 +13497,65 @@
    "durum": "yaklasan"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "I Torneo Internacional de Ajedrez Ciudad de Teruel 2026",
+   "city": "Teruel",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,600",
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/i-torneo-internacional-de-ajedrez-ciudad-de-teruel-2026/",
+   "src": "https://mychess.events/event/i-torneo-internacional-de-ajedrez-ciudad-de-teruel-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T10:05:29+00:00",
+   "id": "e3e15e7f7e64",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -13653,6 +13717,45 @@
    "kayit_kapali": false,
    "lastmod": "2026-06-29T18:33:49+00:00",
    "id": "998516e86f9a",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "AlphaChess FIDE Classical – Potters Bar December 2026",
+   "city": "Potters Bar EN6 2HZ",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Holly",
+     "min": null,
+     "max": 1549
+    },
+    {
+     "n": "Ivy",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Mistletoe",
+     "min": 1750,
+     "max": 2400
+    }
+   ],
+   "prize": "≈ $1,330",
+   "tc": "80 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/alphachess-fide-classical-potters-bar-december-2026/",
+   "src": "https://mychess.events/event/alphachess-fide-classical-potters-bar-december-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T12:53:51+00:00",
+   "id": "01aa64309cc9",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
@@ -13937,6 +14040,35 @@
    "kayit_kapali": false,
    "lastmod": "2026-06-29T18:26:57+00:00",
    "id": "b5fe631837c5",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-23",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "3rd Rotaract RUAS × Children Chess Academy All India Open FIDE Rated Classical Chess Tournament 2026",
+   "city": "Karnataka",
+   "start": "2026-12-23",
+   "end": "2026-12-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $6260",
+   "tc": null,
+   "url": "https://mychess.events/event/3rd-rotaract-ruas-children-chess-academy-all-india-open-fide-rated-classical-2026/",
+   "src": "https://mychess.events/event/3rd-rotaract-ruas-children-chess-academy-all-india-open-fide-rated-classical-2026/",
+   "cr": "https://s3.chess-results.com/tnr1487652.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T12:55:14+00:00",
+   "id": "a5194da77c97",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-23",
    "durum": "yaklasan"
@@ -14913,7 +15045,7 @@
    "src": "https://mychess.events/event/20-paderborner-schachtuerken-cup-2026/",
    "cr": "https://s2.chess-results.com/tnr1492137.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-09-22T17:15:38+00:00",
+   "lastmod": "2026-09-23T12:13:43+00:00",
    "id": "4c57838e0de9",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-23",

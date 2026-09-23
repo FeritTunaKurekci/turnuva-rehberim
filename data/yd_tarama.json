@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-23T09:17",
+ "taranma": "2026-09-23T13:56",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 221,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -4305,50 +4305,30 @@
    "ulke": "Almanya",
    "bayrak": "de",
    "name": "2026 Munich Autumn Chess Championships",
-   "city": "Germany",
+   "city": "Ottobrunn",
    "start": "2026-10-15",
    "end": "2026-10-18",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "1st Place",
+     "n": "Top (A)",
      "min": null,
      "max": null
     },
     {
-     "n": "2nd Place",
+     "n": "U1800 (B)",
      "min": null,
-     "max": null
-    },
-    {
-     "n": "3rd Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "4th Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "5th Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Top U2000 DWZ",
-     "min": null,
-     "max": 1999
+     "max": 1799
     }
    ],
    "prize": null,
-   "tc": "90+30",
+   "tc": "90 minutes + 30 seconds per move",
    "url": "https://mychess.events/event/2026-munich-autumn-chess-championships/",
    "src": "https://mychess.events/event/2026-munich-autumn-chess-championships/",
    "cr": "https://chess-results.com/tnr1496944.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-09-21T06:19:04+00:00"
+   "lastmod": "2026-09-23T11:58:22+00:00"
   },
   {
    "c": "DE",
@@ -13894,28 +13874,53 @@
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Group A",
+     "n": "1st",
      "min": null,
      "max": null
     },
     {
-     "n": "Group B",
+     "n": "2nd",
      "min": null,
      "max": null
     },
     {
-     "n": "Additional events",
+     "n": "3rd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "5th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "6th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "7th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "8th",
      "min": null,
      "max": null
     }
    ],
-   "prize": "≈ $31180",
+   "prize": "≈ $34,320",
    "tc": null,
    "url": "https://mychess.events/event/sunway-sitges-international-chess-festival-2026/",
    "src": "https://mychess.events/event/sunway-sitges-international-chess-festival-2026/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-09-23T09:06:51+00:00"
+   "lastmod": "2026-09-23T09:43:00+00:00"
   },
   {
    "c": "EN",
@@ -14458,6 +14463,61 @@
    "lastmod": "2026-06-07T15:33:36+00:00"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "I Torneo Internacional de Ajedrez Ciudad de Teruel 2026",
+   "city": "Teruel",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, December 18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,600",
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/i-torneo-internacional-de-ajedrez-ciudad-de-teruel-2026/",
+   "src": "https://mychess.events/event/i-torneo-internacional-de-ajedrez-ciudad-de-teruel-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T10:05:29+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -14616,6 +14676,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-07T16:35:09+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "AlphaChess FIDE Classical – Potters Bar December 2026",
+   "city": "Potters Bar EN6 2HZ",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Holly",
+     "min": null,
+     "max": 1549
+    },
+    {
+     "n": "Ivy",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Mistletoe",
+     "min": 1750,
+     "max": 2400
+    }
+   ],
+   "prize": "≈ $1,330",
+   "tc": "80 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/alphachess-fide-classical-potters-bar-december-2026/",
+   "src": "https://mychess.events/event/alphachess-fide-classical-potters-bar-december-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T12:53:51+00:00"
   },
   {
    "c": "FR",
@@ -14841,6 +14936,31 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-08T18:29:37+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "3rd Rotaract RUAS × Children Chess Academy All India Open FIDE Rated Classical Chess Tournament 2026",
+   "city": "Karnataka",
+   "start": "2026-12-23",
+   "end": "2026-12-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $6260",
+   "tc": null,
+   "url": "https://mychess.events/event/3rd-rotaract-ruas-children-chess-academy-all-india-open-fide-rated-classical-2026/",
+   "src": "https://mychess.events/event/3rd-rotaract-ruas-children-chess-academy-all-india-open-fide-rated-classical-2026/",
+   "cr": "https://s3.chess-results.com/tnr1487652.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-23T12:55:14+00:00"
   },
   {
    "c": "IN",
@@ -15993,7 +16113,7 @@
    "src": "https://mychess.events/event/20-paderborner-schachtuerken-cup-2026/",
    "cr": "https://s2.chess-results.com/tnr1492137.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-09-22T17:15:38+00:00"
+   "lastmod": "2026-09-23T12:13:43+00:00"
   },
   {
    "c": "IT",
