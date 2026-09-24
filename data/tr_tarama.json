@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-24T09:00",
+ "taranma": "2026-09-24T16:31",
  "surum": "0.4",
  "iller": [
   {
@@ -78,7 +78,7 @@
    "il": "Bartın",
    "durum": "ok",
    "host": "bartin.tsf.org.tr",
-   "adet": 4
+   "adet": 3
   },
   {
    "il": "Batman",
@@ -462,7 +462,7 @@
    "il": "Uşak",
    "durum": "ok",
    "host": "usak.tsf.org.tr",
-   "adet": 0
+   "adet": 3
   },
   {
    "il": "Van",
@@ -561,7 +561,7 @@
    ],
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1730-ankara-eyluel-ay-ukd-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "Ankara Eylül Ayı UKD Satranç Turnuvası TSF Ankara Ankara Eylül Ayı UKD Satranç Turnuvası Ankara Eylül Ayı UKD Satranç Turnuvası, 26/27 Eylül 2026 tarihlerinde TSF Ulus Binası Atatürk Satranç Merkezinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Turnuva Yeri : TSF Ulus Binası Atatürk Satranç Merkezi, Hacı Bayram Mh. Şehit Yaşar Akansel Sk. Özgürler İş Merkezi Kat 6 Altındağ Konum için tıklayınız... Turnuva yerinde özel araç otopark yeri yoktur, toplu taşıma ile ulaşım "
+   "kaynak_metin": "Ankara Eylül Ayı UKD Satranç Turnuvası TSF Ankara Ankara Eylül Ayı UKD Satranç Turnuvası Ankara Eylül Ayı UKD Satranç Turnuvası, 26/27 Eylül 2026 tarihlerinde TSF Ulus Binası Atatürk Satranç Merkezinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Chess-Results Turnuva Yeri : TSF Ulus Binası Atatürk Satranç Merkezi, Hacı Bayram Mh. Şehit Yaşar Akansel Sk. Özgürler İş Merkezi Kat 6 Altındağ Konum için tıklayınız... Turnuva yerinde özel araç otopark yeri yoktur, toplu taşı"
   },
   {
    "c": "TR",
@@ -753,27 +753,6 @@
    "url": "https://bartin.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimiz 2026 - 2027 Etkinlik Takviminde yer alan 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 24-25 Ekim 2026 tarihlerinde Bartın Gençlik Merkezinde 8 Yaş ve Altı, 12 Yaş ve Altı ve Açık kategorileri olmak üzere toplam 3 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış 2020 ve öncesi doğumlu sporcular katılabilirler. * Turnuva Tarihi : 24-25 Ekim 2026 * Turnuva Yeri : Bartın Gençlik Merkezi * Düşünme Süresi 35'+30\" Eklemeli Tempo * Son Kayıt Tari"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Bartın",
-   "name": "TURNUVA KAYIT İÇİN TIKLAYINIZ",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://bartin.tsf.org.tr/turnuva-kayit-form?view=turnuvakayit&layout=tlist",
-   "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYIT İÇİN TIKLAYINIZ Anasayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecektir. TC Kimlik No Giriniz Baba Adı"
   },
   {
    "c": "TR",
@@ -1658,7 +1637,70 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,"
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Satranç Haberleri Hakem Görevlendirmeleri Foto Galeri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Uşak",
+   "name": "Turnuva Haberleri",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://usak.tsf.org.tr/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ VE SPORCULARIMIZA DUYURULUR . VİZE İŞLEMLERİ Sporcu lisansı tescil / Sağlık durum belgesi hakk"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Uşak",
+   "name": "UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://usak.tsf.org.tr/kurslar",
+   "kaynak": "site",
+   "kaynak_metin": "UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI Satranç Haberleri ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ VE SPORCULARIMIZA DUYURULUR . VİZE İŞLEMLERİ Sporcu lisansı "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Uşak",
+   "name": "1 EYLÜL UŞAK'IN KURTULUŞU SATRANÇ TURNUVASI",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://usak.tsf.org.tr/kurslar",
+   "kaynak": "site",
+   "kaynak_metin": "1 EYLÜL UŞAK'IN KURTULUŞU SATRANÇ TURNUVASI Satranç Haberleri ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ VE SPORCULARIMIZA DUYURULUR . VİZE İŞLEMLERİ Sporcu lisansı tescil /"
   },
   {
    "c": "TR",
