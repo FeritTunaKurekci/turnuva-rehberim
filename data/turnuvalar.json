@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-24T16:32",
+ "guncelleme": "2026-09-24T21:05",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-24T16:31",
+   "tarama": "2026-09-24T21:04",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-24T16:32",
+   "tarama": "2026-09-24T21:05",
    "kaynak": "https://mychess.events"
   }
  },
@@ -1214,7 +1214,7 @@
    ],
    "url": "https://kirsehir.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "KIRŞEHİR GELENEKSEL AHİLİK YILI SATRANÇ TURNUVASI 26-27 Eylül 2026 tarihlerinde Kırşehir Geleneksel Ahilik Yılı Satranç Turnuvası düzenlenecektir . Turnuvada sporcular 4 kategoride yarışacaktır. Detaylar yönergede yer almaktadır . Turnuva Kayıt / Turnuva Yönerge Turnuva son kayıt tarihi: 24 Eylül 2026 23.59 Turnuva Yeri: Kırşehir Spor Salonu(Kındam) Kayıt-Kontrol: 09.00-09.30 (26 Eylül 2026) Teknik Toplantı : 09.40 - Turnuvaya katılım için sporcu lisansı gereklidir. Daha önce lisansı olan sporcu",
+   "kaynak_metin": "KIRŞEHİR GELENEKSEL AHİLİK YILI SATRANÇ TURNUVASI 26-27 Eylül 2026 tarihlerinde Kırşehir Geleneksel Ahilik Yılı Satranç Turnuvası düzenlenecektir . Turnuvada sporcular 4 kategoride yarışacaktır. Detaylar yönergede yer almaktadır . Turnuva Kayıt / Turnuva Yönerge Turnuva son kayıt tarihi: 25 Eylül 2026 17.00 Turnuva Yeri: Kırşehir Spor Salonu(Kındam) Kayıt-Kontrol: 09.00-09.30 (26 Eylül 2026) Teknik Toplantı : 09.40 - Turnuvaya katılım için sporcu lisansı gereklidir. Daha önce lisansı olan sporcu",
    "id": "b4ea6a65ba4a",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-24",
@@ -2552,6 +2552,31 @@
    "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020- 2009 yılları ve arasında doğan kadın sporcular katılabilir. Turnuvada eşlen",
    "id": "1a373fbe43c9",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-24",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Erzurum",
+   "name": "ERZURUM AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://erzurum.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "ERZURUM AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Erzurum Gençlik Spor İl Müdürlüğü & Erzurum Satranç İl Temsilciliği katkılarıyla Amatör Spor Haftası Satranç Turnuvası düzenlenecektir. \" Amatör Spor Haftası Satranç Turnuvası \" 3-4 Ekim 2026 tarihlerinde Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve öncesinde doğan sporcular katılabilir.",
+   "id": "7b432bf739fb",
+   "ilk_gorulme": "2026-09-24",
    "son_gorulme": "2026-09-24",
    "durum": "yaklasan"
   },

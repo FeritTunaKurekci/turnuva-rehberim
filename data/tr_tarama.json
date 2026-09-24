@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-24T16:31",
+ "taranma": "2026-09-24T21:04",
  "surum": "0.4",
  "iller": [
   {
@@ -186,7 +186,7 @@
    "il": "Erzurum",
    "durum": "ok",
    "host": "erzurum.tsf.org.tr",
-   "adet": 0
+   "adet": 3
   },
   {
    "il": "Eskişehir",
@@ -985,6 +985,67 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Erzurum",
+   "name": "ERZURUM AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://erzurum.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "ERZURUM AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Erzurum Gençlik Spor İl Müdürlüğü & Erzurum Satranç İl Temsilciliği katkılarıyla Amatör Spor Haftası Satranç Turnuvası düzenlenecektir. \" Amatör Spor Haftası Satranç Turnuvası \" 3-4 Ekim 2026 tarihlerinde Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve öncesinde doğan sporcular katılabilir."
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Erzurum",
+   "name": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI 2026",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://erzurum.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI 2026 Satranç Haberleri ERZURUM AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Erzurum Gençlik Spor İl Müdürlüğü & Erzurum Satranç İl Temsilciliği katkılarıyla Amatör Spor Haftası Satranç Turnuvası düzenlenecektir. \" Amatör Spor Haftası Satranç Turnuvası \" 3-4 Ekim 2026 tarihlerinde Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Erzurum",
+   "name": "15 TEMMUZ ŞEHİTLERİ ANMA SATRANÇ TURNUVASI 2026",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://erzurum.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "15 TEMMUZ ŞEHİTLERİ ANMA SATRANÇ TURNUVASI 2026 Satranç Haberleri ERZURUM AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Erzurum Gençlik Spor İl Müdürlüğü & Erzurum Satranç İl Temsilciliği katkılarıyla Amatör Spor Haftası Satranç Turnuvası düzenlenecektir. \" Amatör Spor Haftası Satranç Turnuvası \" 3-4 Ekim 2026 tarihlerinde Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Türkiye geneli",
    "name": "AVRUPA YAŞ GRUPLARI ŞAMPİYONASI'NDA REKOR BAŞARI: İLK DÖRT DERECE ÜLKEMİZİN, TOPLAM 11 DERECE!",
    "start": "2026-10-28",
@@ -1245,7 +1306,7 @@
    ],
    "url": "https://kirsehir.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "KIRŞEHİR GELENEKSEL AHİLİK YILI SATRANÇ TURNUVASI 26-27 Eylül 2026 tarihlerinde Kırşehir Geleneksel Ahilik Yılı Satranç Turnuvası düzenlenecektir . Turnuvada sporcular 4 kategoride yarışacaktır. Detaylar yönergede yer almaktadır . Turnuva Kayıt / Turnuva Yönerge Turnuva son kayıt tarihi: 24 Eylül 2026 23.59 Turnuva Yeri: Kırşehir Spor Salonu(Kındam) Kayıt-Kontrol: 09.00-09.30 (26 Eylül 2026) Teknik Toplantı : 09.40 - Turnuvaya katılım için sporcu lisansı gereklidir. Daha önce lisansı olan sporcu"
+   "kaynak_metin": "KIRŞEHİR GELENEKSEL AHİLİK YILI SATRANÇ TURNUVASI 26-27 Eylül 2026 tarihlerinde Kırşehir Geleneksel Ahilik Yılı Satranç Turnuvası düzenlenecektir . Turnuvada sporcular 4 kategoride yarışacaktır. Detaylar yönergede yer almaktadır . Turnuva Kayıt / Turnuva Yönerge Turnuva son kayıt tarihi: 25 Eylül 2026 17.00 Turnuva Yeri: Kırşehir Spor Salonu(Kındam) Kayıt-Kontrol: 09.00-09.30 (26 Eylül 2026) Teknik Toplantı : 09.40 - Turnuvaya katılım için sporcu lisansı gereklidir. Daha önce lisansı olan sporcu"
   },
   {
    "c": "TR",

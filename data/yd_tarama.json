@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-24T16:32",
+ "taranma": "2026-09-24T21:05",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 18,
+ "okunan_sayfa": 13,
  "turnuvalar": [
   {
    "c": "US",
@@ -12180,6 +12180,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-03-17T11:15:51+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "18th Kodokan – Città di Messina – Porta della Sicilia 2026",
+   "city": "Messina ME",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1550,
+     "max": 1799
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/18th-kodokan-citta-di-messina-porta-della-sicilia-2026/",
+   "src": "https://mychess.events/event/18th-kodokan-citta-di-messina-porta-della-sicilia-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-24T17:08:54+00:00"
   },
   {
    "c": "ES",
