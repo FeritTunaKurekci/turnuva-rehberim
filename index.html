@@ -18,7 +18,7 @@
   --blue:#2f5d9e; --blue-soft:rgba(47,93,158,.12);
   --soft:var(--soft); --top-bg:rgba(244,241,232,.93);
   --eval-bg:var(--soft); --eval-fill:#fbf9f3;
-  --sq-lt:#f0d9b5; --sq-dk:#b58863; --sq-lm-lt:#f5f682; --sq-lm-dk:#b9ca43;
+  --sq-lt:#edd9b0; --sq-dk:#b58863; --sq-lm-lt:#f5f682; --sq-lm-dk:#b9ca43;
   --r-lg:16px; --r-md:12px; --r-sm:8px;
   box-sizing:border-box;
   padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
@@ -311,7 +311,7 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .board{display:grid;gap:0;grid-template-columns:repeat(8,1fr);grid-template-rows:repeat(8,1fr);aspect-ratio:1;width:100%;border-radius:3px;overflow:hidden;user-select:none;box-shadow:0 2px 10px rgba(0,0,0,.4)}
 .bsq{position:relative;min-width:0;margin:0;padding:0;border:0}
 .board.bmini .rk,.board.bmini .fl{display:none}
-.bsq.lt{background:var(--sq-lt)}.bsq.dk{background:var(--sq-dk)}
+.bsq.lt{background:var(--sq-lt,#edd9b0)}.bsq.dk{background:var(--sq-dk,#b58863)}
 .bsq.lm::before{content:"";position:absolute;inset:0;background:rgba(155,199,0,.45)}
 .bsq.chk{background-image:radial-gradient(ellipse at center,#ff0000 0%,#e70000 25%,rgba(169,0,0,0) 89%,rgba(158,0,0,0) 100%)}
 .bsq.sel::before{content:none}
@@ -391,7 +391,7 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .bul-zorluk{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
 .bul-zorluk .inp{font-weight:500;color:var(--text)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-</style>
+.bsq.lt{background:var(--sq-lt,#edd9b0)}.bsq.dk{background:var(--sq-dk,#b58863)}</style>
 </head>
 <body>
 <header class="top">
@@ -589,7 +589,7 @@ const TEMALAR = {
   kagit:{ad:'Kağıt ve Mürekkep', v:{'--bg':'#f4f1e8','--bg2':'#ebe6d9','--card':'#ffffff','--card2':'#f0ece1','--line':'#dcd4c4',
     '--text':'#1c1b18','--soft':'#3c382f','--muted':'#6a6358','--dim':'#8a8274','--acc':'#a8412c','--acc-ink':'#ffffff','--acc-soft':'rgba(168,65,44,.10)',
     '--warn':'#9a6b18','--warn-soft':'rgba(154,107,24,.13)','--red':'#b3261e','--red-soft':'rgba(179,38,30,.12)','--blue':'#2f5d9e','--blue-soft':'rgba(47,93,158,.12)',
-    '--top-bg':'rgba(244,241,232,.93)','--eval-bg':'#3c382f','--eval-fill':'#fbf9f3','--sq-lt':'#f0d9b5','--sq-dk':'#b58863'}},
+    '--top-bg':'rgba(244,241,232,.93)','--eval-bg':'#3c382f','--eval-fill':'#fbf9f3','--sq-lt':'#edd9b0','--sq-dk':'#b58863'}},
   yesil:{ad:'Orman Yeşili (ilk hali)', v:{'--bg':'#0f1a17','--bg2':'#13211d','--card':'#16241f','--card2':'#1b2c26','--line':'#243731',
     '--text':'#e7efeb','--soft':'#c4d1cb','--muted':'#8fa39b','--dim':'#62766e','--acc':'#3ddc97','--acc-ink':'#062a1b','--acc-soft':'rgba(61,220,151,.12)',
     '--warn':'#e3b341','--warn-soft':'rgba(227,179,65,.13)','--red':'#ef5b5b','--red-soft':'rgba(239,91,91,.14)','--blue':'#6aa9ff','--blue-soft':'rgba(106,169,255,.13)',
