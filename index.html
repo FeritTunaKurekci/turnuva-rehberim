@@ -767,7 +767,7 @@ async function fideAra(sorgu){
   if(!kel.length) return [];
   const harfler=[...new Set(kel.map(w=>w[0]))].slice(0,4);
   const listeler = await Promise.all(harfler.map(async h=>{
-    if(!FIDE_CACHE[h]){ const r=await fetch(`data/fide/tur_${h}.json`,{cache:'force-cache'}); FIDE_CACHE[h]= r.ok? await r.json() : []; }
+    if(!FIDE_CACHE[h]){ const r=await fetch(`data/fide/tur_${h}.json`,{cache:'reload'}); FIDE_CACHE[h]= r.ok? await r.json() : []; }
     return FIDE_CACHE[h];
   }));
   const gorulen=new Set(), out=[];
@@ -1634,7 +1634,7 @@ const BUL_KOVA = 100, BUL_ALT = 600, BUL_UST = 2700;
 function bulKova(r){ return Math.max(BUL_ALT, Math.min(BUL_UST, Math.round(r/BUL_KOVA)*BUL_KOVA)); }
 async function bulKovaGetir(k){
   if(BUL.kova[k]) return BUL.kova[k];
-  const r = await fetch(`data/bulmaca/b${k}.json`,{cache:'force-cache'});
+  const r = await fetch(`data/bulmaca/b${k}.json`,{cache:'reload'});
   if(!r.ok) throw new Error('yok');
   BUL.kova[k] = await r.json();
   return BUL.kova[k];
