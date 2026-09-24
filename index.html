@@ -315,8 +315,8 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 .bsq.lm::before{content:"";position:absolute;inset:0;background:rgba(155,199,0,.45)}
 .bsq.chk{background-image:radial-gradient(ellipse at center,#ff0000 0%,#e70000 25%,rgba(169,0,0,0) 89%,rgba(158,0,0,0) 100%)}
 .bsq.sel::before{content:none}
-.bsq.dot::after{content:"";position:absolute;inset:34%;border-radius:50%;background:rgba(20,85,30,.30);z-index:2}
-.bsq.cap::after{content:"";position:absolute;inset:0;border-radius:50%;box-shadow:inset 0 0 0 6px rgba(20,85,30,.30);z-index:2}
+.bsq.dot::after{content:"";position:absolute;inset:30%;border-radius:50%;background:rgba(20,85,30,.42);z-index:2}
+.bsq.cap::after{content:"";position:absolute;inset:0;background:radial-gradient(transparent 0%,transparent 72%,rgba(20,85,30,.38) 73%);z-index:2}
 .bsq img{position:absolute;inset:0;width:100%;height:100%;z-index:1;pointer-events:none}
 .bsq .rk,.bsq .fl{position:absolute;font-style:normal;font-size:10px;font-weight:700;z-index:1;line-height:1}
 .bsq .rk{left:2px;top:2px}.bsq .fl{right:2px;bottom:2px}
@@ -332,7 +332,7 @@ main{max-width:1100px;margin:0 auto;padding:0 18px 60px}
 #bigboard .bsq,#bulboard .bsq{cursor:pointer;touch-action:none}
 #bigboard .bsq img,#bulboard .bsq img{cursor:grab}
 .surukle{position:fixed;z-index:80;pointer-events:none;background-size:contain;background-repeat:no-repeat;background-position:center;transform:scale(1.08);filter:drop-shadow(0 6px 8px rgba(0,0,0,.35))}
-.bsq.uzerinde{box-shadow:inset 0 0 0 4px rgba(20,85,30,.55)}.board{position:relative}svg.cizim{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:4}
+.bsq.uzerinde{box-shadow:inset 0 0 0 4px rgba(20,85,30,.55)}
 .nav{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}
 .nav .btn{cursor:pointer}
 .gside{display:flex;flex-direction:column;gap:12px;min-width:0}
@@ -1282,7 +1282,7 @@ function tahtaHTML(fen, o={}){
     const koord = o.koord ? `${j===0?`<i class="rk">${8-r}</i>`:''}${i===7?`<i class="fl">${'abcdefgh'[c]}</i>`:''}` : '';
     h+=`<div class="${cls.join(' ')}" data-sq="${ad}">${p?`<img src="vendor/pieces/${p===p.toUpperCase()?'w':'b'}${TAS[p.toLowerCase()]}.svg" alt="" draggable="false">`:''}${koord}</div>`;
   }
-  return `<div class="board${o.mini?' bmini':''}">${h}${o.mini?'':'<svg class="cizim" viewBox="0 0 8 8" preserveAspectRatio="none"></svg>'}</div>`;
+  return `<div class="board${o.mini?' bmini':''}">${h}</div>`;
 }
 function aktifRenk(g){ return (g&&g.fen||'').split(' ')[1]==='b' ? 'b' : 'w'; }
 function suruyor(g){ return !!g && (!g.status || g.status==='*'); }
@@ -1377,35 +1377,6 @@ function tahtaEtkilesim(kokSecici, tikla){
   });
 }
 
-/* Sag tikla isaretleme: kareye sag tik = daire, surukle = ok */
-const CIZIM = {};
-function kareXY(sq, flip){
-  const c='abcdefgh'.indexOf(sq[0]), r=8-parseInt(sq[1]);
-  return flip ? {x:7-c+0.5, y:7-r+0.5} : {x:c+0.5, y:r+0.5};
-}
-function cizimCiz(kokSecici, flip){
-  const kok=document.querySelector(kokSecici); if(!kok) return;
-  const svg=kok.querySelector('svg.cizim'); if(!svg) return;
-  const liste=CIZIM[kokSecici]||[];
-  const renk='rgba(21,120,60,.75)';
-  const mid='ok-'+kokSecici.replace('#','');
-  svg.innerHTML =
-    '<defs><marker id="'+mid+'" orient="auto" markerWidth="3" markerHeight="3.6" refX="2.2" refY="1.8"><path d="M0,0 V3.6 L2.6,1.8 Z" fill="'+renk+'"></path></marker></defs>' +
-    liste.map(c=>{
-      if(c.t==='daire'){ const p=kareXY(c.a,flip);
-        return '<circle cx="'+p.x+'" cy="'+p.y+'" r="0.42" fill="none" stroke="'+renk+'" stroke-width="0.09"></circle>'; }
-      const a=kareXY(c.a,flip), b=kareXY(c.b,flip);
-      const dx=b.x-a.x, dy=b.y-a.y, u=Math.hypot(dx,dy)||1;
-      const bx=b.x-dx/u*0.32, by=b.y-dy/u*0.32;
-      return '<line x1="'+a.x+'" y1="'+a.y+'" x2="'+bx+'" y2="'+by+'" stroke="'+renk+'" stroke-width="0.16" stroke-linecap="round" marker-end="url(#'+mid+')"></line>';
-    }).join('');
-}
-function cizimEkle(kokSecici, c){
-  const l=CIZIM[kokSecici]=CIZIM[kokSecici]||[];
-  const ayni=l.findIndex(x=>x.t===c.t && x.a===c.a && x.b===c.b);
-  if(ayni>=0) l.splice(ayni,1); else l.push(c);
-}
-function cizimTemizle(kokSecici){ CIZIM[kokSecici]=[]; }
 /* ---------- motor (Stockfish, tarayıcıda) ---------- */
 let MOTOR=null, MOTOR_HAZIR=false, MOTOR_BEKLE=null, MOTOR_FEN=null;
 function motorBaslat(){
@@ -1611,7 +1582,7 @@ function kareTikla(sq){
   canliOyunCiz();
 }
 function bindCanliOyun(){
-  tahtaEtkilesim('#bigboard', kareTikla, CANLI.flip);
+  tahtaEtkilesim('#bigboard', kareTikla);
   document.querySelectorAll('.mv[data-ply]').forEach(b=>b.onclick=()=>plyGit(b.dataset.ply));
 }
 function bindCanli(){
@@ -1761,7 +1732,7 @@ function bulKonuAdi(k){ return BUL_KONU[k] || k; }
 function bulCiz(){
   const el=document.getElementById('bulboard'); if(!el){ render(); return; }
   el.innerHTML=bulTahta();
-  tahtaEtkilesim('#bulboard', bulKareTikla, BUL.flip);
+  tahtaEtkilesim('#bulboard', bulKareTikla);
   const d=document.getElementById('buldurum'); if(d) d.outerHTML=bulDurumHTML();
 }
 function bulTahta(){
@@ -1826,7 +1797,7 @@ function viewBulmaca(){
 }
 function bindBulmaca(){
   const q=id=>document.getElementById(id);
-  tahtaEtkilesim('#bulboard', bulKareTikla, BUL.flip);
+  tahtaEtkilesim('#bulboard', bulKareTikla);
   if(q('bulipucu')) q('bulipucu').onclick=bulIpucu;
   if(q('bulcozum')) q('bulcozum').onclick=bulCozumuGoster;
   if(q('bulsonraki')) q('bulsonraki').onclick=()=>{ if(BUL.durum!=='bitti'&&BUL.p){ PROFIL_B.gorulen.push(BUL.p[0]); bulKaydet(); } bulmacaSec(); };
