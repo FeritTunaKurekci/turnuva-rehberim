@@ -1338,47 +1338,11 @@ function sonucPuan(st, beyaz){ if(!st||st==='*') return null; if(st==='1/2-1/2'|
 
 /* Tahtada taş sürükleme: tıklama da çalışır, sürükleyip bırakmak da (telefonda parmakla).
    Sürükleme, seçme ve bırakma adımlarını mevcut tıklama mantığına bağlar. */
-/* Sag tikla isaretleme */
-const CIZIM = {};
-function tahtaFlip(s){ try{ return s==='#bigboard' ? CANLI.flip : BUL.flip; }catch(e){ return false; } }
-function kareXY(sq, flip){
-  const c='abcdefgh'.indexOf(sq[0]), r=8-parseInt(sq[1]);
-  return flip ? {x:7-c+0.5, y:7-r+0.5} : {x:c+0.5, y:r+0.5};
-}
-function cizimCiz(s){
-  const kok=document.querySelector(s); if(!kok) return;
-  const svg=kok.querySelector('svg.cizim'); if(!svg) return;
-  const flip=tahtaFlip(s), liste=CIZIM[s]||[], renk='rgba(21,120,60,.78)', mid='ok'+s.replace('#','');
-  svg.innerHTML='<defs><marker id="'+mid+'" orient="auto" markerWidth="3" markerHeight="3.6" refX="2.2" refY="1.8"><path d="M0,0 V3.6 L2.6,1.8 Z" fill="'+renk+'"></path></marker></defs>'+
-  liste.map(c=>{
-    if(c.t==='d'){ const p=kareXY(c.a,flip); return '<circle cx="'+p.x+'" cy="'+p.y+'" r="0.42" fill="none" stroke="'+renk+'" stroke-width="0.09"></circle>'; }
-    const a=kareXY(c.a,flip), b=kareXY(c.b,flip), dx=b.x-a.x, dy=b.y-a.y, u=Math.hypot(dx,dy)||1;
-    return '<line x1="'+a.x+'" y1="'+a.y+'" x2="'+(b.x-dx/u*0.32)+'" y2="'+(b.y-dy/u*0.32)+'" stroke="'+renk+'" stroke-width="0.16" stroke-linecap="round" marker-end="url(#'+mid+')"></line>';
-  }).join('');
-}
-function sagTik(s, kare, e){
-  e.preventDefault();
-  const bas=kare.dataset.sq;
-  const bitir=ev=>{
-    document.removeEventListener('pointerup',bitir);
-    const el=document.elementFromPoint(ev.clientX,ev.clientY);
-    const kk=el&&el.closest?el.closest('.bsq'):null;
-    const son=kk?kk.dataset.sq:bas;
-    const c= son===bas ? {t:'d',a:bas} : {t:'o',a:bas,b:son};
-    const l=CIZIM[s]=CIZIM[s]||[];
-    const i=l.findIndex(x=>x.t===c.t&&x.a===c.a&&x.b===c.b);
-    if(i>=0) l.splice(i,1); else l.push(c);
-    cizimCiz(s);
-  };
-  document.addEventListener('pointerup',bitir);
-}
-document.addEventListener('contextmenu', e=>{ if(e.target && e.target.closest && e.target.closest('.board')) e.preventDefault(); });
-setInterval(()=>{ ['#bigboard','#bulboard'].forEach(s=>{ const g=document.querySelector(s+' svg.cizim'); if(g && !g.childNodes.length && (CIZIM[s]||[]).length) cizimCiz(s); }); }, 300);
 function tahtaEtkilesim(kokSecici, tikla){
   const kok=document.querySelector(kokSecici); if(!kok) return;
   kok.querySelectorAll('.bsq').forEach(kare=>{
-    kare.onclick=()=>{ if((CIZIM[kokSecici]||[]).length){ CIZIM[kokSecici]=[]; cizimCiz(kokSecici); } tikla(kare.dataset.sq); };
-    kare.onpointerdown=e=>{ if(e.button===2){ sagTik(kokSecici,kare,e); return; }
+    kare.onclick=()=>tikla(kare.dataset.sq);
+    kare.onpointerdown=e=>{
       const img=kare.querySelector('img');
       if(!img || (e.button!==undefined && e.button!==0)) return;
       e.preventDefault();
