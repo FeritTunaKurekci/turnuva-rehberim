@@ -1660,7 +1660,7 @@ async function bulmacaSec(){
 }
 function bulmacaKur(p){
   BUL.p=p; BUL.cozum=String(p[2]).trim().split(/\s+/); BUL.adim=0; BUL.durum='hazir';
-  BUL.secKare=null; BUL.ipucu=null; BUL.gosterildi=false; BUL.puanDegisim=null; BUL.hata='';
+  BUL.secKare=null; BUL.ipucu=null; BUL.gosterildi=false; BUL.puanDegisim=null; BUL.hata=''; BUL.cezaAlindi=false;
   BUL.oyun=new Chess(p[1]);
   BUL.flip = BUL.oyun.turn()==='w';          // ilk hamleyi rakip yapar; çözen taraf diğeri
   render();
@@ -1684,20 +1684,21 @@ function bulKareTikla(sq){
         setTimeout(()=>{ bulHamleOyna(BUL.cozum[BUL.adim]); BUL.adim++; BUL.durum='sirasende'; bulCiz(); }, 450);
         return;
       }
-      BUL.secKare=null; bulBitir(false); return;
+      bulHamleOyna(deneme); BUL.secKare=null; BUL.durum='rakip'; bulCiz(); if(!BUL.cezaAlindi){ BUL.cezaAlindi=true; bulCeza(); } setTimeout(()=>{ BUL.oyun.undo(); BUL.sonHamle = BUL.adim>0 ? BUL.cozum[BUL.adim-1] : null; BUL.durum='sirasende'; bulCiz(); }, 750); return;
     }
   }
   const t=BUL.oyun.get(sq);
   BUL.secKare = (t && t.color===BUL.oyun.turn() && BUL.secKare!==sq) ? sq : null;
   bulCiz();
 }
+function bulCeza(){ const pr=BUL.p[3], be=1/(1+Math.pow(10,(pr-bulReyting())/400)); const K=PROFIL_B.cozulen<20?40:24; const d=Math.round(K*(0-be)); PROFIL_B.reyting=Math.max(400,bulReyting()+d); PROFIL_B.seri=0; BUL.puanDegisim=d; BUL.sonucDogru=false; bulKaydet(); }
 function bulBitir(dogru){
   if(BUL.durum==='bitti') return;
   BUL.durum='bitti';
   const pr = BUL.p[3];
   const beklenen = 1/(1+Math.pow(10,(pr-PROFIL_B.reyting)/400));
   const K = PROFIL_B.cozulen<20 ? 40 : 24;
-  const delta = BUL.gosterildi ? 0 : Math.round(K*((dogru?1:0)-beklenen));
+  const delta = (BUL.gosterildi || BUL.cezaAlindi) ? 0 : Math.round(K*((dogru?1:0)-beklenen));
   PROFIL_B.reyting = Math.max(400, bulReyting() + delta);
   PROFIL_B.cozulen++; if(dogru) PROFIL_B.dogru++;
   PROFIL_B.seri = dogru ? PROFIL_B.seri+1 : 0;
