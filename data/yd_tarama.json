@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-23T20:46",
+ "taranma": "2026-09-24T09:01",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 12,
+ "okunan_sayfa": 15,
  "turnuvalar": [
   {
    "c": "US",
@@ -12827,6 +12827,71 @@
    "lastmod": "2026-07-06T11:42:27+00:00"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "9° Open Internazionale del Levante Ligure 2026",
+   "city": "La Spezia",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": "≈ $5,140",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/9-open-internazionale-del-levante-ligure-2026/",
+   "src": "https://mychess.events/event/9-open-internazionale-del-levante-ligure-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-24T08:03:14+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "3° Torneo Internazionale di Scacchi - Venafro",
+   "city": "Venafro (IS)",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1750
+    }
+   ],
+   "prize": "≈ $2,570",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/3-torneo-internazionale-di-scacchi-venafro-2026/",
+   "src": "https://mychess.events/event/3-torneo-internazionale-di-scacchi-venafro-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-24T07:43:56+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -13117,6 +13182,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-06T16:47:12+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "8° Festival di Scacchi Barcellona 2026",
+   "city": "Barcellona Pozzo di Gotto (ME)",
+   "start": "2026-12-05",
+   "end": "2026-12-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1700,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1500,
+     "max": 1800
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Open D",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,830",
+   "tc": null,
+   "url": "https://mychess.events/event/8-festival-di-scacchi-barcellona-2026/",
+   "src": "https://mychess.events/event/8-festival-di-scacchi-barcellona-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-24T07:18:50+00:00"
   },
   {
    "c": "EN",
