@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-25T16:31",
+ "guncelleme": "2026-09-25T21:03",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-25T16:30",
+   "tarama": "2026-09-25T21:02",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-25T16:31",
+   "tarama": "2026-09-25T21:03",
    "kaynak": "https://mychess.events"
   }
  },
@@ -10416,6 +10416,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "3ème Open Vétéran et Senior Plus du Gard 2026",
+   "city": "Nîmes",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Veteran & Senior Plus Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60+30",
+   "url": "https://mychess.events/event/3eme-open-veteran-et-senior-plus-du-gard-2026/",
+   "src": "https://mychess.events/event/3eme-open-veteran-et-senior-plus-du-gard-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T18:05:12+00:00",
+   "id": "18048fe88a44",
+   "ilk_gorulme": "2026-09-25",
+   "son_gorulme": "2026-09-25",
+   "durum": "yaklasan"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -16402,6 +16431,35 @@
    "kayit_kapali": false,
    "lastmod": "2026-09-25T11:25:27+00:00",
    "id": "4742a5f58f14",
+   "ilk_gorulme": "2026-09-25",
+   "son_gorulme": "2026-09-25",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Open Master – 4ème Festival Manoir Touquet Golf Resort 2027",
+   "city": "Le Touquet-Paris-Plage",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90+30",
+   "url": "https://mychess.events/event/open-master-4eme-festival-manoir-touquet-golf-resort-2027/",
+   "src": "https://mychess.events/event/open-master-4eme-festival-manoir-touquet-golf-resort-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T17:51:16+00:00",
+   "id": "e3f05605eaba",
    "ilk_gorulme": "2026-09-25",
    "son_gorulme": "2026-09-25",
    "durum": "yaklasan"

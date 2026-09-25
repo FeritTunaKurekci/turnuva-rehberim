@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-25T16:30",
+ "taranma": "2026-09-25T21:02",
  "surum": "0.4",
  "iller": [
   {
@@ -42,7 +42,7 @@
    "il": "Ankara",
    "durum": "ok",
    "host": "ankara.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Antalya",
@@ -78,7 +78,7 @@
    "il": "Bartın",
    "durum": "ok",
    "host": "bartin.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Batman",
@@ -537,6 +537,42 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Ankara",
+   "name": "Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "C Kategorisi",
+     "min": 1200,
+     "max": 1399
+    },
+    {
+     "n": "D Kategorisi",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1731-merkez-ankara-avm-goekyay-vakf-oeduellue-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası TSF Ankara Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası, 3/4 Ekim 2026 tarihlerinde Merkez Ankara AVM'de düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Toplamda 61.000 TL hediye çeki ödül verilecektir. Turnuva Yeri : Merkez Ankara AVM, Hipodrom Cd. No:9 Yenimahalle Konum için tıklayınız... Her kategori nin kontenjanı 64 sporcu ile sınırlıdır. He"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ankara",
    "name": "Ankara Eylül Ayı UKD Satranç Turnuvası",
    "start": "2026-09-26",
    "end": "2026-09-27",
@@ -753,6 +789,26 @@
    "url": "https://bartin.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimiz 2026 - 2027 Etkinlik Takviminde yer alan 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 24-25 Ekim 2026 tarihlerinde Bartın Gençlik Merkezinde 8 Yaş ve Altı, 12 Yaş ve Altı ve Açık kategorileri olmak üzere toplam 3 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış 2020 ve öncesi doğumlu sporcular katılabilirler. * Turnuva Tarihi : 24-25 Ekim 2026 * Turnuva Yeri : Bartın Gençlik Merkezi * Düşünme Süresi 35'+30\" Eklemeli Tempo * Son Kayıt Tari"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
+   "name": "TURNUVA KAYIT İÇİN TIKLAYINIZ",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/turnuva-kayit-form?view=turnuvakayit&layout=tlist",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVA KAYIT İÇİN TIKLAYINIZ Anasayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecektir. TC Kimlik No Giriniz Baba Adı"
   },
   {
    "c": "TR",
