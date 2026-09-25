@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-24T21:04",
+ "taranma": "2026-09-25T09:20",
  "surum": "0.4",
  "iller": [
   {
@@ -156,7 +156,7 @@
    "il": "Diyarbakır",
    "durum": "ok",
    "host": "diyarbakir.tsf.org.tr",
-   "adet": 2
+   "adet": 0
   },
   {
    "il": "Düzce",
@@ -294,7 +294,7 @@
    "il": "Kırıkkale",
    "durum": "ok",
    "host": "kirikkale.tsf.org.tr",
-   "adet": 0
+   "adet": 2
   },
   {
    "il": "Kırklareli",
@@ -902,48 +902,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Diyarbakır",
-   "name": "AVRUPA SPOR HAFTASI SATRANÇ ŞENLİĞİ",
-   "start": "2026-09-24",
-   "end": "2026-09-24",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://diyarbakir.tsf.org.tr/satranc-haberleri/817-avrupa-spor-haftasi-satranc-senligi",
-   "kaynak": "site",
-   "kaynak_metin": "AVRUPA SPOR HAFTASI SATRANÇ ŞENLİĞİ AVRUPA SPOR HAFTASI SATRANÇ ŞENLİĞİ ♟️ SATRANÇ ŞENLİĞİNE DAVETLİSİNİZ! ♟️ 24 EYLÜL 2026 tarihinde saat 15.30’da , Diyarbakır Yeni Stadyumu Satranç Salonu’nda satrancın heyecanını ve keyfini hep birlikte yaşamak için ÖDÜLLÜ AVRUPA SPOR HAFTASI SATRANÇ ŞENLİĞİ düzenlenecektir. Konum için tıklayın . ♟️ Hamleni yap, heyecana ortak ol! Satranç tutkunları, gençler ve çocuklar bu özel günde buluşuyor! KAYITLAR 24 Eylül 2026 – Saat 15.00’te Diyarbakır Yeni Stadyumu Sa"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Diyarbakır",
-   "name": "♟️ SATRANÇ ŞENLİĞİNE DAVETLİSİNİZ! ♟️",
-   "start": "2026-09-24",
-   "end": "2026-09-24",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://diyarbakir.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "♟️ SATRANÇ ŞENLİĞİNE DAVETLİSİNİZ! ♟️ 24 EYLÜL 2026 tarihinde saat 15.30’da , Diyarbakır Yeni Stadyumu Satranç Salonu’nda satrancın heyecanını ve keyfini hep birlikte yaşamak için ÖDÜLLÜ AVRUPA SPOR HAFTASI SATRANÇ ŞENLİĞİ düzenlenecektir. Konum için tıklayın . "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Elazığ",
    "name": "AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI",
    "start": "2026-10-03",
@@ -1286,6 +1244,46 @@
    "url": "https://kilis.tsf.org.tr/78-turnuvalar/758-oemerpolat1",
    "kaynak": "site",
    "kaynak_metin": "POLİS HAFTASI SATRANÇ TURNUVASI POLİS HAFTASI SATRANÇ TURNUVASI Polis Haftası Satranç Turnuvası 8 Yaş ve Altı Kategorisi, 10 Yaş ve Altı Kategorisi, 1 4 Yaş ve Altı Kategorisi ve Açık Kategorisi olmak üzere 4 farklı Kategoride gerçekleşecektir. Turnuvaya TSF Lisansına sahip 2025-2026 yılı vizesi yapılmış, 2019 ve öncesin de doğan sporcular katılabilir. TURNUVA YERİ: 7 ARALIK İLKOKULU TURNUVA TARİHİ: 28 -29 MART 2026 SON BAŞVURU TARİHİ: 27 /03 /2026 SAAT: 17:00 KAYIT KONTROL İŞLEMLERİ: 28 MART 20"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kırıkkale",
+   "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kirikkale.tsf.org.tr/component/content/article/84-satranc-haberleri/418-29ekim2025",
+   "kaynak": "site",
+   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Makaleler 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Kırıkkale 29 Ekim Satranç Turnuvası , 25- 26.10.2025 tarihleri arasında, Olimpik Yüzme Havuzu Satranç Salonu’nda düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. YÖNERGE TURNUVA KAYIT 7-8 YAŞ EŞLENDİRME-SONUÇ-SIRALAMA 10 YAŞ VE ALTI EŞLENDİRME-SONUÇ-SIRALAMA AÇIK EŞLENDİRME-SONUÇ-SIRALAMA < Önceki Sonraki >"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kırıkkale",
+   "name": "AVRUPA YAŞ GRUPLARI ŞAMPİYONASI'NDA REKOR BAŞARI",
+   "start": "2026-10-28",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kirikkale.tsf.org.tr/component/content/article/84-satranc-haberleri/419-avrupa-yas-gruplari-sampiyonasinda-rekor-basari",
+   "kaynak": "site",
+   "kaynak_metin": "AVRUPA YAŞ GRUPLARI ŞAMPİYONASI'NDA REKOR BAŞARI Makaleler AVRUPA YAŞ GRUPLARI ŞAMPİYONASI'NDA REKOR BAŞARI Avrupa Yaş Grupları Şampiyonası'nda Rekor Başarı: İlk Dört Derece Ülkemizin, Toplam 11 Derece. 28 Ekim - 8 Kasım tarihleri arasında Karadağ'ın Budva kentinde düzenlenen 2025 Avrupa Yaş Grupları Satranç Şampiyonası dün oynanan karşılaşmalarla sona erdi. Milli sporcularımız 12 yaş grubunda ilk dört sırada yer almaları ve tüm kategorilerde elde ettikleri 11 dereceyle tarihi bir başarıya imza "
   },
   {
    "c": "TR",
@@ -1698,7 +1696,7 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Satranç Haberleri Hakem Görevlendirmeleri Foto Galeri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search "
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,"
   },
   {
    "c": "TR",

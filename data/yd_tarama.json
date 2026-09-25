@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-24T21:05",
+ "taranma": "2026-09-25T09:21",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -16751,6 +16751,31 @@
    "lastmod": "2026-08-02T13:36:33+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "1er Open du Nouvel An – Mana Chess Club 2027",
+   "city": "Outreau",
+   "start": "2027-01-01",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $690",
+   "tc": "60+30",
+   "url": "https://mychess.events/event/1er-open-du-nouvel-an-mana-chess-club-2027/",
+   "src": "https://mychess.events/event/1er-open-du-nouvel-an-mana-chess-club-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T08:14:59+00:00"
+  },
+  {
    "c": "HR",
    "ulke": "Hırvatistan",
    "bayrak": "hr",
@@ -17419,6 +17444,56 @@
    "lastmod": "2026-09-07T10:33:08+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "43e Open International de Cappelle-la-Grande 2027",
+   "city": "Cappelle-la-Grande",
+   "start": "2027-02-27",
+   "end": "2027-03-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $13,660",
+   "tc": "90/40 + 30 minutes +30 seconds per move",
+   "url": "https://mychess.events/event/43e-open-international-de-cappelle-la-grande-2027/",
+   "src": "https://mychess.events/event/43e-open-international-de-cappelle-la-grande-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T07:58:35+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "1er Open International des Montagnes du Jura +50 2027",
+   "city": "Giron",
+   "start": "2027-02-27",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Senior+ / Veteran Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,710",
+   "tc": "100/40 +30 minutes +30 seconds per move",
+   "url": "https://mychess.events/event/1er-open-international-des-montagnes-du-jura-plus-50-2027/",
+   "src": "https://mychess.events/event/1er-open-international-des-montagnes-du-jura-plus-50-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T07:35:06+00:00"
+  },
+  {
    "c": "SI",
    "ulke": "Slovenya",
    "bayrak": "si",
@@ -17687,6 +17762,31 @@
    "lastmod": "2026-07-09T06:13:27+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "13e Open de Parties Rapides de l’Échiquier Montluçonnais 2027",
+   "city": "Montluçon",
+   "start": "2027-03-21",
+   "end": "2027-03-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Rapid Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,140",
+   "tc": "15+3",
+   "url": "https://mychess.events/event/13e-open-de-parties-rapides-de-lechiquier-montluconnais-2027/",
+   "src": "https://mychess.events/event/13e-open-de-parties-rapides-de-lechiquier-montluconnais-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T05:48:10+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -17815,6 +17915,41 @@
    "cr": "https://s2.chess-results.com/Tnr1488848.aspx?SNode=S0&lan=2",
    "kayit_kapali": false,
    "lastmod": "2026-09-14T13:18:04+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "12e Open International d’Échecs de Noisiel 2027",
+   "city": "Noisiel",
+   "start": "2027-04-03",
+   "end": "2027-04-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 2100,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 2099
+    }
+   ],
+   "prize": "≈ $11,650",
+   "tc": "90+30",
+   "url": "https://mychess.events/event/12e-open-international-dechecs-de-noisiel-2027/",
+   "src": "https://mychess.events/event/12e-open-international-dechecs-de-noisiel-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T05:35:45+00:00"
   },
   {
    "c": "IT",
@@ -17965,6 +18100,35 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T06:36:48+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "4ème Open International de Gex 2027",
+   "city": "Versonnex",
+   "start": "2027-05-06",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Festival Context",
+     "inv": true
+    }
+   ],
+   "prize": "≈ $3,080",
+   "tc": "90+30",
+   "url": "https://mychess.events/event/4eme-open-international-de-gex-2027/",
+   "src": "https://mychess.events/event/4eme-open-international-de-gex-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T05:18:08+00:00"
   },
   {
    "c": "IT",
