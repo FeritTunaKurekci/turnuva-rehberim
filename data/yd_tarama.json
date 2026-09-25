@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-25T09:21",
+ "taranma": "2026-09-25T16:31",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 18,
+ "okunan_sayfa": 16,
  "turnuvalar": [
   {
    "c": "US",
@@ -16773,7 +16773,7 @@
    "src": "https://mychess.events/event/1er-open-du-nouvel-an-mana-chess-club-2027/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-09-25T08:14:59+00:00"
+   "lastmod": "2026-09-25T10:33:25+00:00"
   },
   {
    "c": "HR",
@@ -17284,6 +17284,31 @@
    "lastmod": "2026-09-14T09:51:16+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Open Accession – 4ème Festival Manoir Touquet Golf Resort 2027",
+   "city": "Le Touquet-Paris-Plage",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Accession",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90+30",
+   "url": "https://mychess.events/event/open-accession-4eme-festival-manoir-touquet-golf-resort-2027/",
+   "src": "https://mychess.events/event/open-accession-4eme-festival-manoir-touquet-golf-resort-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T10:09:49+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -17374,6 +17399,46 @@
    "lastmod": "2026-09-04T11:05:33+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "25th Rochefort Chess Festival 2027",
+   "city": "Rochefort",
+   "start": "2027-02-13",
+   "end": "2027-02-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Masters",
+     "min": 2050,
+     "max": null
+    },
+    {
+     "n": "B / Accession",
+     "min": 1700,
+     "max": 2100
+    },
+    {
+     "n": "C / Promotion",
+     "min": null,
+     "max": 1749
+    },
+    {
+     "n": "Espoirs / Youth",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $12,520",
+   "tc": "90/40 + 30 minutes + 30-second increment",
+   "url": "https://mychess.events/event/25th-rochefort-chess-festival-2027/",
+   "src": "https://mychess.events/event/25th-rochefort-chess-festival-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T10:25:41+00:00"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -17417,6 +17482,31 @@
    "cr": "https://chess-results.com/tnr1482880.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-04T11:48:55+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "28e Open International de Fenain 2027",
+   "city": "Fenain",
+   "start": "2027-02-20",
+   "end": "2027-02-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,940",
+   "tc": "90+30",
+   "url": "https://mychess.events/event/28e-open-international-de-fenain-2027/",
+   "src": "https://mychess.events/event/28e-open-international-de-fenain-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-25T11:25:27+00:00"
   },
   {
    "c": "CH",

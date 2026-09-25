@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-25T09:20",
+ "taranma": "2026-09-25T16:30",
  "surum": "0.4",
  "iller": [
   {
@@ -294,7 +294,7 @@
    "il": "Kırıkkale",
    "durum": "ok",
    "host": "kirikkale.tsf.org.tr",
-   "adet": 2
+   "adet": 0
   },
   {
    "il": "Kırklareli",
@@ -354,7 +354,7 @@
    "il": "Muğla",
    "durum": "ok",
    "host": "mugla.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Muş",
@@ -1249,46 +1249,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Kırıkkale",
-   "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://kirikkale.tsf.org.tr/component/content/article/84-satranc-haberleri/418-29ekim2025",
-   "kaynak": "site",
-   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Makaleler 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Kırıkkale 29 Ekim Satranç Turnuvası , 25- 26.10.2025 tarihleri arasında, Olimpik Yüzme Havuzu Satranç Salonu’nda düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. YÖNERGE TURNUVA KAYIT 7-8 YAŞ EŞLENDİRME-SONUÇ-SIRALAMA 10 YAŞ VE ALTI EŞLENDİRME-SONUÇ-SIRALAMA AÇIK EŞLENDİRME-SONUÇ-SIRALAMA < Önceki Sonraki >"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Kırıkkale",
-   "name": "AVRUPA YAŞ GRUPLARI ŞAMPİYONASI'NDA REKOR BAŞARI",
-   "start": "2026-10-28",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://kirikkale.tsf.org.tr/component/content/article/84-satranc-haberleri/419-avrupa-yas-gruplari-sampiyonasinda-rekor-basari",
-   "kaynak": "site",
-   "kaynak_metin": "AVRUPA YAŞ GRUPLARI ŞAMPİYONASI'NDA REKOR BAŞARI Makaleler AVRUPA YAŞ GRUPLARI ŞAMPİYONASI'NDA REKOR BAŞARI Avrupa Yaş Grupları Şampiyonası'nda Rekor Başarı: İlk Dört Derece Ülkemizin, Toplam 11 Derece. 28 Ekim - 8 Kasım tarihleri arasında Karadağ'ın Budva kentinde düzenlenen 2025 Avrupa Yaş Grupları Satranç Şampiyonası dün oynanan karşılaşmalarla sona erdi. Milli sporcularımız 12 yaş grubunda ilk dört sırada yer almaları ve tüm kategorilerde elde ettikleri 11 dereceyle tarihi bir başarıya imza "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Kırşehir",
    "name": "KIRŞEHİR GELENEKSEL AHİLİK YILI SATRANÇ TURNUVASI",
    "start": "2026-09-26",
@@ -1511,6 +1471,27 @@
    "url": "https://mersin.tsf.org.tr/arsiv/2025-2026-turnuvalari",
    "kaynak": "site",
    "kaynak_metin": "2025-2026 TURNUVALARI 2025-2026 TURNUVALARI Medcem 29 Ekim Cumhuriyet Bayramı Silifke Mut 29 Ekim Cumhuriyet 29 Ekim Anamur 29 Ekim Mersin 29 Ekim Tarsus Ezgi 29 Ekim 10 Kasım Atatürk'ü Anma 2025 Anamur (Aydıncık, Bozyazı) Küçükler Erdemli Küçükler (7-12 Yaş) İlçe Birinciliği(2025) Tarsus (Çamlıyayla) Küçükler 2025 Mut Küçükler (7-12 Yaş) İlçe Birinciliği(2025) Öğretmenler Günü Ezgi Satranç Mezitli Bahçeşehir Koleji Silifke Küçükler İlçe MERSİN YILDIZLAR Mersin 9-12 Yaş Mersin Küçükler 7-8 Yaş M"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
+   "name": "MARMARİS EN İYİ 32 SATRANÇ TURNUVASI",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mugla.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "MARMARİS EN İYİ 32 SATRANÇ TURNUVASI MARMARİS EN İYİ 32 SATRANÇ TURNUVASI TSF MUĞLA | Turnuva Duyurusu Afişi büyük görüntülemek için tıklayınız. TURNUVA MARMARİS EN İYİ 32 SATRANÇ TURNUVASI TARİH 3-4 EKİM 2026 YER MUĞLA / MARMARİS KATEGORİLER AÇIK KATEGORİ ZAMAN TEMPOSU 45 DAKİKA + 30 SANİYE KATILIM ÜCRETİ VE ÖDÜL YÖNERGEDE BELİRTİLMİŞTİR TURNUVA KAYIT TURNUVA YÖNERGESİ "
   },
   {
    "c": "TR",
