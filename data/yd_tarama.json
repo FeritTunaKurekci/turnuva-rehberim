@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-26T15:41",
+ "taranma": "2026-09-26T20:20",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 12,
+ "okunan_sayfa": 19,
  "turnuvalar": [
   {
    "c": "US",
@@ -9677,6 +9677,66 @@
    "lastmod": "2026-08-20T17:58:40+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Rapide de Rethel 2026",
+   "city": "Neuflize",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Principal",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "12+3",
+   "url": "https://mychess.events/event/rapide-de-rethel-2026/",
+   "src": "https://mychess.events/event/rapide-de-rethel-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T19:27:08+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Tournoi Rapide Michel De Baralle – Albi 2026",
+   "city": "Albi",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament A",
+     "min": 1500,
+     "max": null
+    },
+    {
+     "n": "Tournament B",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "20+3",
+   "url": "https://mychess.events/event/tournoi-rapide-michel-de-baralle-albi-2026/",
+   "src": "https://mychess.events/event/tournoi-rapide-michel-de-baralle-albi-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T19:17:32+00:00"
+  },
+  {
    "c": "GR",
    "ulke": "Yunanistan",
    "bayrak": "gr",
@@ -10350,6 +10410,31 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-08-20T17:20:19+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "1er Open Rapide Jean Claude Sérié 2026",
+   "city": "Coursan",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open -2200",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "12+3",
+   "url": "https://mychess.events/event/1er-open-rapide-jean-claude-serie-2026/",
+   "src": "https://mychess.events/event/1er-open-rapide-jean-claude-serie-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T18:35:10+00:00"
   },
   {
    "c": "EN",
@@ -12405,6 +12490,36 @@
    "cr": "https://chess-results.com/tnr1423439.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-06-30T08:19:23+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "6ème Blitz de Veigy 2026",
+   "city": "Veigy-Foncenex",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating / Special Awards",
+     "min": null,
+     "max": 1999
+    }
+   ],
+   "prize": "≈ $920",
+   "tc": "3 minutes + 2 seconds per move.",
+   "url": "https://mychess.events/event/6eme-blitz-de-veigy-2026/",
+   "src": "https://mychess.events/event/6eme-blitz-de-veigy-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T16:54:43+00:00"
   },
   {
    "c": "CH",
@@ -14713,6 +14828,31 @@
    "lastmod": "2026-09-23T10:05:29+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Open Vétérans et Seniors Plus – Cambrai 2026",
+   "city": "Cambrai",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Veterans & Seniors Plus",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $690",
+   "tc": "90+30",
+   "url": "https://mychess.events/event/open-veterans-et-seniors-plus-cambrai-2026/",
+   "src": "https://mychess.events/event/open-veterans-et-seniors-plus-cambrai-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T17:21:37+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -14906,6 +15046,71 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-23T12:53:51+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "2ème Open de Hindisheim 2026",
+   "city": "Hindisheim",
+   "start": "2026-12-19",
+   "end": "2026-12-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U1700",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "50+10",
+   "url": "https://mychess.events/event/2eme-open-de-hindisheim-2026/",
+   "src": "https://mychess.events/event/2eme-open-de-hindisheim-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T18:17:14+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "9ème Open FIDE de Sucé-sur-Erdre 2026",
+   "city": "Sucé-sur-Erdre",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1850,
+     "max": 2400
+    },
+    {
+     "n": "Open B",
+     "min": 1600,
+     "max": 1900
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1649
+    },
+    {
+     "n": "Open Jeunes",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60+30",
+   "url": "https://mychess.events/event/9eme-open-fide-de-suce-sur-erdre-2026/",
+   "src": "https://mychess.events/event/9eme-open-fide-de-suce-sur-erdre-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T17:51:52+00:00"
   },
   {
    "c": "FR",

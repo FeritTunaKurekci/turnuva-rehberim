@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-26T15:41",
+ "guncelleme": "2026-09-26T20:20",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-26T15:40",
+   "tarama": "2026-09-26T20:19",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-26T15:41",
+   "tarama": "2026-09-26T20:20",
    "kaynak": "https://mychess.events"
   }
  },
@@ -9859,6 +9859,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "1er Open Rapide Jean Claude Sérié 2026",
+   "city": "Coursan",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open -2200",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "12+3",
+   "url": "https://mychess.events/event/1er-open-rapide-jean-claude-serie-2026/",
+   "src": "https://mychess.events/event/1er-open-rapide-jean-claude-serie-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T18:35:10+00:00",
+   "id": "0504caf38591",
+   "ilk_gorulme": "2026-09-26",
+   "son_gorulme": "2026-09-26",
+   "durum": "yaklasan"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -11670,6 +11699,40 @@
    "lastmod": "2026-07-01T10:49:20+00:00",
    "id": "59d4cfaff860",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-26",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "6ème Blitz de Veigy 2026",
+   "city": "Veigy-Foncenex",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating / Special Awards",
+     "min": null,
+     "max": 1999
+    }
+   ],
+   "prize": "≈ $920",
+   "tc": "3 minutes + 2 seconds per move.",
+   "url": "https://mychess.events/event/6eme-blitz-de-veigy-2026/",
+   "src": "https://mychess.events/event/6eme-blitz-de-veigy-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T16:54:43+00:00",
+   "id": "03b6ba67ecab",
+   "ilk_gorulme": "2026-09-26",
    "son_gorulme": "2026-09-26",
    "durum": "yaklasan"
   },
@@ -13724,6 +13787,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Open Vétérans et Seniors Plus – Cambrai 2026",
+   "city": "Cambrai",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Veterans & Seniors Plus",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $690",
+   "tc": "90+30",
+   "url": "https://mychess.events/event/open-veterans-et-seniors-plus-cambrai-2026/",
+   "src": "https://mychess.events/event/open-veterans-et-seniors-plus-cambrai-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T17:21:37+00:00",
+   "id": "2fe6edbec3fd",
+   "ilk_gorulme": "2026-09-26",
+   "son_gorulme": "2026-09-26",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -13861,6 +13953,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "2ème Open de Hindisheim 2026",
+   "city": "Hindisheim",
+   "start": "2026-12-19",
+   "end": "2026-12-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U1700",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "50+10",
+   "url": "https://mychess.events/event/2eme-open-de-hindisheim-2026/",
+   "src": "https://mychess.events/event/2eme-open-de-hindisheim-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T18:17:14+00:00",
+   "id": "ee998a03ef3d",
+   "ilk_gorulme": "2026-09-26",
+   "son_gorulme": "2026-09-26",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IN",
    "ulke": "Hindistan",
    "bayrak": "in",
@@ -13886,6 +14007,50 @@
    "lastmod": "2026-06-29T18:33:49+00:00",
    "id": "998516e86f9a",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-26",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "9ème Open FIDE de Sucé-sur-Erdre 2026",
+   "city": "Sucé-sur-Erdre",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1850,
+     "max": 2400
+    },
+    {
+     "n": "Open B",
+     "min": 1600,
+     "max": 1900
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1649
+    },
+    {
+     "n": "Open Jeunes",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60+30",
+   "url": "https://mychess.events/event/9eme-open-fide-de-suce-sur-erdre-2026/",
+   "src": "https://mychess.events/event/9eme-open-fide-de-suce-sur-erdre-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-26T17:51:52+00:00",
+   "id": "06e0387beb3a",
+   "ilk_gorulme": "2026-09-26",
    "son_gorulme": "2026-09-26",
    "durum": "yaklasan"
   },
