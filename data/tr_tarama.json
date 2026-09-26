@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-25T21:02",
+ "taranma": "2026-09-26T09:07",
  "surum": "0.4",
  "iller": [
   {
@@ -54,7 +54,7 @@
    "il": "Ardahan",
    "durum": "ok",
    "host": "ardahan.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Artvin",
@@ -537,6 +537,37 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Ankara",
+   "name": "Ankara Eylül Ayı UKD Satranç Turnuvası",
+   "start": "2026-09-26",
+   "end": "2026-09-27",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "C Kategorisi",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1730-ankara-eyluel-ay-ukd-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Ankara Eylül Ayı UKD Satranç Turnuvası TSF Ankara Ankara Eylül Ayı UKD Satranç Turnuvası Ankara Eylül Ayı UKD Satranç Turnuvası, 26/27 Eylül 2026 tarihlerinde TSF Ulus Binası Atatürk Satranç Merkezinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Chess-Results Turnuva Yeri : TSF Ulus Binası Atatürk Satranç Merkezi, Hacı Bayram Mh. Şehit Yaşar Akansel Sk. Özgürler İş Merkezi Kat 6 Altındağ Konum için tıklayınız... Turnuva yerinde özel araç otopark yeri yoktur, toplu taşı"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ankara",
    "name": "Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası",
    "start": "2026-10-03",
    "end": "2026-10-04",
@@ -567,37 +598,6 @@
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1731-merkez-ankara-avm-goekyay-vakf-oeduellue-satranc-turnuvas",
    "kaynak": "site",
    "kaynak_metin": "Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası TSF Ankara Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası, 3/4 Ekim 2026 tarihlerinde Merkez Ankara AVM'de düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Toplamda 61.000 TL hediye çeki ödül verilecektir. Turnuva Yeri : Merkez Ankara AVM, Hipodrom Cd. No:9 Yenimahalle Konum için tıklayınız... Her kategori nin kontenjanı 64 sporcu ile sınırlıdır. He"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Ankara",
-   "name": "Ankara Eylül Ayı UKD Satranç Turnuvası",
-   "start": "2026-09-26",
-   "end": "2026-09-27",
-   "status": "a",
-   "reyting_turu": "UKD",
-   "sections": [
-    {
-     "n": "A Kategorisi",
-     "min": 1600,
-     "max": null
-    },
-    {
-     "n": "B Kategorisi",
-     "min": 1400,
-     "max": 1599
-    },
-    {
-     "n": "C Kategorisi",
-     "min": null,
-     "max": 1399
-    }
-   ],
-   "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1730-ankara-eyluel-ay-ukd-satranc-turnuvas",
-   "kaynak": "site",
-   "kaynak_metin": "Ankara Eylül Ayı UKD Satranç Turnuvası TSF Ankara Ankara Eylül Ayı UKD Satranç Turnuvası Ankara Eylül Ayı UKD Satranç Turnuvası, 26/27 Eylül 2026 tarihlerinde TSF Ulus Binası Atatürk Satranç Merkezinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Chess-Results Turnuva Yeri : TSF Ulus Binası Atatürk Satranç Merkezi, Hacı Bayram Mh. Şehit Yaşar Akansel Sk. Özgürler İş Merkezi Kat 6 Altındağ Konum için tıklayınız... Turnuva yerinde özel araç otopark yeri yoktur, toplu taşı"
   },
   {
    "c": "TR",
@@ -688,6 +688,27 @@
    "url": "https://ardahan.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri Küçüklerin Büyük Heyecanı Başlıyor! Ardahan Küçükler İl Birinciliği için geri sayım başladı. Küçük sporcularımızın heyecanla beklediği İl Birinciliği bu yıl Ardahan da ilk kez düzenleniyor. Bu yıl 7-12 yaş arası sporcumuzun katılmasını beklediğimiz turnuva ,21-22 Aralıkta Kazım Karabekir Kapalı Spor Salonunda düzenlenecektir. 2002-2007 Arası doğumlu sporcularımızın yarışacağı İl Birinciliğinde Kızlar ve Genel Kategorilerde her yaş grubu ayrı ödüllendirilecekti"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ardahan",
+   "name": "ARDAHAN OKULLAR ARASI ONLİNE SATRANÇ TURNUVASI !!",
+   "start": "2027-02-23",
+   "end": "2027-02-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://ardahan.tsf.org.tr/80-egitimler/132-ardahan-okullar-arasi-online-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "ARDAHAN OKULLAR ARASI ONLİNE SATRANÇ TURNUVASI !! ARDAHAN OKULLAR ARASI ONLİNE SATRANÇ TURNUVASI !! 11 Nisan'da Yapılan Okullar Arası Online Satranç Turnuvamız Tamamlandı. Yarışan ve Dereceye Giren Tüm Sporcularımızı Tebrik Eder, Çok Emek Harcayan Velilerimize de Teşekkür Ederiz. Dereceye giren sporcular; 1 FURKAN EFE IŞIKLI furkanefe75 23 ŞUBAT İLKOKULU 3 3 6 4 SALİH ALTAY salihaltay25 23 ŞUBAT İLKOKULU 2 1 ÜMİT KAĞAN AKSOY KAGANAK 23 ŞUBAT İLKOKULU 1 0 Ardahan Satranç İl Temsilciliği."
   },
   {
    "c": "TR",
@@ -1754,14 +1775,14 @@
    ],
    "url": "https://usak.tsf.org.tr/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ VE SPORCULARIMIZA DUYURULUR . VİZE İŞLEMLERİ Sporcu lisansı tescil / Sağlık durum belgesi hakk"
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI (2) ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ VE SPORCULARIMIZA DUYURULUR . VİZE İŞL"
   },
   {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Uşak",
-   "name": "UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI",
+   "name": "UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI (2)",
    "start": "2026-09-26",
    "end": "2026-09-27",
    "status": "a",
@@ -1775,7 +1796,7 @@
    ],
    "url": "https://usak.tsf.org.tr/kurslar",
    "kaynak": "site",
-   "kaynak_metin": "UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI Satranç Haberleri ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ VE SPORCULARIMIZA DUYURULUR . VİZE İŞLEMLERİ Sporcu lisansı "
+   "kaynak_metin": "UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI (2) Satranç Haberleri UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI (2) ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ "
   },
   {
    "c": "TR",
@@ -1796,7 +1817,7 @@
    ],
    "url": "https://usak.tsf.org.tr/kurslar",
    "kaynak": "site",
-   "kaynak_metin": "1 EYLÜL UŞAK'IN KURTULUŞU SATRANÇ TURNUVASI Satranç Haberleri ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ VE SPORCULARIMIZA DUYURULUR . VİZE İŞLEMLERİ Sporcu lisansı tescil /"
+   "kaynak_metin": "1 EYLÜL UŞAK'IN KURTULUŞU SATRANÇ TURNUVASI Satranç Haberleri UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI (2) ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, TÜM VELİ VE SPORCULAR"
   },
   {
    "c": "TR",
