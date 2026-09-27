@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-26T20:20",
+ "taranma": "2026-09-27T09:44",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 19,
+ "okunan_sayfa": 16,
  "turnuvalar": [
   {
    "c": "US",
@@ -8098,6 +8098,76 @@
    "lastmod": "2026-08-22T12:47:42+00:00"
   },
   {
+   "c": "AE",
+   "ulke": "BAE",
+   "bayrak": "ae",
+   "name": "FIDE World Junior U20 Rapid & Blitz Championships 2026",
+   "city": "Al Ain",
+   "start": "2026-11-01",
+   "end": "2026-11-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE World Junior Rapid Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE World Junior Girls Rapid Championsh",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE World Junior Blitz Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE World Junior Girls Blitz Championsh",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $33,200",
+   "tc": "15 minutes + 10 seconds increment per move",
+   "url": "https://mychess.events/event/fide-world-junior-u20-rapid-blitz-championships-2026/",
+   "src": "https://mychess.events/event/fide-world-junior-u20-rapid-blitz-championships-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-27T07:34:31+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "31ème Rapide de Blagny 2026",
+   "city": "Blagny",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Principal",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": "≈ $570",
+   "tc": "12+3",
+   "url": "https://mychess.events/event/31eme-rapide-de-blagny-2026/",
+   "src": "https://mychess.events/event/31eme-rapide-de-blagny-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-27T05:10:43+00:00"
+  },
+  {
    "c": "GR",
    "ulke": "Yunanistan",
    "bayrak": "gr",
@@ -10562,6 +10632,56 @@
    "lastmod": "2026-09-18T18:08:34+00:00"
   },
   {
+   "c": "IL",
+   "ulke": "İsrail",
+   "bayrak": "il",
+   "name": "Jerusalem Rapid Open 2026",
+   "city": "Jerusalem",
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "14:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "15:15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "16:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "17:45",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "19:00",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $51,260",
+   "tc": "15 minutes + 10 seconds increment per move",
+   "url": "https://mychess.events/event/jerusalem-rapid-open-2026/",
+   "src": "https://mychess.events/event/jerusalem-rapid-open-2026/",
+   "cr": "https://chess-results.com/tnr1478696.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-27T06:59:15+00:00"
+  },
+  {
    "c": "PH",
    "ulke": "Filipinler",
    "bayrak": "ph",
@@ -12325,6 +12445,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-24T17:08:54+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "XXXI Torneo Weekend “Roberto Magari” 2026",
+   "city": "Siena SI",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Challenger",
+     "min": null,
+     "max": 1900
+    },
+    {
+     "n": "Fast Race",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": "≈ $2,690",
+   "tc": "Master/Challenger 90+30; Fast Race 30+30",
+   "url": "https://mychess.events/event/xxxi-torneo-weekend-roberto-magari-2026/",
+   "src": "https://mychess.events/event/xxxi-torneo-weekend-roberto-magari-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-27T05:32:41+00:00"
   },
   {
    "c": "ES",
