@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-27T16:20",
+ "guncelleme": "2026-09-27T20:46",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-27T16:20",
+   "tarama": "2026-09-27T20:45",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-27T16:20",
+   "tarama": "2026-09-27T20:46",
    "kaynak": "https://mychess.events"
   }
  },
@@ -3862,6 +3862,30 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Antalya",
+   "name": "ANTALYA İBRAHİM ŞENCAN 7.ANI SATRANÇ TURNUVASI",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1294-antisencan2026",
+   "kaynak": "site",
+   "kaynak_metin": "ANTALYA İBRAHİM ŞENCAN 7.ANI SATRANÇ TURNUVASI ANTALYA İBRAHİM ŞENCAN 7.ANI SATRANÇ TURNUVASI A ntalya Gençlik ve Spor İl Müdürlüğü ve Antalya Satranç İl Temsilciliği tarafından, 10-11 Ekim 2026 Tarihlerinde , Antalya Kapalı Spor Salonunda ANTALYA İBRAHİM ŞENCAN 7.ANI SATRANÇ TURNUVASI düzenlenecektir. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan güncel 2026-2027 TSF Lisansına sahip , vizesi yapılmış, 2009 ve 2020 yılları arasında doğan sporcular katılabilir. Müsabaka 35' + 30\" ",
+   "id": "6ce491819e55",
+   "ilk_gorulme": "2026-09-27",
+   "son_gorulme": "2026-09-27",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -4164,6 +4188,31 @@
    "lastmod": "2026-08-17T16:50:21+00:00",
    "id": "16ae9d38b267",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Diyarbakır",
+   "name": "TÜRKİYE KUPASI SATRANÇ İL BİRİNCİLİĞİ",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://diyarbakir.tsf.org.tr/satranc-haberleri/818-tuerkiye-kupasi-satranc-il-birinciligi-2026",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ İL BİRİNCİLİĞİ TÜRKİYE KUPASI SATRANÇ İL BİRİNCİLİĞİ 10-11 Ekim 2026 tarihlerinde Türkiye Kupası Satranç İl Birinciliği Yeni Stadyumu Satranç Salonunda düzenlenecektir. Konum için tıklayın. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan T.C vatandaşı sporcular katılabilir İl Birinciliğinde sporcular tek kategoride yarışacaktır. Son başvuru tarihi 9 Ekim 2026 saat 23:00'",
+   "id": "384d30092772",
+   "ilk_gorulme": "2026-09-27",
    "son_gorulme": "2026-09-27",
    "durum": "yaklasan"
   },
@@ -5256,6 +5305,30 @@
    "lastmod": "2026-07-06T11:40:31+00:00",
    "id": "bc86d9783c6b",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kırklareli",
+   "name": "Turnuva Haberleri",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kirklareli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri 2026 Kırklareli Cumhuriyet Kupası Satranç Turnuvası Turnuva Kırklareli Cumhuriyet Kupası Satranç Turnuvası Organizasyon Kırklareli GSİM - Kırklareli Satranç İl Temsilciliği Turnuva Tarihi 17-18 Ekim 2026 Turnuva Yeri/Konum Dr. Sadık Ahmet Gençlik Merkezi Kategoriler Açık : 12 Yaş Altı : Kontenjan Kontenjan her kategori için 64 sporcu ile sınırlıdır Tempo 35'+30\" Eklemeli Tempo Tur Sayısı 6 Tur Son Başvuru 16 Ekim 2026 saat:18.00 Ödüller Ayrıntılar Yarışma Yönergesinde Başvuru Ş",
+   "id": "d6a371615a3d",
+   "ilk_gorulme": "2026-09-27",
    "son_gorulme": "2026-09-27",
    "durum": "yaklasan"
   },
@@ -9401,6 +9474,31 @@
    "lastmod": "2026-09-21T18:05:56+00:00",
    "id": "6b26f2c149cc",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1633-hatay-doertyol-ted-koleji-10-kasim-atatuerkue-anma-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KAYITLARI BAŞLADI 07-08/11/2026 tarihleri arasında Ted Dörtyol Koleji tarafından Hatay İli Dörtyol İlçesi Dörtyol Ted Koleji Salonu'nda Hatay Dörtyol Ted Koleji Atatürk'ü Anma Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 05/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi Sonraki >",
+   "id": "f1d8f60f574e",
+   "ilk_gorulme": "2026-09-27",
    "son_gorulme": "2026-09-27",
    "durum": "yaklasan"
   },
