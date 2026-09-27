@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-27T09:43",
+ "taranma": "2026-09-27T16:20",
  "surum": "0.4",
  "iller": [
   {
@@ -66,7 +66,7 @@
    "il": "Aydın",
    "durum": "ok",
    "host": "aydin.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Balıkesir",
@@ -222,7 +222,7 @@
    "il": "Hatay",
    "durum": "ok",
    "host": "hatay.tsf.org.tr",
-   "adet": 1
+   "adet": 3
   },
   {
    "il": "Iğdır",
@@ -551,7 +551,7 @@
    ],
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1730-ankara-eyluel-ay-ukd-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "Ankara Eylül Ayı UKD Satranç Turnuvası TSF Ankara Ankara Eylül Ayı UKD Satranç Turnuvası Ankara Eylül Ayı UKD Satranç Turnuvası, 26/27 Eylül 2026 tarihlerinde TSF Ulus Binası Atatürk Satranç Merkezinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Chess-Results Turnuva Programı Turnuva Yeri : TSF Ulus Binası Atatürk Satranç Merkezi, Hacı Bayram Mh. Şehit Yaşar Akansel Sk. Özgürler İş Merkezi Kat 6 Altındağ Konum için tıklayınız... Turnuva yerinde özel araç otopark yeri y"
+   "kaynak_metin": "Ankara Eylül Ayı UKD Satranç Turnuvası TSF Ankara Ankara Eylül Ayı UKD Satranç Turnuvası Ankara Eylül Ayı UKD Satranç Turnuvası, 26/27 Eylül 2026 tarihlerinde TSF Ulus Binası Atatürk Satranç Merkezinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Chess-Results Turnuva Programı"
   },
   {
    "c": "TR",
@@ -760,6 +760,26 @@
    "url": "https://ardahan.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Turnuvalar Turnuva Haberleri Küçüklerin Büyük Heyecanı Başlıyor! Ardahan Küçükler İl Birinciliği için geri sayım başladı. Küçük sporcularımızın heyecanla beklediği İl Birinciliği bu yıl Ardahan da ilk kez düzenleniyor. Bu yıl 7-12 yaş arası sporcumuzun katılmasını beklediğimiz turnuva ,21-22 Aralıkta Kazım Karabekir Kapalı Spor Salonunda düzenlenecektir. 2002-2007 Arası doğumlu sporcularımızın yarışacağı İl Birinciliğinde Kızlar ve Genel Kategorilerde her yaş grubu ayrı ödüllendirilecektir. Turn"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "AMATÖR SPORLAR HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "AMATÖR SPORLAR HAFTASI SATRANÇ TURNUVASI Aydın Gençlik ve Spor İl Müdürlüğü ve Aydın Satranç İl Temsilciliğinin düzenlediği Aydın Amatör Sporlar Haftası Satranç Turnuvası 3-4 Ekim 2 026 günlerinde SKS Spor Salonu 'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Turnuvaya kayıt için sol bölümdeki \" Turnuv"
   },
   {
    "c": "TR",
@@ -1179,16 +1199,59 @@
    "start": "2026-10-29",
    "end": "2026-10-29",
    "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1632-hatay-dogus-okullari-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI 24-25/10/2026 tarihleri arasında Hatay Doğuş Okulları tarafından Hatay İli Defne İlçesi Doğuş Okulları Salonu'nda Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Turnuva kayıtları 16 Eylül tarihinde başlayacaktır. Son başvuru tarihi 22/10/2026 olan Turnuva yönerge için tıklayınız. Turnuva Kayıt Y"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY YÜREKLİ SÜVEYDİ SATRANÇ SPOR KULÜBÜ SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1629-hatay-yuerekli-sueveydi-satranc-spor-kuluebue-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY YÜREKLİ SÜVEYDİ SATRANÇ SPOR KULÜBÜ SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY YÜREKLİ SÜVEYDİ SATRANÇ SPOR KULÜBÜ SATRANÇ TURNUVASI KAYITLARI BAŞLADI 10-11/10/2026 tarihleri arasında Yürekli Süveydi Satranç Spor Kulübü tarafından Hatay İli Samandağ İlçesi Saklı Çınar Düğün Salonu (Karaçay/Samandağ)' nda Hatay Yürekli Süveydi Satranç Spor Kulübü Satranç Turnuvası düzenlenecektir. Turnuva kayıtları 16 Eylül tarihinde başlayacaktır. Son başvuru tarihi 08/10/2026 olan Turnuva yönerge için tıkl"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY EKİM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
    "reyting_turu": "ELO",
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://hatay.tsf.org.tr/satranc-haberleri",
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1630-hatay-ekim-ayi-elo-satranc-turnuvasi-kayitlari-basladi",
    "kaynak": "site",
-   "kaynak_metin": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI Satranç Haberleri HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI 24-25/10/2026 tarihleri arasında Hatay Doğuş Okulları tarafından Hatay İli Defne İlçesi Doğuş Okulları Salonu'nda Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Turnuva kayıtları 16 Eylül tarihinde başlayacaktır. Son başvuru tarihi 22/10/2026 olan Turnuva yönerge için tıklayını"
+   "kaynak_metin": "HATAY EKİM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY EKİM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI 17-18/10/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Antakya Merkez Kapalı Spor Salonu'nda Hatay Ekim Ayı ELO Satranç Turnuvası düzenlenecektir. Turnuva kayıtları 16 Eylül 2026 tarihinde başlayacaktır.Son başvuru tarihi 15/10/2026 olan Turnuva yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >"
   },
   {
    "c": "TR",
@@ -1723,7 +1786,7 @@
    ],
    "url": "https://usak.tsf.org.tr/kurslar/907-usak-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-2",
    "kaynak": "site",
-   "kaynak_metin": "UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Sayfa 2 Tüm Sayfalar Sayfa 1 / 2 USAK_29_EKIM_CUMHURIYET_BAYRAMI_SATRANC_TURNUVASI_YONERGESI.pdf Önceki Sonraki >> Sonraki >"
+   "kaynak_metin": "UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Sayfa 2 Tüm Sayfalar Sayfa 1 / 2 Önceki Sonraki >> Sonraki >"
   },
   {
    "c": "TR",
@@ -1744,7 +1807,7 @@
    ],
    "url": "https://usak.tsf.org.tr/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI USAK_29_EKIM_CUMHURIYET_BAYRAMI_SATRANC_TURNUVASI_YONERGESI.pdf UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİT"
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 SAAT:18:00'A KADAR UZATILMIŞTIR, T"
   },
   {
    "c": "TR",
@@ -1765,7 +1828,7 @@
    ],
    "url": "https://usak.tsf.org.tr/kurslar",
    "kaynak": "site",
-   "kaynak_metin": "UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI Satranç Haberleri UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI USAK_29_EKIM_CUMHURIYET_BAYRAMI_SATRANC_TURNUVASI_YONERGESI.pdf UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMD"
+   "kaynak_metin": "UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI Satranç Haberleri UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI UŞAK DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI ÖENMLİ DUYURU 26-27 EYLÜL 2026 TARİHİNDE GERÇEKLEŞTİRMEYİ PLANLADIĞIMIZ; DÜNYA HAYVANLARI KORUMA GÜNÜ SATRANÇ TURNUVASI, VİZE YENİLEME TARİHİNE YAKIN BİR TARİHTE OLDUĞUNDAN, YÖNERGEDE BELİRTİLEN KAYITLARIN KAPANIŞ TARİHİNİ VE SAATİNİ YENİDEN GÜNCELLEDİK. BU DURUMDA TURNUVA BAŞVURULARININ KAYIT BİTİŞ TARİHİ VE SAATİ 25.09.2026 "
   },
   {
    "c": "TR",
