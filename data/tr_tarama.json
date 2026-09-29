@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-29T17:34",
+ "taranma": "2026-09-29T22:03",
  "surum": "0.4",
  "iller": [
   {
@@ -354,7 +354,7 @@
    "il": "Muğla",
    "durum": "ok",
    "host": "mugla.tsf.org.tr",
-   "adet": 3
+   "adet": 5
   },
   {
    "il": "Muş",
@@ -1641,6 +1641,48 @@
    "url": "https://mugla.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "MARMARİS EN İYİ 32 SATRANÇ TURNUVASI MARMARİS EN İYİ 32 SATRANÇ TURNUVASI TSF MUĞLA | Turnuva Duyurusu Afişi büyük görüntülemek için tıklayınız. TURNUVA MARMARİS EN İYİ 32 SATRANÇ TURNUVASI TARİH 3-4 EKİM 2026 YER MUĞLA / MARMARİS KATEGORİLER AÇIK KATEGORİ ZAMAN TEMPOSU 45 DAKİKA + 30 SANİYE KATILIM ÜCRETİ VE ÖDÜL YÖNERGEDE BELİRTİLMİŞTİR TURNUVA KAYIT TURNUVA YÖNERGESİ "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
+   "name": "TURNUVA KAYIT ›",
+   "start": "2026-10-01",
+   "end": "2026-10-01",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1084",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim MARMARİS EN İYİ 32 SATRANÇ TURNUVASI SON KAYIT TARİHİ 01.10.2026 SAAT. 17.00 KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecektir. TC Kimlik No Giriniz Baba Adı Giriniz İşleme devam etmek için lütfen KVKK metni"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
+   "name": "TURNUVALAR 26-27",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mugla.tsf.org.tr/turnuvalar2627",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVALAR 26-27 MARMARİS EN İYİ 32 SATRANÇ TURNUVASI MARMARİS EN İYİ 32 SATRANÇ TURNUVASI TSF MUĞLA | Turnuva Duyurusu Afişi büyük görüntülemek için tıklayınız. TURNUVA MARMARİS EN İYİ 32 SATRANÇ TURNUVASI TARİH 3-4 EKİM 2026 YER MUĞLA / MARMARİS KATEGORİLER AÇIK KATEGORİ ZAMAN TEMPOSU 45 DAKİKA + 30 SANİYE KATILIM ÜCRETİ VE ÖDÜL YÖNERGEDE BELİRTİLMİŞTİR TURNUVA KAYIT TURNUVA YÖNERGESİ < Önceki Sonraki >"
   },
   {
    "c": "TR",

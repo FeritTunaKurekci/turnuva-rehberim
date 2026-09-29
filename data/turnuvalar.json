@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-29T17:35",
+ "guncelleme": "2026-09-29T22:04",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-29T17:34",
+   "tarama": "2026-09-29T22:03",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-29T17:35",
+   "tarama": "2026-09-29T22:04",
    "kaynak": "https://mychess.events"
   }
  },
@@ -1824,6 +1824,31 @@
    "lastmod": "2026-08-03T17:59:15+00:00",
    "id": "438058079f66",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-09-29",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
+   "name": "TURNUVA KAYIT ›",
+   "start": "2026-10-01",
+   "end": "2026-10-01",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1084",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim MARMARİS EN İYİ 32 SATRANÇ TURNUVASI SON KAYIT TARİHİ 01.10.2026 SAAT. 17.00 KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecektir. TC Kimlik No Giriniz Baba Adı Giriniz İşleme devam etmek için lütfen KVKK metni",
+   "id": "b4b84b83976b",
+   "ilk_gorulme": "2026-09-29",
    "son_gorulme": "2026-09-29",
    "durum": "yaklasan"
   },
@@ -10110,6 +10135,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Sivakasi Chess Club FIDE Rated Open Chess Tournament 2026",
+   "city": "Rajapalayam – 626117",
+   "start": "2026-11-12",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,090",
+   "tc": null,
+   "url": "https://mychess.events/event/sivakasi-chess-club-fide-rated-open-chess-tournament-2026/",
+   "src": "https://mychess.events/event/sivakasi-chess-club-fide-rated-open-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1498617.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T19:18:06+00:00",
+   "id": "a895024142ce",
+   "ilk_gorulme": "2026-09-29",
+   "son_gorulme": "2026-09-29",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -11362,6 +11416,46 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Salesforce FIDE World Championship Match 2026",
+   "city": "Fondation Martin Bodmer",
+   "start": "2026-11-22",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 23",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,500,000",
+   "tc": "120 min / 40 moves + 30 min, with 30-sec increment from move 41",
+   "url": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
+   "src": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T18:27:35+00:00",
+   "id": "cfef5e021fed",
+   "tarih_degisti": "2026-11-24 → 2026-11-22",
+   "ilk_gorulme": "2026-09-29",
+   "son_gorulme": "2026-09-29",
+   "durum": "yaklasan"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -11549,35 +11643,6 @@
    "lastmod": "2026-09-03T13:19:42+00:00",
    "id": "18e24d687e37",
    "ilk_gorulme": "2026-09-22",
-   "son_gorulme": "2026-09-29",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "CH",
-   "ulke": "İsviçre",
-   "bayrak": "ch",
-   "name": "Salesforce FIDE World Championship Match 2026",
-   "city": "Cologny",
-   "start": "2026-11-24",
-   "end": "2026-12-12",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $2,500,000",
-   "tc": "120 minutes for 40 moves, then 30 minutes; 30-second increment from move 41",
-   "url": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
-   "src": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-29T17:19:58+00:00",
-   "id": "cfef5e021fed",
-   "ilk_gorulme": "2026-09-29",
    "son_gorulme": "2026-09-29",
    "durum": "yaklasan"
   },

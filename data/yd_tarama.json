@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-29T17:35",
+ "taranma": "2026-09-29T22:04",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 17,
+ "okunan_sayfa": 14,
  "turnuvalar": [
   {
    "c": "US",
@@ -9857,6 +9857,31 @@
    "lastmod": "2026-09-17T09:32:25+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Sivakasi Chess Club FIDE Rated Open Chess Tournament 2026",
+   "city": "Rajapalayam – 626117",
+   "start": "2026-11-12",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,090",
+   "tc": null,
+   "url": "https://mychess.events/event/sivakasi-chess-club-fide-rated-open-chess-tournament-2026/",
+   "src": "https://mychess.events/event/sivakasi-chess-club-fide-rated-open-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1498617.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T19:18:06+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -11592,6 +11617,41 @@
    "lastmod": "2026-07-14T05:40:26+00:00"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Salesforce FIDE World Championship Match 2026",
+   "city": "Fondation Martin Bodmer",
+   "start": "2026-11-22",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 23",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,500,000",
+   "tc": "120 min / 40 moves + 30 min, with 30-sec increment from move 41",
+   "url": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
+   "src": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T18:27:35+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -11720,31 +11780,6 @@
    "cr": "https://chess-results.com/tnr1476055.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-03T13:19:42+00:00"
-  },
-  {
-   "c": "CH",
-   "ulke": "İsviçre",
-   "bayrak": "ch",
-   "name": "Salesforce FIDE World Championship Match 2026",
-   "city": "Cologny",
-   "start": "2026-11-24",
-   "end": "2026-12-12",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $2,500,000",
-   "tc": "120 minutes for 40 moves, then 30 minutes; 30-second increment from move 41",
-   "url": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
-   "src": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-29T17:19:58+00:00"
   },
   {
    "c": "US",
