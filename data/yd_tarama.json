@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-28T19:16",
+ "taranma": "2026-09-29T10:15",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 12,
+ "okunan_sayfa": 13,
  "turnuvalar": [
   {
    "c": "US",
@@ -9811,60 +9811,25 @@
    "ulke": "Yunanistan",
    "bayrak": "gr",
    "name": "9th Farsala Halva Festival Individual Tournament 2026",
-   "city": "Larissa",
+   "city": "Farsala 403 00",
    "start": "2026-11-12",
    "end": "2026-11-15",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Women",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Over 50",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 16",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 12",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 10",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 8",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Girls",
+     "n": "16:30",
      "min": null,
      "max": null
     }
    ],
-   "prize": "≈ $1,040",
-   "tc": "G/90 +30",
+   "prize": "≈ $1,080",
+   "tc": "90 minutes + 30 seconds increment per move",
    "url": "https://mychess.events/event/9th-farsala-halva-festival-individual-tournament-2026/",
    "src": "https://mychess.events/event/9th-farsala-halva-festival-individual-tournament-2026/",
-   "cr": "https://s3.chess-results.com/tnr1494130.aspx",
+   "cr": "https://chess-results.com/tnr1494130.aspx",
    "kayit_kapali": false,
-   "lastmod": "2026-09-17T09:45:36+00:00"
+   "lastmod": "2026-09-29T07:23:55+00:00"
   },
   {
    "c": "AR",
