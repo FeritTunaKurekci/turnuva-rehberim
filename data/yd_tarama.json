@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-29T10:15",
+ "taranma": "2026-09-29T17:35",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 17,
  "turnuvalar": [
   {
    "c": "US",
@@ -11722,6 +11722,31 @@
    "lastmod": "2026-09-03T13:19:42+00:00"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Salesforce FIDE World Championship Match 2026",
+   "city": "Cologny",
+   "start": "2026-11-24",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,500,000",
+   "tc": "120 minutes for 40 moves, then 30 minutes; 30-second increment from move 41",
+   "url": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
+   "src": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T17:19:58+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -17151,6 +17176,66 @@
    "lastmod": "2026-09-07T10:02:15+00:00"
   },
   {
+   "c": "RS",
+   "ulke": "Sırbistan",
+   "bayrak": "rs",
+   "name": "Fantastico Senta Chess Festival 2027",
+   "city": "Serbiaerbia",
+   "start": "2027-01-03",
+   "end": "2027-01-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Mix 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open 34",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "GM Mix 32",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid 36",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open 35",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/fantastico-senta-chess-festival-2027/",
+   "src": "https://mychess.events/event/fantastico-senta-chess-festival-2027/",
+   "cr": "https://chess-results.com/tnr1438393.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T11:32:29+00:00"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -17722,6 +17807,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-10T16:25:55+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "FIDE Freestyle Chess World Championship 2027",
+   "city": "Weissenhaus",
+   "start": "2027-02-12",
+   "end": "2027-02-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Magnus Carlsen",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Fabiano Caruana",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Nodirbek Abdusattorov",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Vincent Keymer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Pranav Venkatesh",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/fide-freestyle-chess-world-championship-2027/",
+   "src": "https://mychess.events/event/fide-freestyle-chess-world-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T12:51:49+00:00"
   },
   {
    "c": "AT",
@@ -18934,6 +19064,46 @@
    "lastmod": "2026-08-06T06:41:44+00:00"
   },
   {
+   "c": "RO",
+   "ulke": "Romanya",
+   "bayrak": "ro",
+   "name": "European Youth Team Chess Championship 2027",
+   "city": "Mamaia",
+   "start": "2027-06-26",
+   "end": "2027-07-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open U18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U18",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/european-youth-team-chess-championship-2027/",
+   "src": "https://mychess.events/event/european-youth-team-chess-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T13:27:01+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -19127,6 +19297,36 @@
    "cr": "https://chess-results.com/tnr1488076.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-09T12:56:27+00:00"
+  },
+  {
+   "c": "SI",
+   "ulke": "Slovenya",
+   "bayrak": "si",
+   "name": "European Youth Rapid & Blitz Chess Championships 2027",
+   "city": "Terme Čatež resort area – Čatež ob Savi",
+   "start": "2027-08-20",
+   "end": "2027-08-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls Rapid",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 10 seconds increment per move",
+   "url": "https://mychess.events/event/european-youth-rapid-blitz-chess-championships-2027/",
+   "src": "https://mychess.events/event/european-youth-rapid-blitz-chess-championships-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T12:52:54+00:00"
   },
   {
    "c": "SK",

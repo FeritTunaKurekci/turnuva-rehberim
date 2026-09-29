@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-29T10:15",
+ "guncelleme": "2026-09-29T17:35",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-29T10:15",
+   "tarama": "2026-09-29T17:34",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-29T10:15",
+   "tarama": "2026-09-29T17:35",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2242,7 +2242,7 @@
    ],
    "url": "https://eskisehir.tsf.org.tr/satranc-haberleri/1056-2026-2027-eskisehir-hizli-ve-yildirim-il-birinciligi-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "2026-2027 ESKİŞEHİR HIZLI VE YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 2026-2027 ESKİŞEHİR HIZLI VE YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Eskişehir Hızlı ve Yıldırım İl Birinciliği Satranç Tunruvası 3-4 Ekim 2026 tarihlerin Prof.Dr. Fethi HEPER Stadyumu Satranç Salonunda yapılacaktır. Turnuvaya ait bütün bilgiler için turnuva yönergeleri inceleyiniz. HIZLI İL BİRİNCİLİĞİ TURNUVA YÖNERGESİ YILDIRIM İL BİRİNCİLİĞİ TURNUVA YÖNERGESİ HIZLI İL BİRİNCİLİĞİ TURNUVA KAYIT YILDIRIM İL BİRİNCİLİĞİ TUR",
+   "kaynak_metin": "2026-2027 ESKİŞEHİR HIZLI VE YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 2026-2027 ESKİŞEHİR HIZLI VE YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Eskişehir Hızlı ve Yıldırım İl Birinciliği Satranç Tunruvası 3-4 Ekim 2026 tarihlerin Prof.Dr. Fethi HEPER Stadyumu Satranç Salonunda yapılacaktır. Turnuvaya ait bütün bilgiler için turnuva yönergeleri inceleyiniz. HIZLI İL BİRİNCİLİĞİ TURNUVA YÖNERGESİ YILDIRIM İL BİRİNCİLİĞİ TURNUVA YÖNERGE Sİ HIZLI İL BİRİNCİLİĞİ TURNUVA KAYIT YILDIRIM İL BİRİNCİLİĞİ TU",
    "id": "119093e57f89",
    "ilk_gorulme": "2026-09-28",
    "son_gorulme": "2026-09-29",
@@ -11553,6 +11553,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Salesforce FIDE World Championship Match 2026",
+   "city": "Cologny",
+   "start": "2026-11-24",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,500,000",
+   "tc": "120 minutes for 40 moves, then 30 minutes; 30-second increment from move 41",
+   "url": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
+   "src": "https://mychess.events/event/salesforce-fide-world-championship-match-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T17:19:58+00:00",
+   "id": "cfef5e021fed",
+   "ilk_gorulme": "2026-09-29",
+   "son_gorulme": "2026-09-29",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -16036,6 +16065,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "RS",
+   "ulke": "Sırbistan",
+   "bayrak": "rs",
+   "name": "Fantastico Senta Chess Festival 2027",
+   "city": "Serbiaerbia",
+   "start": "2027-01-03",
+   "end": "2027-01-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Mix 31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open 34",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "GM Mix 32",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid 36",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open 35",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/fantastico-senta-chess-festival-2027/",
+   "src": "https://mychess.events/event/fantastico-senta-chess-festival-2027/",
+   "cr": "https://chess-results.com/tnr1438393.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T11:32:29+00:00",
+   "id": "1d50afa30c73",
+   "ilk_gorulme": "2026-09-29",
+   "son_gorulme": "2026-09-29",
+   "durum": "yaklasan"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -18319,6 +18412,50 @@
    "durum": "yaklasan"
   },
   {
+   "c": "RO",
+   "ulke": "Romanya",
+   "bayrak": "ro",
+   "name": "European Youth Team Chess Championship 2027",
+   "city": "Mamaia",
+   "start": "2027-06-26",
+   "end": "2027-07-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open U18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U18",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/european-youth-team-chess-championship-2027/",
+   "src": "https://mychess.events/event/european-youth-team-chess-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T13:27:01+00:00",
+   "id": "0abc99070bbc",
+   "ilk_gorulme": "2026-09-29",
+   "son_gorulme": "2026-09-29",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -18611,6 +18748,40 @@
    "lastmod": "2026-09-09T12:56:27+00:00",
    "id": "c0ea0c335080",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-29",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "SI",
+   "ulke": "Slovenya",
+   "bayrak": "si",
+   "name": "European Youth Rapid & Blitz Chess Championships 2027",
+   "city": "Terme Čatež resort area – Čatež ob Savi",
+   "start": "2027-08-20",
+   "end": "2027-08-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls Rapid",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 10 seconds increment per move",
+   "url": "https://mychess.events/event/european-youth-rapid-blitz-chess-championships-2027/",
+   "src": "https://mychess.events/event/european-youth-rapid-blitz-chess-championships-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-29T12:52:54+00:00",
+   "id": "96fc697dd0a0",
+   "ilk_gorulme": "2026-09-29",
    "son_gorulme": "2026-09-29",
    "durum": "yaklasan"
   },
