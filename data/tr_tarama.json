@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-29T22:03",
+ "taranma": "2026-09-30T10:06",
  "surum": "0.4",
  "iller": [
   {
@@ -174,7 +174,7 @@
    "il": "Elazığ",
    "durum": "ok",
    "host": "elazig.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Erzincan",
@@ -408,7 +408,7 @@
    "il": "Siirt",
    "durum": "ok",
    "host": "siirt.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Sinop",
@@ -1045,6 +1045,27 @@
    "url": "https://elazig.tsf.org.tr/satranc-haberleri/669-sporokullarihizlisatrancturnuvasi-4",
    "kaynak": "site",
    "kaynak_metin": "AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI Amatör Spor Haftası Hızlı Satranç Turnuvası 03 Ekim 2026 Cumartesi günü Elazığ Atatürk Stadyumu Satranç Salonunda yapılacaktır. 10 dakika + 5 saniye eklemeli tempo ile tek kategoride oynanacak olan turnuda i lk beş dereceyi elde eden sporculara madalya verilecektir. Turnuvaya kayıtlar 02 Ekim 2026 Cuma saat 17:00 da sona erecektir. Turnuvaya katılacak olan tüm sporculara başarılar dileriz. TURNUVA YÖNERGESİ G"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Elazığ",
+   "name": "2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI",
+   "start": "2027-02-17",
+   "end": "2027-02-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://elazig.tsf.org.tr/satranc-haberleri/638-okul-sporlar-satranc-elazg-13",
+   "kaynak": "site",
+   "kaynak_metin": "2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI 2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI Gençlik ve Spor İl Müdürlüğümüzün 2025-2026 Eğitim Öğ retim Yılı Okul Sporları faaliyetleri kapsamında, TSF Elazığ İl Temsilciliği tarafından düzenlenecek olan Okul Sporları S atranç Turnuvaları 17-27 Şubat tarihlerinde Elazığ Atatürk Stadyumu Satranç Salonunda yapılacaktır. Turnuva toplam 10 kategoride gerçekleştirilecektir. Turnuvaya kayıtlarınızı aşağıda bulunan ilgi"
   },
   {
    "c": "TR",
@@ -1848,6 +1869,26 @@
    "url": "https://samsun.tsf.org.tr/images/2025-2026/Sosyal_Etkinlik/cumbayr.pdf",
    "kaynak": "site",
    "kaynak_metin": "2025-SAMSUN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2025-SAMSUN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Siirt",
+   "name": "SİİRT AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://siirt.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "SİİRT AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Siirt “ Amatör Spor Haftası Satranç Turnuvası \" 03-04.10. 2026 Tarihlerinde Evin Demirhan Spor Kompleksi Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2025 – 2026 yılı vizesi yapılmış, 2019 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Amatör Spor Haftası Satranç Turnuvası ORGANİZASYON Siirt GSM & Siirt Satranç İl Temsilciliği TURNUVA TARİHİ 03-04 Ekim 2026 "
   },
   {
    "c": "TR",
