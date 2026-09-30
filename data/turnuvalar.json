@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-30T10:07",
+ "guncelleme": "2026-09-30T17:27",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-30T10:06",
+   "tarama": "2026-09-30T17:26",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-30T10:07",
+   "tarama": "2026-09-30T17:27",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2181,9 +2181,9 @@
    "tc": null,
    "url": "https://mychess.events/event/zurichsee-october-festival-2026-amateur-general-open/",
    "src": "https://mychess.events/event/zurichsee-october-festival-2026-amateur-general-open/",
-   "cr": "",
+   "cr": "https://s2.chess-results.com/tnr1250670.aspx?lan=1&flag=30&turdet=YES&SNode=S0",
    "kayit_kapali": false,
-   "lastmod": "2026-05-22T08:35:26+00:00",
+   "lastmod": "2026-09-30T13:28:13+00:00",
    "id": "4973a440c880",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-09-30",
@@ -3484,7 +3484,7 @@
    "src": "https://mychess.events/event/2nd-abierto-internacional-del-valle-medio-2026/",
    "cr": "https://s1.chess-results.com/tnr1469251.aspx",
    "kayit_kapali": false,
-   "lastmod": "2026-09-10T21:55:28+00:00",
+   "lastmod": "2026-09-30T13:29:32+00:00",
    "id": "ca868c76b877",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-30",
@@ -4399,9 +4399,9 @@
    "tc": "60 minutes + 30 seconds per move",
    "url": "https://mychess.events/event/trofeo-bcc-oglio-e-serio-2026/",
    "src": "https://mychess.events/event/trofeo-bcc-oglio-e-serio-2026/",
-   "cr": "",
+   "cr": "https://s1.chess-results.com/tnr1488713.aspx?lan=1&turdet=YES&SNode=S0",
    "kayit_kapali": false,
-   "lastmod": "2026-08-17T16:50:21+00:00",
+   "lastmod": "2026-09-30T13:31:52+00:00",
    "id": "16ae9d38b267",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-30",
@@ -7717,6 +7717,31 @@
    "lastmod": "2026-09-07T08:06:50+00:00",
    "id": "720d541df827",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-09-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Batman",
+   "name": "MERKEZ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://batman.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "MERKEZ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI ",
+   "id": "3db4ac597b9f",
+   "ilk_gorulme": "2026-09-30",
    "son_gorulme": "2026-09-30",
    "durum": "yaklasan"
   },
