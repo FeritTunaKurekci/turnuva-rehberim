@@ -1,5 +1,5 @@
 {
- "taranma": "2026-09-30T17:26",
+ "taranma": "2026-09-30T21:58",
  "surum": "0.4",
  "iller": [
   {
@@ -586,7 +586,7 @@
    ],
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1731-merkez-ankara-avm-goekyay-vakf-oeduellue-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası TSF Ankara Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası, 3/4 Ekim 2026 tarihlerinde Merkez Ankara AVM'de düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Toplamda 61.000 TL hediye çeki ödül verilecektir. Turnuva Yeri : Merkez Ankara AVM, Hipodrom Cd. No:9 Yenimahalle Konum için tıklayınız... Her kategori nin kontenjanı 64 sporcu ile sınırlıdır. He"
+   "kaynak_metin": "Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası TSF Ankara Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası Merkez Ankara AVM | Gökyay Vakfı Ödüllü Satranç Turnuvası, 3/4 Ekim 2026 tarihlerinde Merkez Ankara AVM'de düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Merkez Ankara AVM tarafından toplam 61.000 TL hediye çeki ödülü verilecektir. Turnuva Yeri : Merkez Ankara AVM, Hipodrom Cd. No:9 Yenimahalle Konum için tıklayınız... Her kategori nin kontenjanı "
   },
   {
    "c": "TR",
@@ -1409,13 +1409,14 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
    "url": "https://izmir.tsf.org.tr/turnuvalar/2613-dila-yueksel-anisina-hizli-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020- 2009 yılları ve arasında doğan kadın sporcular katılabilir. Turnuvada eşlen"
+   "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız."
   },
   {
    "c": "TR",

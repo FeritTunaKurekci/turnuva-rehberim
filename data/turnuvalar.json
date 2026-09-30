@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-09-30T17:27",
+ "guncelleme": "2026-09-30T21:59",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-09-30T17:26",
+   "tarama": "2026-09-30T21:58",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-09-30T17:27",
+   "tarama": "2026-09-30T21:59",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2694,13 +2694,14 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
    "url": "https://izmir.tsf.org.tr/turnuvalar/2613-dila-yueksel-anisina-hizli-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020- 2009 yılları ve arasında doğan kadın sporcular katılabilir. Turnuvada eşlen",
+   "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız.",
    "id": "1a373fbe43c9",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-09-30",
