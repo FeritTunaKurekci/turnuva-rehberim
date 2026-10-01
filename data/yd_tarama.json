@@ -1,7 +1,7 @@
 {
- "taranma": "2026-09-30T21:59",
+ "taranma": "2026-10-01T10:36",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 12,
+ "okunan_sayfa": 13,
  "turnuvalar": [
   {
    "c": "US",
@@ -15711,6 +15711,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-09T06:22:18+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Bhilwara Chess Festival 2026 – 3rd Classical & 1st Rapid",
+   "city": "Rajasthan 311001",
+   "start": "2026-12-25",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "3rd Bhilwara International Open FIDE Cla",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1st Bhilwara International Open FIDE Rap",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $9,930",
+   "tc": "3rd Bhilwara International Open FIDE Classical Rating Chess Tournament 2026",
+   "url": "https://mychess.events/event/bhilwara-chess-festival-2026-3rd-classical-1st-rapid/",
+   "src": "https://mychess.events/event/bhilwara-chess-festival-2026-3rd-classical-1st-rapid/",
+   "cr": "https://chess-results.com/tnr1393360.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-01T10:19:48+00:00"
   },
   {
    "c": "FR",
