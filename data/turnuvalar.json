@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-01T10:36",
+ "guncelleme": "2026-10-01T18:04",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-01T10:35",
+   "tarama": "2026-10-01T18:03",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-01T10:36",
+   "tarama": "2026-10-01T18:04",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2126,9 +2126,9 @@
    "kaynak": "site",
    "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim MARMARİS EN İYİ 32 SATRANÇ TURNUVASI SON KAYIT TARİHİ 02.10.2026 SAAT. 17.00 KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecektir. TC Kimlik No Giriniz Baba Adı Giriniz İşleme devam etmek için lütfen KVKK metni",
    "id": "b4b84b83976b",
-   "tarih_degisti": "2026-10-01 → 2026-10-02",
    "ilk_gorulme": "2026-09-29",
    "son_gorulme": "2026-10-01",
+   "tarih_degisti": "2026-10-01 → 2026-10-02",
    "durum": "yaklasan"
   },
   {
@@ -16652,7 +16652,7 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Satranç Haberleri Hakem Görevlendirmeleri Foto Galeri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search ",
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,",
    "id": "b596864ec86b",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-10-01",
