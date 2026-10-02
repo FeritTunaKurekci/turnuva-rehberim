@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-02T10:11",
+ "taranma": "2026-10-02T17:17",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 14,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -10639,7 +10639,7 @@
    "src": "https://mychess.events/event/late-shri-vasudeva-v-dempo-memorial-fide-rating-chess-tournament-2026/",
    "cr": "https://chess-results.com/tnr1487632.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-10-02T09:43:10+00:00"
+   "lastmod": "2026-10-02T11:03:48+00:00"
   },
   {
    "c": "IN",
@@ -17281,6 +17281,66 @@
    "lastmod": "2026-09-25T10:33:25+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "17th Chennai Open International Grandmasters Chess Tournament 2027",
+   "city": "Tamil Nadu 600008",
+   "start": "2027-01-02",
+   "end": "2027-01-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "January 2 – 8:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 2 – 2:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 2 – 2:30 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 2 – 3:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 3 – 10:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 3 – 4:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 4 – 10:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 5 – 10:00 AM",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $20,810",
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/17th-chennai-open-international-grandmasters-chess-tournament-2027/",
+   "src": "https://mychess.events/event/17th-chennai-open-international-grandmasters-chess-tournament-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T16:47:08+00:00"
+  },
+  {
    "c": "HR",
    "ulke": "Hırvatistan",
    "bayrak": "hr",
@@ -18802,6 +18862,66 @@
    "lastmod": "2026-09-07T12:01:50+00:00"
   },
   {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Open Dutch Rapid Championship 2027",
+   "city": "DJ Helmond",
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "10:00–11:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "11:00–12:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:00–12:45",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:45–13:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "13:30–14:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "14:30–15:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "15:30–16:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "16:30–17:15",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,850",
+   "tc": "15 minutes + 5 seconds increment per move",
+   "url": "https://mychess.events/event/open-dutch-rapid-championship-2027/",
+   "src": "https://mychess.events/event/open-dutch-rapid-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T16:36:37+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -18825,6 +18945,108 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T06:36:48+00:00"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Czech Amateur Chess Championship 2027",
+   "city": "Czech Republic",
+   "start": "2027-05-04",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "May 4 – 10:00–12:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 4 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 4 – 17:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 7 – morning",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 7 – until 12:45",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 7 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 7 – approximately 19:30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $15,180",
+   "tc": null,
+   "url": "https://mychess.events/event/czech-amateur-chess-championship-2027/",
+   "src": "https://mychess.events/event/czech-amateur-chess-championship-2027/",
+   "cr": "https://s1.chess-results.com/tnr1492827.aspx?lan=5&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T13:33:43+00:00"
+  },
+  {
+   "c": "DK",
+   "ulke": "Danimarka",
+   "bayrak": "dk",
+   "name": "Kronborg Chess Open 2027",
+   "city": "Snekkersten",
+   "start": "2027-05-05",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Group",
+     "inv": true
+    },
+    {
+     "n": "IM Group",
+     "inv": true
+    },
+    {
+     "n": "WIM Group",
+     "inv": true
+    },
+    {
+     "n": "Open Groups",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Lowest Open Group",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $11,290",
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/kronborg-chess-open-2027/",
+   "src": "https://mychess.events/event/kronborg-chess-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T11:40:33+00:00"
   },
   {
    "c": "FR",
@@ -19017,6 +19239,66 @@
    "cr": "https://chess-results.com/tnr1449732.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-07T13:37:11+00:00"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "PLUSCITY Grand Prix 2027",
+   "city": "Pasching",
+   "start": "2027-05-27",
+   "end": "2027-05-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "May 27 – 12:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 27 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 27 – around 20:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 28 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 28 – 14:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 28 – around 20:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 29 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 29 – 14:00",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $91,190",
+   "tc": null,
+   "url": "https://mychess.events/event/pluscity-grand-prix-2027/",
+   "src": "https://mychess.events/event/pluscity-grand-prix-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T12:44:25+00:00"
   },
   {
    "c": "DE",

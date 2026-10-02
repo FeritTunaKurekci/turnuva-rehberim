@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-02T10:11",
+ "guncelleme": "2026-10-02T17:17",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-02T10:10",
+   "tarama": "2026-10-02T17:16",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-02T10:11",
+   "tarama": "2026-10-02T17:17",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2124,7 +2124,7 @@
    ],
    "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1084",
    "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim MARMARİS EN İYİ 32 SATRANÇ TURNUVASI SON KAYIT TARİHİ 02.10.2026 SAAT. 17.00 KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecektir. TC Kimlik No Giriniz Baba Adı Giriniz İşleme devam etmek için lütfen KVKK metni",
+   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim MARMARİS EN İYİ 32 SATRANÇ TURNUVASI SON KAYIT TARİHİ 02.10.2026 SAAT. 17.00 Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-10-02 17:00:00 Toplam Kayıt: 33 AD SOYAD İL ELO UKD KATEGORİ KEREM AKTAŞ MUĞLA 1811 1771 EGE KARGIN MUĞLA 1629 1639 MUSTAFA TOKMAK MUĞLA 1549 1602 ALİ U",
    "id": "b4b84b83976b",
    "ilk_gorulme": "2026-09-29",
    "son_gorulme": "2026-10-02",
@@ -2569,7 +2569,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ EKİM AYI ELO SATRANÇ TURNUVASI İlimizde 3-4 Ekim 2026 Tarihlerinde DENİZLİ EKİM AYI ELO SATRANÇ TURNUVASI Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "kaynak_metin": "DENİZLİ EKİM AYI ELO SATRANÇ TURNUVASI İlimizde 3-4 Ekim 2026 Tarihlerinde DENİZLİ EKİM AYI ELO SATRANÇ TURNUVASI Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi EŞLENDİRME ve SONUÇLAR A Kategorisi B Kategorisi ",
    "id": "600cf20eb68d",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-10-02",
@@ -2646,13 +2646,14 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://izmir.tsf.org.tr/turnuvalar/2615-duenya-oegretmenler-guenue-satranc-turnuvasi",
+   "url": "https://izmir.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Dünya Öğretmenler Günü Satranç Turnuvası\" 03-04 Ekim 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuvada eşle",
+   "kaynak_metin": "DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Dünya Öğretmenler Günü Satranç Turnuvası\" 03-04 Ekim 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir.",
    "id": "b0ea26fd1fd6",
    "ilk_gorulme": "2026-09-28",
    "son_gorulme": "2026-10-02",
@@ -2695,13 +2696,14 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://izmir.tsf.org.tr/turnuvalar/2613-dila-yueksel-anisina-hizli-satranc-turnuvasi",
+   "url": "https://izmir.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020- 2009 yılları ve arasında doğan kadın sporcular katılabilir. Turnuvada eşlen",
+   "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız.",
    "id": "1a373fbe43c9",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-10-02",
@@ -2924,7 +2926,7 @@
    ],
    "url": "https://sakarya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Sakarya Dünya Çocuk Günü Satranç Turnuvası Tarih: 03-04 Ekim 2026 Kayıt Tarihleri: 24 Eylül -02 Ekim 2026 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki yıllarda doğan sporcular katılabilir. Satranç lisansı hakkında detaylı bilgi için tıklayınız Not: DOĞUM TARİHİNİZE UYGUN KATEGORİYE KAYIT YAPINIZ. YÖNERGE TURNUVA KAYIT KAYIT İPTAL",
+   "kaynak_metin": "Sakarya Dünya Çocuk Günü Satranç Turnuvası Tarih: 03-04 Ekim 2026 Kayıt Tarihleri: 24 Eylül -02 Ekim 2026 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki yıllarda doğan sporcular katılabilir. Satranç lisansı hakkında detaylı bilgi için tıklayınız Not: DOĞUM TARİHİNİZE UYGUN KATEGORİYE KAYIT YAPINIZ. YÖNERGE EŞLENDİRME VE SONUÇLAR",
    "id": "e4e93a1c626c",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-10-02",
@@ -4081,6 +4083,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Karabük",
+   "name": "AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://karabuk.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI TURNUVA TARİHİ : 10/10/2026 (CUMARTESİ) TURNUVA SON KAYIT : 09 /10/2026 SAAT : 18.00 TEMPO : 15'+10'' EKLEMELİ TEMPO TURNUVA YERİ : DR. NECMETTİN ŞEYHOĞLU STADYUMU SATRANÇ SALONU ***TURNUVA FOTOĞRAFLARI*** KAYIT KONTROL BAŞLANGIÇ SAATİ : 09:00 BİTİŞ SAATİ : 09:30 dan sonra sporcular turnuvaya alınmayacaktır. Amatör Spor Haftası Hızlı Satranç Turnuvasında ilk üç dereceyi elde eden sporculara MADALYA verilecekt",
+   "id": "f44cd4c148cc",
+   "ilk_gorulme": "2026-10-02",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Antalya",
    "name": "ANTALYA İBRAHİM ŞENCAN 7.ANI SATRANÇ TURNUVASI",
    "start": "2026-10-10",
@@ -4327,6 +4354,31 @@
    "id": "243f8978a807",
    "ilk_gorulme": "2026-09-28",
    "son_gorulme": "2026-09-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Sarıyer Belediyesi - ZSK Cumhuriyet Kupası 4. Geleneksel Satranç Turnuvası..",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5283-saryer-belediyesi-zekeriyakoey-cumhuriyet-kupas-4-geleneksel-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Sarıyer Belediyesi - ZSK Cumhuriyet Kupası 4. Geleneksel Satranç Turnuvası.. Sarıyer Belediyesi - ZSK Cumhuriyet Kupası 4. Geleneksel Satranç Turnuvası.. Sarıyer Belediyesi ve Zekeriyaköy Spor Kulübü tarafından 10-11 Ekim 2026 tarihlerinde Cumhuriyet Kupası 4. Geleneksel Satranç Turnuvası düzenlenecektir. Turnuva her yaştan sporcunun katılımına açık olup 8 kategoride düzenlenecektir. Turnuvanın 35 dakika+30 saniye düşünme süresinde 6 tur UKD Turnuvası olarak düzenlenmesi planlanmıştır. Turnuvada",
+   "id": "b2db4a44f853",
+   "ilk_gorulme": "2026-10-02",
+   "son_gorulme": "2026-10-02",
    "durum": "yaklasan"
   },
   {
@@ -7578,6 +7630,45 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Antalya",
+   "name": "2026 GAZİPAŞA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1400,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "C Kategorisi",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1295-gazipasa29ekim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 GAZİPAŞA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI 2026 GAZİPAŞA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği tarafından, 31 Ekim-01 Kasım 2026 tarihlerinde, Gazipaşa AIRPORT AVM'de Gazipaşa 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası düzenlenecektir. Müsabaka 60'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALL",
+   "id": "036a2d4281ca",
+   "ilk_gorulme": "2026-10-02",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Bartın",
    "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-10-29",
@@ -7643,6 +7734,31 @@
    "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2025 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2025 29 Ekim Zafer Bayramı Satranç Turnuvası üç kategoride YSD Koleji sponsorluğunda düzenlenecektir. Turnuva 25 - 26 Ekim 2025 tarihinde YSD Koleji'nde yapılacaktır. Sporcuların Dikkatine: Notasyonu bilmeyen oyuncular turnuvaya kabul edilmeyecektir. Her sporcu turnuva esnasında notasyon tutmak zorundadır. Turnuva Yönergesi için tıklayınız. TURNUVA KAYIT CANLI SONUÇLAR AÇIK KATEGORİ 14 YAŞ VE ALTI 10 Y",
    "id": "33f16c213276",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karabük",
+   "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2026",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://karabuk.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2026 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI TURNUVA TARİHİ : 24-25/10/2026 (CUMARTESİ-PAZAR) TURNUVA SON KAYIT : 23 /10/2026 SAAT : 18.00 TEMPO : 35'+30'' EKLEMELİ TEMPO TURNUVA YERİ : DR. NECMETTİN ŞEYHOĞLU STADYUMU SATRANÇ SALONU ***TURNUVA FOTOĞRAFLARI*** KAYIT KONTROL BAŞLANGIÇ SAATİ : 09:00 BİTİŞ SAATİ : 09:30 dan sonra sporcular turnuvaya alınmayacaktır. 29 Ekim Cumhuriyet Bayramı Satranç Turnuvasında ilk üç dereceyi elde eden sporculara K",
+   "id": "538ff9d25362",
+   "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-10-02",
    "durum": "yaklasan"
   },
@@ -8456,6 +8572,45 @@
    "lastmod": "2026-08-16T08:32:15+00:00",
    "id": "ffaa82612f84",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Antalya",
+   "name": "Turnuva Haberleri",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1400,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "C Kategorisi",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 GAZİPAŞA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği tarafından, 31 Ekim-01 Kasım 2026 tarihlerinde, Gazipaşa AIRPORT AVM'de Gazipaşa 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası düzenlenecektir. Müsabaka 60'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER TSF YA",
+   "id": "89f844f11c81",
+   "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-10-02",
    "durum": "yaklasan"
   },
@@ -10655,7 +10810,7 @@
    "src": "https://mychess.events/event/late-shri-vasudeva-v-dempo-memorial-fide-rating-chess-tournament-2026/",
    "cr": "https://chess-results.com/tnr1487632.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-10-02T09:43:10+00:00",
+   "lastmod": "2026-10-02T11:03:48+00:00",
    "id": "3129ccd277f9",
    "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-10-02",
@@ -16297,6 +16452,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "17th Chennai Open International Grandmasters Chess Tournament 2027",
+   "city": "Tamil Nadu 600008",
+   "start": "2027-01-02",
+   "end": "2027-01-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "January 2 – 8:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 2 – 2:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 2 – 2:30 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 2 – 3:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 3 – 10:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 3 – 4:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 4 – 10:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 5 – 10:00 AM",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $20,810",
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/17th-chennai-open-international-grandmasters-chess-tournament-2027/",
+   "src": "https://mychess.events/event/17th-chennai-open-international-grandmasters-chess-tournament-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T16:47:08+00:00",
+   "id": "96b9df5dc9af",
+   "ilk_gorulme": "2026-10-02",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
    "c": "HR",
    "ulke": "Hırvatistan",
    "bayrak": "hr",
@@ -17525,9 +17744,9 @@
    "kaynak": "site",
    "kaynak_metin": "2025-2026 ÖĞRETİM YILI OKUL SPORLARI KÜÇÜKLER SATRANÇ TURNUVASI 2025-2026 ÖĞRETİM YILI OKUL SPORLARI KÜÇÜKLER SATRANÇ TURNUVASI 2025-2025 Öğretim Yılı Okul Sporları kapsamında 28 Şubat - 1 Mart tarihlerinde gerçekleştirilecek olan İl Birnciliği Turnuvası Karşıyaka Çok Amaçlı Spor Salonunda gerçekleştirilecektir. Genel Kategorisi Turnuva Chess-Result Sayfası İçin Tılayınız. Kızlar Kategorisi Turnuva Chess-Result Sayfası İçin Tıklayınız. Turnuva yönergesi için tıklayınız. < Önceki Sonraki >",
    "id": "7adaa7df4482",
-   "tarih_degisti": "2027-02-28 → 2027-02-28",
    "ilk_gorulme": "2026-10-01",
    "son_gorulme": "2026-10-02",
+   "tarih_degisti": "2027-02-28 → 2027-02-28",
    "durum": "yaklasan"
   },
   {
@@ -18286,6 +18505,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Open Dutch Rapid Championship 2027",
+   "city": "DJ Helmond",
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "10:00–11:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "11:00–12:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:00–12:45",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:45–13:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "13:30–14:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "14:30–15:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "15:30–16:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "16:30–17:15",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,850",
+   "tc": "15 minutes + 5 seconds increment per move",
+   "url": "https://mychess.events/event/open-dutch-rapid-championship-2027/",
+   "src": "https://mychess.events/event/open-dutch-rapid-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T16:36:37+00:00",
+   "id": "f229945686d4",
+   "ilk_gorulme": "2026-10-02",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -18311,6 +18594,116 @@
    "lastmod": "2026-07-09T06:36:48+00:00",
    "id": "d24d99213f61",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Czech Amateur Chess Championship 2027",
+   "city": "Czech Republic",
+   "start": "2027-05-04",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "May 4 – 10:00–12:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 4 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 4 – 17:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 7 – morning",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 7 – until 12:45",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 7 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 7 – approximately 19:30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $15,180",
+   "tc": null,
+   "url": "https://mychess.events/event/czech-amateur-chess-championship-2027/",
+   "src": "https://mychess.events/event/czech-amateur-chess-championship-2027/",
+   "cr": "https://s1.chess-results.com/tnr1492827.aspx?lan=5&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T13:33:43+00:00",
+   "id": "5c6f6b21c58b",
+   "ilk_gorulme": "2026-10-02",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DK",
+   "ulke": "Danimarka",
+   "bayrak": "dk",
+   "name": "Kronborg Chess Open 2027",
+   "city": "Snekkersten",
+   "start": "2027-05-05",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Group",
+     "inv": true
+    },
+    {
+     "n": "IM Group",
+     "inv": true
+    },
+    {
+     "n": "WIM Group",
+     "inv": true
+    },
+    {
+     "n": "Open Groups",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Lowest Open Group",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $11,290",
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/kronborg-chess-open-2027/",
+   "src": "https://mychess.events/event/kronborg-chess-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T11:40:33+00:00",
+   "id": "8f1747653093",
+   "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-10-02",
    "durum": "yaklasan"
   },
@@ -18550,6 +18943,70 @@
    "lastmod": "2026-09-07T13:37:11+00:00",
    "id": "06d7c269b43c",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "PLUSCITY Grand Prix 2027",
+   "city": "Pasching",
+   "start": "2027-05-27",
+   "end": "2027-05-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "May 27 – 12:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 27 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 27 – around 20:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 28 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 28 – 14:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 28 – around 20:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 29 – 13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "May 29 – 14:00",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $91,190",
+   "tc": null,
+   "url": "https://mychess.events/event/pluscity-grand-prix-2027/",
+   "src": "https://mychess.events/event/pluscity-grand-prix-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-02T12:44:25+00:00",
+   "id": "202345745602",
+   "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-10-02",
    "durum": "yaklasan"
   },
