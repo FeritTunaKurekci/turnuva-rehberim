@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-02T17:16",
+ "taranma": "2026-10-02T21:57",
  "surum": "0.4",
  "iller": [
   {
@@ -48,7 +48,7 @@
    "il": "Antalya",
    "durum": "ok",
    "host": "antalya.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Ardahan",
@@ -126,7 +126,7 @@
    "il": "Bursa",
    "durum": "ok",
    "host": "bursa.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Çanakkale",
@@ -234,7 +234,7 @@
    "il": "Isparta",
    "durum": "ok",
    "host": "isparta.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "İstanbul",
@@ -613,6 +613,36 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Antalya",
+   "name": "ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1400,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1296-ant29ekim2026",
+   "kaynak": "site",
+   "kaynak_metin": "ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI A ntalya Gençlik ve Spor İl Müdürlüğü ve Antalya Satranç İl Temsilciliği tarafından, 24-25 Ekim 2026 Tarihlerinde , Antalya Kapalı Spor Salonunda ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI düzenlenecektir. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan güncel 2026-2027 TSF Lisansına sahip , vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabi"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Antalya",
    "name": "2026 GAZİPAŞA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI",
    "start": "2026-10-29",
    "end": "2026-10-29",
@@ -649,8 +679,8 @@
    "bayrak": "tr",
    "il": "Antalya",
    "name": "Turnuva Haberleri",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -676,7 +706,7 @@
    ],
    "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 GAZİPAŞA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği tarafından, 31 Ekim-01 Kasım 2026 tarihlerinde, Gazipaşa AIRPORT AVM'de Gazipaşa 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası düzenlenecektir. Müsabaka 60'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER TSF YA"
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI A ntalya Gençlik ve Spor İl Müdürlüğü ve Antalya Satranç İl Temsilciliği tarafından, 24-25 Ekim 2026 Tarihlerinde , Antalya Kapalı Spor Salonunda ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI düzenlenecektir. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan güncel 2026-2027 TSF Lisansına sahip , vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Müsabaka 60' + 3"
   },
   {
    "c": "TR",
@@ -1029,6 +1059,26 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Bursa",
+   "name": "Kuantum Satranç 7. Ödüllü Satranç Turnuvası",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bursa.tsf.org.tr/turnuvaduyurulari/1961-kuantum-satranc-7-oeduellue-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Kuantum Satranç 7. Ödüllü Satranç Turnuvası Kuantum Satranç 7. Ödüllü Satranç Turnuvası Turnuva Kuantum Satranç 7. Ödüllü Satranç Turnuvası Organizasyon Kuantum Satranç Spor Kulübü Turnuva Tarihi 17 Ekim 2026 Cumartesi - 18 Ekim 2026 Pazar Turnuva Yeri Kuantum Satranç Spor Kulübü Kategoriler - 7 Yaş Kategorisi - 8 Yaş Kategorisi - 9 Yaş Kategorisi Kontenjan Her kategori için maksimum ratingi en yüksek 32 sporcu ile sınırlıdır. Ratingi olmayan sporcular kayıt sırasına göre sıralanacaktır. Tempo 4"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Çanakkale",
    "name": "26 KASIM GELİBOLU SATRANÇ TURNUVASI",
    "start": "2026-11-26",
@@ -1147,7 +1197,7 @@
    ],
    "url": "https://elazig.tsf.org.tr/satranc-haberleri/669-sporokullarihizlisatrancturnuvasi-4",
    "kaynak": "site",
-   "kaynak_metin": "AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI Amatör Spor Haftası Hızlı Satranç Turnuvası 03 Ekim 2026 Cumartesi günü Elazığ Atatürk Stadyumu Satranç Salonunda yapılacaktır. 10 dakika + 5 saniye eklemeli tempo ile tek kategoride oynanacak olan turnuda i lk beş dereceyi elde eden sporculara madalya verilecektir. Turnuvaya kayıtlar 02 Ekim 2026 Cuma saat 17:00 da sona erecektir. Turnuvaya katılacak olan tüm sporculara başarılar dileriz. TURNUVA YÖNERGESİ G"
+   "kaynak_metin": "AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI Amatör Spor Haftası Hızlı Satranç Turnuvası 03 Ekim 2026 Cumartesi günü Elazığ Atatürk Stadyumu Satranç Salonunda yapılacaktır. 10 dakika + 5 saniye eklemeli tempo ile tek kategoride oynanacak olan turnuda i lk beş dereceyi elde eden sporculara madalya verilecektir. Turnuvaya katılan tüm sporculara başarılar dileriz. TURNUVA YÖNERGESİ EŞLENDİRME / SONUÇ Sonraki >"
   },
   {
    "c": "TR",
@@ -1442,6 +1492,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Isparta",
+   "name": "Isparta Ekim Ayı UKD Satranç Turnuvası",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://isparta.tsf.org.tr/78-turnuvalar/718-isparta-ekim-ay-ukd-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Isparta Ekim Ayı UKD Satranç Turnuvası Isparta Ekim Ayı UKD Satranç Turnuvası Eşlendirme ve Sonuç Canlı Yayın Isparta Ekim Ayı UKD Satranç Turnuvası 3-4 Ekim 2026 tarihlerinde Isparta Gençlik Merkezi Satranç Salonu'nda düzenlenecektir. Turnuva Yönergesi Turnuva Kayıt"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "İstanbul",
    "name": "Sarıyer Belediyesi - ZSK Cumhuriyet Kupası 4. Geleneksel Satranç Turnuvası..",
    "start": "2026-10-10",
@@ -1471,14 +1542,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://izmir.tsf.org.tr/",
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2615-duenya-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Dünya Öğretmenler Günü Satranç Turnuvası\" 03-04 Ekim 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir."
+   "kaynak_metin": "DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Dünya Öğretmenler Günü Satranç Turnuvası\" 03-04 Ekim 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuvada eşle"
   },
   {
    "c": "TR",
@@ -1492,14 +1562,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://izmir.tsf.org.tr/",
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2613-dila-yueksel-anisina-hizli-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız."
+   "kaynak_metin": "DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI DİLA YÜKSEL ANISINA HIZLI SATRANÇ TURNUVASI İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Dila Yüksel Anısına Hızlı Satranç Turnuvası\" 3 Ekim 2026 tarihinde Altındağ Atatürk Kültür Merkezi'nde yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020- 2009 yılları ve arasında doğan kadın sporcular katılabilir. Turnuvada eşlen"
   },
   {
    "c": "TR",
@@ -2158,7 +2227,7 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,"
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Satranç Haberleri Hakem Görevlendirmeleri Foto Galeri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search "
   },
   {
    "c": "TR",
