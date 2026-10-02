@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-01T18:03",
+ "taranma": "2026-10-02T10:10",
  "surum": "0.4",
  "iller": [
   {
@@ -480,7 +480,7 @@
    "il": "Yozgat",
    "durum": "ok",
    "host": "yozgat.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Zonguldak",
@@ -550,7 +550,7 @@
    ],
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1726-baskent-sanat-merkezi-caissa-satranc-akademisi-oeduellue-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası TSF Ankara Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası, 3/4 Ekim 2026 tarihlerinde Başkent Sanat Merkezi'nde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktaktadır. Yönerge Turnuva Yeri : Başkent Sanat Merkezi, Nata Vega AVM Sinema Katı Mamak / Ankara Konum için tıklayınız... Her kategoride kayıt tarihine göre "
+   "kaynak_metin": "Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası TSF Ankara Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası Başkent Sanat Merkezi | Caissa Satranç Akademisi Ödüllü Satranç Turnuvası, 3/4 Ekim 2026 tarihlerinde Başkent Sanat Merkezi'nde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktaktadır. Yönerge Kayıt Listesi Turnuva Yeri : Başkent Sanat Merkezi, Nata Vega AVM Sinema Katı Mamak / Ankara Konum için tıklayınız... Her kategoride kayıt "
   },
   {
    "c": "TR",
@@ -909,7 +909,7 @@
    "il": "Bingöl",
    "name": "2025-2026 ÖĞRETİM YILI OKUL SPORLARI KÜÇÜKLER SATRANÇ TURNUVASI",
    "start": "2027-02-28",
-   "end": "2027-02-28",
+   "end": "2027-03-01",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -2055,6 +2055,26 @@
    "url": "https://usak.tsf.org.tr/kurslar/907-usak-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-2",
    "kaynak": "site",
    "kaynak_metin": "UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI UŞAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Sayfa 2 Tüm Sayfalar Sayfa 1 / 2 Önceki Sonraki >> Sonraki >"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Yozgat",
+   "name": "YOZGAT GENÇLİK MERKEZİ SATRANÇ TURNUVASI(10-11 Ekim 2026)",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://yozgat.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "YOZGAT GENÇLİK MERKEZİ SATRANÇ TURNUVASI(10-11 Ekim 2026) İlimiz Merkez İlçesinde Gençlik Merkezi'de 10-11 Ekim 2026 tarihlerinde YOZGAT GENÇLİK MERKEZİ SATRANÇ TURNUVASI yapılacaktır.Turnuva 10 Yaş ve Altı ile Açık olmak üzere iki kategoride yapılacaktır. İletişim:Alper Erman TUNÇYÜREKLİ: 0 545 476 00 35 Turnuva yönergesine ve Turnuva Kayıt linkine aşağıdan ulaşabilirsiniz. YÖNERGE TURNUVA KAYIT "
   },
   {
    "c": "TR",
