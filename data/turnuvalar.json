@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-03T15:50",
+ "guncelleme": "2026-10-03T20:28",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-03T15:50",
+   "tarama": "2026-10-03T20:28",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-03T15:50",
+   "tarama": "2026-10-03T20:28",
    "kaynak": "https://mychess.events"
   }
  },
@@ -5590,6 +5590,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Konya",
+   "name": "KONYA AMATÖR HAFTASI SATRANÇ TURNUVASI(17-18 EKİM 2026)",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://konya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "KONYA AMATÖR HAFTASI SATRANÇ TURNUVASI(17-18 EKİM 2026) KONYA İLİ , SELÇUKLU İLÇESİNDE 17-18 EKİM 2026 tarihinlerinde Konya Satranç İl Temsilciliği Salonu’nda, İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak KONYA AMATÖR HAFTASI Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 16.10.2026 Saat 17:00’den önce tamamlanmalıdır. YÖNERGE TURNUVA KAYIT ",
+   "id": "855ca417b342",
+   "ilk_gorulme": "2026-10-03",
+   "son_gorulme": "2026-10-03",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Bursa",
    "name": "Kuantum Satranç 7. Ödüllü Satranç Turnuvası",
    "start": "2026-10-17",
@@ -6737,6 +6762,31 @@
   },
   {
    "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Konya",
+   "name": "AKŞEHİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI (24-25 EKİM 2026)",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://konya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "AKŞEHİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI (24-25 EKİM 2026) Konya ili, AKŞEHİR ilçesinde, 24-25 EKİM 2026 tarihleri arasında, AKŞEHİR GENÇLİK MERKEZİNDE , İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak Akşehir 29 EKİM CUMHURİYET Bayramı Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 22.10.2026 Saat 17:00’den önce tamamlanmalıdır. Fide Satranç Kuralları YÖNERGE TURNUVA KAYIT ",
+   "id": "143ba7db8243",
+   "ilk_gorulme": "2026-10-03",
+   "son_gorulme": "2026-10-03",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
    "il": "Ankara",
    "name": "Ankara 29 Ekim Cumhuriyet Bayramı Turnuvası",
    "city": "Ankara",
@@ -6923,6 +6973,30 @@
    "kaynak": "manuel",
    "id": "3085de5487c0",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-03",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kırklareli",
+   "name": "Lüleburgaz Cumhuriyet Kupası",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kirklareli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Lüleburgaz Cumhuriyet Kupası Turnuva Lüleburgaz Cumhuriyet Kupası Satranç Turnuvası Organizasyon Kırklareil GSİM & Lüleburgaz İlçe Gençlik Spor & Kırklareli Satranç İl Temsilciliği Turnuva Tarihi 24-25 Ekim 2026 Turnuva Yeri/Konum Lüleburgaz Kapalı Spor Salonu Kategoriler Açık : 14 Yaş v altı: 10 Yaş ve altı: Kontenjan Kontenjan her kategori için 64 sporcu ile sınırlıdır Tempo 35'+30\" Eklemeli Tempo Tur Sayısı 6 Tur Son Başvuru 23 Ekim 2026 saat:18.00 Ödüller Ayrıntılar Yarışma Yönergesinde Başv",
+   "id": "f59b76e0fc35",
+   "ilk_gorulme": "2026-10-03",
    "son_gorulme": "2026-10-03",
    "durum": "yaklasan"
   },
@@ -7855,6 +7929,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Konya",
+   "name": "29 EKİM CUMHURİYET BAYRAMI Satranç Turnuvası(31 EKİM-01KASIM 2026)",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://konya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI Satranç Turnuvası(31 EKİM-01KASIM 2026) KONYA İLİ , SELÇUKLU İLÇESİNDE 31 EKİM-01 KASIM 2026 tarihinlerinde Konya Satranç İl Temsilciliği Salonu’nda, İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak 29 EKİM CUMHURİYET BAYRAMI Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 30.10.2026 Saat 17:00’den önce tamamlanmalıdır. YÖNERGE TURNUVA KAYIT ",
+   "id": "22b665796e4d",
+   "ilk_gorulme": "2026-10-03",
+   "son_gorulme": "2026-10-03",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Mersin",
    "name": "29 Ekim Cumhuriyet Bayramı Turnuvası",
    "start": "2026-10-29",
@@ -8133,6 +8232,30 @@
    "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri GÜMÜŞHANE - 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası (4) GÜMÜŞHANE - 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Cumhuriyet Bayramı dolayısıyla 29 Ekim Perşembe günü saat 19:00’da chess.com üzerinden online satranç turnuvası düzenlenecektir. Turnuvamız açık kategoride ve 5'+2\" eklemeli tempo ile 11 tur üzerinden gerçekleştirilecektir. Yönerge.pdf Turnuva Katılım Adımları: 1- chess.com sitesinden ücretsiz olarak kullanıcı adı alınması gerekmektedir.(chess.",
    "id": "1ec6896643dc",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-03",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Manisa",
+   "name": "Turnuva Haberleri",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri AKHİSAR 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI Akhisar GSİM ve Akhisar ilçe temsilciliği tarafından, Manisa ili , Akhisar ilçesi nde, 24 .10 .2026 tarihinde arasında, Akhisar Gençlik Merkezi spor salonu , isviçre sistem ile, 15 dakika 10 saniye eklemeli zaman temposu kullanılarak Akhisar 29 Ekim Cumhuriyet Bayramıı Satranç Hızlı Turnuvası düzenlenecektir. Turnuvaya başvurular 22 .10 .2026 Saat 17 :00 ’den önce tamamlanmalıdır. Kayıtlar 12 Ekim saat",
+   "id": "a58146223549",
+   "ilk_gorulme": "2026-10-03",
    "son_gorulme": "2026-10-03",
    "durum": "yaklasan"
   },
