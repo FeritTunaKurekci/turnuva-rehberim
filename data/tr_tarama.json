@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-02T21:57",
+ "taranma": "2026-10-03T09:41",
  "surum": "0.4",
  "iller": [
   {
@@ -354,7 +354,7 @@
    "il": "Muğla",
    "durum": "ok",
    "host": "mugla.tsf.org.tr",
-   "adet": 5
+   "adet": 4
   },
   {
    "il": "Muş",
@@ -1135,7 +1135,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ EKİM AYI ELO SATRANÇ TURNUVASI İlimizde 3-4 Ekim 2026 Tarihlerinde DENİZLİ EKİM AYI ELO SATRANÇ TURNUVASI Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi EŞLENDİRME ve SONUÇLAR A Kategorisi B Kategorisi "
+   "kaynak_metin": "DENİZLİ EKİM AYI ELO SATRANÇ TURNUVASI İlimizde 3-4 Ekim 2026 Tarihlerinde DENİZLİ EKİM AYI ELO SATRANÇ TURNUVASI Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi EŞLENDİRME ve SONUÇLAR "
   },
   {
    "c": "TR",
@@ -1320,7 +1320,7 @@
    ],
    "url": "https://eskisehir.tsf.org.tr/satranc-haberleri/1056-2026-2027-eskisehir-hizli-ve-yildirim-il-birinciligi-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "2026-2027 ESKİŞEHİR HIZLI VE YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 2026-2027 ESKİŞEHİR HIZLI VE YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Eskişehir Hızlı ve Yıldırım İl Birinciliği Satranç Tunruvası 3-4 Ekim 2026 tarihlerin Prof.Dr. Fethi HEPER Stadyumu Satranç Salonunda yapılacaktır. Turnuvaya ait bütün bilgiler için turnuva yönergeleri inceleyiniz. HIZLI İL BİRİNCİLİĞİ TURNUVA YÖNERGESİ YILDIRIM İL BİRİNCİLİĞİ TURNUVA YÖNERGE Sİ HIZLI İL BİRİNCİLİĞİ TURNUVA KAYIT YILDIRIM İL BİRİNCİLİĞİ TU"
+   "kaynak_metin": "2026-2027 ESKİŞEHİR HIZLI VE YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 2026-2027 ESKİŞEHİR HIZLI VE YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Eskişehir Hızlı ve Yıldırım İl Birinciliği Satranç Tunruvası 3-4 Ekim 2026 tarihlerin Prof.Dr. Fethi HEPER Stadyumu Satranç Salonunda yapılacaktır. Turnuvaya ait bütün bilgiler için turnuva yönergeleri inceleyiniz. HIZLI İL BİRİNCİLİĞİ TURNUVA YÖNERGESİ YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVA YÖNERGESİ HIZLI İL BİRİNCİLİĞİ TURNUVA SAYFASI YILDIRIM İL BİRİN"
   },
   {
    "c": "TR",
@@ -1946,27 +1946,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Muğla",
-   "name": "TURNUVA KAYIT ›",
-   "start": "2026-10-02",
-   "end": "2026-10-02",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1084",
-   "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim MARMARİS EN İYİ 32 SATRANÇ TURNUVASI SON KAYIT TARİHİ 02.10.2026 SAAT. 17.00 Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-10-02 17:00:00 Toplam Kayıt: 33 AD SOYAD İL ELO UKD KATEGORİ KEREM AKTAŞ MUĞLA 1811 1771 EGE KARGIN MUĞLA 1629 1639 MUSTAFA TOKMAK MUĞLA 1549 1602 ALİ U"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Muğla",
    "name": "TURNUVALAR 26-27",
    "start": "2026-10-03",
    "end": "2026-10-04",
@@ -2063,7 +2042,7 @@
    ],
    "url": "https://sakarya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Sakarya Dünya Çocuk Günü Satranç Turnuvası Tarih: 03-04 Ekim 2026 Kayıt Tarihleri: 24 Eylül -02 Ekim 2026 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki yıllarda doğan sporcular katılabilir. Satranç lisansı hakkında detaylı bilgi için tıklayınız Not: DOĞUM TARİHİNİZE UYGUN KATEGORİYE KAYIT YAPINIZ. YÖNERGE EŞLENDİRME VE SONUÇLAR"
+   "kaynak_metin": "Sakarya Dünya Çocuk Günü Satranç Turnuvası Tarih: 03-04 Ekim 2026 Kayıt Tarihleri: 24 Eylül -02 Ekim 2026 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki yıllarda doğan sporcular katılabilir. Satranç lisansı hakkında detaylı bilgi için tıklayınız Not: DOĞUM TARİHİNİZE UYGUN KATEGORİYE KAYIT YAPINIZ. YÖNERGE EŞLENDİRME VE SONUÇLAR TURNUVA FOTOĞRAFLARI"
   },
   {
    "c": "TR",
@@ -2227,7 +2206,7 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Satranç Haberleri Hakem Görevlendirmeleri Foto Galeri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search "
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,"
   },
   {
    "c": "TR",
