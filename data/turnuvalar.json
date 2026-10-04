@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-04T10:09",
+ "guncelleme": "2026-10-04T16:27",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-04T10:08",
+   "tarama": "2026-10-04T16:26",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-04T10:09",
+   "tarama": "2026-10-04T16:27",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2654,13 +2654,14 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://izmir.tsf.org.tr/turnuvalar/2615-duenya-oegretmenler-guenue-satranc-turnuvasi",
+   "url": "https://izmir.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Dünya Öğretmenler Günü Satranç Turnuvası\" 03-04 Ekim 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuvada eşle",
+   "kaynak_metin": "DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Dünya Öğretmenler Günü Satranç Turnuvası\" 03-04 Ekim 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir.",
    "id": "b0ea26fd1fd6",
    "ilk_gorulme": "2026-09-28",
    "son_gorulme": "2026-10-04",
@@ -3824,6 +3825,31 @@
    "kaynak_metin": "2. Pera Mimari Hızlı Satranç Turnuvası 2. Pera Mimari Hızlı Satranç Turnuvası Turnuva 2. Pera Mimari Hızlı Satranç Turnuvası Organizasyon İnegöl Satranç Kulübü Turnuva Tarihi 10 Ekim 2026 Cumartesi Turnuva Yeri Özel Altınnesil Okulları Kategoriler A Kategorisi B Kategorisi 14 Yaş ve Altı Kategorisi 10 Yaş ve Altı Kategorisi Kontenjan Her Kategorinin kontenjanı 64 Sporcu ile sınırlıdır. Tempo 15’+10” EKLEMELİ TEMPO Tur Sayısı 6 Tur Başvuru Şartları Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri ",
    "id": "9afb8bd8e2c1",
    "ilk_gorulme": "2026-09-28",
+   "son_gorulme": "2026-10-04",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Yalova",
+   "name": "2026 AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://yalova.tsf.org.tr/satranc-haberleri/1175-2026-amatoer-spor-haftasi-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI 2026 AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI 10-11 Ekim 2026 tarihlerinde 90. Yıl Spor Salonunda 45 dakika 30 saniye eklemeli tempoda 3 ayrı kategoride yapılacaktır.Her kategorinin kontenjanı 64 sporcu ile sınırlıdır.Turnuvaya sadece Gençlik ve Spor İL/İLÇE Müdürlükleri tarafından düzenlenen TSF Lisansına sahip 2026/2027 yılı vizesi yapılmış 2020 senesi ve öncesiki yıllarda doğan sporcular katılabilir.Turnuvaya katıla",
+   "id": "26030f6d12b9",
+   "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-04",
    "durum": "yaklasan"
   },
@@ -7296,11 +7322,6 @@
     {
      "n": "B Kategorisi",
      "min": null,
-     "max": 2399
-    },
-    {
-     "n": "C Kategorisi",
-     "min": null,
      "max": 1399
     },
     {
@@ -7310,7 +7331,7 @@
    ],
    "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI A ntalya Gençlik ve Spor İl Müdürlüğü ve Antalya Satranç İl Temsilciliği tarafından, 24-25 Ekim 2026 Tarihlerinde , Antalya Kapalı Spor Salonunda ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI düzenlenecektir. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan güncel 2026-2027 TSF Lisansına sahip , vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Müsabaka 60' + 3",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 MANAVGAT 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği, Manavgat İlçe Temsilciliği tarafından, 24-25 Ekim 2026 tarihlerinde, Manavgat Atatürk Kültür Merkezinde 2026 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Müsabaka 35'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖ",
    "id": "89f844f11c81",
    "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-10-04",
@@ -8205,6 +8226,31 @@
    "kaynak_metin": "ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI A ntalya Gençlik ve Spor İl Müdürlüğü ve Antalya Satranç İl Temsilciliği tarafından, 24-25 Ekim 2026 Tarihlerinde , Antalya Kapalı Spor Salonunda ANTALYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI düzenlenecektir. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan güncel 2026-2027 TSF Lisansına sahip , vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabi",
    "id": "037da3db751d",
    "ilk_gorulme": "2026-10-02",
+   "son_gorulme": "2026-10-04",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Eskişehir",
+   "name": "ESKİŞEHİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://eskisehir.tsf.org.tr/satranc-haberleri/1057-eskisehir-29-ekim-cumhuriyet-bayram-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "ESKİŞEHİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI ESKİŞEHİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 17-18 Ekim 2026 tarihlerinde Eskişehir Prof.Dr. Fethi HEPER Stadyumu Satranç Salonunda yapılacaktır. Turnuvaya ait bütün bilgilere turnuva yönergesinde ulaşabilirsiniz. TURNUVA YÖNERGESİ TURNUVA KAYIT Turnuvalarımızda Lisans Bilgi Sistemi hataları (önceden İl Temsilciliği mail adresine bilgillendirme maili iletmek şartıyla) dışında kayıt süres",
+   "id": "260184a029db",
+   "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-04",
    "durum": "yaklasan"
   },
