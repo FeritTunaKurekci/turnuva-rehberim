@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-04T16:27",
+ "guncelleme": "2026-10-04T20:42",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-04T16:26",
+   "tarama": "2026-10-04T20:41",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-04T16:27",
+   "tarama": "2026-10-04T20:42",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2654,14 +2654,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://izmir.tsf.org.tr/",
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2615-duenya-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Dünya Öğretmenler Günü Satranç Turnuvası\" 03-04 Ekim 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir.",
+   "kaynak_metin": "DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI DÜNYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Dünya Öğretmenler Günü Satranç Turnuvası\" 03-04 Ekim 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuvada eşle",
    "id": "b0ea26fd1fd6",
    "ilk_gorulme": "2026-09-28",
    "son_gorulme": "2026-10-04",
@@ -4188,6 +4187,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Burdur",
+   "name": "BURDUR OKULA MERHABA SATRANÇ TURNUVASI",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://burdur.tsf.org.tr/satranc-haberleri/842-ilimkendinibilmektir",
+   "kaynak": "site",
+   "kaynak_metin": "BURDUR OKULA MERHABA SATRANÇ TURNUVASI BURDUR OKULA MERHABA SATRANÇ TURNUVASI TURNUVA TA RİHİ: 10-11 EKİM 2026 SON BAŞVURU TARİHİ: 08 EKİM 2026 TURNUVA YERİ: Burdur Merkez Kapalı Spor Salonu TURNUVA YÖNERGE TURNUVA KAYIT Turnuva Sayfası Sonraki >",
+   "id": "ab8bd8d8bf06",
+   "ilk_gorulme": "2026-10-04",
+   "son_gorulme": "2026-10-04",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -4256,7 +4280,7 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İzmir",
-   "name": "Dünya Kız Çocukları Günü Satranç Turnuvası",
+   "name": "DÜNYA KIZ ÇOCUKLARI GÜNÜ SATRANÇ TURNUVASI",
    "start": "2026-10-10",
    "end": "2026-10-11",
    "status": "a",
@@ -4274,7 +4298,7 @@
    ],
    "url": "https://izmir.tsf.org.tr/turnuvalar/2616-duenya-kz-cocuklar-guenue-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "Dünya Kız Çocukları Günü Satranç Turnuvası Dünya Kız Çocukları Günü Satranç Turnuvası İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Dünya Kız Çocukları Günü Satranç Turnuvası\" 10 -11 Ekim 2026 tarihlerinde Menderes Fatma- Ramazan Büküşoğlu Anadolu lisesinde yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2013 ve 2020 yılları arasında doğan sporcular katılabil",
+   "kaynak_metin": "DÜNYA KIZ ÇOCUKLARI GÜNÜ SATRANÇ TURNUVASI DÜNYA KIZ ÇOCUKLARI GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Dünya Kız Çocukları Günü Satranç Turnuvası\" 10 -11 Ekim 2026 tarihlerinde Menderes Fatma- Ramazan Büküşoğlu Anadolu lisesinde yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2013 ve 2020 yılları arasında doğ",
    "id": "167fb9c84c59",
    "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-04",
@@ -5759,14 +5783,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
    "url": "https://mersin.tsf.org.tr/arsiv/2026-2027-turnuvalar/nesibe-aydin-4",
    "kaynak": "site",
-   "kaynak_metin": "Nesibe Aydın Okulları 4.Hızlı Satranç Turnuvası Nesibe Aydın Okulları 4.Hızlı Satranç Turnuvası 17 Ekim 2026",
+   "kaynak_metin": "Nesibe Aydın Okulları 4.Hızlı Satranç Turnuvası NESİBE AYDIN OKULLARI 4.HIZLI SATRANÇ TURNUVASI Nesibe Aydın Okulları 4.Hızlı Satranç Turnuvası 17 Ekim Cumartesi günü Mersin Kampüsünde düzenlenecektir. Her kategoride ilk üç sporcuya kupa verilecektir. Ayrıca yarışmayı tamamlayan bütün sporculara madalya verilecektir. Turnuva Yönergesi için tıklayınız. Kayıtlar ve Kategoriler 8 Yaş ve Altı Kategorisi (2019-2020 Yıllarında Doğan Sporcular) 10 Yaş ve Altı Kategorisi (2017-2020 Yılları ve Arasında D",
    "id": "3d0fc4cbb0d4",
    "ilk_gorulme": "2026-10-01",
    "son_gorulme": "2026-10-04",
@@ -5857,6 +5880,31 @@
    "kaynak_metin": "Turnuva Haberleri 2026 Kırklareli Cumhuriyet Kupası Satranç Turnuvası Turnuva Kırklareli Cumhuriyet Kupası Satranç Turnuvası Organizasyon Kırklareli GSİM - Kırklareli Satranç İl Temsilciliği Turnuva Tarihi 17-18 Ekim 2026 Turnuva Yeri/Konum Dr. Sadık Ahmet Gençlik Merkezi Kategoriler Açık : 12 Yaş Altı : Kontenjan Kontenjan her kategori için 64 sporcu ile sınırlıdır Tempo 35'+30\" Eklemeli Tempo Tur Sayısı 6 Tur Son Başvuru 16 Ekim 2026 saat:18.00 Ödüller Ayrıntılar Yarışma Yönergesinde Başvuru Ş",
    "id": "d6a371615a3d",
    "ilk_gorulme": "2026-09-27",
+   "son_gorulme": "2026-10-04",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Denizli",
+   "name": "TÜRKİYE KUPASI SATRANÇ DENİZLİ BİRİNCİLİĞİ",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://denizli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ DENİZLİ BİRİNCİLİĞİ İlimizde 17-18 Ekim 2026 Tarihlerinde Türkiye Kupası Satranç Denizli Birinciliği Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "id": "441fd740f5bf",
+   "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-04",
    "durum": "yaklasan"
   },
@@ -8258,8 +8306,8 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Hatay",
-   "name": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "il": "Batman",
+   "name": "HASANKEYF 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-10-29",
    "end": "2026-10-29",
    "status": "a",
@@ -8271,11 +8319,60 @@
      "max": null
     }
    ],
-   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1632-hatay-dogus-okullari-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-kayitlari-basladi",
+   "url": "https://batman.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI 24-25/10/2026 tarihleri arasında Hatay Doğuş Okulları tarafından Hatay İli Defne İlçesi Doğuş Okulları Salonu'nda Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Turnuva kayıtları 16 Eylül tarihinde başlayacaktır. Son başvuru tarihi 22/10/2026 olan Turnuva yönerge için tıklayınız. Turnuva Kayıt Y",
+   "kaynak_metin": "HASANKEYF 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuva 4 kategoride düzenlenecektir. Her kategorinin kontenjanı 64 sporcu ile sınırlıdır. Başvurular batman.tsf.org.tr adresinde yer alan çevrimiçi turnuva kayıt sayfası üzerinden yapılacaktır. HASANKEYF_29_EKM_CUMHURYET_BAYRAMI_SATRAN_TURNUVASI_YNERGES.pdf ",
+   "id": "6aeb2a67de9e",
+   "ilk_gorulme": "2026-10-04",
+   "son_gorulme": "2026-10-04",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYITLARI BAŞLADI Satranç Haberleri HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KAYITLARI BAŞLADI 07-08/11/2026 tarihleri arasında Ted Dörtyol Koleji tarafından Hatay İli Dörtyol İlçesi Dörtyol Ted Koleji Salonu'nda Hatay Dörtyol Ted Koleji Atatürk'ü Anma Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 05/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi HATAY DOĞUŞ",
    "id": "4dd09d663854",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-04",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Isparta",
+   "name": "Isparta 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://isparta.tsf.org.tr/78-turnuvalar/719-isparta-29-ekim-cumhuriyet-bayram-satranc-turnuvas-2026",
+   "kaynak": "site",
+   "kaynak_metin": "Isparta 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Isparta 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Eşlendirme ve Sonuç Canlı Yayın Isparta 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 10-11 Ekim 2026 tarihlerinde Isparta Gençlik Merkezi Satranç Salonu'nda düzenlenecektir. Turnuva Yönergesi Turnuva Kayıt",
+   "id": "20ccca718197",
+   "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-04",
    "durum": "yaklasan"
   },
@@ -10344,17 +10441,16 @@
    "start": "2026-11-10",
    "end": "2026-11-10",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "ELO",
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1633-hatay-doertyol-ted-koleji-10-kasim-atatuerkue-anma-satranc-turnuvasi-kayitlari-basladi",
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KAYITLARI BAŞLADI 07-08/11/2026 tarihleri arasında Ted Dörtyol Koleji tarafından Hatay İli Dörtyol İlçesi Dörtyol Ted Koleji Salonu'nda Hatay Dörtyol Ted Koleji Atatürk'ü Anma Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 05/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi Sonraki >",
+   "kaynak_metin": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KAYITLARI BAŞLADI Satranç Haberleri HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KAYITLARI BAŞLADI 07-08/11/2026 tarihleri arasında Ted Dörtyol Koleji tarafından Hatay İli Dörtyol İlçesi Dörtyol Ted Koleji Salonu'nda Hatay Dörtyol Ted Koleji Atatürk'ü Anma Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 05/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi HATAY DOĞU",
    "id": "f1d8f60f574e",
    "ilk_gorulme": "2026-09-27",
    "son_gorulme": "2026-10-04",
