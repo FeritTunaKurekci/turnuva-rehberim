@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-04T20:42",
+ "taranma": "2026-10-05T10:49",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 19,
  "turnuvalar": [
   {
    "c": "US",
@@ -8008,6 +8008,96 @@
    "lastmod": "2026-06-20T05:58:29+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Lambardar Gya Prasad Memorial FIDE Rated Rapid & Blitz Chess Tournament 2026",
+   "city": "Uttar Pradesh 283104",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,500",
+   "tc": null,
+   "url": "https://mychess.events/event/lambardar-gya-prasad-memorial-fide-rated-rapid-and-blitz-chess-tournament-2026/",
+   "src": "https://mychess.events/event/lambardar-gya-prasad-memorial-fide-rated-rapid-and-blitz-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1492543.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-05T08:54:27+00:00"
+  },
+  {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "Campeonato Brasileiro de Xadrez Rápido & Blitz 2026",
+   "city": "Ceará",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 30 – 20:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, October 31 – 08:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 31 – 10:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 31 – 11:15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 31 – 14:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 31 – 15:15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 31 – 16:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 31 – 17:45",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,730",
+   "tc": null,
+   "url": "https://mychess.events/event/campeonato-brasileiro-de-xadrez-rapido-and-blitz-2026/",
+   "src": "https://mychess.events/event/campeonato-brasileiro-de-xadrez-rapido-and-blitz-2026/",
+   "cr": "https://chess-results.com/tnr1499222.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-05T08:42:01+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -11680,6 +11770,115 @@
    "cr": "https://chess-results.com/tnr1432758.aspx?lan=1&utm_source=chatgpt.com",
    "kayit_kapali": false,
    "lastmod": "2026-07-14T05:40:26+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "1st CastleMasters International Open Rapid FIDE Rated Chess Tournament 2026",
+   "city": "India.",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Special",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Disability",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Schools",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $7,280",
+   "tc": "25 minutes + 10 seconds increment per move",
+   "url": "https://mychess.events/event/1st-castlemasters-international-open-rapid-fide-rated-chess-tournament-2026/",
+   "src": "https://mychess.events/event/1st-castlemasters-international-open-rapid-fide-rated-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1484855.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-05T10:44:00+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "2026 UK Open Blitz Finals",
+   "city": "United Kingdom.",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Final",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Final",
+     "inv": true
+    }
+   ],
+   "prize": "≈ $6,750",
+   "tc": "3 minutes + 2 seconds increment per move",
+   "url": "https://mychess.events/event/2026-uk-open-blitz-finals/",
+   "src": "https://mychess.events/event/2026-uk-open-blitz-finals/",
+   "cr": "https://chess-results.com/tnr1488861.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-05T10:29:03+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "7th Check N Mate All India Open FIDE Rated Rapid & Blitz Chess Tournament 2026",
+   "city": "India.",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "7th Check N Mate All India Open FIDE Rat",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "7th Check N Mate All India Open Blitz Ch",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,570",
+   "tc": null,
+   "url": "https://mychess.events/event/7th-check-n-mate-all-india-open-fide-rated-rapid-and-blitz-chess-tournament-2026/",
+   "src": "https://mychess.events/event/7th-check-n-mate-all-india-open-fide-rated-rapid-and-blitz-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1508199.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-05T09:51:24+00:00"
   },
   {
    "c": "CH",
@@ -17842,6 +18041,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-07T11:36:07+00:00"
+  },
+  {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "Brazil Chess Series – Floripa 2027",
+   "city": "Brazil.",
+   "start": "2027-01-23",
+   "end": "2027-01-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "BCS Opening Blitz Floripa 2027",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "BCS School Floripa 2027",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Standard – Brazil Chess Series Floripa 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "BCS Team Floripa 2027",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "BCS Super Blitz Floripa 2027",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Brazil Chess Series – Queens",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $22,210",
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/brazil-chess-series-floripa-2027/",
+   "src": "https://mychess.events/event/brazil-chess-series-floripa-2027/",
+   "cr": "https://chess-results.com/tnr1464753.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-05T09:32:17+00:00"
   },
   {
    "c": "CH",
