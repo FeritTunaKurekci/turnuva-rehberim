@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-05T10:48",
+ "taranma": "2026-10-06T10:34",
  "surum": "0.4",
  "iller": [
   {
@@ -114,7 +114,7 @@
    "il": "Bolu",
    "durum": "ok",
    "host": "bolu.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Burdur",
@@ -180,7 +180,7 @@
    "il": "Erzincan",
    "durum": "ok",
    "host": "erzincan.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Erzurum",
@@ -450,13 +450,13 @@
    "il": "Trabzon",
    "durum": "ok",
    "host": "trabzon.tsf.org.tr",
-   "adet": 0
+   "adet": 2
   },
   {
    "il": "Tunceli",
    "durum": "ok",
    "host": "tunceli.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Uşak",
@@ -1035,6 +1035,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Bolu",
+   "name": "Turnuva Salonu",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bolu.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Salonu Satranç Haberleri Cumhuriyet 2026 Cumhuriyet Bayramı Satranç Turnuvamız 31 Ekim - 01 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ KONUM İÇİN TIKLAYINIZ... ) Yapılacaktır. Sporcularımız 2026-2027 Sezonu Lisans İşlemlerini Yaptırarak ( Lisans işlemleri bilgi almak için tıklayınız... ) Turnuvamıza Katılabilirler. Aşağıdaki Linklerden yönergemizi okuyarak kayıt olabilirsiniz. Son Kayıt 30 Ekim 2026 saat 16:00 dır. YÖNERGE TURNUVA KAYIT 30 Ağustos 20"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Burdur",
    "name": "BURDUR OKULA MERHABA SATRANÇ TURNUVASI",
    "start": "2026-10-10",
@@ -1237,6 +1258,27 @@
    "url": "https://elazig.tsf.org.tr/satranc-haberleri/638-okul-sporlar-satranc-elazg-13",
    "kaynak": "site",
    "kaynak_metin": "2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI 2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI Gençlik ve Spor İl Müdürlüğümüzün 2025-2026 Eğitim Öğ retim Yılı Okul Sporları faaliyetleri kapsamında, TSF Elazığ İl Temsilciliği tarafından düzenlenecek olan Okul Sporları S atranç Turnuvaları 17-27 Şubat tarihlerinde Elazığ Atatürk Stadyumu Satranç Salonunda yapılacaktır. Turnuva toplam 10 kategoride gerçekleştirilecektir. Turnuvaya kayıtlarınızı aşağıda bulunan ilgi"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Erzincan",
+   "name": "ERZİNCAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://erzincan.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "ERZİNCAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI "
   },
   {
    "c": "TR",
@@ -1571,7 +1613,7 @@
    ],
    "url": "https://izmir.tsf.org.tr/turnuvalar/2616-duenya-kz-cocuklar-guenue-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "DÜNYA KIZ ÇOCUKLARI GÜNÜ SATRANÇ TURNUVASI DÜNYA KIZ ÇOCUKLARI GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Dünya Kız Çocukları Günü Satranç Turnuvası\" 10 -11 Ekim 2026 tarihlerinde Menderes Fatma- Ramazan Büküşoğlu Anadolu lisesinde yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2013 ve 2020 yılları arasında doğ"
+   "kaynak_metin": "DÜNYA KIZ ÇOCUKLARI GÜNÜ SATRANÇ TURNUVASI DÜNYA KIZ ÇOCUKLARI GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Dünya Kız Çocukları Günü Satranç Turnuvası\" 10 -11 Ekim 2026 tarihlerinde Menderes Fatma- Ramazan Büküşoğlu Anadolu Lisesi'nde yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2013 ve 2020 yılları arasında do"
   },
   {
    "c": "TR",
@@ -2373,7 +2415,70 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,"
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Satranç Haberleri Hakem Görevlendirmeleri Foto Galeri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Trabzon",
+   "name": "AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://trabzon.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI Yarışma Direktörü Yunus Vehbi TÜRKER 0531 8585762 Başlama - Bitiş Tarihi : 10 Ekim 2026 Yeri: Beşirli Spor Kompleksi Satranç Salonu Son Başvuru Tarihi: 9 Ekim 2026 Saat 17:00 Düşünme Süresi: 10 '+5'' Eklemeli Tempo Yarışma sonuçları UHS hesaplamalarında kullanılmayacaktır. Kategoriler: Kadınlar Kategorisi (2020 ve Önceki Yıllarda Doğan Kadın Sporcular) Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular) Turnuva Yönergesi Turnuva Kayıt TURNUVA EŞLEN"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Trabzon",
+   "name": "Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular)",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://trabzon.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=631",
+   "kaynak": "site",
+   "kaynak_metin": "Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular) Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz İlçe Temsilcilerimiz TSF Hesap Numarası Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Hakem Görevlendirmeleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular) KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Tunceli",
+   "name": "2026-2027 TÜRKİYE KUPASI SATRANÇ TUNCELİ İL BİRİNCİLİĞİ TURNUVASI",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tunceli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 TÜRKİYE KUPASI SATRANÇ TUNCELİ İL BİRİNCİLİĞİ TURNUVASI Türkiye Kupası Satranç Tunceli İl Birinciliği turnuvası 17 - 18 Ekim 2026 tarihlerinde yapılacaktır. TURNUVA YERİ : TUNCELİ YUNUS EMRE GENÇLİK MERKEZİ (KONUM) KAYIT KONTROL : 17 Ekim 2026 Cumartesi en geç 09.30'a dek hakem masasında adınız olan listeye + işareti koydurunuz. KATEGORİLER: İl Birinciliğinde maçlar açık kategoride oynanacaktır. TEMPO: 45' + 30\" Eklemeli Tempo YÖNERGEYİ OKUYUNUZ Turnuvaya TSF LİSANSI ile kayıt yapılır."
   },
   {
    "c": "TR",
