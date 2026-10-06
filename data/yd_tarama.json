@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-06T10:36",
+ "taranma": "2026-10-06T17:52",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 24,
+ "okunan_sayfa": 15,
  "turnuvalar": [
   {
    "c": "US",
@@ -8548,6 +8548,65 @@
    "lastmod": "2026-10-05T11:57:20+00:00"
   },
   {
+   "c": "EE",
+   "ulke": "Estonya",
+   "bayrak": "ee",
+   "name": "Tallinn IM Norm & Rating Group Tournaments 2026",
+   "city": "Tallinn",
+   "start": "2026-11-04",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Location",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Chief Arbiter",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Groups",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/tallinn-im-norm-and-rating-group-tournaments-2026/",
+   "src": "https://mychess.events/event/tallinn-im-norm-and-rating-group-tournaments-2026/",
+   "cr": "https://chess-results.com/tnr1479482.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-06T12:46:11+00:00"
+  },
+  {
    "c": "RO",
    "ulke": "Romanya",
    "bayrak": "ro",
@@ -9451,6 +9510,61 @@
    "cr": "https://chess-results.com/tnr1494090.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-05T16:39:12+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "AlphaChess Duality – FIDE Rapid & Blitz 2026",
+   "city": "England",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "10:15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "11:15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "13:45",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "14:45",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "15:45",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "16:45",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $490",
+   "tc": null,
+   "url": "https://mychess.events/event/alphachess-duality-fide-rapid-and-blitz-2026/",
+   "src": "https://mychess.events/event/alphachess-duality-fide-rapid-and-blitz-2026/",
+   "cr": "https://chess-results.com/tnr1500396.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-06T11:11:40+00:00"
   },
   {
    "c": "PT",

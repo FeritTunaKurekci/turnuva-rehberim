@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-06T10:36",
+ "guncelleme": "2026-10-06T17:52",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-06T10:34",
+   "tarama": "2026-10-06T17:51",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-06T10:36",
+   "tarama": "2026-10-06T17:52",
    "kaynak": "https://mychess.events"
   }
  },
@@ -7219,7 +7219,7 @@
    ],
    "url": "https://malatya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "CUMHURİYET BAYRAMI STRANÇ TURNUVASI 24 - 25 EKİM 2026 24 - 25 EKİM 2026 Tarihlerinde CUMHURİYET BAYRAMI SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. YÖNERGEMİZ ONAYLANDIĞINDA TURNUVA KAYDI BU SAYFADA AÇILACAKTIR. .TURNUVAYA SON KAYIT TARİHİ 22 EKİM 2026. Turnuva 4 kategoride düzenlenecektir Kategori Adı Kategori Kriteri 8 Yaş ve Altı Kategorisi 20",
+   "kaynak_metin": "CUMHURİYET BAYRAMI STRANÇ TURNUVASI 24 - 25 EKİM 2026 24 - 25 EKİM 2026 Tarihlerinde CUMHURİYET BAYRAMI SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. TURNUVA YERİ: GSİM YÜZME HAVUZU SATRANÇ SALONU TURNUVA UYGULAMA PROSEDÜRÜ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI YÖNERGESİ SON KAYIT TARİHİ: 22 EKİM 2026 PERŞEMBE SAAT: 17.00 KATEGORİLER TURNUVA KAYIT S",
    "id": "cd3e50bdfcd9",
    "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-06",
@@ -9835,6 +9835,69 @@
    "kayit_kapali": false,
    "lastmod": "2026-10-05T17:58:57+00:00",
    "id": "13ead0fd9531",
+   "ilk_gorulme": "2026-10-06",
+   "son_gorulme": "2026-10-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EE",
+   "ulke": "Estonya",
+   "bayrak": "ee",
+   "name": "Tallinn IM Norm & Rating Group Tournaments 2026",
+   "city": "Tallinn",
+   "start": "2026-11-04",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Location",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Chief Arbiter",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Groups",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/tallinn-im-norm-and-rating-group-tournaments-2026/",
+   "src": "https://mychess.events/event/tallinn-im-norm-and-rating-group-tournaments-2026/",
+   "cr": "https://chess-results.com/tnr1479482.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-06T12:46:11+00:00",
+   "id": "f5f085dfa72d",
    "ilk_gorulme": "2026-10-06",
    "son_gorulme": "2026-10-06",
    "durum": "yaklasan"
@@ -18278,7 +18341,7 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Satranç Haberleri Hakem Görevlendirmeleri Foto Galeri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search ",
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,",
    "id": "b596864ec86b",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-10-06",
