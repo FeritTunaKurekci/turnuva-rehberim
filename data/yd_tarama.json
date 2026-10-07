@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-06T17:52",
+ "taranma": "2026-10-07T10:40",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 15,
+ "okunan_sayfa": 22,
  "turnuvalar": [
   {
    "c": "US",
@@ -9197,6 +9197,41 @@
    "lastmod": "2026-05-28T10:42:24+00:00"
   },
   {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "Floripa IRT Rating Series 2026 – U1700 / U2000 / U2400",
+   "city": "SC 88054-001",
+   "start": "2026-11-06",
+   "end": "2026-11-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, November 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 8",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,730",
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/floripa-irt-rating-series-2026-u1700-u2000-u2400/",
+   "src": "https://mychess.events/event/floripa-irt-rating-series-2026-u1700-u2000-u2400/",
+   "cr": "https://chess-results.com/tnr1494005.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T06:26:31+00:00"
+  },
+  {
    "c": "CA",
    "ulke": "Kanada",
    "bayrak": "ca",
@@ -16056,6 +16091,31 @@
    "lastmod": "2026-09-26T17:51:52+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "4th Hall of Fame Memorial 2026",
+   "city": "NE 68154",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Single Section",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": "≈ $600",
+   "tc": "G/55;d5",
+   "url": "https://mychess.events/event/4th-hall-of-fame-memorial-2026/",
+   "src": "https://mychess.events/event/4th-hall-of-fame-memorial-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T09:00:30+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -18269,6 +18329,41 @@
    "lastmod": "2026-07-07T12:20:07+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "9th Somerset New Year Chess Congress 2027",
+   "city": "North Somerset BS21 7BL",
+   "start": "2027-01-09",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2050",
+     "min": null,
+     "max": 2049
+    },
+    {
+     "n": "U1750",
+     "min": null,
+     "max": 1749
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": "≈ $1,600",
+   "tc": "75 minutes + 30 seconds increment per move",
+   "url": "https://congress.org.uk/congress/803/home",
+   "src": "https://mychess.events/event/9th-somerset-new-year-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T10:28:04+00:00"
+  },
+  {
    "c": "MC",
    "ulke": "Monako",
    "bayrak": "mc",
@@ -18399,6 +18494,66 @@
    "lastmod": "2026-07-21T18:43:35+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "1st Akshaya International Grandmaster Open Chess Tournament 2027",
+   "city": "Tamil Nadu 641043",
+   "start": "2027-01-11",
+   "end": "2027-01-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "January 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 13",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 17",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "January 18",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/1st-akshaya-international-grandmaster-open-chess-tournament-2027/",
+   "src": "https://mychess.events/event/1st-akshaya-international-grandmaster-open-chess-tournament-2027/",
+   "cr": "https://chess-results.com/tnr1473655.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T07:06:27+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -18427,6 +18582,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T06:22:18+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "4NCL Huddersfield Congress 2027",
+   "city": "West Yorkshire HD3 3RH",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "FIDE U1700",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/4ncl-huddersfield-congress-2027/",
+   "src": "https://mychess.events/event/4ncl-huddersfield-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T10:25:33+00:00"
   },
   {
    "c": "CZ",
@@ -18475,6 +18665,81 @@
    "cr": "https://chess-results.com/tnr1446837.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T06:02:16+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Winter Championship 2027 – Carrollton",
+   "city": "TX 75007",
+   "start": "2027-01-16",
+   "end": "2027-01-16",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1400",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "U1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": "≈ $1,500",
+   "tc": "G/60;d10",
+   "url": "https://www.texaschesscenter.com/store/p/winter-championship",
+   "src": "https://mychess.events/event/winter-championship-2027-carrollton/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T08:53:07+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Sussex County Open 2027",
+   "city": "DE 19947",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "U1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": "≈ $1,500",
+   "tc": "G/90;d5",
+   "url": "https://delawarechessassociation.org/tournaments/sussex-county-open/",
+   "src": "https://mychess.events/event/sussex-county-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T08:48:43+00:00"
   },
   {
    "c": "US",
@@ -18600,6 +18865,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-07T11:36:07+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "CFCC 2027 Winter Open & Scholastic",
+   "city": "FL 32821",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, January 22 – 19:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, January 23 – 11:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, January 23 – 17:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 24 – 10:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 24 – 14:30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $9,000",
+   "tc": "3-Day",
+   "url": "https://www.centralflchess.org/cfcc-2027-winter-open-and-scholastic-weekend-tournament",
+   "src": "https://mychess.events/event/cfcc-2027-winter-open-scholastic/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T07:15:04+00:00"
   },
   {
    "c": "BR",

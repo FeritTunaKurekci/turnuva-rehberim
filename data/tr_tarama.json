@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-06T17:51",
+ "taranma": "2026-10-07T10:39",
  "surum": "0.4",
  "iller": [
   {
@@ -186,7 +186,7 @@
    "il": "Erzurum",
    "durum": "ok",
    "host": "erzurum.tsf.org.tr",
-   "adet": 2
+   "adet": 1
   },
   {
    "il": "Eskişehir",
@@ -264,7 +264,7 @@
    "il": "Karaman",
    "durum": "ok",
    "host": "karaman.tsf.org.tr",
-   "adet": 0
+   "adet": 3
   },
   {
    "il": "Kars",
@@ -426,7 +426,7 @@
    "il": "Şanlıurfa",
    "durum": "ok",
    "host": "sanliurfa.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Şırnak",
@@ -1319,27 +1319,7 @@
    ],
    "url": "https://erzurum.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "ULUSLARARASI KIZ ÇOCUKLARI HIZLI SATRANÇ TURNUVASI Erzurum Gençlik Spor İl Müdürlüğü & Erzurum Satranç İl Temsilciliği katkılarıyla Uluslararası Kız Çocukları Hızlı Satranç Turnuvası düzenlenecektir. \" Uluslararası Kız Çocukları Hızlı Satranç Turnuvası\" 11 Ekim 2026 tarihlinde Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve öncesinde doğan kız sporcular k"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Erzurum",
-   "name": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI 2026",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://erzurum.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI 2026 Satranç Haberleri ULUSLARARASI KIZ ÇOCUKLARI HIZLI SATRANÇ TURNUVASI Erzurum Gençlik Spor İl Müdürlüğü & Erzurum Satranç İl Temsilciliği katkılarıyla Uluslararası Kız Çocukları Hızlı Satranç Turnuvası düzenlenecektir. \" Uluslararası Kız Çocukları Hızlı Satranç Turnuvası\" 11 Ekim 2026 tarihlinde Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026"
+   "kaynak_metin": "ULUSLARARASI KIZ ÇOCUKLARI HIZLI SATRANÇ TURNUVASI Erzurum Gençlik Spor İl Müdürlüğü & Erzurum Satranç İl Temsilciliği katkılarıyla Uluslararası Kız Çocukları Hızlı Satranç Turnuvası düzenlenecektir. \" Uluslararası Kız Çocukları Hızlı Satranç Turnuvası\" 11 Ekim 2026 Pazar günü Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve öncesinde doğan kız sporcular k"
   },
   {
    "c": "TR",
@@ -1676,6 +1656,66 @@
    "url": "https://karabuk.tsf.org.tr/turnuvalar",
    "kaynak": "site",
    "kaynak_metin": "Turnuvalar Turnuvalar AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI TURNUVA TARİHİ : 10/10/2026 (CUMARTESİ) TURNUVA SON KAYIT : 09 /10/2026 SAAT : 18.00 TEMPO : 15'+10'' EKLEMELİ TEMPO TURNUVA YERİ : DR. NECMETTİN ŞEYHOĞLU STADYUMU SATRANÇ SALONU ***TURNUVA FOTOĞRAFLARI*** KAYIT KONTROL BAŞLANGIÇ SAATİ : 09:00 BİTİŞ SAATİ : 09:30 dan sonra sporcular turnuvaya alınmayacaktır. Amatör Spor Haftası Hızlı Satranç Turnuvasında ilk üç dereceyi elde eden sporcul"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
+   "name": "KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri/857-karaman-mamatoer-spor-haftas-satranc-turnuvasi-2026",
+   "kaynak": "site",
+   "kaynak_metin": "KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Karaman “Amatör Spor Haftası Satranç Turnuvası \" 1210-11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman Amatör Spor Haftası Satranç Turnuvası ORGANİZASYON Karaman GSM & Karaman"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
+   "name": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI Satranç Haberleri KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Karaman “Amatör Spor Haftası Satranç Turnuvası \" 1210-11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman Amatör Spor Haftası Satranç Turnuvası ORGANİZASYON Karama"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
+   "name": "TAŞELİ KÜLTÜR VE SILA FESTİVALİ SATRANÇ TURNUVASI",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "TAŞELİ KÜLTÜR VE SILA FESTİVALİ SATRANÇ TURNUVASI Satranç Haberleri KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Karaman “Amatör Spor Haftası Satranç Turnuvası \" 1210-11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman Amatör Spor Haftası Satranç Turnuvası ORGANİZASYON"
   },
   {
    "c": "TR",
@@ -2375,6 +2415,27 @@
    "url": "https://siirt.tsf.org.tr/78-turnuvalar/208-duyuru--hizli-ve-yildirim-satranc-turnuvalari-hakkinda",
    "kaynak": "site",
    "kaynak_metin": "DUYURU : HIZLI VE YILDIRIM SATRANÇ TURNUVALARI HAKKINDA DUYURU : HIZLI VE YILDIRIM SATRANÇ TURNUVALARI HAKKINDA Değerli sporcularımız ve velilerimiz hızlı ve yıldırım satranç turnuvalarımız zorunlu nedenlerden 14 ve 15 Şubat tarihlerine ertelenmiştir. Söz konusu turnuvalarda kayıtlar 13 Şubat 21.00'a kadar açık olacaktır ."
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Şanlıurfa",
+   "name": "2026 TÜRKİYE KADINLAR ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ TURNUVASI",
+   "start": "2027-03-06",
+   "end": "2027-03-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sanliurfa.tsf.org.tr/satranc-haberleri/463-tuerkiye-kadinlar-satranc-sanliurfa-il-birinciligi-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 TÜRKİYE KADINLAR ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ TURNUVASI 2026 TÜRKİYE KADINLAR ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ TURNUVASI Şanlıurfa Gençlik ve Spor İl Müdürlüğü ile Şanlıurfa Satranç İl Temsilciliği iş birliği içerisinde Türkiye Kupası Şanlıurfa Kadınlar İl Birinciliği Satranç Turnuvası düzenlenmiştir. Satranç Turnuvası 07 - 08 Mart tarihlerinde Karaköprü Belediyesi Necmettin Cevheri Kültür ve Gösteri Merkezi'nde yapılacaktır. Turnuva kaydını 06 Mart Cuma günü Saat:17.00'dan önce yapmanı"
   },
   {
    "c": "TR",
