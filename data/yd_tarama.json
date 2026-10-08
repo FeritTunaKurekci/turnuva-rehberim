@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-08T10:49",
+ "taranma": "2026-10-08T18:31",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 26,
+ "okunan_sayfa": 15,
  "turnuvalar": [
   {
    "c": "US",
@@ -18367,6 +18367,41 @@
    "cr": "https://chess-results.com/tnr1438393.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-29T11:32:29+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 New Year’s Resolution Open",
+   "city": "IL 60523",
+   "start": "2027-01-03",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Premier",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Reserve",
+     "min": 1200,
+     "max": 1799
+    },
+    {
+     "n": "Booster",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": "≈ $5,000",
+   "tc": "G/60;d5",
+   "url": "https://mychess.events/event/2027-new-years-resolution-open/",
+   "src": "https://mychess.events/event/2027-new-years-resolution-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-08T11:20:59+00:00"
   },
   {
    "c": "AT",
