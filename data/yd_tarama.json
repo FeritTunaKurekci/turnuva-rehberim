@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-07T18:28",
+ "taranma": "2026-10-08T10:49",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 0,
+ "okunan_sayfa": 26,
  "turnuvalar": [
   {
    "c": "US",
@@ -4017,23 +4017,23 @@
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Masters Tournament",
+     "n": "Masters",
      "min": 2400,
      "max": null
     },
     {
-     "n": "Open Tournament",
+     "n": "Open",
      "min": null,
-     "max": 2400
+     "max": 2399
     }
    ],
    "prize": "≈ $100,000",
    "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/atyrau-open-2026/",
+   "url": "https://opencups.kazchess.kz/stage-3-2026-eng",
    "src": "https://mychess.events/event/atyrau-open-2026/",
-   "cr": "",
+   "cr": "https://chess-results.com/tnr1483107.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-08-17T13:18:15+00:00"
+   "lastmod": "2026-10-07T13:26:10+00:00"
   },
   {
    "c": "IT",
@@ -13305,6 +13305,51 @@
    "lastmod": "2026-09-27T05:32:41+00:00"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Davos Swiss Ski Open 2026",
+   "city": "CH-7270 Davos Platz",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "General Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1900–2099",
+     "min": 1900,
+     "max": 2099
+    },
+    {
+     "n": "1700–1899",
+     "min": 1700,
+     "max": 1899
+    },
+    {
+     "n": "Below 1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "W / S / U16",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,280",
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/davos-swiss-ski-open-2026/",
+   "src": "https://mychess.events/event/davos-swiss-ski-open-2026/",
+   "cr": "https://chess-results.com/tnr1321252.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T16:54:53+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -14407,6 +14452,51 @@
    "lastmod": "2026-09-24T09:46:53+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "8th Donaldson Tournament 2026",
+   "city": "CA 94104",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Best U2200",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Best U2000",
+     "min": null,
+     "max": 1999
+    }
+   ],
+   "prize": null,
+   "tc": "G/90+30",
+   "url": "https://www.milibrary.org/chess/tournaments/8th-donaldson-tournament",
+   "src": "https://mychess.events/event/8th-donaldson-tournament-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T11:44:05+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -14629,6 +14719,56 @@
    "cr": "https://chess-results.com/tnr1325360.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-08T11:05:41+00:00"
+  },
+  {
+   "c": "EG",
+   "ulke": "Mısır",
+   "bayrak": "eg",
+   "name": "FIDE World U7–U17 Rapid & Blitz Championships 2026",
+   "city": "Egypt.",
+   "start": "2026-12-08",
+   "end": "2026-12-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U13",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U17",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/fide-world-u7-u17-rapid-blitz-championships-2026/",
+   "src": "https://mychess.events/event/fide-world-u7-u17-rapid-blitz-championships-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T12:20:28+00:00"
   },
   {
    "c": "HR",
@@ -16364,6 +16504,51 @@
    "cr": "https://s3.chess-results.com/tnr1487652.aspx",
    "kayit_kapali": false,
    "lastmod": "2026-09-23T12:55:14+00:00"
+  },
+  {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "Újfehértó DIO City School Chess Championship 2026",
+   "city": "Újfehértó",
+   "start": "2026-12-23",
+   "end": "2026-12-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group I",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group II",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group III",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group IV",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Groups V–VI",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "10 minutes per player; Chess-Results records the control as “10–10”",
+   "url": "https://mychess.events/event/ujfeherto-dio-city-school-chess-championship-2026/",
+   "src": "https://mychess.events/event/ujfeherto-dio-city-school-chess-championship-2026/",
+   "cr": "https://chess-results.com/tnr1337823.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T16:35:49+00:00"
   },
   {
    "c": "IN",
@@ -18364,6 +18549,46 @@
    "lastmod": "2026-10-07T10:28:04+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Golders Green FIDE Rapid 2027",
+   "city": "London NW3 7SU",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "ECF U1100",
+     "min": null,
+     "max": 1099
+    }
+   ],
+   "prize": null,
+   "tc": "20 minutes + 5 seconds increment per move",
+   "url": "https://mychess.events/event/golders-green-fide-rapid-2027/",
+   "src": "https://mychess.events/event/golders-green-fide-rapid-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-07T13:57:47+00:00"
+  },
+  {
    "c": "MC",
    "ulke": "Monako",
    "bayrak": "mc",
@@ -18610,13 +18835,13 @@
      "max": 1699
     }
    ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds increment per move",
-   "url": "https://mychess.events/event/4ncl-huddersfield-congress-2027/",
+   "prize": "≈ $3,980",
+   "tc": "90 minutes + 30 seconds per move from move 1",
+   "url": "https://www.4ncl.co.uk/fide/information_huddersfield27.htm",
    "src": "https://mychess.events/event/4ncl-huddersfield-congress-2027/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-10-07T10:25:33+00:00"
+   "lastmod": "2026-10-07T11:09:03+00:00"
   },
   {
    "c": "CZ",
@@ -18775,6 +19000,66 @@
    "c": "IN",
    "ulke": "Hindistan",
    "bayrak": "in",
+   "name": "DIGISIGNS International FIDE Rated Open Chess Tournament 2027",
+   "city": "Karnataka 560095",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "8:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "8:30 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "9:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "10:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "11:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1:30 PM",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,110",
+   "tc": "15 minutes + 5 seconds increment per move",
+   "url": "https://mychess.events/event/digisigns-international-fide-rated-open-chess-tournament-2027/",
+   "src": "https://mychess.events/event/digisigns-international-fide-rated-open-chess-tournament-2027/",
+   "cr": "https://chess-results.com/tnr1489369.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-08T10:45:30+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
    "name": "22nd Delhi International Open Grandmasters Chess Tournament 2027",
    "city": "Delhi 110002",
    "start": "2027-01-21",
@@ -18910,6 +19195,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-07T07:15:04+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "TCC 5th Anniversary FIDE 2027",
+   "city": "TX 75007",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": "≈ $1,900",
+   "tc": "G/90 + 30-second increment",
+   "url": "https://www.texaschesscenter.com/store/p/tcc-anniversary-fide",
+   "src": "https://mychess.events/event/tcc-5th-anniversary-fide-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-08T09:35:55+00:00"
   },
   {
    "c": "BR",
@@ -19397,6 +19717,56 @@
    "lastmod": "2026-09-25T07:35:06+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "2027 English Youth Championships",
+   "city": "PE3 6SG",
+   "start": "2027-03-06",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Under 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 18",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2027-english-youth-championships/",
+   "src": "https://mychess.events/event/2027-english-youth-championships/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-08T10:29:11+00:00"
+  },
+  {
    "c": "SI",
    "ulke": "Slovenya",
    "bayrak": "si",
@@ -19430,6 +19800,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-07T11:51:20+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "DFW Spring FIDE 2027",
+   "city": "TX 75007",
+   "start": "2027-03-12",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": "≈ $1,900",
+   "tc": "G/90 + 30-second increment",
+   "url": "https://www.texaschesscenter.com/store/p/dfw-spring-fide",
+   "src": "https://mychess.events/event/dfw-spring-fide-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-08T06:11:26+00:00"
   },
   {
    "c": "CZ",
@@ -20882,6 +21287,41 @@
    "cr": "https://chess-results.com/tnr1207714.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T05:54:35+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "2nd Medway Chess Congress 2027",
+   "city": "Kent ME4 6AU",
+   "start": "2027-09-24",
+   "end": "2027-09-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": "≈ $1,990",
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/2nd-medway-chess-congress-2027/",
+   "src": "https://mychess.events/event/2nd-medway-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-08T07:24:32+00:00"
   },
   {
    "c": "DE",
