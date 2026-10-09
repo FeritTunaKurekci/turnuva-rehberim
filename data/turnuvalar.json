@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-09T10:53",
+ "guncelleme": "2026-10-09T18:08",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-09T10:52",
+   "tarama": "2026-10-09T18:07",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-09T10:53",
+   "tarama": "2026-10-09T18:08",
    "kaynak": "https://mychess.events"
   }
  },
@@ -6126,6 +6126,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği..",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5291-lion-satranc-spor-kuluebue-hzl-satranc-turnuvas-ve-anaokulu-senligi",
+   "kaynak": "site",
+   "kaynak_metin": "Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği.. Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği.. Lion Satranç Spor Kulübü tarafından Ümraniye ilçesinde Memos Cafe Bistro ev sahipliğinde 17-18 Ekim 2026 tarihlerinde 8 yaşaltı (Cumartesi) ve 10 yaşaltı (Pazar) sporcuların katılımına açık Hızlı Satranç Turnuvası düzenlenecektir. Turnuvanın 10 dakika+5 saniye düşünme süresinde 6 tur düzenlenmesi planlanmıştır. Turnuva sonunda ilk 5 sporcuya yönergede beli",
+   "id": "8c61d1b6d077",
+   "ilk_gorulme": "2026-10-09",
+   "son_gorulme": "2026-10-09",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Mersin",
    "name": "Nesibe Aydın Okulları 4.Hızlı Satranç Turnuvası",
    "start": "2026-10-17",
@@ -6240,6 +6264,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Siirt",
+   "name": "SİİRT KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://siirt.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "SİİRT KIZILAY HAFTASI SATRANÇ TURNUVASI Siirt “Kızılay Haftası Satranç Turnuvası \" 17-18.10. 2026 Tarihlerinde Evin Demirhan Spor Kompleksi Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Siirt Kızılay Haftası Satranç Turnuvası ORGANİZASYON Siirt GSM & Siirt Satranç İl Temsilciliği TURNUVA TARİHİ 17-18 Ekim 2026 TURNUVA",
+   "id": "20467657eb99",
+   "ilk_gorulme": "2026-10-09",
+   "son_gorulme": "2026-10-09",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Kırklareli",
    "name": "Turnuva Haberleri",
    "start": "2026-10-17",
@@ -6295,9 +6343,9 @@
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri MANİSA 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI MANİSA 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI MANİSA GSİM, MANİSA SATRANÇ İL TEMSİLCİLİĞİ TARAFINDAN MANİSA MBA KOLEJİ EV SAHİPLİĞİNDE 17-18 EKİM 2026 TARİHİNDE YAPILCAKTIR. KATEGORİLER ÖDÜLLER YÖNERGEDE AÇIKLANMIŞTIR. HER KATEGORİ 100 KİŞİ İLE SINIRLIDIR YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT A Kategorisi 1700-1400 ve Arası Maksimum Kuvvet Puanına Sahip Sporcular A Kategorisi B Kategorisi 1399-1200 ve",
    "id": "a58146223549",
-   "tarih_degisti": "2026-10-29 → 2026-10-17",
    "ilk_gorulme": "2026-10-03",
    "son_gorulme": "2026-10-09",
+   "tarih_degisti": "2026-10-29 → 2026-10-17",
    "durum": "yaklasan"
   },
   {
@@ -7909,11 +7957,11 @@
    ],
    "url": "https://denizli.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ DENİZLİ BİRİNCİLİĞİ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI İlimiz Çameli İlçemizde 24-25 Ekim 2026 Tarihlerinde Çameli 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuva",
+   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ DENİZLİ BİRİNCİLİĞİ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI LÜTFEN Yönergeyi okuyunuz. Lütfen Turnuvaya katılamayacaklar kaydınızı siliniz. Lütfen Her tur içinde bir ",
    "id": "441fd740f5bf",
-   "tarih_degisti": "2026-10-17 → 2026-10-24",
    "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-09",
+   "tarih_degisti": "2026-10-17 → 2026-10-24",
    "durum": "yaklasan"
   },
   {
@@ -9356,7 +9404,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI İlimiz Çameli İlçemizde 24-25 Ekim 2026 Tarihlerinde Çameli 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası Çameli Hayri Dev Kültür Merkezi Salonu'nda yapılacaktır. Turnuvamızda Çameli Belediyesi Tarafından nakdi ödül verilecektir. Elo Katkı bedelleri Çameli Belediyesi Tarafından karşılanacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "kaynak_metin": "ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI LÜTFEN Yönergeyi okuyunuz. Lütfen Turnuvaya katılamayacaklar kaydınızı siliniz. Lütfen Her tur içinde bir sonraki tura katılamayacaksanız bildiriniz. Uzak yerlerden gelen sporcularımız Turnuva için maç için geliyorlar. İlimiz Çameli İlçemizde 24-25 Ekim 2026 Tarihlerinde Çameli 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası Çameli Hayri Dev Kültür Merkezi Salonu'nda yapılacaktır. Turnuvamızda Çameli Belediyesi Tarafından nakdi ödül verile",
    "id": "5842db55697a",
    "ilk_gorulme": "2026-10-09",
    "son_gorulme": "2026-10-09",
@@ -20744,9 +20792,9 @@
    "kaynak": "site",
    "kaynak_metin": "2026 TÜRKİYE KADINLAR ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ TURNUVASI 2026 TÜRKİYE KADINLAR ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ TURNUVASI Şanlıurfa Gençlik ve Spor İl Müdürlüğü ile Şanlıurfa Satranç İl Temsilciliği iş birliği içerisinde Türkiye Kupası Şanlıurfa Kadınlar İl Birinciliği Satranç Turnuvası düzenlenmiştir. Satranç Turnuvası 07 - 08 Mart tarihlerinde Karaköprü Belediyesi Necmettin Cevheri Kültür ve Gösteri Merkezi'nde yapılacaktır. Turnuva kaydını 06 Mart Cuma günü Saat:17.00'dan önce yapmanı",
    "id": "88164fd1d5c9",
-   "tarih_degisti": "2027-03-06 → 2027-03-07",
    "ilk_gorulme": "2026-10-07",
    "son_gorulme": "2026-10-09",
+   "tarih_degisti": "2027-03-06 → 2027-03-07",
    "durum": "yaklasan"
   },
   {

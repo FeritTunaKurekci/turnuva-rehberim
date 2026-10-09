@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-09T10:52",
+ "taranma": "2026-10-09T18:07",
  "surum": "0.4",
  "iller": [
   {
@@ -240,7 +240,7 @@
    "il": "İstanbul",
    "durum": "ok",
    "host": "istanbul.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "İzmir",
@@ -264,7 +264,7 @@
    "il": "Karaman",
    "durum": "ok",
    "host": "karaman.tsf.org.tr",
-   "adet": 3
+   "adet": 0
   },
   {
    "il": "Kars",
@@ -408,7 +408,7 @@
    "il": "Siirt",
    "durum": "ok",
    "host": "siirt.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Sinop",
@@ -1584,7 +1584,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI İlimiz Çameli İlçemizde 24-25 Ekim 2026 Tarihlerinde Çameli 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası Çameli Hayri Dev Kültür Merkezi Salonu'nda yapılacaktır. Turnuvamızda Çameli Belediyesi Tarafından nakdi ödül verilecektir. Elo Katkı bedelleri Çameli Belediyesi Tarafından karşılanacaktır. Turnuva Yönergesi Turnuva Kayıt "
+   "kaynak_metin": "ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI LÜTFEN Yönergeyi okuyunuz. Lütfen Turnuvaya katılamayacaklar kaydınızı siliniz. Lütfen Her tur içinde bir sonraki tura katılamayacaksanız bildiriniz. Uzak yerlerden gelen sporcularımız Turnuva için maç için geliyorlar. İlimiz Çameli İlçemizde 24-25 Ekim 2026 Tarihlerinde Çameli 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası Çameli Hayri Dev Kültür Merkezi Salonu'nda yapılacaktır. Turnuvamızda Çameli Belediyesi Tarafından nakdi ödül verile"
   },
   {
    "c": "TR",
@@ -1625,7 +1625,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ DENİZLİ BİRİNCİLİĞİ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI İlimiz Çameli İlçemizde 24-25 Ekim 2026 Tarihlerinde Çameli 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuva"
+   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ DENİZLİ BİRİNCİLİĞİ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI LÜTFEN Yönergeyi okuyunuz. Lütfen Turnuvaya katılamayacaklar kaydınızı siliniz. Lütfen Her tur içinde bir "
   },
   {
    "c": "TR",
@@ -2088,6 +2088,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İstanbul",
+   "name": "Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği..",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5291-lion-satranc-spor-kuluebue-hzl-satranc-turnuvas-ve-anaokulu-senligi",
+   "kaynak": "site",
+   "kaynak_metin": "Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği.. Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği.. Lion Satranç Spor Kulübü tarafından Ümraniye ilçesinde Memos Cafe Bistro ev sahipliğinde 17-18 Ekim 2026 tarihlerinde 8 yaşaltı (Cumartesi) ve 10 yaşaltı (Pazar) sporcuların katılımına açık Hızlı Satranç Turnuvası düzenlenecektir. Turnuvanın 10 dakika+5 saniye düşünme süresinde 6 tur düzenlenmesi planlanmıştır. Turnuva sonunda ilk 5 sporcuya yönergede beli"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
    "name": "RİTİM İstanbul AVM-Nova Time SK 14. Satranç Turnuvası 17-18 Ekim 2026`da..",
    "start": "2026-10-17",
    "end": "2026-10-18",
@@ -2313,66 +2333,6 @@
    "url": "https://karabuk.tsf.org.tr/turnuvalar",
    "kaynak": "site",
    "kaynak_metin": "Turnuvalar Turnuvalar AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI AMATÖR SPOR HAFTASI HIZLI SATRANÇ TURNUVASI TURNUVA TARİHİ : 10/10/2026 (CUMARTESİ) TURNUVA SON KAYIT : 09 /10/2026 SAAT : 18.00 TEMPO : 15'+10'' EKLEMELİ TEMPO TURNUVA YERİ : DR. NECMETTİN ŞEYHOĞLU STADYUMU SATRANÇ SALONU ***TURNUVA FOTOĞRAFLARI*** KAYIT KONTROL BAŞLANGIÇ SAATİ : 09:00 BİTİŞ SAATİ : 09:30 dan sonra sporcular turnuvaya alınmayacaktır. Amatör Spor Haftası Hızlı Satranç Turnuvasında ilk üç dereceyi elde eden sporcul"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Karaman",
-   "name": "KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI",
-   "start": "2026-10-10",
-   "end": "2026-10-11",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://karaman.tsf.org.tr/satranc-haberleri/857-karaman-mamatoer-spor-haftas-satranc-turnuvasi-2026",
-   "kaynak": "site",
-   "kaynak_metin": "KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Karaman “Amatör Spor Haftası Satranç Turnuvası \" 1210-11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman Amatör Spor Haftası Satranç Turnuvası ORGANİZASYON Karaman GSM & Karaman"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Karaman",
-   "name": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI",
-   "start": "2026-10-10",
-   "end": "2026-10-11",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://karaman.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI Satranç Haberleri KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Karaman “Amatör Spor Haftası Satranç Turnuvası \" 1210-11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman Amatör Spor Haftası Satranç Turnuvası ORGANİZASYON Karama"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Karaman",
-   "name": "TAŞELİ KÜLTÜR VE SILA FESTİVALİ SATRANÇ TURNUVASI",
-   "start": "2026-10-10",
-   "end": "2026-10-11",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://karaman.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "TAŞELİ KÜLTÜR VE SILA FESTİVALİ SATRANÇ TURNUVASI Satranç Haberleri KARAMAN AMATÖR SPOR HAFTASI SATRANÇ TURNUVASI Karaman “Amatör Spor Haftası Satranç Turnuvası \" 1210-11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman Amatör Spor Haftası Satranç Turnuvası ORGANİZASYON"
   },
   {
    "c": "TR",
@@ -3248,7 +3208,7 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Muğla",
-   "name": "MUĞLA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI SON KAYIT TARİHİ 09.10.2026 SAAT 17.00",
+   "name": "MUĞLA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI SON KAYIT TARİHİ 09.10.2026 SAAT 20.00",
    "start": "2026-10-09",
    "end": "2026-10-09",
    "status": "a",
@@ -3262,7 +3222,7 @@
    ],
    "url": "https://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1085",
    "kaynak": "site",
-   "kaynak_metin": "MUĞLA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI SON KAYIT TARİHİ 09.10.2026 SAAT 17.00 MUĞLA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI SON KAYIT TARİHİ 09.10.2026 SAAT 17.00"
+   "kaynak_metin": "MUĞLA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI SON KAYIT TARİHİ 09.10.2026 SAAT 20.00 MUĞLA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI SON KAYIT TARİHİ 09.10.2026 SAAT 20.00"
   },
   {
    "c": "TR",
@@ -3346,6 +3306,26 @@
    "url": "https://samsun.tsf.org.tr/images/2025-2026/Sosyal_Etkinlik/cumbayr.pdf",
    "kaynak": "site",
    "kaynak_metin": "2025-SAMSUN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2025-SAMSUN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Siirt",
+   "name": "SİİRT KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://siirt.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "SİİRT KIZILAY HAFTASI SATRANÇ TURNUVASI Siirt “Kızılay Haftası Satranç Turnuvası \" 17-18.10. 2026 Tarihlerinde Evin Demirhan Spor Kompleksi Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Siirt Kızılay Haftası Satranç Turnuvası ORGANİZASYON Siirt GSM & Siirt Satranç İl Temsilciliği TURNUVA TARİHİ 17-18 Ekim 2026 TURNUVA"
   },
   {
    "c": "TR",
@@ -3595,7 +3575,7 @@
    ],
    "url": "https://trabzon.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=631",
    "kaynak": "site",
-   "kaynak_metin": "Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular) Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz İlçe Temsilcilerimiz TSF Hesap Numarası Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Hakem Görevlendirmeleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular) KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. "
+   "kaynak_metin": "Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular) Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz İlçe Temsilcilerimiz TSF Hesap Numarası Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Hakem Görevlendirmeleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular) Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-10-09 18:00:00 Top"
   },
   {
    "c": "TR",
