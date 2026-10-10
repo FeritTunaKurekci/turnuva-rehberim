@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-10T16:55",
+ "taranma": "2026-10-10T21:16",
  "surum": "0.4",
  "iller": [
   {
@@ -126,7 +126,7 @@
    "il": "Bursa",
    "durum": "ok",
    "host": "bursa.tsf.org.tr",
-   "adet": 4
+   "adet": 3
   },
   {
    "il": "Çanakkale",
@@ -246,7 +246,7 @@
    "il": "İzmir",
    "durum": "ok",
    "host": "izmir.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Kahramanmaraş",
@@ -354,7 +354,7 @@
    "il": "Muğla",
    "durum": "ok",
    "host": "mugla.tsf.org.tr",
-   "adet": 7
+   "adet": 6
   },
   {
    "il": "Muş",
@@ -1558,26 +1558,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Bursa",
-   "name": "2025-2026 Türkiye Kupası Satranç Bursa İl Birinciliği Finali Yarışma Sayfası",
-   "start": "2026-10-10",
-   "end": "2026-10-10",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://bursa.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "2025-2026 Türkiye Kupası Satranç Bursa İl Birinciliği Finali Yarışma Sayfası Yarışma Sayfaları 2. Pera Mimari Hızlı Satranç Turnuvası Yarışma Sayfası 2. Pera Mimari Hızlı Satranç Turnuvası 10 Ekim 2026 tarihlerinde Özel Altınnesil Okulları ’nda gerçekleştirilecek turnuvanın kayıt kontrol işlemleri 08:30–09.30 saatleri arasında yapılacak olup, birinci tur saat 10.00’da başlayacaktır. 2. Pera Mimari Hızlı Satranç Turnuvası Sporcu Listeleri Eşlendirmeler&Sonuçlar Yönerge A Kategorisi 1. Tur 2. Tur "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Çanakkale",
    "name": "TÜRKİYE KUPASI ÇANAKKALE İL BİRİNCİLİĞİ",
    "start": "2026-10-16",
@@ -2158,26 +2138,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Hatay",
-   "name": "HATAY EKİM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
-   "start": "2026-10-10",
-   "end": "2026-10-11",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://hatay.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "HATAY EKİM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI Ana Sayfa İl Temsilciliği Organizasyon İl Tertip Kurulu İl Hakem Kurulu İl Basın ve Yayın Kurulu İl Eğitim Kurulu İl Veli Koordinasyon Kur. İl Organizsyon Kurulu İl Düzenleme Kurulu İl Teknik Kurulu Federasyon TSF Organizasyon Temsilcilikler TSF İletişim Turnuvalar Turnuva Haberleri Etkinlik Takvimi Eğitimler Eğitim Programları Satranç Dersleri Bağlantılar Resmi Gazete Milli Eğitim Bakanlığı Satranç Merkezleri TSF Web Sitesi FIDE Spor Genel "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Hatay",
    "name": "2025 Türkiye Yaş Kategorisi Şampiyonası",
    "start": "2026-10-10",
    "end": "2026-10-11",
@@ -2192,6 +2152,26 @@
    "url": "https://hatay.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "2025 Türkiye Yaş Kategorisi Şampiyonası Ana Sayfa İl Temsilciliği Organizasyon İl Tertip Kurulu İl Hakem Kurulu İl Basın ve Yayın Kurulu İl Eğitim Kurulu İl Veli Koordinasyon Kur. İl Organizsyon Kurulu İl Düzenleme Kurulu İl Teknik Kurulu Federasyon TSF Organizasyon Temsilcilikler TSF İletişim Turnuvalar Turnuva Haberleri Etkinlik Takvimi Eğitimler Eğitim Programları Satranç Dersleri Bağlantılar Resmi Gazete Milli Eğitim Bakanlığı Satranç Merkezleri TSF Web Sitesi FIDE Spor Genel Müdürlüğü İleti"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "TURNUVALAR (2020)",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVALAR (2020) Ana Sayfa İl Temsilciliği Organizasyon İl Tertip Kurulu İl Hakem Kurulu İl Basın ve Yayın Kurulu İl Eğitim Kurulu İl Veli Koordinasyon Kur. İl Organizsyon Kurulu İl Düzenleme Kurulu İl Teknik Kurulu Federasyon TSF Organizasyon Temsilcilikler TSF İletişim Turnuvalar Turnuva Haberleri Etkinlik Takvimi Eğitimler Eğitim Programları Satranç Dersleri Bağlantılar Resmi Gazete Milli Eğitim Bakanlığı Satranç Merkezleri TSF Web Sitesi FIDE Spor Genel Müdürlüğü İletişim HATAY YÜREKLİ SÜVE"
   },
   {
    "c": "TR",
@@ -2378,6 +2358,26 @@
    "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5283-saryer-belediyesi-zekeriyakoey-cumhuriyet-kupas-4-geleneksel-satranc-turnuvas",
    "kaynak": "site",
    "kaynak_metin": "Sarıyer Belediyesi - ZSK Cumhuriyet Kupası 4. Geleneksel Satranç Turnuvası.. Sarıyer Belediyesi - ZSK Cumhuriyet Kupası 4. Geleneksel Satranç Turnuvası.. Sarıyer Belediyesi ve Zekeriyaköy Spor Kulübü tarafından 10-11 Ekim 2026 tarihlerinde Cumhuriyet Kupası 4. Geleneksel Satranç Turnuvası düzenlenecektir. Turnuva her yaştan sporcunun katılımına açık olup 8 kategoride düzenlenecektir. Turnuvanın 35 dakika+30 saniye düşünme süresinde 6 tur UKD Turnuvası olarak düzenlenmesi planlanmıştır. Turnuvada"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İzmir",
+   "name": "2026 BAYINDIR KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2619-2026-bayindir-kizilay-haftasi-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 BAYINDIR KIZILAY HAFTASI SATRANÇ TURNUVASI 2026 BAYINDIR KIZILAY HAFTASI SATRANÇ TURNUVASI İzmir GSİM & Bayındır Gençlik Spor İlçe Müdürlüğü & Bayındır Gençlik Merkezi & TSF Bayındır İlçe Temsilciliği işbirliği çerçevesinde satranç turnuvası düzenlenecektir. \"Bayındır Kızılay Haftası Satranç Turnuvası\" 17-18 Ekim 2026 tarihlerinde Bayındır Kapalı Spor Salonu' nda yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027"
   },
   {
    "c": "TR",
@@ -3415,27 +3415,6 @@
    "url": "https://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1088",
    "kaynak": "site",
    "kaynak_metin": "DALAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI DALAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Muğla",
-   "name": "MUĞLA 29 EKİM CUMHURİYET BAYRAMI YILDIRIM SATRANÇ TURNUVASI SON KAYIT TARİHİ.10.2026 SAAT 20.00",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1086",
-   "kaynak": "site",
-   "kaynak_metin": "MUĞLA 29 EKİM CUMHURİYET BAYRAMI YILDIRIM SATRANÇ TURNUVASI SON KAYIT TARİHİ.10.2026 SAAT 20.00 MUĞLA 29 EKİM CUMHURİYET BAYRAMI YILDIRIM SATRANÇ TURNUVASI SON KAYIT TARİHİ.10.2026 SAAT 20.00"
   },
   {
    "c": "TR",

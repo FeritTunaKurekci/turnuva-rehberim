@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-10T16:56",
+ "guncelleme": "2026-10-10T21:17",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-10T16:55",
+   "tarama": "2026-10-10T21:16",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-10T16:56",
+   "tarama": "2026-10-10T21:17",
    "kaynak": "https://mychess.events"
   }
  },
@@ -5710,6 +5710,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "İzmir",
+   "name": "2026 BAYINDIR KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2619-2026-bayindir-kizilay-haftasi-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 BAYINDIR KIZILAY HAFTASI SATRANÇ TURNUVASI 2026 BAYINDIR KIZILAY HAFTASI SATRANÇ TURNUVASI İzmir GSİM & Bayındır Gençlik Spor İlçe Müdürlüğü & Bayındır Gençlik Merkezi & TSF Bayındır İlçe Temsilciliği işbirliği çerçevesinde satranç turnuvası düzenlenecektir. \"Bayındır Kızılay Haftası Satranç Turnuvası\" 17-18 Ekim 2026 tarihlerinde Bayındır Kapalı Spor Salonu' nda yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027",
+   "id": "4f8a6520b8ae",
+   "ilk_gorulme": "2026-10-10",
+   "son_gorulme": "2026-10-10",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Ankara",
    "name": "2026-2027 Türkiye Kupası Ankara Satranç İl Birinciliği Turnuvası",
    "start": "2026-10-17",
@@ -5926,9 +5950,9 @@
    "kaynak": "site",
    "kaynak_metin": "Edirne 12.Geleneksel Amatör Spor Kulüpleri Haftası Satranç Turnuvası 2026 Satranç Haberleri Uzunköprü 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Turnuva Uzunköprü 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Organizasyon Edirne GSİM & Edirne Satranç İl Temsilciliği Turnuva Tarihi 17-18 Ekim 2026 Cumartesi-Pazar Turnuva Yeri/Konum Uzunköprü Oğuz Arda Sel Gençlik Merkezi Kategoriler 08 Yaş ve Altı Kategorisi (2020-2019 Doğumlu Sporcular) 10 Yaş ve Altı Kategorisi (2018-2017 Doğumlu Spo",
    "id": "33830e35d3a4",
-   "tarih_degisti": "2026-10-10 → 2026-10-17",
    "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-10",
+   "tarih_degisti": "2026-10-10 → 2026-10-17",
    "durum": "yaklasan"
   },
   {
@@ -10339,9 +10363,9 @@
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 ALANYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği, Alanya Kaymakamlığı, Alanya Belediyesi, Alanya İlçe Milli Eğitim Müdürlüğü ve TSF Alanya İlçe Temsilciliği tarafından, 31 Ekim-01 Kasım 2026 tarihlerinde, Alanya Gençlik Merkezi'de Alanya 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası düzenlenecektir. Müsabaka 60'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkında",
    "id": "89f844f11c81",
-   "tarih_degisti": "2026-11-08 → 2026-10-31",
    "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-10-10",
+   "tarih_degisti": "2026-11-08 → 2026-10-31",
    "durum": "yaklasan"
   },
   {
