@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-11T17:23",
+ "guncelleme": "2026-10-11T21:38",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-11T17:23",
+   "tarama": "2026-10-11T21:37",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-11T17:23",
+   "tarama": "2026-10-11T21:38",
    "kaynak": "https://mychess.events"
   }
  },
@@ -2818,7 +2818,7 @@
    "src": "https://mychess.events/event/fagernes-international-autumn-2026/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-09-10T21:21:49+00:00",
+   "lastmod": "2026-10-11T20:10:36+00:00",
    "id": "834864ab73e3",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-10-11",
@@ -4959,31 +4959,6 @@
    "lastmod": "2026-08-16T02:06:18+00:00",
    "id": "26004a566c79",
    "ilk_gorulme": "2026-09-23",
-   "son_gorulme": "2026-10-11",
-   "durum": "suruyor"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Erzurum",
-   "name": "ULUSLARARASI KIZ ÇOCUKLARI HIZLI SATRANÇ TURNUVASI",
-   "start": "2026-10-11",
-   "end": "2026-10-11",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://erzurum.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "ULUSLARARASI KIZ ÇOCUKLARI HIZLI SATRANÇ TURNUVASI Erzurum Gençlik Spor İl Müdürlüğü & Erzurum Satranç İl Temsilciliği katkılarıyla Uluslararası Kız Çocukları Hızlı Satranç Turnuvası düzenlenecektir. \" Uluslararası Kız Çocukları Hızlı Satranç Turnuvası\" 11 Ekim 2026 Pazar günü Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve öncesinde doğan kız sporcular k",
-   "id": "b67ad730eef3",
-   "ilk_gorulme": "2026-10-05",
    "son_gorulme": "2026-10-11",
    "durum": "suruyor"
   },
@@ -8051,6 +8026,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Erzurum",
+   "name": "ULUSLARARASI KIZ ÇOCUKLARI HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://erzurum.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "ULUSLARARASI KIZ ÇOCUKLARI HIZLI SATRANÇ TURNUVASI Satranç Haberleri 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2026 \"Erzurum 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 24-25 Ekim 2026 tarihlerinde Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve öncesinde doğan sporcular katılabilir. Turnuvada eşlendirmeler 6 tur üzerinden İsviçre Sistemine göre yapı",
+   "id": "b67ad730eef3",
+   "tarih_degisti": "2026-10-11 → 2026-10-24",
+   "ilk_gorulme": "2026-10-05",
+   "son_gorulme": "2026-10-11",
+   "durum": "yaklasan"
+  },
+  {
    "c": "BE",
    "ulke": "Belçika",
    "bayrak": "be",
@@ -8750,6 +8750,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Zonguldak",
+   "name": "2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://zonguldak.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT ",
+   "id": "73673d31218f",
+   "ilk_gorulme": "2026-10-11",
+   "son_gorulme": "2026-10-11",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Bartın",
    "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-10-29",
@@ -8865,6 +8890,31 @@
    "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2025 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2025 29 Ekim Zafer Bayramı Satranç Turnuvası üç kategoride YSD Koleji sponsorluğunda düzenlenecektir. Turnuva 25 - 26 Ekim 2025 tarihinde YSD Koleji'nde yapılacaktır. Sporcuların Dikkatine: Notasyonu bilmeyen oyuncular turnuvaya kabul edilmeyecektir. Her sporcu turnuva esnasında notasyon tutmak zorundadır. Turnuva Yönergesi için tıklayınız. TURNUVA KAYIT CANLI SONUÇLAR AÇIK KATEGORİ 14 YAŞ VE ALTI 10 Y",
    "id": "33f16c213276",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-11",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Erzurum",
+   "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2026",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://erzurum.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2026 \"Erzurum 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 24-25 Ekim 2026 tarihlerinde Yakutiye Buz Hokeyi Antrenman Spor Salonu 'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve öncesinde doğan sporcular katılabilir. Turnuvada eşlendirmeler 6 tur üzerinden İsviçre Sistemine göre yapılacaktır. Müsabaka 35'+30'' eklemeli tempo ile oynanacaktır. Turnuvad",
+   "id": "9691ec91e283",
+   "ilk_gorulme": "2026-10-11",
    "son_gorulme": "2026-10-11",
    "durum": "yaklasan"
   },
@@ -9112,6 +9162,31 @@
    "kaynak_metin": "Ankara 29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnuvası TSF Ankara Ankara 29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnuvası Ankara 29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnuvası, 29 Ekim 2026 tarihinde Sincan Spor Kompleksinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. Yönerge Yarışma Yeri : Sincan Spor Kompleksi 1. Kat Yarışma yerine toplu taşıma ile ulaşım : 505 (Sincan - Sıhhiye), 509 (Sincan - Törekent), 516 (Sincan - Yapracık TOKİ Konutları), 524 (Sincan - Ümitköy",
    "id": "d4bd83f6387a",
    "ilk_gorulme": "2026-10-08",
+   "son_gorulme": "2026-10-11",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Batman",
+   "name": "BEŞİRİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://batman.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "BEŞİRİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI ",
+   "id": "f98ff119ecc7",
+   "ilk_gorulme": "2026-10-11",
    "son_gorulme": "2026-10-11",
    "durum": "yaklasan"
   },
@@ -9541,7 +9616,7 @@
    ],
    "url": "https://kahramanmaras.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Kahramanmaraş 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Turnuvaya, Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2025 – 2026 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan lisanslı sporcular katılabilir. Turnuva Direktörü : Atilla GÜLER - 0505 644 25 26 Turnuva Tarihi: 30 Ekim 1 Kasım 2026 Turnuva Kayıt: *** TURNUVA KATILMAK İÇİN TIKLAYINIZ *** Yönerge: TURNUVA Yönergedi 3.pdf Kayıt Kontrol: 30.10.2 026 - Saat: 08:30-9:15 (Turlar başlamadan ",
+   "kaynak_metin": "Turnuva Haberleri Kahramanmaraş 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Turnuvaya, Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2025 – 2026 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan lisanslı sporcular katılabilir. Turnuva Direktörü : Atilla GÜLER - 0505 644 25 26 Turnuva Tarihi: 31 Ekim 1 Kasım 2026 Turnuva Kayıt: *** TURNUVA KATILMAK İÇİN TIKLAYINIZ *** Yönerge: TURNUVA Yönergedi 3.pdf Kayıt Kontrol: 31.10.2 026 - Saat: 08:30-9:15 (Turlar başlamadan ",
    "id": "0efcdee16b80",
    "ilk_gorulme": "2026-10-09",
    "son_gorulme": "2026-10-11",
@@ -12884,6 +12959,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY ARSUZ ÖZEL TUNÇ KOLEJİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1637-hatay-arsuz-oezel-tunc-koleji-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY ARSUZ ÖZEL TUNÇ KOLEJİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY ARSUZ ÖZEL TUNÇ KOLEJİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI 14-15/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Arsuz İlçesi Özel Tunç Koleji Salonu'nda Hatay Kasım Ayı ELO Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 12/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >",
+   "id": "72c4939d6993",
+   "ilk_gorulme": "2026-10-11",
+   "son_gorulme": "2026-10-11",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -14190,6 +14290,31 @@
    "lastmod": "2026-07-14T05:40:26+00:00",
    "id": "6cebe9a50658",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-11",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY KASIM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1636-hatay-kasim-ayi-elo-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY KASIM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY KASIM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI 21-22/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Samandağ İlçesi GSİM Kapalı Spor Salonu'nda Hatay Kasım Ayı ELO Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 19/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >",
+   "id": "bfc171d52711",
+   "ilk_gorulme": "2026-10-11",
    "son_gorulme": "2026-10-11",
    "durum": "yaklasan"
   },
@@ -15926,6 +16051,31 @@
    "lastmod": "2026-07-05T09:36:54+00:00",
    "id": "49b08acf1b1a",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-11",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY ARALIK AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1638-hatay-aralik-ayi-elo-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY ARALIK AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY ARALIK AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI 05-06/12/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli İskenderun İlçesi İskenderun Gençlik Merkezi Salonu'nda Hatay Aralık Ayı ELO Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 03/12/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi Sonraki >",
+   "id": "8def20157567",
+   "ilk_gorulme": "2026-10-11",
    "son_gorulme": "2026-10-11",
    "durum": "yaklasan"
   },
