@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-12T20:55",
+ "taranma": "2026-10-13T10:57",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 15,
+ "okunan_sayfa": 23,
  "turnuvalar": [
   {
    "c": "US",
@@ -36,7 +36,7 @@
    "src": "https://mychess.events/event/2026-fall-tuesday-night-marathon/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-07-14T09:44:20+00:00"
+   "lastmod": "2026-10-13T08:55:45+00:00"
   },
   {
    "c": "UZ",
@@ -18284,6 +18284,51 @@
    "lastmod": "2026-10-02T16:47:08+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 New York Metro Area Scholastic Chess Championships",
+   "city": "NY 10036",
+   "start": "2027-01-02",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "High School Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Middle School Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Elementary Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Primary Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–1 Championship",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2027-new-york-metro-area-scholastic-chess-championships/",
+   "src": "https://mychess.events/event/2027-new-york-metro-area-scholastic-chess-championships/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T06:33:31+00:00"
+  },
+  {
    "c": "HR",
    "ulke": "Hırvatistan",
    "bayrak": "hr",
@@ -18876,7 +18921,7 @@
    "src": "https://mychess.events/event/4ncl-huddersfield-congress-2027/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-10-07T11:09:03+00:00"
+   "lastmod": "2026-10-13T09:33:25+00:00"
   },
   {
    "c": "CZ",
@@ -19267,6 +19312,51 @@
    "lastmod": "2026-10-08T09:35:55+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Growth Chess Winter Open 2027",
+   "city": "WI 53038",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, January 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, January 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, January 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 24",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,000",
+   "tc": null,
+   "url": "https://mychess.events/event/growth-chess-winter-open-2027/",
+   "src": "https://mychess.events/event/growth-chess-winter-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T07:03:15+00:00"
+  },
+  {
    "c": "BR",
    "ulke": "Brezilya",
    "bayrak": "br",
@@ -19380,6 +19470,86 @@
    "cr": "https://chess-results.com/tnr1482667.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-14T09:51:16+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "3rd Cheadle FIDE Open 2027",
+   "city": "SK8 1HW",
+   "start": "2027-02-02",
+   "end": "2027-02-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "February 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "February 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "February 4",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/3rd-cheadle-fide-open-2027/",
+   "src": "https://mychess.events/event/3rd-cheadle-fide-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T07:24:42+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "36th Nottingham Rapidplay 2027",
+   "city": "NG1 4HU",
+   "start": "2027-02-07",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "Improvers",
+     "min": null,
+     "max": 1299
+    }
+   ],
+   "prize": "≈ $2,520",
+   "tc": "20 min + 10 sec/move",
+   "url": "https://mychess.events/event/36th-nottingham-rapidplay-2027/",
+   "src": "https://mychess.events/event/36th-nottingham-rapidplay-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T08:04:43+00:00"
   },
   {
    "c": "FR",
@@ -19515,6 +19685,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-30T04:27:02+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "50th Blackpool Chess Congress Celebration 2027",
+   "city": "FY1 2HB",
+   "start": "2027-02-12",
+   "end": "2027-02-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Lancashire Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Imperial Major",
+     "min": null,
+     "max": 2049
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Standard",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": "≈ $13,210",
+   "tc": "110 min + 10 sec/move",
+   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T10:17:01+00:00"
   },
   {
    "c": "AT",
@@ -19837,6 +20052,66 @@
    "lastmod": "2026-07-07T11:51:20+00:00"
   },
   {
+   "c": "GR",
+   "ulke": "Yunanistan",
+   "bayrak": "gr",
+   "name": "10th Vardaris International Chess Tournament 2027",
+   "city": "Thessaloniki 54629",
+   "start": "2027-03-11",
+   "end": "2027-03-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "5th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "6th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "7th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "8th",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $6,710",
+   "tc": "90 min + 30 sec/move",
+   "url": "https://mychess.events/event/10th-vardaris-international-chess-tournament-2027/",
+   "src": "https://mychess.events/event/10th-vardaris-international-chess-tournament-2027/",
+   "cr": "https://s3.chess-results.com/tnr1512782.aspx?SNode=S0&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T08:30:36+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -19900,6 +20175,56 @@
    "cr": "https://chess-results.com/tnr1447314.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T06:05:34+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "British Rapidplay Championship 2027",
+   "city": "BD5 8HW",
+   "start": "2027-03-13",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 4",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 6",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $8,590",
+   "tc": "15 min + 10 sec/move",
+   "url": "https://mychess.events/event/british-rapidplay-championship-2027/",
+   "src": "https://mychess.events/event/british-rapidplay-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T09:32:40+00:00"
   },
   {
    "c": "CH",
@@ -20213,6 +20538,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-17T15:55:48+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "7th 4NCL Easter Congress 2027",
+   "city": "PE3 6SG",
+   "start": "2027-03-26",
+   "end": "2027-03-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "FIDE U1700",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": "≈ $5,560",
+   "tc": "90 min + 30 sec/move",
+   "url": "https://mychess.events/event/7th-4ncl-easter-congress-2027/",
+   "src": "https://mychess.events/event/7th-4ncl-easter-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T10:38:17+00:00"
   },
   {
    "c": "ES",
