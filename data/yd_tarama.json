@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-13T10:57",
+ "taranma": "2026-10-13T18:46",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 23,
+ "okunan_sayfa": 21,
  "turnuvalar": [
   {
    "c": "US",
@@ -18924,6 +18924,56 @@
    "lastmod": "2026-10-13T09:33:25+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "59th Annual Liberty Bell Open 2027",
+   "city": "PA 19103",
+   "start": "2027-01-15",
+   "end": "2027-01-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Major",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Under 2100",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "Under 1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Under 1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Under 1500",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "Under 1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": "≈ $25,000",
+   "tc": "40/80, SD/30; d30",
+   "url": "https://mychess.events/event/59th-annual-liberty-bell-open-2027/",
+   "src": "https://mychess.events/event/59th-annual-liberty-bell-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T13:20:42+00:00"
+  },
+  {
    "c": "CZ",
    "ulke": "Çekya",
    "bayrak": "cz",
@@ -19435,6 +19485,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T06:51:57+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "1st Neptune Classic 2027",
+   "city": "VA 23451",
+   "start": "2027-01-29",
+   "end": "2027-01-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U700",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Non-Rated",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $4,600",
+   "tc": "G/100 + 30 sec/move",
+   "url": "https://mychess.events/event/1st-neptune-classic-2027/",
+   "src": "https://mychess.events/event/1st-neptune-classic-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T13:39:14+00:00"
   },
   {
    "c": "IE",
@@ -19965,6 +20045,86 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-25T07:35:06+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "56th Pokal des Handwerks Seiffen 2027",
+   "city": "Kurort Seiffen",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "By 15:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "After Registration",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "16:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Immediately After Opening",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 min/40 moves + 30 min + 30 sec/move",
+   "url": "https://mychess.events/event/56th-pokal-des-handwerks-seiffen-2027/",
+   "src": "https://mychess.events/event/56th-pokal-des-handwerks-seiffen-2027/",
+   "cr": "https://s3.chess-results.com/tnr1467950.aspx?SNode=S0&lan=2&turdet=YES",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T12:58:22+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "34th Doncaster Congress 2027",
+   "city": "DN4 5NG",
+   "start": "2027-03-05",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1750",
+     "min": null,
+     "max": 1749
+    },
+    {
+     "n": "U1500",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": "≈ $4,240",
+   "tc": null,
+   "url": "https://mychess.events/event/34th-doncaster-congress-2027/",
+   "src": "https://mychess.events/event/34th-doncaster-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T12:23:43+00:00"
   },
   {
    "c": "EN",
@@ -20618,6 +20778,46 @@
    "cr": "https://s2.chess-results.com/Tnr1488848.aspx?SNode=S0&lan=2",
    "kayit_kapali": false,
    "lastmod": "2026-09-14T13:18:04+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "FIDE World Senior Team Championships 2027",
+   "city": "Magdeburg",
+   "start": "2027-03-31",
+   "end": "2027-04-11",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "50+ Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "50+ Women",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "65+ Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "65+ Women",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $16,800",
+   "tc": "90 min/40 moves + 30 min + 30 sec/move",
+   "url": "https://mychess.events/event/fide-world-senior-team-championships-2027/",
+   "src": "https://mychess.events/event/fide-world-senior-team-championships-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T11:47:45+00:00"
   },
   {
    "c": "FR",
@@ -21289,6 +21489,76 @@
    "lastmod": "2026-07-09T05:50:30+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Orchard Lake XXIX",
+   "city": "NC 28773",
+   "start": "2027-06-06",
+   "end": "2027-06-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Klaus Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Pohl U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "U1100",
+     "min": null,
+     "max": 1099
+    }
+   ],
+   "prize": "≈ $1,000",
+   "tc": "G/65 + 5 sec/move",
+   "url": "https://mychess.events/event/orchard-lake-xxix-2027/",
+   "src": "https://mychess.events/event/orchard-lake-xxix-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T17:36:25+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Jun Wilson Chess FIDE Plus Score #23",
+   "city": "IL 60532",
+   "start": "2027-06-06",
+   "end": "2027-06-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round 3",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/60 + 30 sec/move",
+   "url": "https://mychess.events/event/jun-wilson-chess-fide-plus-score-23-2027/",
+   "src": "https://mychess.events/event/jun-wilson-chess-fide-plus-score-23-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T17:29:55+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -21657,6 +21927,31 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-29T12:52:54+00:00"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "International Youth Chess Tournament Graz 2027",
+   "city": "Graz",
+   "start": "2027-08-21",
+   "end": "2027-08-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/international-youth-chess-tournament-graz-2027/",
+   "src": "https://mychess.events/event/international-youth-chess-tournament-graz-2027/",
+   "cr": "https://chess-results.com/Kalender.aspx?lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-13T14:23:50+00:00"
   },
   {
    "c": "SK",
