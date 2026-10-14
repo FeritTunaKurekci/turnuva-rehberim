@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-13T18:46",
+ "taranma": "2026-10-14T09:14",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 21,
+ "okunan_sayfa": 20,
  "turnuvalar": [
   {
    "c": "US",
@@ -19587,6 +19587,151 @@
    "lastmod": "2026-10-13T07:24:42+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "64th Annual Baltimore Open 2027",
+   "city": "MD 21090",
+   "start": "2027-02-05",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2100",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "U1500",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "U1250",
+     "min": null,
+     "max": 1249
+    },
+    {
+     "n": "U1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "G/90 + 30 sec/move",
+   "url": "https://mdchess.com/index.php?Itemid=1548&catid=1&id=83&option=com_eventbooking&view=event",
+   "src": "https://mychess.events/event/64th-annual-baltimore-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T06:38:20+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Women’s & Girls’ FIDE / ECF Classical Congress – February 2027",
+   "city": "London N1C 4AG",
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, February 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, February 7",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 15 seconds per move",
+   "url": "https://mychess.events/event/womens-girls-fide-ecf-classical-congress-february-2027/",
+   "src": "https://mychess.events/event/womens-girls-fide-ecf-classical-congress-february-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T08:19:14+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Michael A. Selig Memorial / 60th NorthEastern Open 2027",
+   "city": "WI 54220",
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1900 Class",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1800 Class",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1700 Class",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1600 Class",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Published Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,725",
+   "tc": "G/90 +30 sec; G/45 +15 sec",
+   "url": "https://mychess.events/event/michael-a-selig-memorial-60th-northeastern-open-2027/",
+   "src": "https://mychess.events/event/michael-a-selig-memorial-60th-northeastern-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T07:28:19+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -19972,6 +20117,61 @@
    "lastmod": "2026-09-25T17:51:16+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "11th Annual George Washington Open 2027",
+   "city": "VA 20166",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Clear / Tiebreak Win Bonus",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Top Under 2300 – 1st",
+     "min": null,
+     "max": 2299
+    },
+    {
+     "n": "Top Under 2300 – 2nd",
+     "min": null,
+     "max": 2299
+    }
+   ],
+   "prize": "≈ $17,000",
+   "tc": "40/80, SD/30; d30",
+   "url": "https://mychess.events/event/11th-annual-george-washington-open-2027/",
+   "src": "https://mychess.events/event/11th-annual-george-washington-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T08:28:54+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -20175,6 +20375,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-08T10:29:11+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "The Right Move – Riverbank State Park – March 2027",
+   "city": "NY 10031",
+   "start": "2027-03-07",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "AWE",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "King",
+     "min": 1300,
+     "max": null
+    },
+    {
+     "n": "Queen",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rook",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Knight",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Pawn",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/25; d5",
+   "url": "https://mychess.events/event/the-right-move-riverbank-state-park-march-2027/",
+   "src": "https://mychess.events/event/the-right-move-riverbank-state-park-march-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T08:52:29+00:00"
   },
   {
    "c": "SI",
@@ -20955,6 +21205,31 @@
    "lastmod": "2026-09-17T16:50:09+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Texas Quick Chess Championship",
+   "city": "TX 77009",
+   "start": "2027-04-24",
+   "end": "2027-04-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $525",
+   "tc": "G/15, no delay or increment",
+   "url": "https://mychess.events/event/2027-texas-quick-chess-championship/",
+   "src": "https://mychess.events/event/2027-texas-quick-chess-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T09:06:50+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -21521,7 +21796,7 @@
    "src": "https://mychess.events/event/orchard-lake-xxix-2027/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-10-13T17:36:25+00:00"
+   "lastmod": "2026-10-13T18:53:57+00:00"
   },
   {
    "c": "US",
