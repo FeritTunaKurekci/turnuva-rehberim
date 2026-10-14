@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-14T09:14",
+ "guncelleme": "2026-10-14T16:31",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-14T09:13",
+   "tarama": "2026-10-14T16:30",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-14T09:14",
+   "tarama": "2026-10-14T16:31",
    "kaynak": "https://mychess.events"
   }
  },
@@ -6701,9 +6701,9 @@
    "kaynak": "site",
    "kaynak_metin": "Red Bull Chess Masters Turnuvaları Başlıyor !!! Red Bull Chess Masters Turnuvaları Başlıyor !!! Türkiye Satranç Federasyonu ve Red Bull ortaklığı ile dünyada ilk olacak bir organizasyon gerçekleştiriliyor ve dev bir turnuvalar serisi başlıyor. Ülkemizdeki 15 yaş ve üzeri tüm aktif lisansı sporcuların ücretsiz olarak katılabileceği Red Bull Chess Masters turnuvalar serisinin seçmeleri online yıldırım, finali ise rapid tempoda oynanacak. Seçmeler Türkiye'nin 7 bölgesinde, her gün farklı bir bölgen",
    "id": "d9efc0466b88",
-   "tarih_degisti": "2026-10-08 → 2026-10-18",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-10-14",
+   "tarih_degisti": "2026-10-08 → 2026-10-18",
    "durum": "yaklasan"
   },
   {
@@ -7630,7 +7630,7 @@
    ],
    "url": "https://karaman.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI Satranç Haberleri KARAMANA 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Karaman “29 Ekim Cumhuriyet Bayramı Satranç Turnuvası \" 24-25.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası",
+   "kaynak_metin": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI Satranç Haberleri KARAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Karaman “29 Ekim Cumhuriyet Bayramı Satranç Turnuvası \" 24-25.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası ",
    "id": "b65d8d43b922",
    "ilk_gorulme": "2026-10-12",
    "son_gorulme": "2026-10-14",
@@ -8037,7 +8037,7 @@
    ],
    "url": "https://eskisehir.tsf.org.tr/satranc-haberleri/1058-eskisehir-bueyueksehir-belediyesi-geleneksel-cumhuriyet-kupasi-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "ESKİŞEHİR BÜYÜKŞEHİR BELEDİYESİ GELENEKSEL CUMHURİYET KUPASI SATRANÇ TURNUVASI ESKİŞEHİR BÜYÜKŞEHİR BELEDİYESİ GELENEKSEL CUMHURİYET KUPASI SATRANÇ TURNUVASI Eskişehir Büyükşehir Belediyesi Geleneksel CUmhuriyet Kupası Satranç Turnuvası 24-25 Ekim 2026 tarihleri arasında Eskişehir Kentpark Sosyal Kütüphanede yapılacaktır. Turnuvaya ait bütün detaylar için turnuva yönergesini incelemeyi unutmayın. TURNUVA YÖNERGESİ TURNUVA KAYIT Sonraki >",
+   "kaynak_metin": "ESKİŞEHİR BÜYÜKŞEHİR BELEDİYESİ GELENEKSEL CUMHURİYET KUPASI SATRANÇ TURNUVASI ESKİŞEHİR BÜYÜKŞEHİR BELEDİYESİ GELENEKSEL CUMHURİYET KUPASI SATRANÇ TURNUVASI Eskişehir Büyükşehir Belediyesi Geleneksel Cumhuriyet Kupası Satranç Turnuvası 24-25 Ekim 2026 tarihleri arasında Eskişehir Kentpark Sosyal Kütüphanede yapılacaktır. Turnuvaya ait bütün detaylar için turnuva yönergesini incelemeyi unutmayın. TURNUVA YÖNERGESİ TURNUVA KAYIT < Önceki Sonraki >",
    "id": "68994ae75442",
    "ilk_gorulme": "2026-10-12",
    "son_gorulme": "2026-10-14",
@@ -9687,6 +9687,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Bilecik",
+   "name": "BOZÜYÜK BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bilecik.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "BOZÜYÜK BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI 28 Ekim 2026 tarihinde Bozüyük Metristepe Kültür Merkezinde gerçekleştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 26.10.2026 Yönerge Turnuva Kayıt Devamını oku...",
+   "id": "61ffe82f3939",
+   "ilk_gorulme": "2026-10-14",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Burdur",
    "name": "BUCAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-10-29",
@@ -9880,6 +9905,30 @@
    "kaynak_metin": "Isparta 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Isparta 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Eşlendirme ve Sonuç Canlı Yayın Isparta 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 10-11 Ekim 2026 tarihlerinde Isparta Gençlik Merkezi Satranç Salonu'nda düzenlenecektir. Turnuva Yönergesi Turnuva Kayıt",
    "id": "20ccca718197",
    "ilk_gorulme": "2026-10-04",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
+   "name": "KARAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri/858-29-ekim-cumhuriyet-bayram-satranc-turnuvasi-2026",
+   "kaynak": "site",
+   "kaynak_metin": "KARAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KARAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Karaman “29 Ekim Cumhuriyet Bayramı Satranç Turnuvası \" 24-25.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA Karaman 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası ORGANİZA",
+   "id": "a6bb9c2aa7f4",
+   "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-10-14",
    "durum": "yaklasan"
   },
@@ -10437,6 +10486,31 @@
    "kaynak": "site",
    "kaynak_metin": "İZMİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İZMİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İzmir Denetimli Serbestlik Müdürlüğü, İzmir GSİM ve İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"İzmir 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 31 Ekim - 1 Kasım 2026 tarihinde İzmir Denetimli Serbestlik Müdürlüğünde oynanacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve önceki ",
    "id": "0ac499c1fe3d",
+   "ilk_gorulme": "2026-10-14",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Şırnak",
+   "name": "ŞIRNAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sirnak.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "ŞIRNAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI ",
+   "id": "977c449143fe",
    "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-10-14",
    "durum": "yaklasan"
@@ -11612,6 +11686,31 @@
    "lastmod": "2026-08-02T04:15:42+00:00",
    "id": "bd845d7fb9b1",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/guncel-haberler/",
+   "kaynak": "site",
+   "kaynak_metin": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de ",
+   "id": "07f13d8c5a90",
+   "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-10-14",
    "durum": "yaklasan"
   },
@@ -14056,6 +14155,31 @@
    "lastmod": "2026-10-02T11:03:48+00:00",
    "id": "3129ccd277f9",
    "ilk_gorulme": "2026-10-02",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası..",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kapali-satranc/5300-goeruelmeyen-gazete-2-uluslararas-goerme-engelliler-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası.. Türkiye’nin ilk ve tek görme engellilere yönelik gazetesi Görülmeyen Gazete tarafından, İstiklal Satranç Spor Kulübü ve Türkiye Satranç Federasyonu iş birliğiyle Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası düzenlenecektir. Kültür, sanat ve müzikle iç içe geçmiş, unutulmaz bir festival atmosferi sunacak turnuva, 16-20 Kasım 2026 tar",
+   "id": "f71c203e20f1",
+   "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-10-14",
    "durum": "yaklasan"
   },
@@ -17234,6 +17358,31 @@
    "kaynak_metin": "BABALAR GÜNÜ SATRANÇ TURNUVASI BABALAR GÜNÜ SATRANÇ TURNUVASI Babalar Günü Satranç Turnuvası 08 Yaş ve Altı Kategorisi, 10 Yaş ve Altı Kategorisi, 1 4 Yaş ve Altı Kategorisi ve Açık Kategorisi olmak üzere 4 farklı Kategoride gerçekleşecektir. Turnuvaya TSF Lisansına sahip 2025-2026 yılı vizesi yapılmış, 2019 ve öncesin de doğan sporcular katılabilir. TURNUVA YERİ: 7 ARALIK İLKOKULU TURNUVA TARİHİ: 13 -14 Haziran 2026 SON BAŞVURU TARİHİ: 12 /06 /2026 Saat:17:00 KAYIT KONTROL İŞLEMLERİ: 12 Haziran",
    "id": "a5b068518a46",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kilis",
+   "name": "KİLİS 7 ARALIK KURTULUŞ GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kilis.tsf.org.tr/78-turnuvalar/770-omerplt79",
+   "kaynak": "site",
+   "kaynak_metin": "KİLİS 7 ARALIK KURTULUŞ GÜNÜ SATRANÇ TURNUVASI KİLİS 7 ARALIK KURTULUŞ GÜNÜ SATRANÇ TURNUVASI Değerli satranç severler 28-29 Kasım 2026 tarihleri arasında Kilis Gençlik ve Spor Merkezi salonunda 7 Aralık Kurtuluş Günü Satranç Turnuvası düzenlenecektir. Son Başvuru Tarihi 26 Kasım 2026 Saat 17.00’dir . Turnuvaya katılacak sporcuların bu tarihe kadar kayıt işlemlerini yapmaları gerekmektedir. Online kayıt esnasında telefonların doğru girilmesi geri bildirimler için önemlidir. Turnuva Kaydını yapan",
+   "id": "482b4af86d03",
+   "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-10-14",
    "durum": "yaklasan"
   },
@@ -22173,6 +22322,45 @@
    "durum": "yaklasan"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Texas Action Championship",
+   "city": "TX 77009",
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Published Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/30; d5",
+   "url": "https://mychess.events/event/2027-texas-action-championship/",
+   "src": "https://mychess.events/event/2027-texas-action-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T10:55:01+00:00",
+   "id": "d924c68ea2ee",
+   "ilk_gorulme": "2026-10-14",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -22978,6 +23166,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Tunnelvision LIV",
+   "city": "SC 29212",
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Player check",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,000",
+   "tc": null,
+   "url": "https://mychess.events/event/tunnelvision-liv-2027/",
+   "src": "https://mychess.events/event/tunnelvision-liv-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T11:01:35+00:00",
+   "id": "c9f719ac65d2",
+   "ilk_gorulme": "2026-10-14",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CZ",
    "ulke": "Çekya",
    "bayrak": "cz",
@@ -23736,7 +23953,7 @@
    "src": "https://mychess.events/event/2027-texas-quick-chess-championship/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-10-14T09:06:50+00:00",
+   "lastmod": "2026-10-14T09:34:27+00:00",
    "id": "4e18d676cf10",
    "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-10-14",
@@ -23975,6 +24192,60 @@
    "durum": "yaklasan"
   },
   {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "31st International Raiffeisen Chess Open Ratten 2027",
+   "city": "Ratten",
+   "start": "2027-05-06",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "5th Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,600",
+   "tc": "90 min / 40 moves + 30 min; 30-sec increment",
+   "url": "https://mychess.events/event/31st-international-raiffeisen-chess-open-ratten-2027/",
+   "src": "https://mychess.events/event/31st-international-raiffeisen-chess-open-ratten-2027/",
+   "cr": "https://s3.chess-results.com/test/tnr1491905.aspx?lan=36",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T12:00:34+00:00",
+   "id": "2d8f493a5b47",
+   "ilk_gorulme": "2026-10-14",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -24151,6 +24422,50 @@
    "durum": "yaklasan"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Tunnelvision LVI",
+   "city": "SC 29212",
+   "start": "2027-05-15",
+   "end": "2027-05-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Section Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,000",
+   "tc": "G/45 +5 seconds per move",
+   "url": "https://mychess.events/event/tunnelvision-lvi-2027/",
+   "src": "https://mychess.events/event/tunnelvision-lvi-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T11:13:58+00:00",
+   "id": "8aa71c945b3a",
+   "ilk_gorulme": "2026-10-14",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "SK",
    "ulke": "Slovakya",
    "bayrak": "sk",
@@ -24181,6 +24496,45 @@
    "lastmod": "2026-07-07T10:45:21+00:00",
    "id": "de4121eee3e4",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "May Wilson Chess FIDE Plus Score #22",
+   "city": "IL 60532",
+   "start": "2027-05-23",
+   "end": "2027-05-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Major",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Reserve",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Booster",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "G/60 +30-second increment",
+   "url": "https://mychess.events/event/may-wilson-chess-fide-plus-score-22-2027/",
+   "src": "https://mychess.events/event/may-wilson-chess-fide-plus-score-22-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T11:36:34+00:00",
+   "id": "5aea9a25a2e7",
+   "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-10-14",
    "durum": "yaklasan"
   },

@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-14T09:14",
+ "taranma": "2026-10-14T16:31",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 20,
+ "okunan_sayfa": 19,
  "turnuvalar": [
   {
    "c": "US",
@@ -20092,6 +20092,41 @@
    "lastmod": "2026-09-25T11:25:27+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Texas Action Championship",
+   "city": "TX 77009",
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Published Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/30; d5",
+   "url": "https://mychess.events/event/2027-texas-action-championship/",
+   "src": "https://mychess.events/event/2027-texas-action-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T10:55:01+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -20635,6 +20670,31 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-13T09:32:40+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Tunnelvision LIV",
+   "city": "SC 29212",
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Player check",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,000",
+   "tc": null,
+   "url": "https://mychess.events/event/tunnelvision-liv-2027/",
+   "src": "https://mychess.events/event/tunnelvision-liv-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T11:01:35+00:00"
   },
   {
    "c": "CH",
@@ -21227,7 +21287,7 @@
    "src": "https://mychess.events/event/2027-texas-quick-chess-championship/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-10-14T09:06:50+00:00"
+   "lastmod": "2026-10-14T09:34:27+00:00"
   },
   {
    "c": "CH",
@@ -21471,6 +21531,56 @@
    "lastmod": "2026-09-25T05:18:08+00:00"
   },
   {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "31st International Raiffeisen Chess Open Ratten 2027",
+   "city": "Ratten",
+   "start": "2027-05-06",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "5th Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,600",
+   "tc": "90 min / 40 moves + 30 min; 30-sec increment",
+   "url": "https://mychess.events/event/31st-international-raiffeisen-chess-open-ratten-2027/",
+   "src": "https://mychess.events/event/31st-international-raiffeisen-chess-open-ratten-2027/",
+   "cr": "https://s3.chess-results.com/test/tnr1491905.aspx?lan=36",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T12:00:34+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -21579,6 +21689,46 @@
    "lastmod": "2026-09-04T10:35:25+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Tunnelvision LVI",
+   "city": "SC 29212",
+   "start": "2027-05-15",
+   "end": "2027-05-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Section Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,000",
+   "tc": "G/45 +5 seconds per move",
+   "url": "https://mychess.events/event/tunnelvision-lvi-2027/",
+   "src": "https://mychess.events/event/tunnelvision-lvi-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T11:13:58+00:00"
+  },
+  {
    "c": "SK",
    "ulke": "Slovakya",
    "bayrak": "sk",
@@ -21607,6 +21757,41 @@
    "cr": "https://chess-results.com/tnr1443805.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-07T10:45:21+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "May Wilson Chess FIDE Plus Score #22",
+   "city": "IL 60532",
+   "start": "2027-05-23",
+   "end": "2027-05-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Major",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Reserve",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Booster",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "G/60 +30-second increment",
+   "url": "https://mychess.events/event/may-wilson-chess-fide-plus-score-22-2027/",
+   "src": "https://mychess.events/event/may-wilson-chess-fide-plus-score-22-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-14T11:36:34+00:00"
   },
   {
    "c": "AT",
