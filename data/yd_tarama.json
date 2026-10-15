@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-14T21:17",
+ "taranma": "2026-10-15T08:49",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -19777,6 +19777,41 @@
    "lastmod": "2026-10-13T08:04:43+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Shorewood Hills Sharks Chess Championship",
+   "city": "WI 53705",
+   "start": "2027-02-07",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "K–12 Rated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–8 Non-Rated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–5 Non-Rated",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/30; d5",
+   "url": "https://mychess.events/event/2027-shorewood-hills-sharks-chess-championship/",
+   "src": "https://mychess.events/event/2027-shorewood-hills-sharks-chess-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-15T06:28:19+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -20022,6 +20057,51 @@
    "lastmod": "2026-09-25T10:25:41+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 World Amateur Team & U.S. Team East",
+   "city": "NJ 07054",
+   "start": "2027-02-13",
+   "end": "2027-02-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Team Championship",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Rating-Class Awards",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "Scholastic Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Special Team Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Individual Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "40/100, SD/30; d5",
+   "url": "https://mychess.events/event/2027-world-amateur-team-us-team-east/",
+   "src": "https://mychess.events/event/2027-world-amateur-team-us-team-east/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-15T05:28:05+00:00"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -20065,6 +20145,46 @@
    "cr": "https://chess-results.com/tnr1482880.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-04T11:48:55+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Presidents' Day Scholastic 2027",
+   "city": "TX 75024",
+   "start": "2027-02-15",
+   "end": "2027-02-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": 1200,
+     "max": null
+    },
+    {
+     "n": "High-Middle U1200",
+     "min": null,
+     "max": 1199
+    },
+    {
+     "n": "Elementary U1200",
+     "min": null,
+     "max": 1199
+    },
+    {
+     "n": "Elementary U600",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/45; d5",
+   "url": "https://mychess.events/event/presidents-day-scholastic-2027/",
+   "src": "https://mychess.events/event/presidents-day-scholastic-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-15T05:37:12+00:00"
   },
   {
    "c": "FR",
@@ -20125,6 +20245,96 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-14T10:55:01+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 FSCL South Regional Tournament",
+   "city": "FL 33018",
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "K–1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–12",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/25; d5",
+   "url": "https://mychess.events/event/2027-fscl-south-regional-tournament/",
+   "src": "https://mychess.events/event/2027-fscl-south-regional-tournament/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-15T06:16:32+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "3rd Annual B-Town Blizzard Scholastic & Open 2027",
+   "city": "IN 47401",
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master/Expert Open (2000+)",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Upper Open (1500–1999)",
+     "min": 1500,
+     "max": 1999
+    },
+    {
+     "n": "Lower Open (1000–1499)",
+     "min": 1000,
+     "max": 1499
+    },
+    {
+     "n": "Novice Open (below 1000)",
+     "min": null,
+     "max": 999
+    },
+    {
+     "n": "Total Projected Cash Prizes",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,000",
+   "tc": "G/45+10",
+   "url": "https://mychess.events/event/3rd-annual-b-town-blizzard-scholastic-open-2027/",
+   "src": "https://mychess.events/event/3rd-annual-b-town-blizzard-scholastic-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-15T05:57:56+00:00"
   },
   {
    "c": "FR",
