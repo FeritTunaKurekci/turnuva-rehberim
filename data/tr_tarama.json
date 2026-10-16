@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-15T21:00",
+ "taranma": "2026-10-16T08:42",
  "surum": "0.4",
  "iller": [
   {
@@ -18,7 +18,7 @@
    "il": "Afyonkarahisar",
    "durum": "ok",
    "host": "afyon.tsf.org.tr",
-   "adet": 4
+   "adet": 1
   },
   {
    "il": "Ağrı",
@@ -48,7 +48,7 @@
    "il": "Antalya",
    "durum": "ok",
    "host": "antalya.tsf.org.tr",
-   "adet": 11
+   "adet": 12
   },
   {
    "il": "Ardahan",
@@ -66,7 +66,7 @@
    "il": "Aydın",
    "durum": "ok",
    "host": "aydin.tsf.org.tr",
-   "adet": 4
+   "adet": 6
   },
   {
    "il": "Balıkesir",
@@ -108,7 +108,7 @@
    "il": "Bitlis",
    "durum": "ok",
    "host": "bitlis.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Bolu",
@@ -330,7 +330,7 @@
    "il": "Malatya",
    "durum": "ok",
    "host": "malatya.tsf.org.tr",
-   "adet": 5
+   "adet": 4
   },
   {
    "il": "Manisa",
@@ -628,48 +628,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Afyonkarahisar",
-   "name": "AKTİF TURNUVALARIMIZ",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://afyon.tsf.org.tr/turnuvalar/duyurular/904-aktif-turnuvalarimiz",
-   "kaynak": "site",
-   "kaynak_metin": "AKTİF TURNUVALARIMIZ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakemlerimiz Antrenörlerimiz Turnuvalar Turnuva Haberleri DUYURULAR Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim AKTİF TURNUVALARIMIZ < Önceki Sonraki > LİSANS İŞLEMLERİ Kaynaklar Satranç Haberleri Turnuva Haberleri Etkinlik Takvimi Turnuva Kayıt Turnuva Kayıt İPTAL Lisans Nasıl Çıkarılır? Antrenörlerimiz Hakemlerimiz TURNUVA ARŞİVİ 2025-2026 S"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Afyonkarahisar",
-   "name": "2026-2027 SEZONU TAMAMLANAN TURNUVALAR",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://afyon.tsf.org.tr/turnuvalar/duyurular/903-2026-2027-sezonu-tamamlanan-turnuvalar",
-   "kaynak": "site",
-   "kaynak_metin": "2026-2027 SEZONU TAMAMLANAN TURNUVALAR Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakemlerimiz Antrenörlerimiz Turnuvalar Turnuva Haberleri DUYURULAR Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 2026-2027 SEZONU TAMAMLANAN TURNUVALAR < Önceki Sonraki > LİSANS İŞLEMLERİ Kaynaklar Satranç Haberleri Turnuva Haberleri Etkinlik Takvimi Turnuva Kayıt Turnuva Kayıt İPTAL Lisans Nasıl Çıkarılır? Antrenörlerimiz Hak"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Afyonkarahisar",
    "name": "İl Dışı Turnuvalarımız",
    "start": "2026-10-27",
    "end": "2026-10-29",
@@ -691,21 +649,20 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Türkiye geneli",
-   "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "name": "29 Ekim Cumhuriyet Bayramı Satranç Turnuvası",
    "start": "2026-10-29",
    "end": "2026-10-29",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://afyon.tsf.org.tr/turnuvalar/duyurular",
+   "url": "https://amasya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI DUYURULAR 2022 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AKTİF TURNUVALARIMIZ 2026-2027 SEZONU TAMAMLANAN TURNUVALAR İsmail Mert Odabaş'a Tebrikler İSMAİL MERT ODABAŞ’TAN ULUSLARARASI TURNUVADA BÜYÜK BAŞARI Yunanistan'da düzenlenen 9th SKG International Open Tournament 2026 adlı turnuvada Group B kategorisinde Türkiye’yi ve şehrimizi temsilen mücadele eden sporcumuz İsmail Mert Odabaş , gösterdiği başarılı performansla turnuvayı 8 puanla 1. sırada "
+   "kaynak_metin": "29 Ekim Cumhuriyet Bayramı Satranç Turnuvası TARİH: 24-25 Ekim 2026 Kategori: Açık Kategori 2020 ve Önceki Yıllarda Doğan Sporcular 14 Yaş ve Altı Kategorisi 2013-2016 Yılları ve Arasında Doğan Sporcular 10 Yaş ve Altı Kategorisi 2017-2018 Yılları ve Arasında Doğan Sporcular 8 Yaş ve Altı Kategorisi 2019-2020 Yıllarında Doğan Sporcular Süre: 35’+30” EKLEMELİ TEMPO Yer: AMASYA YURT MÜDÜRLÜĞÜ KIZ ÖĞRENCİ YURDU B BLOK Konum için TIKLAYINIZ Tur Sayısı: İSVİÇRE SİSTEMİ / 6 TUR Son Başvuru: 23 Ekim 20"
   },
   {
    "c": "TR",
@@ -1001,21 +958,11 @@
    "bayrak": "tr",
    "il": "Antalya",
    "name": "Turnuva Haberleri",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
-    {
-     "n": "A Kategorisi",
-     "min": 1200,
-     "max": null
-    },
-    {
-     "n": "B Kategorisi",
-     "min": null,
-     "max": 1199
-    },
     {
      "n": "Yaş kategorileri",
      "age": true
@@ -1023,7 +970,27 @@
    ],
    "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 SERİK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI × Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği tarafından, 24-25 Ekim 2026 tarihlerinde, Serik Belediyesi Toplantı Salonunda, 2026 Serik 29 Ekim Cumhuriyet Satranç Turnuvası düzenlenecektir. Müsabaka 35'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER TSF YARIŞMA YÖ"
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 GÖKKUŞAĞI KOLEJİ HIZLI SATRANÇ TURNUVASI × Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği ve Gökkuşağı Koleji tarafından, 7 Kasım 2026 tarihinde, Gökkuşağı Kolejinde, 2026 Gökkuşağı Koleji Hızlı Satranç Turnuvası düzenlenecektir. Müsabaka 10'+5'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER TSF YARIŞMA YÖNERGELERİ HAZIR"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Antalya",
+   "name": "2026 GÖKKUŞAĞI KOLEJİ HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1306-gokkusagihizli",
+   "kaynak": "site",
+   "kaynak_metin": "2026 GÖKKUŞAĞI KOLEJİ HIZLI SATRANÇ TURNUVASI 2026 GÖKKUŞAĞI KOLEJİ HIZLI SATRANÇ TURNUVASI × Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği ve Gökkuşağı Koleji tarafından, 7 Kasım 2026 tarihinde, Gökkuşağı Kolejinde, 2026 Gökkuşağı Koleji Hızlı Satranç Turnuvası düzenlenecektir. Müsabaka 10'+5'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER TSF YARIŞMA YÖNERGE"
   },
   {
    "c": "TR",
@@ -1217,6 +1184,46 @@
    "url": "https://aydin.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "Didim Cumhuriyet Bayramı Satranç Turnuvası Didim Gençlik ve Spor İlçe Müdürlüğü ve Didim Satranç İlçe Temsilciliğinin düzenlediği Didim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim -01 Kasım 2 026 günlerinde Didim Gençlik Merkezi Salonu 'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Turnuvaya kayıt içi"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Nazilli Cumhuriyet Bayramı Satranç Turnuvası",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Nazilli Cumhuriyet Bayramı Satranç Turnuvası Nazilli Gençlik ve Spor İlçe Müdürlüğü, Nazilli Satranç İlçe Temsilciliğinin düzenlediği Nazilli 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı Satranç Turnuvası 31 Ekim - 01 Kasım 2 026 günlerinde Nazilli Esat ERGÜLER Spor Tesislerinde yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yö"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Atatürk Haftası Satranç Turnuvası",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Atatürk Haftası Satranç Turnuvası Aydın Gençlik ve Spor İl Müdürlüğü ve Aydın Satranç İl Temsilciliğinin düzenlediği Aydın Atatürk Haftası Satranç Turnuvası 31 Ekim-01 Kasım 2 026 günlerinde Aydın SKS Spor Salonu 'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Turnuvaya kayıt için sol bölümdeki \" Turnuv"
   },
   {
    "c": "TR",
@@ -1548,6 +1555,27 @@
    "url": "https://bingol.tsf.org.tr/satranc-haberleri/121-2025-2026-oegretim-yili-okul-sporlari-kuecuekler-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "2025-2026 ÖĞRETİM YILI OKUL SPORLARI KÜÇÜKLER SATRANÇ TURNUVASI 2025-2026 ÖĞRETİM YILI OKUL SPORLARI KÜÇÜKLER SATRANÇ TURNUVASI 2025-2025 Öğretim Yılı Okul Sporları kapsamında 28 Şubat - 1 Mart tarihlerinde gerçekleştirilecek olan İl Birnciliği Turnuvası Karşıyaka Çok Amaçlı Spor Salonunda gerçekleştirilecektir. Genel Kategorisi Turnuva Chess-Result Sayfası İçin Tılayınız. Kızlar Kategorisi Turnuva Chess-Result Sayfası İçin Tıklayınız. Turnuva yönergesi için tıklayınız. < Önceki Sonraki >"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bitlis",
+   "name": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI - Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. - Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda"
   },
   {
    "c": "TR",
@@ -2216,11 +2244,11 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Gümüşhane",
-   "name": "Turnuva Haberleri",
+   "name": "***TURNUVA KAYIT***",
    "start": "2026-10-29",
    "end": "2026-10-29",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "ELO",
    "sections": [
     {
      "n": "Genel",
@@ -2228,30 +2256,9 @@
      "max": null
     }
    ],
-   "url": "https://gumushane.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "url": "https://gumushane.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=106",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri GÜMÜŞHANE - 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası (4) GÜMÜŞHANE - 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Cumhuriyet Bayramı dolayısıyla 29 Ekim Perşembe günü saat 19:00’da chess.com üzerinden online satranç turnuvası düzenlenecektir. Turnuvamız açık kategoride ve 5'+2\" eklemeli tempo ile 11 tur üzerinden gerçekleştirilecektir. Yönerge.pdf Turnuva Katılım Adımları: 1- chess.com sitesinden ücretsiz olarak kullanıcı adı alınması gerekmektedir.(chess."
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Gümüşhane",
-   "name": "GÜMÜŞHANE - 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası (4)",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://gumushane.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "GÜMÜŞHANE - 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası (4) Turnuva Haberleri GÜMÜŞHANE - 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası (4) GÜMÜŞHANE - 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Cumhuriyet Bayramı dolayısıyla 29 Ekim Perşembe günü saat 19:00’da chess.com üzerinden online satranç turnuvası düzenlenecektir. Turnuvamız açık kategoride ve 5'+2\" eklemeli tempo ile 11 tur üzerinden gerçekleştirilecektir. Yönerge.pdf Turnuva Katılım Adımları: 1- chess.com sitesinden ücretsiz olarak k"
+   "kaynak_metin": "***TURNUVA KAYIT*** Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Satranç Merkezleri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Etkinlik Takvimi Etkinlik Takvimi Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI - KELKİT / GÜMÜŞHANE KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi s"
   },
   {
    "c": "TR",
@@ -2529,26 +2536,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İstanbul",
-   "name": "V Metroway AVM Satranç Turnuvası 17-18 Ekim 2026`da..",
-   "start": "2026-10-17",
-   "end": "2026-10-18",
-   "status": "a",
-   "reyting_turu": "UKD",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5298-v-metroway-avm-satranc-turnuvas-ekim20262",
-   "kaynak": "site",
-   "kaynak_metin": "V Metroway AVM Satranç Turnuvası 17-18 Ekim 2026`da.. V Metroway AVM Satranç Turnuvası 17-18 Ekim 2026`da.. V Metroway AVM (Başakşehir) tarafından 17-18 Ekim 2026 tarihlerinde Satranç Turnuvası düzenlenecektir. Turnuva 35 dakika+30 saniye düşünme süresinde 6 tur İsviçre Sistemiyle UKD turnuvası olarak düzenlenecektir. Turnuva 10 yaşaltı ve 14 yaşaltı olmak üzere 2 kategoride yapılacaktır. Turnuvada dereceye girecek sporcular V Metroway AVM tarafından toplam 14.000 TL para ödülü ile ödüllendirile"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "İstanbul",
    "name": "RİTİM İstanbul AVM-Nova Time SK 14. Satranç Turnuvası 17-18 Ekim 2026`da..",
    "start": "2026-10-17",
    "end": "2026-10-18",
@@ -2564,26 +2551,6 @@
    "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5288-ritim-istanbul-avm-nova-time-sk-14-satranc-turnuvasi-17-18-ekim-2026da",
    "kaynak": "site",
    "kaynak_metin": "RİTİM İstanbul AVM-Nova Time SK 14. Satranç Turnuvası 17-18 Ekim 2026`da.. RİTİM İstanbul AVM-Nova Time SK 14. Satranç Turnuvası 17-18 Ekim 2026`da.. NOVA Time Spor Kulübü tarafından 17-18 Ekim 2026 tarihlerinde 14. Satranç Turnuvası düzenlenecektir. Turnuva Ritim İstanbul AVM (Maltepe) ev sahipliğinde yapılacak olup 60 dakika+30 saniye düşünme süresinde 6 tur İsviçre Sistemiyle ELO/UKD hesaplamalarına dahil düzenlenecektir. Turnuva her yaştan sporcunun katılımına açık olup A ve B rating kategor"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "İstanbul",
-   "name": "Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği..",
-   "start": "2026-10-17",
-   "end": "2026-10-18",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5291-lion-satranc-spor-kuluebue-hzl-satranc-turnuvas-ve-anaokulu-senligi",
-   "kaynak": "site",
-   "kaynak_metin": "Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği.. Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği.. Lion Satranç Spor Kulübü tarafından Ümraniye ilçesinde Memos Cafe Bistro ev sahipliğinde 17-18 Ekim 2026 tarihlerinde 8 yaşaltı (Cumartesi) ve 10 yaşaltı (Pazar) sporcuların katılımına açık Hızlı Satranç Turnuvası düzenlenecektir. Turnuvanın 10 dakika+5 saniye düşünme süresinde 6 tur düzenlenmesi planlanmıştır. Turnuva sonunda ilk 5 sporcuya yönergede beli"
   },
   {
    "c": "TR",
@@ -2624,6 +2591,46 @@
    "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5297-mba-okullar-beylikduezue-1-geleneksel-hzl-satranc-turnuvas",
    "kaynak": "site",
    "kaynak_metin": "MBA Okulları Beylikdüzü 1 Geleneksel Hızlı Satranç Turnuvası 31 Ekim Cumartesi MBA Okulları Beylikdüzü 1 Geleneksel Hızlı Satranç Turnuvası 31 Ekim Cumartesi MBA Okulları Beylikdüzü 1 Kampüsü tarafından 31 Ekim 2026 Cumartesi günü 7-14 yaş arası sporcuların katılımına yönelik Geleneksel Hızlı Satranç Turnuvası düzenlenecektir. Turnuva 15 dakika+5 saniye düşünme süresinde 5 tur İsviçre Sistemiyle hızlı satranç turnuvası olarak 5 kategoride yapılacaktır. Turnuvada genel sıralamada ilk 3 sporcu Kup"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "V Metroway AVM Satranç Turnuvası 17-18 Ekim 2026`da..",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5298-v-metroway-avm-satranc-turnuvas-ekim20262",
+   "kaynak": "site",
+   "kaynak_metin": "V Metroway AVM Satranç Turnuvası 17-18 Ekim 2026`da.. V Metroway AVM Satranç Turnuvası 17-18 Ekim 2026`da.. V Metroway AVM (Başakşehir) tarafından 17-18 Ekim 2026 tarihlerinde Satranç Turnuvası düzenlenecektir. Turnuva 35 dakika+30 saniye düşünme süresinde 6 tur İsviçre Sistemiyle UKD turnuvası olarak düzenlenecektir. Turnuva 10 yaşaltı ve 14 yaşaltı olmak üzere 2 kategoride yapılacaktır. Turnuvada dereceye girecek sporcular V Metroway AVM tarafından toplam 14.000 TL para ödülü ile ödüllendirile"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği..",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5291-lion-satranc-spor-kuluebue-hzl-satranc-turnuvas-ve-anaokulu-senligi",
+   "kaynak": "site",
+   "kaynak_metin": "Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği.. Lion Satranç Spor Kulübü Hızlı Satranç Turnuvası ve Anaokulu Şenliği.. Lion Satranç Spor Kulübü tarafından Ümraniye ilçesinde Memos Cafe Bistro ev sahipliğinde 17-18 Ekim 2026 tarihlerinde 8 yaşaltı (Cumartesi) ve 10 yaşaltı (Pazar) sporcuların katılımına açık Hızlı Satranç Turnuvası düzenlenecektir. Turnuvanın 10 dakika+5 saniye düşünme süresinde 6 tur düzenlenmesi planlanmıştır. Turnuva sonunda ilk 5 sporcuya yönergede beli"
   },
   {
    "c": "TR",
@@ -3354,27 +3361,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Malatya",
-   "name": "2026 Avrupa Kulüpler Kupası Başlıyor",
-   "start": "2026-10-15",
-   "end": "2026-10-15",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://www.tsf.org.tr/haber/2026-avrupa-kuluepler-kupasi-basliyor",
-   "kaynak": "site",
-   "kaynak_metin": "2026 Avrupa Kulüpler Kupası Başlıyor Haber 15 Ekim 2026 2026 Avrupa Kulüpler Kupası Başlıyor Haberi oku"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Manisa",
    "name": "Turnuva Haberleri",
    "start": "2026-10-17",
@@ -3600,7 +3586,7 @@
    ],
    "url": "https://mersin.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "29 Ekim Cumhuriyet Bayramı Erdemli Satranç Turnuvası(2026) Koyuncu Merkez Camide YÖNERGE"
+   "kaynak_metin": "29 Ekim Cumhuriyet Bayramı Erdemli Satranç Turnuvası(2026) Koyuncu Merkez Camiinde YÖNERGE"
   },
   {
    "c": "TR",
@@ -4719,7 +4705,7 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,"
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Satranç Haberleri Hakem Görevlendirmeleri Foto Galeri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search "
   },
   {
    "c": "TR",
