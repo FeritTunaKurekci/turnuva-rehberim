@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-18T15:07",
+ "taranma": "2026-10-18T20:04",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 14,
  "turnuvalar": [
   {
    "c": "US",
@@ -9600,6 +9600,41 @@
    "cr": "https://chess-results.com/tnr1500396.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-06T11:11:40+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "LWCC Women & Girls Classical & Rapid Chess Weekend 2026",
+   "city": "London N1C 4AG",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Major U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Minor U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $540",
+   "tc": null,
+   "url": "https://mychess.events/event/lwcc-women-girls-classical-rapid-chess-weekend-2026/",
+   "src": "https://mychess.events/event/lwcc-women-girls-classical-rapid-chess-weekend-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-18T17:31:17+00:00"
   },
   {
    "c": "PT",
