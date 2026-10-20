@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-20T16:25",
+ "guncelleme": "2026-10-20T21:08",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-20T16:24",
+   "tarama": "2026-10-20T21:07",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-20T16:25",
+   "tarama": "2026-10-20T21:08",
    "kaynak": "https://mychess.events"
   }
  },
@@ -9135,6 +9135,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "2026-2027 İstanbul İlçe Okul Sporları Satranç Turnuvaları Başlıyor..",
+   "start": "2026-10-26",
+   "end": "2026-10-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/gencler-satranc/5320-2026-2027istanbul-ilce-okul-sporlar-satranc-turnuvalari",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 İstanbul İlçe Okul Sporları Satranç Turnuvaları Başlıyor.. 2026-2027 İstanbul İlçe Okul Sporları Satranç Turnuvaları Başlıyor.. İstanbul`un 39 ilçesinde İlçe GSİM, İlçe MEM ve TSF İstanbul İlçe Temsilciliklerimiz organizasyonlarıyla İlçe Okul Sporları Satranç Turnuvaları düzenlenecektir. Okul Sporları talimatı gereği turnuva formatı takım turnuvası olarak yapılacak olup, takımlar 4 sporcu + 2 yedek sporcudan oluşmaktadır. İlkokul-Ortaokul ve Liselerin katılımlarıyla düzenlennecek turnu",
+   "id": "649e345df829",
+   "ilk_gorulme": "2026-10-20",
+   "son_gorulme": "2026-10-20",
+   "durum": "yaklasan"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -12845,10 +12870,10 @@
    ],
    "url": "http://zonguldak.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri 2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT 2026-2027 Etkinlik Dönemi Duyurusu 2026-2027 Etkinlik Dönemi 16 Eylül'de başladı. Tüm sporcu, hakem, antrenör ve kulüplerimize yeni etkinik döneminde başarılar dileriz. TSF Zonguldak İl",
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri 2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT ZONGULDAK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ HIZLI SATRANÇ TURNUVASI 07 KASIM 2026 7 Kasım 2026 tarihinde İbrahim Fikri Anıl Ortaokulunda 15'+10\" Eklemeli Tempoyla 10 Kasım Atatürk'ü Anma Gün",
    "id": "2ddbcb158095",
    "ilk_gorulme": "2026-10-12",
-   "son_gorulme": "2026-10-18",
+   "son_gorulme": "2026-10-20",
    "durum": "yaklasan"
   },
   {
@@ -23565,6 +23590,31 @@
    "lastmod": "2026-10-08T10:45:30+00:00",
    "id": "e5ed38ae6e0c",
    "ilk_gorulme": "2026-10-08",
+   "son_gorulme": "2026-10-20",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "2026-2027 İstanbul Okul Sporları Bölge Turnuvaları Hakkında Duyuru..",
+   "start": "2027-01-18",
+   "end": "2027-01-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/gencler-satranc/5321-2026-2027-istanbul-okul-sporlar-bolge-turnuvalar-baslyor",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 İstanbul Okul Sporları Bölge Turnuvaları Hakkında Duyuru.. 2026-2027 İstanbul Okul Sporları Bölge Turnuvaları Hakkında Duyuru.. İstanbul Okul Sporları Bölge Turnuvaları Küçükler-Yıldızlar ve Gençler kategorilerinde Ocak-Şubat 2027 tarihlerinde düzenlenecektir. İstanbul Bölge ve Final Turnuvalarına Okul sporları Mahalli lisansına sahip sporcular katılım gösterebilir, 2. küme sporcu lisansına sahip sporcular turnuvaya katılım gösteremezler. Turnuva formatına göre; okullar her kategoride ",
+   "id": "808b5315ebb5",
+   "ilk_gorulme": "2026-10-20",
    "son_gorulme": "2026-10-20",
    "durum": "yaklasan"
   },
