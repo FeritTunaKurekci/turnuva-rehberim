@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-20T09:02",
+ "guncelleme": "2026-10-20T16:25",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-20T09:01",
+   "tarama": "2026-10-20T16:24",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-20T09:02",
+   "tarama": "2026-10-20T16:25",
    "kaynak": "https://mychess.events"
   }
  },
@@ -8459,9 +8459,9 @@
    "kaynak": "site",
    "kaynak_metin": "NESİBE AYDIN OKULLARI 4.HIZLI SATRANÇ TURNUVASI Nesibe Aydın Okulları 4.Hızlı Satranç Turnuvası 24 Ekim Cumartesi günü Mersin Kampüsünde düzenlenecektir. Her kategoride ilk üç sporcuya kupa verilecektir. Ayrıca yarışmayı tamamlayan bütün sporculara madalya verilecektir. Turnuva Verileri için Tıklayınız ",
    "id": "3d0fc4cbb0d4",
-   "tarih_degisti": "2026-10-17 → 2026-10-24",
    "ilk_gorulme": "2026-10-01",
    "son_gorulme": "2026-10-20",
+   "tarih_degisti": "2026-10-17 → 2026-10-24",
    "durum": "yaklasan"
   },
   {
@@ -9129,9 +9129,9 @@
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri AKHİSAR 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI Akhisar GSİM ve Akhisar ilçe temsilciliği tarafından, Manisa ili , Akhisar ilçesi nde, 24 .10 .2026 tarihinde arasında, Akhisar Gençlik Merkezi spor salonu , isviçre sistem ile, 15 dakika 10 saniye eklemeli zaman temposu kullanılarak Akhisar 29 Ekim Cumhuriyet Bayramıı Satranç Hızlı Turnuvası düzenlenecektir. Turnuvaya başvurular 22 .10 .2026 Saat 17 :00 ’den önce tamamlanmalıdır. Kayıtlar 12 Ekim saat",
    "id": "a58146223549",
-   "tarih_degisti": "2026-10-17 → 2026-10-25",
    "ilk_gorulme": "2026-10-03",
    "son_gorulme": "2026-10-20",
+   "tarih_degisti": "2026-10-17 → 2026-10-25",
    "durum": "yaklasan"
   },
   {
@@ -9745,6 +9745,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Muş",
+   "name": "29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mus.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI MUŞ GSİM, MUŞ SATRANÇ İL TEMSİLCİLİĞİ TARAFINDAN 31EKİM 2026 TARİHİNDE 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI DÜZENLENECEKTİR. ",
+   "id": "69105715d724",
+   "ilk_gorulme": "2026-10-20",
+   "son_gorulme": "2026-10-20",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Mardin",
    "name": "29 EKİM CUMHURİYET BAYRAMI MARDİN SATRANÇ TURNUVASI",
    "start": "2026-10-29",
@@ -10320,7 +10345,7 @@
    "kaynak_metin": "AKTİF TURNUVALARIMIZ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakemlerimiz Antrenörlerimiz Turnuvalar Turnuva Haberleri DUYURULAR Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim AKTİF TURNUVALARIMIZ Sonraki > LİSANS İŞLEMLERİ Kaynaklar Satranç Haberleri Turnuva Haberleri Etkinlik Takvimi Turnuva Kayıt Turnuva Kayıt İPTAL Lisans Nasıl Çıkarılır? Antrenörlerimiz Hakemlerimiz TURNUVA ARŞİVİ TSF Market MİLLİ TAK",
    "id": "bf75e1e457ff",
    "ilk_gorulme": "2026-10-15",
-   "son_gorulme": "2026-10-19",
+   "son_gorulme": "2026-10-20",
    "durum": "yaklasan"
   },
   {
@@ -10986,6 +11011,30 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
+   "name": "KÖYCEĞİZ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://mugla.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "KÖYCEĞİZ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI TSF MUĞLA / 2026–2027 SEZONU KÖYCEĞİZ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AFİŞİ BÜYÜTMEK İÇİN TIKLAYINIZ TURNUVA DETAYLARI TARİH 24–25 EKİM 2026 YARIŞMA SALONU Borsa İstanbul Salonu İL / İLÇE Muğla / Köyceğiz KATEGORİLER 8 Yaş ve Altı 10 Yaş ve Altı Açık Kategori TEMPO 45 Dakika + 30 Saniye SİSTEM 6 Tur / Bireysel İsviçre RATING UKD Hesaplamalarına Dahil ÖDÜLLER Her kategoride ilk 3 sporcuya madalya SON BAŞVURU 22 Ekim 2026 · 17.00 B",
+   "id": "a166ca1f5d4f",
+   "ilk_gorulme": "2026-10-20",
+   "son_gorulme": "2026-10-20",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -11436,7 +11485,7 @@
    "kaynak_metin": "TURNUVA KAYIT İÇİN TIKLAYINIZ Anasayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecektir. TC Kimlik No Giriniz Baba Adı",
    "id": "00dbcb86498e",
    "ilk_gorulme": "2026-10-12",
-   "son_gorulme": "2026-10-19",
+   "son_gorulme": "2026-10-20",
    "durum": "yaklasan"
   },
   {
@@ -12732,7 +12781,7 @@
    "start": "2026-10-31",
    "end": "2026-11-01",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "UKD",
    "sections": [
     {
      "n": "Yaş kategorileri",
@@ -15559,6 +15608,31 @@
    "kaynak_metin": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek TSF Ankara 2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası, 14 – 21 Kasım 2026 tarihleri arasında Kayseri Kocasinan Belediyesi ev sahipliğinde Talas Kapalı Spor Salonu’nda düzenlenecektir. Şampiyonada dereceye giren sporcularımıza toplam 500.000 TL ödül verilecektir. Şampiyonada hamle yapacak tüm sporcularımıza başarılar dileriz. Şampiyona Yönergesi i",
    "id": "3b109ede263c",
    "ilk_gorulme": "2026-10-19",
+   "son_gorulme": "2026-10-20",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kayseri",
+   "name": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek",
+   "start": "2026-11-14",
+   "end": "2026-11-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kayseri.tsf.org.tr/78-turnuvalar/796-2025-2026-tuerkiye-kupas-14-21-kasm-2026-tarihleri-arasnda-kayseride-duezenlenecek",
+   "kaynak": "site",
+   "kaynak_metin": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası, 14 – 21 Kasım 2026 tarihleri arasında Kayseri Kocasinan Belediyesi ev sahipliğinde Talas Kapalı Spor Salonu’nda düzenlenecektir. Şampiyonada dereceye giren sporcularımıza toplam 500.000 TL ödül verilecektir. Şampiyonada hamle yapacak tüm sporcularımıza başarılar dileriz. Şampiyona Yönergesi İçin Tıklayı",
+   "id": "24332de8245d",
+   "ilk_gorulme": "2026-10-20",
    "son_gorulme": "2026-10-20",
    "durum": "yaklasan"
   },
