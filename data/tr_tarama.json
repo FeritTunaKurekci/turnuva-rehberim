@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-20T21:07",
+ "taranma": "2026-10-21T09:06",
  "surum": "0.4",
  "iller": [
   {
@@ -270,7 +270,7 @@
    "il": "Kars",
    "durum": "ok",
    "host": "kars.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Kastamonu",
@@ -486,7 +486,7 @@
    "il": "Zonguldak",
    "durum": "ok",
    "host": "zonguldak.tsf.org.tr",
-   "adet": 3
+   "adet": 2
   }
  ],
  "turnuvalar": [
@@ -3057,6 +3057,26 @@
    "url": "https://karaman.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
    "kaynak_metin": "TAŞELİ KÜLTÜR VE SILA FESTİVALİ SATRANÇ TURNUVASI Satranç Haberleri KARAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Karaman “29 Ekim Cumhuriyet Bayramı Satranç Turnuvası \" 24-25.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva gününe kadar ödül temin edilmesi halinde ödüller ve paylaşımları "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kars",
+   "name": "KARS CUMHURİYET KUPASI SATRANÇ TURNUVASI (31 EKİM-01 KASIM)",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kars.tsf.org.tr/satranc-haberleri/355-kars-cumhuriyet-kupasi-satranc-turnuvasi-31-ekim-01-kasim",
+   "kaynak": "site",
+   "kaynak_metin": "KARS CUMHURİYET KUPASI SATRANÇ TURNUVASI (31 EKİM-01 KASIM) KARS CUMHURİYET KUPASI SATRANÇ TURNUVASI (31 EKİM-01 KASIM) Turnuvaya katılacak olan tüm sporcuların Whatsapp grubuna dahil olmaları gerekmektedir. Bağlantı adresi; https://chat.whatsapp.com/DjpzeRqblG1JDHjPIU0Ice İlimizde yapılan tüm etkinliklerden haberdar olmak için Kars TSF İl Temsilciliği sosyal medya hesabını takip ediniz. Bağlantı adresi https://instagram.com/tsfkars?igshid=NmQ5Y2ExZGE1MQ== Turnuva Tarihi 31 EKİM - 01 KASIM 2026 "
   },
   {
    "c": "TR",
@@ -5650,27 +5670,6 @@
    "url": "https://zonguldak.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "ZONGULDAK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ HIZLI SATRANÇ TURNUVASI 07 KASIM 2026 7 Kasım 2026 tarihinde İbrahim Fikri Anıl Ortaokulunda 15'+10\" Eklemeli Tempoyla 10 Kasım Atatürk'ü Anma Günü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Zonguldak",
-   "name": "Turnuva Haberleri",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "http://zonguldak.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri 2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT ZONGULDAK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ HIZLI SATRANÇ TURNUVASI 07 KASIM 2026 7 Kasım 2026 tarihinde İbrahim Fikri Anıl Ortaokulunda 15'+10\" Eklemeli Tempoyla 10 Kasım Atatürk'ü Anma Gün"
   }
  ]
 }
