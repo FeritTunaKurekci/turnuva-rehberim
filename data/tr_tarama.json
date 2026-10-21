@@ -1,12 +1,12 @@
 {
- "taranma": "2026-10-21T09:06",
+ "taranma": "2026-10-21T16:39",
  "surum": "0.4",
  "iller": [
   {
    "il": "Adana",
    "durum": "ok",
    "host": "adana.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Adıyaman",
@@ -96,7 +96,7 @@
    "il": "Bilecik",
    "durum": "ok",
    "host": "bilecik.tsf.org.tr",
-   "adet": 3
+   "adet": 2
   },
   {
    "il": "Bingöl",
@@ -144,7 +144,7 @@
    "il": "Çorum",
    "durum": "ok",
    "host": "corum.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Denizli",
@@ -524,6 +524,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Türkiye geneli",
+   "name": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek",
+   "start": "2026-11-14",
+   "end": "2026-11-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://adana.tsf.org.tr/satranc-haberleri/1624-2025-2026-tuerkiye-kupas-14-21-kasm-2026-tarihleri-arasnda-kayseride-duezenlenecek",
+   "kaynak": "site",
+   "kaynak_metin": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası, 14 – 21 Kasım 2026 tarihleri arasında Kayseri Kocasinan Belediyesi ev sahipliğinde Talas Kapalı Spor Salonu’nda düzenlenecektir. Şampiyonada dereceye giren sporcularımıza toplam 500.000 TL ödül verilecektir. Şampiyonada hamle yapacak tüm sporcularımıza başarılar dileriz. Şampiyona Yönergesi İçin Tıklayı"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Adana",
    "name": "CEYHAN CUMHURİYET KUPASI SATRANÇ TURNUVASI",
    "start": "2026-10-24",
@@ -663,27 +684,6 @@
    "url": "https://amasya.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=186",
    "kaynak": "site",
    "kaynak_metin": "Turnuva kayıt için TIKLAYINIZ... Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakem Görevlendirmeleri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecekti"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Ankara",
-   "name": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek",
-   "start": "2026-11-14",
-   "end": "2026-11-21",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1735-2025-2026-tuerkiye-kupas-14-21-kasm-2026-tarihleri-arasnda-kayseride-duezenlenecek",
-   "kaynak": "site",
-   "kaynak_metin": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek TSF Ankara 2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası, 14 – 21 Kasım 2026 tarihleri arasında Kayseri Kocasinan Belediyesi ev sahipliğinde Talas Kapalı Spor Salonu’nda düzenlenecektir. Şampiyonada dereceye giren sporcularımıza toplam 500.000 TL ödül verilecektir. Şampiyonada hamle yapacak tüm sporcularımıza başarılar dileriz. Şampiyona Yönergesi i"
   },
   {
    "c": "TR",
@@ -1430,7 +1430,7 @@
    ],
    "url": "https://bilecik.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 24 -25 Ekim 2026 tarihlerinde Bilecik Gençlik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 22.10.2026 Yönerge Turnuva Kayıt Devamını oku..."
+   "kaynak_metin": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 24 -25 Ekim 2026 tarihlerinde Bilecik Gençlik Merkezinde gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 22.10.2026 Yönerge Turnuva Kayıt Konum Devamını oku..."
   },
   {
    "c": "TR",
@@ -1452,27 +1452,6 @@
    "url": "https://bilecik.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "BOZÜYÜK BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI 28 Ekim 2026 tarihinde Bozüyük Metristepe Kültür Merkezinde gerçekleştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 26.10.2026 Yönerge Turnuva Kayıt Devamını oku..."
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Bilecik",
-   "name": "Turnuva Kayıt Devamını oku...",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://bilecik.tsf.org.tr/turnuva-kayit-form",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Kayıt Devamını oku... Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Kurslar İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız BOZÜYÜK BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI - YÖNERGEYİ OKUMADAN KAYIT OLMAYINIZ! CUMHURİYET BAYRAMI SATRANÇ TURNUVASI - YÖNERGEYİ OKU"
   },
   {
    "c": "TR",
@@ -1847,6 +1826,27 @@
    "url": "https://cankiri.tsf.org.tr/component/turnuvakayit/?controller=turnuva&task=edit&cid[0]=132",
    "kaynak": "site",
    "kaynak_metin": "TURNUVA KAYDI için tıklayınız. Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 24 KASIM SATRANÇ TURNUVASI YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI HIZLI SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 29 EKİM "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Çorum",
+   "name": "2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://corum.tsf.org.tr/haberler/756-2026-2027-corum-gencler-il-birinciligi",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ 2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ Turnuva ÇORUM GENÇLER İL BİRİNCİLİĞİ Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 31 EKİM - 01 KASIM 2026 Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 2007-2020 yılları ve arasında doğan sporcular Tempo 45 DAKİKA + HAMLE BAŞINA 30 SANİYE EKLEMELİ TEMPO Tur Sayısı KATILIMCI SAYISINA GÖRE BELİRLENECEKTİR Başvuru Şartları Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri taraf"
   },
   {
    "c": "TR",
@@ -3133,27 +3133,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Kayseri",
-   "name": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek",
-   "start": "2026-11-14",
-   "end": "2026-11-21",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://kayseri.tsf.org.tr/78-turnuvalar/796-2025-2026-tuerkiye-kupas-14-21-kasm-2026-tarihleri-arasnda-kayseride-duezenlenecek",
-   "kaynak": "site",
-   "kaynak_metin": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası, 14 – 21 Kasım 2026 tarihleri arasında Kayseri Kocasinan Belediyesi ev sahipliğinde Talas Kapalı Spor Salonu’nda düzenlenecektir. Şampiyonada dereceye giren sporcularımıza toplam 500.000 TL ödül verilecektir. Şampiyonada hamle yapacak tüm sporcularımıza başarılar dileriz. Şampiyona Yönergesi İçin Tıklayı"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Kayseri",
    "name": "http://kayseri.tsf.org.tr/turnuva-kayit-form",
    "start": "2026-10-29",
    "end": "2026-10-29",
@@ -3646,27 +3625,6 @@
    "url": "https://malatya.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Turnuvalar Satranç Haberleri FEDERASYON HABERLERİ SAYFASININ TAMAMINI GÖRMEK İÇİN YUKARIDA SAĞDA BULUNAN ÇUBUĞU ALTA DOĞRU, ALTTAKİ ÇUBUĞU SAĞA DOĞRU KAYDIRINIZ CUMHURİYET BAYRAMI STRANÇ TURNUVASI 24 - 25 EKİM 2026 24 - 25 EKİM 2026 Tarihlerinde CUMHURİYET BAYRAMI SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. TURNUVA YERİ: GSİM YÜZME HAVUZU SATRANÇ"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Malatya",
-   "name": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek",
-   "start": "2026-11-14",
-   "end": "2026-11-21",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://www.tsf.org.tr/guncel-haberler/",
-   "kaynak": "site",
-   "kaynak_metin": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek "
   },
   {
    "c": "TR",

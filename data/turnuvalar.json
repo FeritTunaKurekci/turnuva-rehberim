@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-21T09:07",
+ "guncelleme": "2026-10-21T16:40",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-21T09:06",
+   "tarama": "2026-10-21T16:39",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-21T09:07",
+   "tarama": "2026-10-21T16:40",
    "kaynak": "https://mychess.events"
   }
  },
@@ -8080,7 +8080,7 @@
    ],
    "url": "https://bilecik.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 24 -25 Ekim 2026 tarihlerinde Bilecik Gençlik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 22.10.2026 Yönerge Turnuva Kayıt Devamını oku...",
+   "kaynak_metin": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 24 -25 Ekim 2026 tarihlerinde Bilecik Gençlik Merkezinde gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 22.10.2026 Yönerge Turnuva Kayıt Konum Devamını oku...",
    "id": "cb94848a95b0",
    "ilk_gorulme": "2026-10-10",
    "son_gorulme": "2026-10-21",
@@ -12308,6 +12308,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Çorum",
+   "name": "2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://corum.tsf.org.tr/haberler/756-2026-2027-corum-gencler-il-birinciligi",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ 2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ Turnuva ÇORUM GENÇLER İL BİRİNCİLİĞİ Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 31 EKİM - 01 KASIM 2026 Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 2007-2020 yılları ve arasında doğan sporcular Tempo 45 DAKİKA + HAMLE BAŞINA 30 SANİYE EKLEMELİ TEMPO Tur Sayısı KATILIMCI SAYISINA GÖRE BELİRLENECEKTİR Başvuru Şartları Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri taraf",
+   "id": "06c78521628d",
+   "ilk_gorulme": "2026-10-21",
+   "son_gorulme": "2026-10-21",
+   "durum": "yaklasan"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -15633,6 +15658,31 @@
    "lastmod": "2026-09-26T18:35:10+00:00",
    "id": "0504caf38591",
    "ilk_gorulme": "2026-09-26",
+   "son_gorulme": "2026-10-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Türkiye geneli",
+   "name": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek",
+   "start": "2026-11-14",
+   "end": "2026-11-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://adana.tsf.org.tr/satranc-haberleri/1624-2025-2026-tuerkiye-kupas-14-21-kasm-2026-tarihleri-arasnda-kayseride-duezenlenecek",
+   "kaynak": "site",
+   "kaynak_metin": "2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası 14-21 Kasım 2026 tarihleri arasında Kayseri'de düzenlenecek 2025-2026 Türkiye Kupası, 14 – 21 Kasım 2026 tarihleri arasında Kayseri Kocasinan Belediyesi ev sahipliğinde Talas Kapalı Spor Salonu’nda düzenlenecektir. Şampiyonada dereceye giren sporcularımıza toplam 500.000 TL ödül verilecektir. Şampiyonada hamle yapacak tüm sporcularımıza başarılar dileriz. Şampiyona Yönergesi İçin Tıklayı",
+   "id": "d6fde827b999",
+   "ilk_gorulme": "2026-10-21",
    "son_gorulme": "2026-10-21",
    "durum": "yaklasan"
   },
