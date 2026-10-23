@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-23T09:07",
+ "taranma": "2026-10-23T16:30",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -18898,7 +18898,7 @@
    "src": "https://mychess.events/event/european-senior-rapid-blitz-chess-championship-2027/",
    "cr": "https://chess-results.com/tnr1467258.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-09-03T11:53:05+00:00"
+   "lastmod": "2026-10-23T13:26:19+00:00"
   },
   {
    "c": "DE",
@@ -22479,6 +22479,91 @@
    "lastmod": "2026-10-16T06:41:35+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "50th Nottingham Congress 2027",
+   "city": "NG1 4HU",
+   "start": "2027-04-17",
+   "end": "2027-04-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total per Section",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $3,445",
+   "tc": "90+10",
+   "url": "https://mychess.events/event/50th-nottingham-congress-2027/",
+   "src": "https://mychess.events/event/50th-nottingham-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-23T13:15:03+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Florida State Women’s Chess Championship",
+   "city": "FL 33431",
+   "start": "2027-04-17",
+   "end": "2027-04-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Scholastic Participation",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Playing Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time Control",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $700",
+   "tc": "G/60; d30",
+   "url": "https://mychess.events/event/2027-florida-state-womens-chess-championship/",
+   "src": "https://mychess.events/event/2027-florida-state-womens-chess-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-23T12:36:42+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -23523,6 +23608,51 @@
    "lastmod": "2026-10-16T06:09:57+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Heywood Chess Congress 2027",
+   "city": "OL10 1LW",
+   "start": "2027-06-05",
+   "end": "2027-06-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1649
+    },
+    {
+     "n": "Novice",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": "100 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/heywood-chess-congress-2027/",
+   "src": "https://mychess.events/event/heywood-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-23T13:48:20+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -23831,6 +23961,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-16T06:06:18+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Tunnelvision LVII",
+   "city": "SC 29212",
+   "start": "2027-06-19",
+   "end": "2027-06-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Section Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,000",
+   "tc": "G/45+5",
+   "url": "https://mychess.events/event/tunnelvision-lvii-2027/",
+   "src": "https://mychess.events/event/tunnelvision-lvii-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-23T12:05:35+00:00"
   },
   {
    "c": "RO",
