@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-23T16:29",
+ "taranma": "2026-10-23T21:01",
  "surum": "0.4",
  "iller": [
   {
@@ -78,7 +78,7 @@
    "il": "Bartın",
    "durum": "ok",
    "host": "bartin.tsf.org.tr",
-   "adet": 4
+   "adet": 3
   },
   {
    "il": "Batman",
@@ -330,7 +330,7 @@
    "il": "Malatya",
    "durum": "ok",
    "host": "malatya.tsf.org.tr",
-   "adet": 6
+   "adet": 7
   },
   {
    "il": "Manisa",
@@ -354,7 +354,7 @@
    "il": "Muğla",
    "durum": "ok",
    "host": "mugla.tsf.org.tr",
-   "adet": 16
+   "adet": 15
   },
   {
    "il": "Muş",
@@ -725,7 +725,7 @@
    ],
    "url": "https://amasya.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=186",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva kayıt için TIKLAYINIZ... Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakem Görevlendirmeleri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilecekti"
+   "kaynak_metin": "Turnuva kayıt için TIKLAYINIZ... Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakem Görevlendirmeleri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-10-23 20:00:00 Toplam Kayıt: 118 AD SOYAD İL ELO UKD KATEGORİ FATİH CA"
   },
   {
    "c": "TR",
@@ -1194,7 +1194,7 @@
    ],
    "url": "https://aydin.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Söke Cumhuriyet Bayramı Satranç Turnuvası Söke Gençlik ve Spor İlçe Müdürlüğü ve Söke Satranç İlçe Temsilciliğinin düzenlediği Söke Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim 2 026 günlerinde Söke Gençlik Merkezi Salonu 'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Turnuvaya kayıt için sol bölümd"
+   "kaynak_metin": "Söke Cumhuriyet Bayramı Satranç Turnuvası Söke Gençlik ve Spor İlçe Müdürlüğü ve Söke Satranç İlçe Temsilciliğinin düzenlediği Söke Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim 2 026 günlerinde Söke Gençlik Merkezi Salonu 'nda yapılacaktır. (Bilgi !!! Yeni yerleşke olduğu için haritalarda inşaat gözükmekte) Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi i"
   },
   {
    "c": "TR",
@@ -1317,26 +1317,6 @@
    "url": "https://balikesir.tsf.org.tr/turnuvalar/etkinlik-takvimi",
    "kaynak": "site",
    "kaynak_metin": "Turnuva Kayıt Etkinlik Takvimi İl Faaliyet Programları 2017-2018 1.DÖNEM İL ETKİNLİK PROGRAMI 2016-2017 İL ETKİNLİK PROGRAMI 2.DÖNEM 2016-2017 İL ETKİNLİK PROGRAMI 1. DÖNEM 2015-2016 İKİNCİ DÖNEM ETKİNLİK PROGRAMI 2015 2016 etknlk prog. 1.pdf 2014_Ağustos Aralık Faaliyet_Progra mı 2 015 Ocak Temmuz Faaliyet Program ı"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Bartın",
-   "name": "TURNUVA KAYIT İÇİN TIKLAYINIZ",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://bartin.tsf.org.tr/turnuva-kayit-form?view=turnuvakayit&layout=tlist",
-   "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYIT İÇİN TIKLAYINIZ Anasayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-10-23 17:00:00 Toplam Kayıt: 71 AD SOYAD İL ELO UKD KATEGORİ EYMEN EFE ERKAL ÇORUM 1469 1571 AÇIK (202"
   },
   {
    "c": "TR",
@@ -1652,6 +1632,27 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Bitlis",
+   "name": "BİTLİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/541-bitlis-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-2",
+   "kaynak": "site",
+   "kaynak_metin": "BİTLİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BİTLİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI -29 Ekim Cumhuriyet Bayramı Satran Turnuvası 24.10.2026 Cumartesi günü başladı. EŞLENDİRME SONUÇ Sonraki >"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bitlis",
    "name": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
    "start": "2026-11-24",
    "end": "2026-11-24",
@@ -1667,26 +1668,6 @@
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Bitlis",
-   "name": "Bitlis 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/538-bitlis-29-ekim-cumhuriyet-bayram-satranc-turnuvas",
-   "kaynak": "site",
-   "kaynak_metin": "Bitlis 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Bitlis 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası -Turnuvada, yürürlükte bulunan TSF satranç yarışmaları talimatları, prosedürleri, uygulama yönergeleri, yarışma yönergeleri hazırlama ve uygulama prosedürü ile FIDE satranç kuralları geçerlidir. - Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. - Turnuva kayıt sayfasın"
   },
   {
    "c": "TR",
@@ -1791,7 +1772,7 @@
    ],
    "url": "https://burdur.tsf.org.tr/satranc-haberleri/846-10kasim",
    "kaynak": "site",
-   "kaynak_metin": "10 KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 10 KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI TURNUVA TA RİHİ: 07-08 KASIM 2026 SON BAŞVURU TARİHİ: 05 KASIM 2026 - 17.00 TURNUVA YERİ: Merkez Kapalı Spor Salonu TURNUVA KAYIT TURNUVA YÖNERGESİ Turnuva Sayfası Sonraki >"
+   "kaynak_metin": "10 KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 10 KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI TURNUVA TA RİHİ: 07-08 KASIM 2026 TURNUVA BAŞHAKEMİ: NA SON BAŞVURU TARİHİ: 05 KASIM 2026 - 17.00 TURNUVA YERİ: Merkez Kapalı Spor Salonu TURNUVA KAYIT TURNUVA YÖNERGESİ Turnuva Sayfası Sonraki >"
   },
   {
    "c": "TR",
@@ -1812,7 +1793,7 @@
    ],
    "url": "https://burdur.tsf.org.tr/satranc-haberleri/845-turkundogangunesi-3",
    "kaynak": "site",
-   "kaynak_metin": "BURDUR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BURDUR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI TURNUVA TA RİHİ: 24-25 EKİM 2026 SON BAŞVURU TARİHİ: 22 EKİM 2026 - 17.00 TURNUVA YERİ: Merkez Kapalı Spor Salonu TURNUVA KAYIT TURNUVA YÖNERGESİ Turnuva Sayfası < Önceki Sonraki >"
+   "kaynak_metin": "BURDUR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BURDUR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI TURNUVA TA RİHİ: 24-25 EKİM 2026 TURNUVA BAŞHAKEMİ: NA ORHAN ALTIN: 0 507 337 91 92 SON BAŞVURU TARİHİ: 22 EKİM 2026 - 17.00 TURNUVA YERİ: Merkez Kapalı Spor Salonu TURNUVA KAYIT TURNUVA YÖNERGESİ TURNUVA SAYFASI < Önceki Sonraki >"
   },
   {
    "c": "TR",
@@ -2095,9 +2076,8 @@
    "reyting_turu": "ELO",
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
    "url": "https://denizli.tsf.org.tr/",
@@ -3283,7 +3263,7 @@
    ],
    "url": "https://izmir.tsf.org.tr/turnuvalar/2620-torbali-belediyesi-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "TORBALI BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI TORBALI BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Torbalı Belediyesi ve İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Torbalı Belediyesi 29 Ekim Cmhuriyet Bayramı Satranç Turnuvası\" 24-25 Ekim 2026 tarihlerinde İbrahim Erdemoğlu Merinos Spor Salonunda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ve ön"
+   "kaynak_metin": "TORBALI BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI TORBALI BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Torbalı Belediyesi ve İzmir Satranç İl Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Torbalı Belediyesi 29 Ekim Cmhuriyet Bayramı Satranç Turnuvası\" 24-25 Ekim 2026 tarihlerinde İbrahim Erdemoğlu Merinos Spor Salonunda yapılacaktır.Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vize"
   },
   {
    "c": "TR",
@@ -3649,7 +3629,7 @@
    ],
    "url": "https://www.kastamonu.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=205",
    "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYDI İÇİN TIKLAYINIZ LÜTFEN Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-10-23 17:00:00 Toplam Kayıt: 59 AD SOYAD İL ELO UKD KATEGORİ ADİL KERİM KARA KASTAMONU 0 1408 14 Yaş ve Alt"
+   "kaynak_metin": "TURNUVA KAYDI İÇİN TIKLAYINIZ LÜTFEN Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-10-23 17:00:00 Toplam Kayıt: 58 AD SOYAD İL ELO UKD KATEGORİ ADİL KERİM KARA KASTAMONU 0 1408 14 Yaş ve Alt"
   },
   {
    "c": "TR",
@@ -3853,7 +3833,7 @@
    ],
    "url": "https://kirklareli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Lüleburgaz Cumhuriyet Kupası Turnuva Lüleburgaz Cumhuriyet Kupası Satranç Turnuvası Organizasyon Kırklareil GSİM & Lüleburgaz İlçe Gençlik Spor & Kırklareli Satranç İl Temsilciliği Turnuva Tarihi 24-25 Ekim 2026 Turnuva Yeri/Konum Lüleburgaz Kapalı Spor Salonu Kategoriler Açık : 14 Yaş ve altı: 10 Yaş ve altı: Kontenjan Kontenjan her kategori için 64 sporcu ile sınırlıdır Tempo 35'+30\" Eklemeli Tempo Tur Sayısı 6 Tur Son Başvuru 23 Ekim 2026 saat:18.00 Ödüller Ayrıntılar Yarışma Yönergesinde Baş"
+   "kaynak_metin": "Lüleburgaz Cumhuriyet Kupası Turnuva Lüleburgaz Cumhuriyet Kupası Satranç Turnuvası Organizasyon Kırklareil GSİM & Lüleburgaz İlçe Gençlik Spor & Kırklareli Satranç İl Temsilciliği Turnuva Tarihi 24-25 Ekim 2026 Turnuva Yeri/Konum Lüleburgaz Kapalı Spor Salonu Kategoriler Açık : https://chess-results.com/tnr1525736.aspx 14 Yaş ve altı: https://chess-results.com/tnr1525735.aspx 10 Yaş ve altı: https://chess-results.com/tnr1525734.aspx Kontenjan Kontenjan her kategori için 64 sporcu ile sınırlıdır"
   },
   {
    "c": "TR",
@@ -3963,8 +3943,8 @@
    "bayrak": "tr",
    "il": "Kocaeli",
    "name": "Turnuva Haberleri",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -3981,7 +3961,33 @@
    ],
    "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASl Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Darıca İlçesinde, 31 Ekim – 1 Kasım 2026 tarihleri arasında Darıca Eray Şamdan Spor Salonu'nda 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika+30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlü"
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzen"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kocaeli",
+   "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1400,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Turnuva Haberleri ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri t"
   },
   {
    "c": "TR",
@@ -3989,8 +3995,8 @@
    "bayrak": "tr",
    "il": "Kocaeli",
    "name": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -4007,7 +4013,7 @@
    ],
    "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII Turnuva Haberleri 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASl Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Darıca İlçesinde, 31 Ekim – 1 Kasım 2026 tarihleri arasında Darıca Eray Şamdan Spor Salonu'nda 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika+30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
+   "kaynak_metin": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII Turnuva Haberleri ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve "
   },
   {
    "c": "TR",
@@ -4015,8 +4021,8 @@
    "bayrak": "tr",
    "il": "Kocaeli",
    "name": "AKADEMİK KARİYER KULÜBÜ 2. ELO SATRANÇ TURNUVASI",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -4033,7 +4039,7 @@
    ],
    "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "AKADEMİK KARİYER KULÜBÜ 2. ELO SATRANÇ TURNUVASI Turnuva Haberleri 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASl Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Darıca İlçesinde, 31 Ekim – 1 Kasım 2026 tarihleri arasında Darıca Eray Şamdan Spor Salonu'nda 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika+30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, "
+   "kaynak_metin": "AKADEMİK KARİYER KULÜBÜ 2. ELO SATRANÇ TURNUVASI Turnuva Haberleri ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve Spor İl/İlç"
   },
   {
    "c": "TR",
@@ -4041,8 +4047,8 @@
    "bayrak": "tr",
    "il": "Kocaeli",
    "name": "7.GELENEKSEL DARICA AKIL VE ZEKA OYUNLARI HIZLI SATRANÇ TURNUVASI",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -4059,33 +4065,7 @@
    ],
    "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "7.GELENEKSEL DARICA AKIL VE ZEKA OYUNLARI HIZLI SATRANÇ TURNUVASI Turnuva Haberleri 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASl Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Darıca İlçesinde, 31 Ekim – 1 Kasım 2026 tarihleri arasında Darıca Eray Şamdan Spor Salonu'nda 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika+30 saniye eklemeli zaman temposunda gerçekleştirilece"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Kocaeli",
-   "name": "2025-2026 TÜRKİYE KULÜPLER SATRANÇ ŞAMPİYONASI İL YÖRE YARIŞMALARI",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "A Kategorisi",
-     "min": 1400,
-     "max": null
-    },
-    {
-     "n": "B Kategorisi",
-     "min": null,
-     "max": 1399
-    }
-   ],
-   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "2025-2026 TÜRKİYE KULÜPLER SATRANÇ ŞAMPİYONASI İL YÖRE YARIŞMALARI Turnuva Haberleri 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASl Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Darıca İlçesinde, 31 Ekim – 1 Kasım 2026 tarihleri arasında Darıca Eray Şamdan Spor Salonu'nda 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika+30 saniye eklemeli zaman temposunda gerçekleştirilec"
+   "kaynak_metin": "7.GELENEKSEL DARICA AKIL VE ZEKA OYUNLARI HIZLI SATRANÇ TURNUVASI Turnuva Haberleri ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençl"
   },
   {
    "c": "TR",
@@ -4134,26 +4114,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Malatya",
-   "name": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://malatya.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026 7 - 8 KASIM 2026 Tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuva Yeri: GSİM Yerleşkesi Yüzme Havuzu Satranç Salonu: TURNUVA YÖNERGESİ . TURNUVA PROSEDÜRÜ 10 KASIM ATATÜRK’Ü ANMA SATRANÇ TURNUVASI ÖDÜL: Her kategoride ilk 3 sporcuya Kupa, her kategor"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Malatya",
    "name": "CUMHURİYET BAYRAMI STRANÇ TURNUVASI 24 - 25 EKİM 2026",
    "start": "2026-10-24",
    "end": "2026-10-25",
@@ -4161,61 +4121,22 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
    "url": "https://malatya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "CUMHURİYET BAYRAMI STRANÇ TURNUVASI 24 - 25 EKİM 2026 24 - 25 EKİM 2026 Tarihlerinde CUMHURİYET BAYRAMI SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. TURNUVA YERİ: GSİM YERLEŞKESİ YÜZME HAVUZU BİNASI SATRANÇ SALONU TURNUVA UYGULAMA PROSEDÜRÜ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI YÖNERGESİ ÖDÜL: Her kategoride ilk 3 sporcuya ve ayrıca her kategoride "
+   "kaynak_metin": "CUMHURİYET BAYRAMI STRANÇ TURNUVASI 24 - 25 EKİM 2026 24 - 25 EKİM 2026 Tarihlerinde CUMHURİYET BAYRAMI SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ???? Kayıt kontrol işlemleri 08.30–09.30 saatleri arasında yapılacaktır. ⚠️ Kayıt kontrol saatinden sonra gelenler imkanlar ölçüsünde birbiri ile eşlendirilebilir. İlk tur ba"
   },
   {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Malatya",
-   "name": "Turnuva Haberleri",
+   "name": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026",
    "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://malatya.tsf.org.tr/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri FEDERASYON HABERLERİ SAYFASININ TAMAMINI GÖRMEK İÇİN YUKARIDA SAĞDA BULUNAN ÇUBUĞU ALTA DOĞRU, ALTTAKİ ÇUBUĞU SAĞA DOĞRU KAYDIRINIZ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026 7 - 8 KASIM 2026 Tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuva Yeri: GSİM Yerle"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Malatya",
-   "name": "Turnuvalar",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://malatya.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuvalar Satranç Haberleri FEDERASYON HABERLERİ SAYFASININ TAMAMINI GÖRMEK İÇİN YUKARIDA SAĞDA BULUNAN ÇUBUĞU ALTA DOĞRU, ALTTAKİ ÇUBUĞU SAĞA DOĞRU KAYDIRINIZ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026 7 - 8 KASIM 2026 Tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuva Yeri: GSİM Yerleşkesi Y"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Malatya",
-   "name": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de",
-   "start": "2026-11-02",
    "end": "2026-11-08",
    "status": "a",
    "reyting_turu": null,
@@ -4226,9 +4147,71 @@
      "max": null
     }
    ],
-   "url": "https://www.tsf.org.tr/guncel-haberler/",
+   "url": "https://malatya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de "
+   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026 7 - 8 KASIM 2026 Tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ???? Kayıt kontrol işlemleri 08.30–09.30 saatleri arasında yapılacaktır. ⚠️ Kayıt kontrol saatinden sonra gelenler imkanlar ölçüsünde birbiri ile eşlendirilebilir. İl"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "Turnuvalar",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://malatya.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuvalar Satranç Haberleri FEDERASYON HABERLERİ SAYFASININ TAMAMINI GÖRMEK İÇİN YUKARIDA SAĞDA BULUNAN ÇUBUĞU ALTA DOĞRU, ALTTAKİ ÇUBUĞU SAĞA DOĞRU KAYDIRINIZ CUMHURİYET BAYRAMI STRANÇ TURNUVASI 24 - 25 EKİM 2026 24 - 25 EKİM 2026 Tarihlerinde CUMHURİYET BAYRAMI SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ???? Kayıt ko"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "Bayegan Pendik Satranç Spor Kulübü Avrupa Kulüpler Kupası Şampiyonu",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/article",
+   "kaynak": "site",
+   "kaynak_metin": "Bayegan Pendik Satranç Spor Kulübü Avrupa Kulüpler Kupası Şampiyonu Haber 23 Ekim 2026 Bayegan Pendik Satranç Spor Kulübü Avrupa Kulüpler Kupası Şampiyonu Haberi oku"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "2026 Avrupa Kulüpler Kupası Sona Erdi",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/article-1",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Avrupa Kulüpler Kupası Sona Erdi Haber 23 Ekim 2026 2026 Avrupa Kulüpler Kupası Sona Erdi Haberi oku"
   },
   {
    "c": "TR",
@@ -4889,7 +4872,7 @@
    ],
    "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form",
    "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız MARMARİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI SON KAYIT TARİHİ 05.11.2026 SAAT 17.00 YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 05.11.2026 SAAT 17.00 Fethiye 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası-140 "
+   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız MARMARİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI SON KAYIT TARİHİ 05.11.2026 SAAT 17.00 YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 05.11.2026 SAAT 17.00 ORTACA 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON KAYIT T"
   },
   {
    "c": "TR",
@@ -5012,27 +4995,6 @@
    "url": "https://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1100",
    "kaynak": "site",
    "kaynak_metin": "YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 05.11.2026 SAAT 17.00 YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 05.11.2026 SAAT 17.00"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Muğla",
-   "name": "Fethiye 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası-140 SPORCU İLE SINIRLIDIR-Son Başvuru Tarihi: 23 EKİM 2026 SAAT:17:00",
-   "start": "2026-10-23",
-   "end": "2026-10-23",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://www.mugla.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1099",
-   "kaynak": "site",
-   "kaynak_metin": "Fethiye 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası-140 SPORCU İLE SINIRLIDIR-Son Başvuru Tarihi: 23 EKİM 2026 SAAT:17:00 Fethiye 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası-140 SPORCU İLE SINIRLIDIR-Son Başvuru Tarihi: 23 EKİM 2026 SAAT:17:00"
   },
   {
    "c": "TR",
@@ -5408,21 +5370,20 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Samsun",
-   "name": "AÇIK KATEGORİ YEDEK LİSTE",
+   "name": "SATRANÇ ATAKUM SPOR KULÜBÜ CUMHURİYET KUPASI SATRANÇ TURNUVASI",
    "start": "2026-10-29",
    "end": "2026-10-29",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://www.samsun.tsf.org.tr/turnuva-kayt?layout=girisform&tid=851",
+   "url": "https://samsun.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "AÇIK KATEGORİ YEDEK LİSTE Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Satranç Merkezleri Lisanslı Sporcu Sayıları Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Foto Galeri 2017-2018 Sezonu 2016-2017 Sezonu Foto Arşiv (2011-2013) İletişim 2026-SAMSUN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK KATEGORİ-YEDEK L"
+   "kaynak_metin": "SATRANÇ ATAKUM SPOR KULÜBÜ CUMHURİYET KUPASI SATRANÇ TURNUVASI Tarih: 29.10.2026 Kategori: 8 YAŞ VE ALTI KATEGORİSİ (2020-2019) AÇIK KATEGORİSİ (2020 VE ÖNCEKİ YILLARDA DOĞAN SPORCULAR) Süre: 10'+05'' Yer: SATRANÇ ATAKUM SPOR KULÜBÜ ATAKUM/SAMSUN Tur Sayısı: 6 Son Başvuru: 28.10.2026 17 :00 İletişim: İrfan Şaka 0 532 592 6058 TURNUVA YÖNERGESİ VE TURNUVA PROGRAM I FIDE Kuralları TURNUVA PROSEDÜRÜ ***TURNUVA FOTOĞRAFLARI*** "
   },
   {
    "c": "TR",
@@ -5823,8 +5784,8 @@
    "bayrak": "tr",
    "il": "Tekirdağ",
    "name": "Turnuva Kayıt Sistemi",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
    "status": "a",
    "reyting_turu": "UKD",
    "sections": [
@@ -6228,7 +6189,7 @@
    ],
    "url": "https://zonguldak.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT "
+   "kaynak_metin": "2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT E-devlet üzerinden ulusal spor projesi başvurusunun yapılması zorunludur. Başvuru Adımları: E-devlet / Spor Bilgi Sistemi / Ulusal Spor Projeleri / Herkes İçin Spor Federasyonu / 29 Ekim Cumhuriyet Bayramı Spor İl Etkinli"
   },
   {
    "c": "TR",
