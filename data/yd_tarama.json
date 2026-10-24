@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-24T15:06",
+ "taranma": "2026-10-24T20:05",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 14,
  "turnuvalar": [
   {
    "c": "US",
@@ -10934,7 +10934,7 @@
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
-   "name": "Waidhofen Rapid Open 2026",
+   "name": "2nd Waidhofen Chess Masters 2026 – Rapid Schloss Open",
    "city": "Waidhofen an der Ybbs",
    "start": "2026-11-14",
    "end": "2026-11-14",
@@ -10942,18 +10942,43 @@
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Açık",
+     "n": "Open Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Gain Award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Generations Team",
      "min": null,
      "max": null
     }
    ],
-   "prize": null,
+   "prize": "≈ $1,910",
    "tc": "10 minutes + 5 seconds per move",
    "url": "https://mychess.events/event/waidhofen-rapid-open-2026/",
    "src": "https://mychess.events/event/waidhofen-rapid-open-2026/",
    "cr": "https://chess-results.com/tnr1464765.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-09-09T08:00:27+00:00"
+   "lastmod": "2026-10-24T17:23:31+00:00"
   },
   {
    "c": "ES",

@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-24T15:06",
+ "guncelleme": "2026-10-24T20:05",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-24T15:05",
+   "tarama": "2026-10-24T20:04",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-24T15:06",
+   "tarama": "2026-10-24T20:05",
    "kaynak": "https://mychess.events"
   }
  },
@@ -11053,7 +11053,7 @@
    ],
    "url": "https://hatay.tsf.org.tr/satranc-haberleri/1642-hatay-dogus-okullari-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-basladi",
    "kaynak": "site",
-   "kaynak_metin": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BAŞLADI HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BAŞLADI 24-25/10/2026 tarihleri arasında Hatay Doğuş Okulları tarafından Hatay İli Defne İlçesi Doğuş Okulları Salonu'nda düzenlenecek olan Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası başladı. Turnuva sonuçlarına ulaşmak için tıklayınız. 7 YAŞ 8 YAŞ 10 YAŞ VE ALTI 12 YAŞ VE ALTI AÇIK < Önceki Sonraki >",
+   "kaynak_metin": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BAŞLADI HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BAŞLADI 24-25/10/2026 tarihleri arasında Hatay Doğuş Okulları tarafından Hatay İli Defne İlçesi Doğuş Okulları Salonu'nda düzenlenen olan Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Defne İlçe Milli Eğitim Müdürü Kemal GÜLİSTAN, Doğuş Okulları Genel Müdürü Gökhan GÜL, Satranç Federasyonu İl Temsilcisi Kemal NURLU, tunrnuva başhakemi Bül",
    "id": "22c1e9598e1b",
    "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-24",
@@ -16302,6 +16302,60 @@
    "durum": "yaklasan"
   },
   {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "2nd Waidhofen Chess Masters 2026 – Rapid Schloss Open",
+   "city": "Waidhofen an der Ybbs",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Gain Award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Generations Team",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,910",
+   "tc": "10 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/waidhofen-rapid-open-2026/",
+   "src": "https://mychess.events/event/waidhofen-rapid-open-2026/",
+   "cr": "https://chess-results.com/tnr1464765.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-24T17:23:31+00:00",
+   "id": "48ebfce86279",
+   "ilk_gorulme": "2026-10-24",
+   "son_gorulme": "2026-10-24",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -18936,7 +18990,7 @@
    ],
    "url": "https://hatay.tsf.org.tr/satranc-haberleri/1645-hatay-4-geleneksel-aras-guemuesoglu-satranc-turnuvasi-kayitlari-basladi",
    "kaynak": "site",
-   "kaynak_metin": "HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI 28-29/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Hatay Doğuş Okulları Aşağıokçular Kampüsü Salonu'nda Hatay 4. Geleneksel Aras Gümüşoğlu Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 26/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi Sonraki >",
+   "kaynak_metin": "HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI 28-29/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Hatay Doğuş Okulları Aşağıokçular Kampüsü Salonu'nda Hatay 4. Geleneksel Aras Gümüşoğlu Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 26/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >",
    "id": "0c281bcf2e34",
    "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-24",
@@ -20947,6 +21001,31 @@
    "lastmod": "2026-09-19T05:02:22+00:00",
    "id": "df6f605ca5a4",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-24",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "YILDIRIM HATAY SATRANÇ İL BİRİNCİLİĞİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1647-yildirim-hatay-satranc-il-birinciligi-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIRIM HATAY SATRANÇ İL BİRİNCİLİĞİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI YILDIRIM HATAY SATRANÇ İL BİRİNCİLİĞİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI 13/12/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Hatay Merkez Kapalı Spor Salonu( Hatay Yeni Stadyumu Yanı)'nda Yıldırım Satranç Hatay İl Birinciliği Turnuvası düzenlenecektir. Son başvuru tarihi 11/12/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi Sonraki >",
+   "id": "97d02f0aff72",
+   "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-24",
    "durum": "yaklasan"
   },
