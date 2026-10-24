@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-24T08:44",
+ "guncelleme": "2026-10-24T15:06",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-24T08:43",
+   "tarama": "2026-10-24T15:05",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-24T08:44",
+   "tarama": "2026-10-24T15:06",
    "kaynak": "https://mychess.events"
   }
  },
@@ -7974,14 +7974,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
    "url": "https://konya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "AKŞEHİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI (24-25 EKİM 2026) Konya ili, AKŞEHİR ilçesinde, 24-25 EKİM 2026 tarihleri arasında, AKŞEHİR GENÇLİK MERKEZİNDE , İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak Akşehir 29 EKİM CUMHURİYET Bayramı Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 22.10.2026 Saat 17:00’den önce tamamlanmalıdır. Fide Satranç Kuralları YÖNERGE TURNUVA KAYIT ",
+   "kaynak_metin": "AKŞEHİR 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI (24-25 EKİM 2026) Konya ili, AKŞEHİR ilçesinde, 24-25 EKİM 2026 tarihleri arasında, AKŞEHİR GENÇLİK MERKEZİNDE , İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak Akşehir 29 EKİM CUMHURİYET Bayramı Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 22.10.2026 Saat 17:00’den önce tamamlanmalıdır. Fide Satranç Kuralları YÖNERGE TURNUVA KAYIT EŞLENDİRME VE SONUÇ 8 YAŞ 10 YAŞ 14 YAŞ AÇIK ",
    "id": "143ba7db8243",
    "ilk_gorulme": "2026-10-03",
    "son_gorulme": "2026-10-24",
@@ -8280,7 +8279,7 @@
    ],
    "url": "https://duzce.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "DÜZCE 30 AĞUSTOS ZAFER KUPASI Satranç Haberleri 2026 DÜZCE KÜLTÜR EĞİTİM KURUMLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimizde Düzce Eğitim Kurumlarının sponsorluğunda düzenlenmesi planlanan \"Düzce Kültür Eğitim Kurumları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 24-25 Ekim 2026 tarihlerinde Kültür Eğitim Kurumları Spor Salonunda düznlenecektir. Ödül dağıtımı aşağıdaki gibidir. Detaylar için yönerge incelenmelidir. Yönerge... Turnuva Başvuru... EŞLENDİRME & SONUÇLAR 8 YAŞ 10 YAŞ 14",
+   "kaynak_metin": "DÜZCE 30 AĞUSTOS ZAFER KUPASI Satranç Haberleri 2026 DÜZCE KÜLTÜR EĞİTİM KURUMLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimizde Düzce Eğitim Kurumlarının sponsorluğunda düzenlenmesi planlanan \"Düzce Kültür Eğitim Kurumları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 24-25 Ekim 2026 tarihlerinde Kültür Eğitim Kurumları Spor Salonunda düznlenecektir. Ödül dağıtımı aşağıdaki gibidir. Detaylar için yönerge incelenmelidir. Yönerge... EŞLENDİRME & SONUÇLAR 8 YAŞ 10 YAŞ 14 YAŞ AÇIK !! Teknik",
    "id": "af22502a355d",
    "ilk_gorulme": "2026-10-15",
    "son_gorulme": "2026-10-24",
@@ -8393,7 +8392,7 @@
    ],
    "url": "https://bolu.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE GERÇEKLEŞECEKTİR. Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride BAŞLIYOR... Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Turnuvamız Başlıyor... 24.10.2026 Saat 09:00-09:30 arası Kayıt Kontrol yaptırmayı unutmayınız. Aşağıdaki Linkten T",
+   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE BAŞLAMIŞTIR... Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride gerçekleşen turnuvada Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Aşağıdaki Linkten Turnuvamızı Takip Edebilirsiniz. YÖNERGE TURNUVA TAKİP ",
    "id": "00b6810b6660",
    "ilk_gorulme": "2026-10-13",
    "son_gorulme": "2026-10-24",
@@ -9631,7 +9630,7 @@
    ],
    "url": "https://duzce.tsf.org.tr/satranc-haberleri/603-2026-duezce-kueltuer-egitim-kurumlari-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "2026 DÜZCE KÜLTÜR EĞİTİM KURUMLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2026 DÜZCE KÜLTÜR EĞİTİM KURUMLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimizde Düzce Eğitim Kurumlarının sponsorluğunda düzenlenmesi planlanan \"Düzce Kültür Eğitim Kurumları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 24-25 Ekim 2026 tarihlerinde Kültür Eğitim Kurumları Spor Salonunda düznlenecektir. Ödül dağıtımı aşağıdaki gibidir. Detaylar için yönerge incelenmelidir. Yönerge... Turnuva Başvuru... EŞLEN",
+   "kaynak_metin": "2026 DÜZCE KÜLTÜR EĞİTİM KURUMLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2026 DÜZCE KÜLTÜR EĞİTİM KURUMLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimizde Düzce Eğitim Kurumlarının sponsorluğunda düzenlenmesi planlanan \"Düzce Kültür Eğitim Kurumları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 24-25 Ekim 2026 tarihlerinde Kültür Eğitim Kurumları Spor Salonunda düznlenecektir. Ödül dağıtımı aşağıdaki gibidir. Detaylar için yönerge incelenmelidir. Yönerge... EŞLENDİRME & SONUÇLAR 8 ",
    "id": "27dbfcf922ae",
    "ilk_gorulme": "2026-10-15",
    "son_gorulme": "2026-10-24",
@@ -10851,7 +10850,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/541-bitlis-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-2",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BİTLİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI -29 Ekim Cumhuriyet Bayramı Satran Turnuvası 24.10.2026 Cumartesi günü başladı. EŞLENDİRME SONUÇ Sonraki >",
+   "kaynak_metin": "BİTLİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BİTLİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI -29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24.10.2026 Cumartesi günü 41 sporcunun katılımı ile tur başladı. EŞLENDİRME SONUÇ Sonraki >",
    "id": "5f736be6ceb4",
    "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-10-24",
@@ -11054,7 +11053,7 @@
    ],
    "url": "https://hatay.tsf.org.tr/satranc-haberleri/1642-hatay-dogus-okullari-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi-basladi",
    "kaynak": "site",
-   "kaynak_metin": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BAŞLADI HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BAŞLADI 24-25/10/2026 tarihleri arasında Hatay Doğuş Okulları tarafından Hatay İli Defne İlçesi Doğuş Okulları Salonu'nda düzenlenecek olan Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası başladı. Turnuva sonuçlarına ulaşmak için tıklayınız. 7 YAŞ 8 YAŞ 10 YAŞ VE ALTI 12 YAŞ VE ALTI AÇIK Sonraki >",
+   "kaynak_metin": "HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BAŞLADI HATAY DOĞUŞ OKULLARI 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI BAŞLADI 24-25/10/2026 tarihleri arasında Hatay Doğuş Okulları tarafından Hatay İli Defne İlçesi Doğuş Okulları Salonu'nda düzenlenecek olan Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası başladı. Turnuva sonuçlarına ulaşmak için tıklayınız. 7 YAŞ 8 YAŞ 10 YAŞ VE ALTI 12 YAŞ VE ALTI AÇIK < Önceki Sonraki >",
    "id": "22c1e9598e1b",
    "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-24",
@@ -15153,6 +15152,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Bilecik",
+   "name": "10 KASIM ATATÜR'Ü ANMA GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bilecik.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "10 KASIM ATATÜR'Ü ANMA GÜNÜ SATRANÇ TURNUVASI 7 -8 Kasım 2026 tarihlerinde Bilecik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 05.11.2026 Yönerge Turnuva Kayıt Devamını oku...",
+   "id": "2155f5ad4381",
+   "ilk_gorulme": "2026-10-24",
+   "son_gorulme": "2026-10-24",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Bartın",
    "name": "10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI",
    "start": "2026-11-10",
@@ -16557,6 +16581,31 @@
    "lastmod": "2026-10-05T13:27:42+00:00",
    "id": "23fe86be74ec",
    "ilk_gorulme": "2026-10-06",
+   "son_gorulme": "2026-10-24",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bilecik",
+   "name": "TÜRKİYE KUPASI SATRANÇ BİLECİK BİRİNCİLİĞİ",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bilecik.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ BİLECİK BİRİNCİLİĞİ 14 -15 Kasım 2026 tarihlerinde Bilecik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 12.11.2026 Yönerge Turnuva Kayıt Devamını oku...",
+   "id": "1d8c6237f714",
+   "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-24",
    "durum": "yaklasan"
   },
@@ -18865,6 +18914,31 @@
    "lastmod": "2026-06-30T08:46:27+00:00",
    "id": "2aa937c25cc4",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-24",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1645-hatay-4-geleneksel-aras-guemuesoglu-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI 28-29/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Hatay Doğuş Okulları Aşağıokçular Kampüsü Salonu'nda Hatay 4. Geleneksel Aras Gümüşoğlu Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 26/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi Sonraki >",
+   "id": "0c281bcf2e34",
+   "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-24",
    "durum": "yaklasan"
   },
@@ -21544,6 +21618,31 @@
    "lastmod": "2026-06-07T16:35:09+00:00",
    "id": "76e0dcb5f3d9",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-24",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "KÜÇÜKLER (7-12) SATRANÇ HATAY İL BİRİNCİLİĞİ TURNUVA KAYITLARI BAŞLADI",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1643-kuecuekler-7-12-satranc-hatay-il-birinciligi-turnuva-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "KÜÇÜKLER (7-12) SATRANÇ HATAY İL BİRİNCİLİĞİ TURNUVA KAYITLARI BAŞLADI KÜÇÜKLER (7-12) SATRANÇ HATAY İL BİRİNCİLİĞİ TURNUVA KAYITLARI BAŞLADI 19-20/12/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Hatay Merkez Kapalı Spor Salonu( Hatay Yeni Stadyumu Yanı)'nda Küçükler (7-12) Satranç Hatay İl Birinciliği Turnuvası düzenlenecektir. Son başvuru tarihi 17/12/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki S",
+   "id": "2758117fe244",
+   "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-24",
    "durum": "yaklasan"
   },
