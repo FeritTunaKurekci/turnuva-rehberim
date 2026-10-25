@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-24T20:05",
+ "taranma": "2026-10-25T08:57",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 14,
+ "okunan_sayfa": 22,
  "turnuvalar": [
   {
    "c": "US",
@@ -21896,6 +21896,46 @@
    "lastmod": "2026-10-16T07:07:52+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Spring Championship 2027 – Carrollton",
+   "city": "TX 75007",
+   "start": "2027-03-20",
+   "end": "2027-03-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open Section Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,500",
+   "tc": "G/60; d10",
+   "url": "https://www.texaschesscenter.com/store/p/spring-championship",
+   "src": "https://mychess.events/event/spring-championship-2027-carrollton/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T05:21:58+00:00"
+  },
+  {
    "c": "CZ",
    "ulke": "Çekya",
    "bayrak": "cz",
@@ -22329,6 +22369,51 @@
    "lastmod": "2026-10-16T06:44:15+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "River Valley Classic 2027",
+   "city": "AR 72901",
+   "start": "2027-04-03",
+   "end": "2027-04-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1st Class A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1st Class B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Championship Subtotal",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $2,080",
+   "tc": "G/90+30",
+   "url": "https://mychess.events/event/river-valley-classic-2027/",
+   "src": "https://mychess.events/event/river-valley-classic-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T05:08:01+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -22592,6 +22677,76 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
+   "name": "Tunnelvision LV",
+   "city": "SC 29212",
+   "start": "2027-04-17",
+   "end": "2027-04-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Player check",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": "≈ $1,000",
+   "tc": null,
+   "url": "https://mychess.events/event/tunnelvision-lv-2027/",
+   "src": "https://mychess.events/event/tunnelvision-lv-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T04:57:21+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 FSCL Super Championship",
+   "city": "FL 33018",
+   "start": "2027-04-17",
+   "end": "2027-04-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "K–1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–12",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/25; d5",
+   "url": "https://mychess.events/event/2027-fscl-super-championship/",
+   "src": "https://mychess.events/event/2027-fscl-super-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T04:43:23+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
    "name": "2027 World Chess Festival – San Francisco",
    "city": "CA 94005",
    "start": "2027-04-23",
@@ -22847,6 +23002,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T06:36:48+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "The Right Move – Riverbank State Park – May 2027",
+   "city": "NY 10031",
+   "start": "2027-05-02",
+   "end": "2027-05-02",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "6–11 players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12–29 players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "30–44 players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "45–60 players",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/25; d5",
+   "url": "https://mychess.events/event/the-right-move-riverbank-state-park-may-2027/",
+   "src": "https://mychess.events/event/the-right-move-riverbank-state-park-may-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T04:35:00+00:00"
   },
   {
    "c": "CZ",
@@ -23833,6 +24028,46 @@
    "lastmod": "2026-10-15T11:03:04+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "50th Birmingham Rapidplay 2027",
+   "city": "Birmingham B32 2TW",
+   "start": "2027-06-13",
+   "end": "2027-06-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": 1400,
+     "max": 1799
+    },
+    {
+     "n": "Intermediate",
+     "min": 1100,
+     "max": 1499
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": "≈ $1,340",
+   "tc": null,
+   "url": "https://mychess.events/event/50th-birmingham-rapidplay-2027/",
+   "src": "https://mychess.events/event/50th-birmingham-rapidplay-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T06:16:04+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -24118,6 +24353,41 @@
    "lastmod": "2026-10-16T06:00:24+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "2027 Solihull Junior Open",
+   "city": "Solihull B90 2PZ",
+   "start": "2027-06-27",
+   "end": "2027-06-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "4½ or 5 points",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3½ or 4 points",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2½ or 3 points",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2027-solihull-junior-open/",
+   "src": "https://mychess.events/event/2027-solihull-junior-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T06:07:16+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -24146,6 +24416,51 @@
    "cr": "https://chess-results.com/tnr1467924.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-09T07:34:54+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "EJCOA National Youth Finals 2027",
+   "city": "Nottingham NG7 4ED",
+   "start": "2027-07-02",
+   "end": "2027-07-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Under 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Combined U16–U20",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/ejcoa-national-youth-finals-2027/",
+   "src": "https://mychess.events/event/ejcoa-national-youth-finals-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T05:49:45+00:00"
   },
   {
    "c": "HU",
@@ -24181,6 +24496,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T09:23:23+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "7th Wood Green Invitational 2027",
+   "city": "Stafford ST16 2HP",
+   "start": "2027-07-10",
+   "end": "2027-07-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Chessence Masters",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Premium Open A",
+     "min": 1750,
+     "max": 1999
+    },
+    {
+     "n": "Premium Open B",
+     "min": 1500,
+     "max": 1749
+    },
+    {
+     "n": "Premium Open C",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": "≈ $1,080",
+   "tc": "90/40 + 15 minutes, with 30-second increment",
+   "url": "https://mychess.events/event/7th-wood-green-invitational-2027/",
+   "src": "https://mychess.events/event/7th-wood-green-invitational-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T05:38:11+00:00"
   },
   {
    "c": "HU",
@@ -24391,6 +24746,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-24T11:35:32+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "18th Chessence Open 2027",
+   "city": "Willingen (Upland)",
+   "start": "2027-08-06",
+   "end": "2027-08-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Chessence Masters",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Premium Open A",
+     "min": 1750,
+     "max": 1999
+    },
+    {
+     "n": "Premium Open B",
+     "min": 1500,
+     "max": 1749
+    },
+    {
+     "n": "Premium Open C",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": "90/40 + 15 minutes, with 30-second increment",
+   "url": "https://mychess.events/event/18th-chessence-open-2027/",
+   "src": "https://mychess.events/event/18th-chessence-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T05:26:46+00:00"
   },
   {
    "c": "AT",
