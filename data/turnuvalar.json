@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-25T15:39",
+ "guncelleme": "2026-10-25T20:17",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-25T15:38",
+   "tarama": "2026-10-25T20:16",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-25T15:39",
+   "tarama": "2026-10-25T20:17",
    "kaynak": "https://mychess.events"
   }
  },
@@ -8377,31 +8377,6 @@
   },
   {
    "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Bolu",
-   "name": "Gerede Cumhuriyet Bayramı Satranç Turnuvası",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://bolu.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE BAŞLAMIŞTIR... Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride gerçekleşen turnuvada Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Dereceye Giren Sporcuların Banka Bilgileri İletişim Formu Aşağıdaki Linkten Turnuvamızı Takip Edebilirsiniz",
-   "id": "00b6810b6660",
-   "ilk_gorulme": "2026-10-13",
-   "son_gorulme": "2026-10-25",
-   "durum": "suruyor"
-  },
-  {
-   "c": "TR",
    "il": "Hatay",
    "name": "Hatay Doğuş Okulları 29 Ekim Cumhuriyet Bayramı Turnuvası",
    "city": "Hatay, Defne",
@@ -11653,6 +11628,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Erzurum",
+   "name": "TED KOLEJİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://erzurum.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TED KOLEJİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI Erzurum Ted Koleji & Erzurum Satranç İl Temsilciliği katkılarıyla Geleneksel Ted Koleji 29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnuvası düzenlenecektir. \" Ted Koleji 29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnuvası \" 31 Ekim 2026 Cumartesi günü saat 09.00'da Ted Koleji Spor Salonunda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önce",
+   "id": "35871f8f65d8",
+   "ilk_gorulme": "2026-10-25",
+   "son_gorulme": "2026-10-25",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "İzmir",
    "name": "TORBALI BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-10-29",
@@ -12730,6 +12729,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Atatürk Haftası Satranç Turnuvası",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Atatürk Haftası Satranç Turnuvası Aydın Gençlik ve Spor İl Müdürlüğü ve Aydın Satranç İl Temsilciliğinin düzenlediği Aydın Atatürk Haftası Satranç Turnuvası 31 Ekim-01 Kasım 2 026 günlerinde Aydın SKS Spor Salonu 'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Turnuvaya kayıt için sol bölümdeki \" Turnuv",
+   "id": "1ebc5e973db4",
+   "ilk_gorulme": "2026-10-25",
+   "son_gorulme": "2026-10-25",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "İstanbul",
    "name": "Beylikdüzü Belediyesi Cumhuriyet Bayramı ve Ata`ya Saygı Satranç Turnuvası..",
    "start": "2026-10-31",
@@ -12903,6 +12926,32 @@
    "kaynak_metin": "Didim Cumhuriyet Bayramı Satranç Turnuvası Didim Gençlik ve Spor İlçe Müdürlüğü ve Didim Satranç İlçe Temsilciliğinin düzenlediği Didim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim -01 Kasım 2 026 günlerinde Didim Gençlik Merkezi Salonu 'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Turnuvaya kayıt içi",
    "id": "20a996251ca4",
    "ilk_gorulme": "2026-10-09",
+   "son_gorulme": "2026-10-25",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bolu",
+   "name": "Gerede Cumhuriyet Bayramı Satranç Turnuvası",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bolu.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası Satranç Haberleri Cumhuriyet 2026 Cumhuriyet Bayramı Satranç Turnuvamız 31 Ekim - 01 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ KONUM İÇİN TIKLAYINIZ... ) Yapılacaktır. Sporcularımız 2026-2027 Sezonu Lisans İşlemlerini Yaptırarak ( Lisans işlemleri bilgi almak için tıklayınız... ) Turnuvamıza Katılabilirler. Aşağıdaki Linklerden yönergemizi okuyarak kayıt olabilirsiniz. Son Kayıt 30 Ekim 2026 saat 16:00 dır. YÖNERG",
+   "id": "00b6810b6660",
+   "tarih_degisti": "2026-10-24 → 2026-10-31",
+   "ilk_gorulme": "2026-10-13",
    "son_gorulme": "2026-10-25",
    "durum": "yaklasan"
   },
@@ -13270,6 +13319,31 @@
    "ilk_gorulme": "2026-10-04",
    "son_gorulme": "2026-10-18",
    "tarih_degisti": "2026-10-24 → 2026-10-31",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mardin",
+   "name": "TÜRKİYE KUPASI SATRANÇ MARDİN BİRİNCİLİĞİ",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mardin.tsf.org.tr/78-turnuvalar/710-mardin-il-birincilii-tuerkiye-kupas-satranc-mardin-birinciligi",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ MARDİN BİRİNCİLİĞİ TÜRKİYE KUPASI SATRANÇ MARDİN BİRİNCİLİĞİ Türkiye Kupası Satranç Mardin Birinciliği ; Mardin İl GSM ve Mardin Satranç İl Temsilciliği organizasyonunda, 31 Ekim 2026 tarihi saat 10.00’da başlayacak ve Artuklu Gençlik Merkezi'nde yapılacaktır. Her Kategoride ilk üç sporcuya madalya ve kupa verilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış sporcular başvuru yapabileceklerd",
+   "id": "d501be88b85e",
+   "ilk_gorulme": "2026-10-25",
+   "son_gorulme": "2026-10-25",
    "durum": "yaklasan"
   },
   {
@@ -14977,6 +15051,31 @@
    "lastmod": "2026-09-17T12:51:25+00:00",
    "id": "c5bc822def18",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-10-25",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mardin",
+   "name": "TÜRKİYE KADINLAR SATRANÇ MARDİN BİRİNCİLİĞİ",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mardin.tsf.org.tr/78-turnuvalar/711-tuerkiye-kadinlar-satranc-mardin-birinciligi",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KADINLAR SATRANÇ MARDİN BİRİNCİLİĞİ TÜRKİYE KADINLAR SATRANÇ MARDİN BİRİNCİLİĞİ Türkiye Kadınlar Satranç Mardin Birinciliği ; Mardin İl GSM ve Mardin Satranç İl Temsilciliği organizasyonunda, 7 Kasım 2026 tarihi saat 10.00’da başlayacak ve Artuklu Gençlik Merkezi'nde yapılacaktır. Her Kategoride ilk üç sporcuya madalya ve kupa verilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış sporcular başvuru yapabilec",
+   "id": "cae811e43047",
+   "ilk_gorulme": "2026-10-25",
    "son_gorulme": "2026-10-25",
    "durum": "yaklasan"
   },
