@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-25T08:57",
+ "guncelleme": "2026-10-25T15:39",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-25T08:56",
+   "tarama": "2026-10-25T15:38",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-25T08:57",
+   "tarama": "2026-10-25T15:39",
    "kaynak": "https://mychess.events"
   }
  },
@@ -8394,7 +8394,7 @@
    ],
    "url": "https://bolu.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE BAŞLAMIŞTIR... Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride gerçekleşen turnuvada Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Aşağıdaki Linkten Turnuvamızı Takip Edebilirsiniz. YÖNERGE TURNUVA TAKİP ",
+   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE BAŞLAMIŞTIR... Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride gerçekleşen turnuvada Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Dereceye Giren Sporcuların Banka Bilgileri İletişim Formu Aşağıdaki Linkten Turnuvamızı Takip Edebilirsiniz",
    "id": "00b6810b6660",
    "ilk_gorulme": "2026-10-13",
    "son_gorulme": "2026-10-25",
@@ -8447,6 +8447,30 @@
    "kaynak_metin": "Isparta Yıldızlar (13-18) İl Birinciliği Satranç Turnuvası 2026 Isparta Yıldızlar (13-18) İl Birinciliği Satranç Turnuvası 2026 Eşlendirme ve Sonuç Canlı Yayın Isparta Yıldızlar (13-18) İl Birinciliği Satranç Turnuvası 24-25 Ekim 2026 tarihlerinde Isparta Gençlik Merkezi Satranç Salonu'nda düzenlenecektir. Turnuva Yönergesi Turnuva Kayıt",
    "id": "5cb86b83f4fc",
    "ilk_gorulme": "2026-10-09",
+   "son_gorulme": "2026-10-25",
+   "durum": "suruyor"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
+   "name": "KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI Satranç Haberleri KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI Karaman “Kızılay Haftası Satranç Turnuvası \" 31.10 - 01.11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA karaman kızılay haftası satranç turnuvası ORGANİZASYON Karaman GSM &",
+   "id": "27f3e9f4bae9",
+   "ilk_gorulme": "2026-10-25",
    "son_gorulme": "2026-10-25",
    "durum": "suruyor"
   },
@@ -9317,7 +9341,7 @@
    "kaynak_metin": "İl Dışı Turnuvalarımız İl Dışı Turnuvalarımız Adıyaman Belediyesi ve Adıyaman İl Temsilciliği iş birliği ile toplam 7000 TL ödülün dağıtılacağı ADIYAMAN BELEDİYESİ 1.ULUSAL SATRANÇ TURNUVASI 3-4-5 Kasımda gerçekleşecektir. Ayrıntılar için lütfen tıklayınız... Antalya'da ise 27-29 Ekim tarihlerinde ödüllü Cumhuriyet Bayramı Satranç Turnuvası gerçekleştirilecek olup www.antalya.tsf.org.tr adresinden ilgili haber metnine ulaşabilirsiniz. < Önceki Sonraki >",
    "id": "600a369dfce1",
    "ilk_gorulme": "2026-09-22",
-   "son_gorulme": "2026-10-22",
+   "son_gorulme": "2026-10-25",
    "durum": "yaklasan"
   },
   {
@@ -11012,6 +11036,31 @@
    "kaynak_metin": "Giresun 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Cumhuriyet Bayramı Satranç Turnuvası 24– 25 Ekim 2026 tarihlerinde Giresun Olimpik Havuz Satranç Salonunda yapılacaktır. Lütfen kayıt yaptırmadan önce turnuva yönergesini okuyunuz. YÖNERGE TURNUVA KAYIT A KATEGORİSİ ( Maksimum Ratingi 1200 ve üzerinde olan sporcular ) B KATEGORİSİ ( Maksimum ratingi 1199 ve altında olan sporcular ile herhangi bir kuvvet puanına sahip olmayan sporcular ) TURNUVA TAKİP A KATEGORİSİ B KATEGORİSİ ( Turnuva Takip L",
    "id": "4b95bd327584",
    "ilk_gorulme": "2026-10-19",
+   "son_gorulme": "2026-10-25",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Giresun",
+   "name": "Giresun 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Tamamlandı",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://giresun.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Giresun 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Tamamlandı Giresun Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim 2026 tarihlerinde Giresun Merkez Olimpik Yüzme Havuzu Satranç Salonunda 2 kategoride ve toplamda 34 sporcunun katılımıyla tamamlandı. Birbirinden güzel olan maçları izlemek oldukça keyifliydi. Dereceye giren sporcuların ödüllerini Giresun Satranç İl Temsilcisi Ömer YANIKOĞLU ve turnuvanın Başhakem Yardımcısı Murat ŞAHİN vermiştir. Turnuva sonunda sıralama şöyle oldu; A Kategori",
+   "id": "9dad34bb1e34",
+   "ilk_gorulme": "2026-10-25",
    "son_gorulme": "2026-10-25",
    "durum": "yaklasan"
   },
@@ -13484,6 +13533,30 @@
    "lastmod": "2026-09-27T07:34:31+00:00",
    "id": "5f844f6d13a6",
    "ilk_gorulme": "2026-09-27",
+   "son_gorulme": "2026-10-25",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
+   "name": "KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri/859-karamankzlayhaftasisatrancturnuvasi2026",
+   "kaynak": "site",
+   "kaynak_metin": "KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI Karaman “Kızılay Haftası Satranç Turnuvası \" 31.10 - 01.11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA karaman kızılay haftası satranç turnuvası ORGANİZASYON Karaman GSM & Karaman Satranç İ",
+   "id": "334a2baa7fa0",
+   "ilk_gorulme": "2026-10-25",
    "son_gorulme": "2026-10-25",
    "durum": "yaklasan"
   },
@@ -26581,28 +26654,33 @@
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Open Bled",
+     "n": "Bled OPEN",
      "min": null,
      "max": null
     },
     {
-     "n": "Rating Groups",
+     "n": "Late Night Blitz",
      "min": null,
      "max": null
     },
     {
-     "n": "Side Events and Seminars",
+     "n": "Freestyle Chess (Chess960) Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dr. Janez Barle Memorial Blitz",
      "min": null,
      "max": null
     }
    ],
-   "prize": "≈ $6,840",
-   "tc": "Classical FIDE-rated control under the official 2027 regulations",
+   "prize": "≈ $6,720",
+   "tc": "75 minutes + 30 seconds per move; 15 additional minutes after move 40",
    "url": "https://mychess.events/event/bled-chess-festival-2027/",
    "src": "https://mychess.events/event/bled-chess-festival-2027/",
-   "cr": "",
+   "cr": "https://s3.chess-results.com/tnr1496771.aspx?SNode=S0&lan=21",
    "kayit_kapali": false,
-   "lastmod": "2026-07-07T11:51:20+00:00",
+   "lastmod": "2026-10-25T11:03:51+00:00",
    "id": "2999eb4ceb5c",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-10-25",

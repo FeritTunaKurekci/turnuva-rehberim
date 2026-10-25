@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-25T08:56",
+ "taranma": "2026-10-25T15:38",
  "surum": "0.4",
  "iller": [
   {
@@ -18,7 +18,7 @@
    "il": "Afyonkarahisar",
    "durum": "ok",
    "host": "afyon.tsf.org.tr",
-   "adet": 3
+   "adet": 1
   },
   {
    "il": "Ağrı",
@@ -240,7 +240,7 @@
    "il": "İstanbul",
    "durum": "ok",
    "host": "istanbul.tsf.org.tr",
-   "adet": 19
+   "adet": 20
   },
   {
    "il": "İzmir",
@@ -264,7 +264,7 @@
    "il": "Karaman",
    "durum": "ok",
    "host": "karaman.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Kars",
@@ -623,48 +623,6 @@
    "url": "https://adiyaman.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=327",
    "kaynak": "site",
    "kaynak_metin": "AÇIK KATEGORİ KAYIT İÇİN TIKLAYINIZ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Hakemlerimiz Duyurular Hakem Listesi Hakem Görevlendirmeleri Merkezi Hakem Sistemi Merkez Hakem Kurulu Turnuvalar Turnuva Sayfaları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI TURNUVASI AÇIK KATORİ KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olma"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Afyonkarahisar",
-   "name": "AKTİF TURNUVALARIMIZ",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://afyon.tsf.org.tr/turnuvalar/duyurular/904-aktif-turnuvalarimiz",
-   "kaynak": "site",
-   "kaynak_metin": "AKTİF TURNUVALARIMIZ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakemlerimiz Antrenörlerimiz Turnuvalar Turnuva Haberleri DUYURULAR Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim AKTİF TURNUVALARIMIZ Sonraki > LİSANS İŞLEMLERİ Kaynaklar Satranç Haberleri Turnuva Haberleri Etkinlik Takvimi Turnuva Kayıt Turnuva Kayıt İPTAL Lisans Nasıl Çıkarılır? Antrenörlerimiz Hakemlerimiz TURNUVA ARŞİVİ TSF Market MİLLİ TAK"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Afyonkarahisar",
-   "name": "2026-2027 SEZONU TAMAMLANAN TURNUVALAR",
-   "start": "2026-10-29",
-   "end": "2026-10-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://afyon.tsf.org.tr/turnuvalar/duyurular/903-2026-2027-sezonu-tamamlanan-turnuvalar",
-   "kaynak": "site",
-   "kaynak_metin": "2026-2027 SEZONU TAMAMLANAN TURNUVALAR Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakemlerimiz Antrenörlerimiz Turnuvalar Turnuva Haberleri DUYURULAR Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 2026-2027 SEZONU TAMAMLANAN TURNUVALAR < Önceki Sonraki > LİSANS İŞLEMLERİ Kaynaklar Satranç Haberleri Turnuva Haberleri Etkinlik Takvimi Turnuva Kayıt Turnuva Kayıt İPTAL Lisans Nasıl Çıkarılır? Antrenörlerimiz Hak"
   },
   {
    "c": "TR",
@@ -1753,7 +1711,7 @@
    ],
    "url": "https://bolu.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE BAŞLAMIŞTIR... Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride gerçekleşen turnuvada Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Aşağıdaki Linkten Turnuvamızı Takip Edebilirsiniz. YÖNERGE TURNUVA TAKİP "
+   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE BAŞLAMIŞTIR... Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride gerçekleşen turnuvada Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Dereceye Giren Sporcuların Banka Bilgileri İletişim Formu Aşağıdaki Linkten Turnuvamızı Takip Edebilirsiniz"
   },
   {
    "c": "TR",
@@ -1774,7 +1732,7 @@
    ],
    "url": "https://bolu.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Salonu Satranç Haberleri Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE BAŞLAMIŞTIR... Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride gerçekleşen turnuvada Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Aşağıdaki Linkten Turnuvamızı Takip Edebilirsiniz. YÖNERGE TURNUVA TAKİP C"
+   "kaynak_metin": "Turnuva Salonu Satranç Haberleri Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE BAŞLAMIŞTIR... Konum İçin Tıklayınız... 24-25 Ekim 2026 Tarihleri arasında 4 kategoride gerçekleşen turnuvada Gerede İlçe Milli Eğitim Müdürlüğünün Katkıları ile 24000TL ödül dağıtılacaktır. HerKategorinin Birincisine 3000TL İkincisine 2000TL Üçüncüsüne 1000TL verilecektir. Dereceye Giren Sporcuların Banka Bilgileri İletişim Formu Aşağıdaki Linkte"
   },
   {
    "c": "TR",
@@ -2583,26 +2541,21 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Giresun",
-   "name": "Giresun 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası",
+   "name": "Giresun 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Tamamlandı",
    "start": "2026-10-29",
    "end": "2026-10-29",
    "status": "a",
    "reyting_turu": null,
    "sections": [
     {
-     "n": "A Kategorisi",
-     "min": 1200,
-     "max": null
-    },
-    {
-     "n": "B Kategorisi",
+     "n": "Genel",
      "min": null,
-     "max": 1199
+     "max": null
     }
    ],
    "url": "https://giresun.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Giresun 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Cumhuriyet Bayramı Satranç Turnuvası 24– 25 Ekim 2026 tarihlerinde Giresun Olimpik Havuz Satranç Salonunda yapılacaktır. Lütfen kayıt yaptırmadan önce turnuva yönergesini okuyunuz. YÖNERGE TURNUVA KAYIT A KATEGORİSİ ( Maksimum Ratingi 1200 ve üzerinde olan sporcular ) B KATEGORİSİ ( Maksimum ratingi 1199 ve altında olan sporcular ile herhangi bir kuvvet puanına sahip olmayan sporcular ) TURNUVA TAKİP A KATEGORİSİ B KATEGORİSİ ( Turnuva Takip L"
+   "kaynak_metin": "Giresun 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Tamamlandı Giresun Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim 2026 tarihlerinde Giresun Merkez Olimpik Yüzme Havuzu Satranç Salonunda 2 kategoride ve toplamda 34 sporcunun katılımıyla tamamlandı. Birbirinden güzel olan maçları izlemek oldukça keyifliydi. Dereceye giren sporcuların ödüllerini Giresun Satranç İl Temsilcisi Ömer YANIKOĞLU ve turnuvanın Başhakem Yardımcısı Murat ŞAHİN vermiştir. Turnuva sonunda sıralama şöyle oldu; A Kategori"
   },
   {
    "c": "TR",
@@ -3354,6 +3307,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Şişli 29 Ekim Turnuvası",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-kayit-sistemi/sisli-29-ekim-turnuvas2026",
+   "kaynak": "site",
+   "kaynak_metin": "Şişli 29 Ekim Turnuvası Şişli 29 Ekim Turnuvası"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "İzmir",
    "name": "TORBALI BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-10-29",
@@ -3610,6 +3584,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Karaman",
+   "name": "KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri/859-karamankzlayhaftasisatrancturnuvasi2026",
+   "kaynak": "site",
+   "kaynak_metin": "KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI Karaman “Kızılay Haftası Satranç Turnuvası \" 31.10 - 01.11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA karaman kızılay haftası satranç turnuvası ORGANİZASYON Karaman GSM & Karaman Satranç İ"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
    "name": "KARAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-10-29",
    "end": "2026-10-29",
@@ -3630,6 +3624,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Karaman",
+   "name": "KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI Satranç Haberleri KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI Karaman “Kızılay Haftası Satranç Turnuvası \" 31.10 - 01.11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA karaman kızılay haftası satranç turnuvası ORGANİZASYON Karaman GSM &"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
    "name": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-10-24",
    "end": "2026-10-25",
@@ -3643,27 +3657,7 @@
    ],
    "url": "https://karaman.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI Satranç Haberleri KARAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Karaman “29 Ekim Cumhuriyet Bayramı Satranç Turnuvası \" 24-25.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva gününe kadar ödül temin edilmesi halinde ödüller ve paylaşımları teknik "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Karaman",
-   "name": "TAŞELİ KÜLTÜR VE SILA FESTİVALİ SATRANÇ TURNUVASI",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://karaman.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "TAŞELİ KÜLTÜR VE SILA FESTİVALİ SATRANÇ TURNUVASI Satranç Haberleri KARAMAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Karaman “29 Ekim Cumhuriyet Bayramı Satranç Turnuvası \" 24-25.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva gününe kadar ödül temin edilmesi halinde ödüller ve paylaşımları "
+   "kaynak_metin": "30 AĞUSTOS ZAFER BAYRAMI SATRANÇ TURNUVASI Satranç Haberleri KARAMAN KIZILAY HAFTASI SATRANÇ TURNUVASI Karaman “Kızılay Haftası Satranç Turnuvası \" 31.10 - 01.11.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları: TURNUVA karaman kızılay haftası satranç turnuvası ORGANİZASYON Karaman GSM "
   },
   {
    "c": "TR",

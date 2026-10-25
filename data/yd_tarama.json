@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-25T08:57",
+ "taranma": "2026-10-25T15:39",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 22,
+ "okunan_sayfa": 13,
  "turnuvalar": [
   {
    "c": "US",
@@ -21402,28 +21402,33 @@
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Open Bled",
+     "n": "Bled OPEN",
      "min": null,
      "max": null
     },
     {
-     "n": "Rating Groups",
+     "n": "Late Night Blitz",
      "min": null,
      "max": null
     },
     {
-     "n": "Side Events and Seminars",
+     "n": "Freestyle Chess (Chess960) Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dr. Janez Barle Memorial Blitz",
      "min": null,
      "max": null
     }
    ],
-   "prize": "≈ $6,840",
-   "tc": "Classical FIDE-rated control under the official 2027 regulations",
+   "prize": "≈ $6,720",
+   "tc": "75 minutes + 30 seconds per move; 15 additional minutes after move 40",
    "url": "https://mychess.events/event/bled-chess-festival-2027/",
    "src": "https://mychess.events/event/bled-chess-festival-2027/",
-   "cr": "",
+   "cr": "https://s3.chess-results.com/tnr1496771.aspx?SNode=S0&lan=21",
    "kayit_kapali": false,
-   "lastmod": "2026-07-07T11:51:20+00:00"
+   "lastmod": "2026-10-25T11:03:51+00:00"
   },
   {
    "c": "GR",
