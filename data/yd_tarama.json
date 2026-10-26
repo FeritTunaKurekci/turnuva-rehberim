@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-25T20:17",
+ "taranma": "2026-10-26T09:22",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 12,
+ "okunan_sayfa": 13,
  "turnuvalar": [
   {
    "c": "US",
@@ -15549,6 +15549,46 @@
    "cr": "https://chess-results.com/tnr1406044.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-01T11:32:06+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Golders Green FIDE Rapid — February 2027",
+   "city": "London NW3 7SU",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "ECF U1100",
+     "min": null,
+     "max": 1099
+    }
+   ],
+   "prize": null,
+   "tc": "20 minutes plus five seconds per move",
+   "url": "https://mychess.events/event/golders-green-fide-rapid-february-2027/",
+   "src": "https://mychess.events/event/golders-green-fide-rapid-february-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-25T20:27:14+00:00"
   },
   {
    "c": "IT",
