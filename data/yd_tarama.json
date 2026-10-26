@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-26T09:22",
+ "taranma": "2026-10-26T18:00",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 22,
  "turnuvalar": [
   {
    "c": "US",
@@ -6864,6 +6864,46 @@
    "lastmod": "2026-05-26T08:30:43+00:00"
   },
   {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Auyl Sport 2026 Republican Chess Final",
+   "city": "Astana",
+   "start": "2026-10-24",
+   "end": "2026-10-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Girls U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Boys U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Boys U14",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/auyl-sport-2026-republican-chess-final/",
+   "src": "https://mychess.events/event/auyl-sport-2026-republican-chess-final/",
+   "cr": "https://s3.chess-results.com/tnr1506234.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T16:52:58+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -7072,6 +7112,76 @@
    "cr": "https://chess-results.com/tnr1474477.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-08-19T04:54:54+00:00"
+  },
+  {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Maestro Standart Cup - November 2026",
+   "city": "Astana",
+   "start": "2026-10-26",
+   "end": "2026-11-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, November 14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "November 15–21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/maestro-standart-cup-november-2026/",
+   "src": "https://mychess.events/event/maestro-standart-cup-november-2026/",
+   "cr": "https://s3.chess-results.com/tnr1512724.aspx?SNode=S0&lan=21",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T16:45:40+00:00"
+  },
+  {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Chester Chess Cup 1 - League C October 2026",
+   "city": "Office 5",
+   "start": "2026-10-26",
+   "end": "2026-11-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "League C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Age",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tournament format",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/chester-chess-cup-1-league-c-october-2026/",
+   "src": "https://mychess.events/event/chester-chess-cup-1-league-c-october-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T16:40:04+00:00"
   },
   {
    "c": "EN",
@@ -8096,6 +8206,39 @@
    "cr": "https://chess-results.com/tnr1499222.aspx",
    "kayit_kapali": false,
    "lastmod": "2026-10-05T08:42:01+00:00"
+  },
+  {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "KazChess Masters Almaty 2026",
+   "city": "240G Nazarbayev Avenue (business-center tournament venue; historical Time Square name)",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Invited international group",
+     "inv": true
+    },
+    {
+     "n": "Kazakhstan group",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Competition format",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/kazchess-masters-almaty-2026/",
+   "src": "https://mychess.events/event/kazchess-masters-almaty-2026/",
+   "cr": "https://s1.chess-results.com/tnr1516143.aspx?SNode=S0&lan=12",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T16:35:08+00:00"
   },
   {
    "c": "EN",
@@ -9637,6 +9780,46 @@
    "lastmod": "2026-10-18T17:31:17+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Silvertown FIDE Congress 2027",
+   "city": "London E16 2DN",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "ECF U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/silvertown-fide-congress-2027/",
+   "src": "https://mychess.events/event/silvertown-fide-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T12:08:51+00:00"
+  },
+  {
    "c": "PT",
    "ulke": "Portekiz",
    "bayrak": "pt",
@@ -11159,6 +11342,36 @@
    "cr": "https://s3.chess-results.com/UploadData.aspx?Uid=1&lan=1&tnr=1498599",
    "kayit_kapali": false,
    "lastmod": "2026-10-05T13:27:42+00:00"
+  },
+  {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Champion Chess Club October 2026 Qualification Tournaments",
+   "city": "Champion Chess Club / Bayzak Business Center",
+   "start": "2026-11-14",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Qualification for second category",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "First-category norm competition",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/champion-chess-club-october-2026-qualification-tournaments/",
+   "src": "https://mychess.events/event/champion-chess-club-october-2026-qualification-tournaments/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T17:02:51+00:00"
   },
   {
    "c": "EN",
@@ -14185,6 +14398,31 @@
    "lastmod": "2026-09-24T07:43:56+00:00"
   },
   {
+   "c": "PT",
+   "ulke": "Portekiz",
+   "bayrak": "pt",
+   "name": "Chess Cruise from Portugal to Argentina 2027",
+   "city": "-651 Lisboa",
+   "start": "2026-12-04",
+   "end": "2026-12-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/chess-cruise-from-portugal-to-argentina-2027/",
+   "src": "https://mychess.events/event/chess-cruise-from-portugal-to-argentina-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-04T16:21:52+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -15549,46 +15787,6 @@
    "cr": "https://chess-results.com/tnr1406044.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-01T11:32:06+00:00"
-  },
-  {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "Golders Green FIDE Rapid — February 2027",
-   "city": "London NW3 7SU",
-   "start": "2026-12-12",
-   "end": "2026-12-13",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "U1900",
-     "min": null,
-     "max": 1899
-    },
-    {
-     "n": "U1600",
-     "min": null,
-     "max": 1599
-    },
-    {
-     "n": "ECF U1100",
-     "min": null,
-     "max": 1099
-    }
-   ],
-   "prize": null,
-   "tc": "20 minutes plus five seconds per move",
-   "url": "https://mychess.events/event/golders-green-fide-rapid-february-2027/",
-   "src": "https://mychess.events/event/golders-green-fide-rapid-february-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-25T20:27:14+00:00"
   },
   {
    "c": "IT",
@@ -18394,6 +18592,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-25T10:33:25+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "8th Simon Bartlett Memorial Congress 2027",
+   "city": "Torquay TQ2 5HL",
+   "start": "2027-01-01",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1975",
+     "min": null,
+     "max": 1974
+    },
+    {
+     "n": "U1750",
+     "min": null,
+     "max": 1749
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/8th-simon-bartlett-memorial-congress-2027/",
+   "src": "https://mychess.events/event/8th-simon-bartlett-memorial-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T12:04:03+00:00"
   },
   {
    "c": "IN",
@@ -23428,6 +23666,56 @@
    "lastmod": "2026-09-04T10:35:25+00:00"
   },
   {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "Austrian Chess Bundesliga 2026/2027",
+   "city": "Tyrol",
+   "start": "2027-05-14",
+   "end": "2027-05-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Pinggau-Friedberg",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Schach ohne Grenzen",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1. SK Ottakring",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "LL-resources Fürstenfeld/TSV Hartberg",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "SV – Das Wien – St. Veit",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Data Technology Pressbaum / Eichgraben",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, followed by 30 minutes to finish, plus 30 seconds per move from move one",
+   "url": "https://www.chess.at/spielbetrieb/bundesliga/1-bundesliga.html",
+   "src": "https://mychess.events/event/austrian-chess-bundesliga-2026-2027/",
+   "cr": "https://s3.chess-results.com/tnr1404438.aspx?lan=1&turdet=YES&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-08-02T09:29:14+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -24038,6 +24326,46 @@
    "lastmod": "2026-10-16T05:57:54+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Golders Green FIDE Rapid — February 2027",
+   "city": "London NW3 7SU",
+   "start": "2027-06-13",
+   "end": "2027-06-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "ECF U1100",
+     "min": null,
+     "max": 1099
+    }
+   ],
+   "prize": null,
+   "tc": "20 minutes plus five seconds per move",
+   "url": "https://mychess.events/event/golders-green-fide-rapid-february-2027/",
+   "src": "https://mychess.events/event/golders-green-fide-rapid-february-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T10:50:31+00:00"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -24581,6 +24909,76 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-25T05:38:11+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Birmingham FIDE Congress — January 2027",
+   "city": "Birmingham B27 7XY",
+   "start": "2027-07-10",
+   "end": "2027-07-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, January 9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 10",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/birmingham-fide-congress-january-2027/",
+   "src": "https://mychess.events/event/birmingham-fide-congress-january-2027/",
+   "cr": "https://s1.chess-results.com/tnr1519123.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T11:56:32+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "2027 Shropshire Chess Congress",
+   "city": "Shropshire TF3 4AW",
+   "start": "2027-07-10",
+   "end": "2027-07-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2027-shropshire-chess-congress/",
+   "src": "https://mychess.events/event/2027-shropshire-chess-congress/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-26T11:53:15+00:00"
   },
   {
    "c": "HU",
