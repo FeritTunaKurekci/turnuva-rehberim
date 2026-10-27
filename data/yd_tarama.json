@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-26T18:00",
+ "taranma": "2026-10-27T09:31",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 22,
+ "okunan_sayfa": 16,
  "turnuvalar": [
   {
    "c": "US",
@@ -7184,6 +7184,86 @@
    "lastmod": "2026-10-26T16:40:04+00:00"
   },
   {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Maestro Candidate Master Qualifier - November 7–15, 2026",
+   "city": "Astana",
+   "start": "2026-10-26",
+   "end": "2026-11-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, November 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 15",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/maestro-candidate-master-qualifier-november-7-15-2026/",
+   "src": "https://mychess.events/event/maestro-candidate-master-qualifier-november-7-15-2026/",
+   "cr": "https://s1.chess-results.com/tnr1526163.aspx?SNode=S0&lan=27",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T06:51:32+00:00"
+  },
+  {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Maestro First-Category Qualification - October 27–30, 2026",
+   "city": "Astana",
+   "start": "2026-10-26",
+   "end": "2026-11-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tuesday, October 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, October 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, October 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, October 30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/maestro-first-category-qualification-october-27-30-2026/",
+   "src": "https://mychess.events/event/maestro-first-category-qualification-october-27-30-2026/",
+   "cr": "https://s2.chess-results.com/tnr1521870.aspx?SNode=S0&lan=27",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T06:34:51+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -7577,6 +7657,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-05-28T05:10:35+00:00"
+  },
+  {
+   "c": "MN",
+   "ulke": "Moğolistan",
+   "bayrak": "mn",
+   "name": "Mongolian National Chess Championships 2026 - Open & Women Finals",
+   "city": "Ulaanbaatar",
+   "start": "2026-10-29",
+   "end": "2026-10-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 24–31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
+   "src": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
+   "cr": "https://s1.chess-results.com/tnr1522698.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T06:30:43+00:00"
   },
   {
    "c": "RO",
@@ -21312,6 +21427,40 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-14T08:28:54+00:00"
+  },
+  {
+   "c": "UZ",
+   "ulke": "Özbekistan",
+   "bayrak": "uz",
+   "name": "5th International President Cup 2026",
+   "city": "Tashkent",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Masters",
+     "inv": true
+    },
+    {
+     "n": "Open-A",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Open-B",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/5th-international-president-cup-2026/",
+   "src": "https://mychess.events/event/5th-international-president-cup-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T06:59:31+00:00"
   },
   {
    "c": "CH",
