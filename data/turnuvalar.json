@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-27T17:03",
+ "guncelleme": "2026-10-27T21:59",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-27T17:02",
-   "il_sayisi": 81
+   "tarama": "2026-10-27T21:58",
+   "il_sayisi": 80
   },
   "yurtdisi": {
-   "tarama": "2026-10-27T17:03",
+   "tarama": "2026-10-27T21:59",
    "kaynak": "https://mychess.events"
   }
  },
@@ -234,7 +234,7 @@
   },
   {
    "il": "Manisa",
-   "durum": "ok"
+   "durum": "ulasilamadi"
   },
   {
    "il": "Mardin",
@@ -13015,7 +13015,7 @@
    ],
    "url": "https://osmaniye.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Amatör Spor Haftası Satranç Turnuvası 10-121Ekim'de Satranç Haberleri Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde Kadirli Gençlik Merkezinde 4 farklı kategoride yapılacak.yapılacak. YÖNERGE TURNUVA KAYIT 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de Çok Amaçlı Spor Salonunda tek kategoride yapılacak. Ödülleri 29 Ekim'de Valilikç",
+   "kaynak_metin": "Amatör Spor Haftası Satranç Turnuvası 10-121Ekim'de Satranç Haberleri Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde Kadirli Gençlik Merkezinde 4 farklı kategoride yapılacak.yapılacak. YÖNERGE TURNUVA KAYIT Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da Düziçi Atatürk Haftası Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde Düziçi Spor Salonunda üç farklı kategoride yapılacaktır. YÖNERGE TURNUVA ",
    "id": "d0d9971df001",
    "ilk_gorulme": "2026-10-26",
    "son_gorulme": "2026-10-27",
@@ -14566,32 +14566,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Muğla",
-   "name": "TURNUVA KAYIT ›",
-   "start": "2026-11-05",
-   "end": "2026-11-05",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form",
-   "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız MARMARİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI SON KAYIT TARİHİ 05.11.2026 SAAT 17.00 YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 05.11.2026 SAAT 17.00 ORTACA 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON KAYIT T",
-   "id": "eab24b23adba",
-   "ilk_gorulme": "2026-09-29",
-   "son_gorulme": "2026-10-27",
-   "tarih_degisti": "2026-10-23 → 2026-11-05",
-   "durum": "yaklasan"
-  },
-  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -15206,6 +15180,31 @@
    "ilk_gorulme": "2026-10-12",
    "son_gorulme": "2026-10-27",
    "tarih_degisti": "2026-10-24 → 2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Osmaniye",
+   "name": "Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://osmaniye.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da YÖNERGE",
+   "id": "909389583560",
+   "ilk_gorulme": "2026-10-27",
+   "son_gorulme": "2026-10-27",
    "durum": "yaklasan"
   },
   {
@@ -18025,6 +18024,32 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
+   "name": "TURNUVA KAYIT ›",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız MUĞLA 10 KASIM ATA'YI ANMA ELO SATRANÇ TURNUVASI SON KAYIT TARİHİ 19.11.2026 SAAT 17.00 ULA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 23.11.2026 SAAT 17.00 MİLAS 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİ",
+   "id": "eab24b23adba",
+   "tarih_degisti": "2026-11-05 → 2026-11-19",
+   "ilk_gorulme": "2026-09-29",
+   "son_gorulme": "2026-10-27",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -18789,6 +18814,54 @@
    "kaynak_metin": "HATAY KASIM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY KASIM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI 21-22/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Samandağ İlçesi GSİM Kapalı Spor Salonu'nda Hatay Kasım Ayı ELO Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 19/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >",
    "id": "bfc171d52711",
    "ilk_gorulme": "2026-10-11",
+   "son_gorulme": "2026-10-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "LK",
+   "ulke": "Sri Lanka",
+   "bayrak": "lk",
+   "name": "Jaffna International Chess Championship 2026",
+   "city": "Jaffna",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Masters Classical",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "Challengers Classical",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "IM Norm Invitational",
+     "inv": true
+    },
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/jaffna-international-chess-championship-2026/",
+   "src": "https://mychess.events/event/jaffna-international-chess-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T12:05:59+00:00",
+   "id": "6223d9d74df6",
+   "ilk_gorulme": "2026-10-27",
    "son_gorulme": "2026-10-27",
    "durum": "yaklasan"
   },
@@ -19918,6 +19991,31 @@
    "kaynak_metin": "HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI 28-29/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Hatay Doğuş Okulları Aşağıokçular Kampüsü Salonu'nda Hatay 4. Geleneksel Aras Gümüşoğlu Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 26/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >",
    "id": "0c281bcf2e34",
    "ilk_gorulme": "2026-10-24",
+   "son_gorulme": "2026-10-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Konya",
+   "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026)",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://konya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026) KONYA İLİ , SELÇUKLU İLÇESİNDE 28 KASIM-29 KASIM 2026 tarihinlerinde Konya Satranç İl Temsilciliği Salonu’nda, İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak KONYA ÖĞRETMENLER GÜNÜ Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 30.10.2026 Saat 17:00’den önce tamamlanmalıdır. Her kategoride Birinci olan sporculara KUPA ödülü verilecektir. YÖNERGE TURNUVA KAYIT ÖĞRETMENLER GÜNÜ'NE ÖZEL SATRANÇ TURNUV",
+   "id": "52a82a160e8a",
+   "ilk_gorulme": "2026-10-27",
    "son_gorulme": "2026-10-27",
    "durum": "yaklasan"
   },

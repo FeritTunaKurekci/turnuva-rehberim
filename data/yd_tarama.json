@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-27T17:03",
+ "taranma": "2026-10-27T21:59",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 19,
+ "okunan_sayfa": 13,
  "turnuvalar": [
   {
    "c": "US",
@@ -12951,6 +12951,50 @@
    "cr": "https://chess-results.com/tnr1508199.aspx",
    "kayit_kapali": false,
    "lastmod": "2026-10-05T09:51:24+00:00"
+  },
+  {
+   "c": "LK",
+   "ulke": "Sri Lanka",
+   "bayrak": "lk",
+   "name": "Jaffna International Chess Championship 2026",
+   "city": "Jaffna",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Masters Classical",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "Challengers Classical",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "IM Norm Invitational",
+     "inv": true
+    },
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/jaffna-international-chess-championship-2026/",
+   "src": "https://mychess.events/event/jaffna-international-chess-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T12:05:59+00:00"
   },
   {
    "c": "CH",

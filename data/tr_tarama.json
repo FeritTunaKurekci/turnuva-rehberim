@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-27T17:02",
+ "taranma": "2026-10-27T21:58",
  "surum": "0.4",
  "iller": [
   {
@@ -174,7 +174,7 @@
    "il": "Elazığ",
    "durum": "ok",
    "host": "elazig.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Erzincan",
@@ -312,13 +312,13 @@
    "il": "Kocaeli",
    "durum": "ok",
    "host": "kocaeli.tsf.org.tr",
-   "adet": 7
+   "adet": 6
   },
   {
    "il": "Konya",
    "durum": "ok",
    "host": "konya.tsf.org.tr",
-   "adet": 2
+   "adet": 4
   },
   {
    "il": "Kütahya",
@@ -334,9 +334,9 @@
   },
   {
    "il": "Manisa",
-   "durum": "ok",
-   "host": "manisa.tsf.org.tr",
-   "adet": 1
+   "durum": "ulasilamadi",
+   "host": null,
+   "adet": 0
   },
   {
    "il": "Mardin",
@@ -2256,6 +2256,27 @@
    "url": "https://edirne.tsf.org.tr/satranc-haberleri/614-uzunkoeprue-29-ekim-cumhuriyet-bayram-satranc-turnuvas-2026",
    "kaynak": "site",
    "kaynak_metin": "Uzunköprü 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Uzunköprü 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Turnuva Uzunköprü 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 2026 Organizasyon Edirne GSİM & Edirne Satranç İl Temsilciliği Turnuva Tarihi 17-18 Ekim 2026 Cumartesi-Pazar Turnuva Yeri/Konum Uzunköprü Oğuz Arda Sel Gençlik Merkezi Kategoriler 08 Yaş ve Altı Kategorisi (2020-2019 Doğumlu Sporcular) 10 Yaş ve Altı Kategorisi (2018-2017 Doğumlu Sporcular) 14 Yaş ve Altı Kategoris"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Elazığ",
+   "name": "2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI",
+   "start": "2027-02-17",
+   "end": "2027-02-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://elazig.tsf.org.tr/satranc-haberleri/638-okul-sporlar-satranc-elazg-13",
+   "kaynak": "site",
+   "kaynak_metin": "2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI 2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI Gençlik ve Spor İl Müdürlüğümüzün 2025-2026 Eğitim Öğ retim Yılı Okul Sporları faaliyetleri kapsamında, TSF Elazığ İl Temsilciliği tarafından düzenlenecek olan Okul Sporları S atranç Turnuvaları 17-27 Şubat tarihlerinde Elazığ Atatürk Stadyumu Satranç Salonunda yapılacaktır. Turnuva toplam 10 kategoride gerçekleştirilecektir. Turnuvaya kayıtlarınızı aşağıda bulunan ilgi"
   },
   {
    "c": "TR",
@@ -4208,27 +4229,64 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Kocaeli",
-   "name": "2025-2026 TÜRKİYE KULÜPLER SATRANÇ ŞAMPİYONASI İL YÖRE YARIŞMALARI",
+   "il": "Konya",
+   "name": "KONYA 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI (7-8 KASIM 2026)",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://konya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "KONYA 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI (7-8 KASIM 2026) KONYA İLİ , SELÇUKLU İLÇESİNDE 7 KASIM- 8 KASIM 2026 tarihinlerinde Konya Satranç İl Temsilciliği Salonu’nda, İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak KONYA 10 KASIM ATATÜRK'Ü ANMA Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 06.11.2026 Saat 17:00’den önce tamamlanmalıdır. YÖNERGE TURNUVA KAYIT "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Konya",
+   "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026)",
    "start": "2026-11-28",
    "end": "2026-11-29",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
     {
-     "n": "A Kategorisi",
-     "min": 1400,
-     "max": null
-    },
-    {
-     "n": "B Kategorisi",
+     "n": "Genel",
      "min": null,
-     "max": 1399
+     "max": null
     }
    ],
-   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "url": "https://konya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "2025-2026 TÜRKİYE KULÜPLER SATRANÇ ŞAMPİYONASI İL YÖRE YARIŞMALARI Turnuva Haberleri ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Genç"
+   "kaynak_metin": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026) KONYA İLİ , SELÇUKLU İLÇESİNDE 28 KASIM-29 KASIM 2026 tarihinlerinde Konya Satranç İl Temsilciliği Salonu’nda, İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak KONYA ÖĞRETMENLER GÜNÜ Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 30.10.2026 Saat 17:00’den önce tamamlanmalıdır. Her kategoride Birinci olan sporculara KUPA ödülü verilecektir. YÖNERGE TURNUVA KAYIT ÖĞRETMENLER GÜNÜ'NE ÖZEL SATRANÇ TURNUV"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Konya",
+   "name": "AKŞEHİR ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026)",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://konya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "AKŞEHİR ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026) Konya ili, AKŞEHİR ilçesinde, 28-29 KASIM 2026 tarihleri arasında, AKŞEHİR GENÇLİK MERKEZİNDE , İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak Akşehir Öğretmenler Günü Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 26.11.2026 Saat 17:00’den önce tamamlanmalıdır. Fide Satranç Kuralları YÖNERGE TURNUVA KAYIT "
   },
   {
    "c": "TR",
@@ -4250,27 +4308,6 @@
    "url": "https://konya.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI Satranç Turnuvası(31 EKİM-01KASIM 2026) KONYA İLİ , SELÇUKLU İLÇESİNDE 31 EKİM-01 KASIM 2026 tarihinlerinde Konya Satranç İl Temsilciliği Salonu’nda, İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak 29 EKİM CUMHURİYET BAYRAMI Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 30.10.2026 Saat 17:00’den önce tamamlanmalıdır. YÖNERGE TURNUVA KAYIT "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Konya",
-   "name": "KONYA 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI (7-8 KASIM 2026)",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://konya.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "KONYA 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI (7-8 KASIM 2026) KONYA İLİ , SELÇUKLU İLÇESİNDE 7 KASIM- 8 KASIM 2026 tarihinlerinde Konya Satranç İl Temsilciliği Salonu’nda, İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak KONYA 10 KASIM ATATÜRK'Ü ANMA Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 06.11.2026 Saat 17:00’den önce tamamlanmalıdır. YÖNERGE TURNUVA KAYIT "
   },
   {
    "c": "TR",
@@ -4352,26 +4389,6 @@
    "url": "https://malatya.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Turnuvalar Satranç Haberleri FEDERASYON HABERLERİ SAYFASININ TAMAMINI GÖRMEK İÇİN YUKARIDA SAĞDA BULUNAN ÇUBUĞU ALTA DOĞRU, ALTTAKİ ÇUBUĞU SAĞA DOĞRU KAYDIRINIZ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026 7 - 8 KASIM 2026 Tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ???? "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Manisa",
-   "name": "Turnuva Haberleri",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI Manisa Akhisar Atatürk haftası hızlı satranç turnuvası 7 Kasım 2026 tarihinde 10''+5' temposunda Akhisar MBA Kolejinde yapılacaktır. Turnuva da nakdi ve diğer ödüller yönerge de belirtilmiştir. Kategoriler 64 sporcu ile sınırlıdır KAYITLAR 26.10.2026 SAAT 13 TE AÇILACAKTIR YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT 08 Yaş ve Altı Kategorisi 2019 ve 2020 Doğumlu Sporcular 8 YAŞ 10 Yaş ve Altı Kategorisi 2017 ve 2018 "
   },
   {
    "c": "TR",
@@ -4978,8 +4995,8 @@
    "bayrak": "tr",
    "il": "Muğla",
    "name": "TURNUVA KAYIT ›",
-   "start": "2026-11-05",
-   "end": "2026-11-05",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -4991,7 +5008,7 @@
    ],
    "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form",
    "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız MARMARİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI SON KAYIT TARİHİ 05.11.2026 SAAT 17.00 YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 05.11.2026 SAAT 17.00 ORTACA 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON KAYIT T"
+   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız MUĞLA 10 KASIM ATA'YI ANMA ELO SATRANÇ TURNUVASI SON KAYIT TARİHİ 19.11.2026 SAAT 17.00 ULA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 23.11.2026 SAAT 17.00 MİLAS 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİ"
   },
   {
    "c": "TR",
@@ -5221,6 +5238,27 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Osmaniye",
+   "name": "Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://osmaniye.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da YÖNERGE"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Osmaniye",
    "name": "29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de",
    "start": "2026-10-29",
    "end": "2026-10-29",
@@ -5255,7 +5293,7 @@
    ],
    "url": "https://osmaniye.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Amatör Spor Haftası Satranç Turnuvası 10-121Ekim'de Satranç Haberleri Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde Kadirli Gençlik Merkezinde 4 farklı kategoride yapılacak.yapılacak. YÖNERGE TURNUVA KAYIT 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de Çok Amaçlı Spor Salonunda tek kategoride yapılacak. Ödülleri 29 Ekim'de Valilikç"
+   "kaynak_metin": "Amatör Spor Haftası Satranç Turnuvası 10-121Ekim'de Satranç Haberleri Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde Kadirli Gençlik Merkezinde 4 farklı kategoride yapılacak.yapılacak. YÖNERGE TURNUVA KAYIT Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da Düziçi Atatürk Haftası Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde Düziçi Spor Salonunda üç farklı kategoride yapılacaktır. YÖNERGE TURNUVA "
   },
   {
    "c": "TR",
@@ -5275,27 +5313,7 @@
    ],
    "url": "https://osmaniye.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "İlköğretim Haftası Satranç Turnuvası Satranç Haberleri Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde Kadirli Gençlik Merkezinde 4 farklı kategoride yapılacak.yapılacak. YÖNERGE TURNUVA KAYIT 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de Çok Amaçlı Spor Salonunda tek kategoride yapılacak. Ödülleri 29 Ekim'de Valilikçe yapılacak kut"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Osmaniye",
-   "name": "Düziçi İlköğretim Haftası Satranç Turnuvası",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://osmaniye.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Düziçi İlköğretim Haftası Satranç Turnuvası Satranç Haberleri Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde Kadirli Gençlik Merkezinde 4 farklı kategoride yapılacak.yapılacak. YÖNERGE TURNUVA KAYIT 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim'de Çok Amaçlı Spor Salonunda tek kategoride yapılacak. Ödülleri 29 Ekim'de Valilikçe yapıla"
+   "kaynak_metin": "İlköğretim Haftası Satranç Turnuvası Satranç Haberleri Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde Kadirli Gençlik Merkezinde 4 farklı kategoride yapılacak.yapılacak. YÖNERGE TURNUVA KAYIT Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da Düziçi Atatürk Haftası Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde Düziçi Spor Salonunda üç farklı kategoride yapılacaktır. YÖNERGE TURNUVA KAYIT 29 Ekim C"
   },
   {
    "c": "TR",
