@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-27T09:31",
+ "taranma": "2026-10-27T17:03",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 16,
+ "okunan_sayfa": 19,
  "turnuvalar": [
   {
    "c": "US",
@@ -8865,6 +8865,51 @@
    "lastmod": "2026-10-06T12:46:11+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "South Open FIDE Rated Rapid Chess Tournament 2026",
+   "city": "Karnataka 560060",
+   "start": "2026-11-04",
+   "end": "2026-11-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, Nov. 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "8:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "9:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Later rounds",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Closing and awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/south-open-fide-rated-rapid-chess-tournament-2026/",
+   "src": "https://mychess.events/event/south-open-fide-rated-rapid-chess-tournament-2026/",
+   "cr": "https://s2.chess-results.com/tnr1522647.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T12:19:32+00:00"
+  },
+  {
    "c": "RO",
    "ulke": "Romanya",
    "bayrak": "ro",
@@ -10299,6 +10344,66 @@
    "lastmod": "2026-10-02T08:59:58+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "52nd National Women Chess Championship 2026",
+   "city": "Telangana 500049",
+   "start": "2026-11-10",
+   "end": "2026-11-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Mon, Nov. 30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tue, Dec. 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wed, Dec. 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thu, Dec. 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Fri, Dec. 4",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Dec. 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sun, Dec. 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, Dec. 7",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/52nd-national-women-chess-championship-2026/",
+   "src": "https://mychess.events/event/52nd-national-women-chess-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T12:46:56+00:00"
+  },
+  {
    "c": "PH",
    "ulke": "Filipinler",
    "bayrak": "ph",
@@ -10717,6 +10822,51 @@
    "cr": "https://chess-results.com/tnr1499978.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-05T19:17:21+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "4th Universal Age Category Chess Tournament 2026",
+   "city": "Karnataka 560074",
+   "start": "2026-11-12",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Under-9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-13",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-19",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/4th-universal-age-category-chess-tournament-2026/",
+   "src": "https://mychess.events/event/4th-universal-age-category-chess-tournament-2026/",
+   "cr": "https://s2.chess-results.com/tnr1522693.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T12:09:06+00:00"
   },
   {
    "c": "IT",
@@ -14143,6 +14293,61 @@
    "lastmod": "2026-06-30T08:51:41+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "4th Jabalpur International Open FIDE Rapid Rating Chess Tournament 2027",
+   "city": "Madhya Pradesh",
+   "start": "2026-11-30",
+   "end": "2026-12-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1400–1600",
+     "min": 1400,
+     "max": 1600
+    },
+    {
+     "n": "1601–1800",
+     "min": 1601,
+     "max": 1800
+    },
+    {
+     "n": "Unrated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Best Madhya Pradesh / Jabalpur",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls and boys U7, U10, U13, U16, U19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Female, veteran 50+, physically challeng",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/4th-jabalpur-international-open-fide-rapid-rating-chess-tournament-2027/",
+   "src": "https://mychess.events/event/4th-jabalpur-international-open-fide-rapid-rating-chess-tournament-2027/",
+   "cr": "https://s3.chess-results.com/test/tnr1481763.aspx?art=0&lan=1&turdet=YES",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T12:24:40+00:00"
+  },
+  {
    "c": "SG",
    "ulke": "Singapur",
    "bayrak": "sg",
@@ -16741,6 +16946,51 @@
    "lastmod": "2026-10-07T09:00:30+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "ThinQ Chess Children’s Day Rapid Chess Tournament 2026",
+   "city": "Karnataka",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U08",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U16",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/thinq-chess-childrens-day-rapid-chess-tournament-2026/",
+   "src": "https://mychess.events/event/thinq-chess-childrens-day-rapid-chess-tournament-2026/",
+   "cr": "https://s1.chess-results.com/tnr1508773.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T12:32:41+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -19022,6 +19272,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-08T11:20:59+00:00"
+  },
+  {
+   "c": "RS",
+   "ulke": "Sırbistan",
+   "bayrak": "rs",
+   "name": "GM Mix Belgrade 2027 – International FIDE-Rated Chess Tournament",
+   "city": "Belgrade",
+   "start": "2027-01-03",
+   "end": "2027-01-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, January 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, January 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, January 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, January 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, January 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, January 27",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move, starting from move one",
+   "url": "https://mychess.events/event/gm-mix-belgrade-2027-international-fide-rated-chess-tournament/",
+   "src": "https://mychess.events/event/gm-mix-belgrade-2027-international-fide-rated-chess-tournament/",
+   "cr": "https://s3.chess-results.com/tnr1528395.aspx?lan=1&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-27T14:08:23+00:00"
   },
   {
    "c": "AT",
