@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-28T10:10",
+ "taranma": "2026-10-28T17:51",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 25,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -6904,6 +6904,46 @@
    "lastmod": "2026-10-26T16:52:58+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "20th International Lyon Trophy 2026 - Open A & Open B",
+   "city": "Lyon",
+   "start": "2026-10-24",
+   "end": "2026-10-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "FIDE rating",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Free entry",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/20th-international-lyon-trophy-2026-open-a-open-b/",
+   "src": "https://mychess.events/event/20th-international-lyon-trophy-2026-open-a-open-b/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T12:22:51+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -13217,6 +13257,51 @@
    "lastmod": "2026-10-27T12:05:59+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "49th Birmingham Rapidplay 2027",
+   "city": "Birmingham B32 2TW",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Email",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tournament Website",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizing Body",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "ECF Membership",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/49th-birmingham-rapidplay-2027/",
+   "src": "https://mychess.events/event/49th-birmingham-rapidplay-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T10:25:16+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -15613,31 +15698,6 @@
    "lastmod": "2026-08-22T15:44:59+00:00"
   },
   {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "16th Chessence Open 2027",
-   "city": "Willingen (Upland)",
-   "start": "2026-12-07",
-   "end": "2026-12-13",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Player action",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/16th-chessence-open-2027/",
-   "src": "https://mychess.events/event/16th-chessence-open-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-28T09:45:36+00:00"
-  },
-  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -16948,6 +17008,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-26T17:21:37+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "23rd International Vandoeuvre Open 2026",
+   "city": "Vandœuvre-lès-Nancy",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 2000,
+     "max": 2050
+    },
+    {
+     "n": "Open B",
+     "min": 1600,
+     "max": 2050
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open D",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/23rd-international-vandoeuvre-open-2026/",
+   "src": "https://mychess.events/event/23rd-international-vandoeuvre-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T12:47:43+00:00"
   },
   {
    "c": "US",
@@ -22435,6 +22535,91 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-16T07:51:28+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "4th Open de Marseille 2026 - Principal, Accession & Amateurs",
+   "city": "Marseille",
+   "start": "2027-02-27",
+   "end": "2027-03-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Principal",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Accession",
+     "min": 1500,
+     "max": 1899
+    },
+    {
+     "n": "Amateurs",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Rating overlaps",
+     "min": 1501,
+     "max": 1599
+    },
+    {
+     "n": "Separate pairings",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/4th-open-de-marseille-2026-principal-accession-amateurs/",
+   "src": "https://mychess.events/event/4th-open-de-marseille-2026-principal-accession-amateurs/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T10:49:58+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "16th Chessence Open 2027",
+   "city": "Willingen (Upland)",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total per qualifying group",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 15 minutes for the remainder + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/16th-chessence-open-2027/",
+   "src": "https://mychess.events/event/16th-chessence-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T10:14:47+00:00"
   },
   {
    "c": "DE",

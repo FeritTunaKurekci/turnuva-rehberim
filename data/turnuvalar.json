@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-28T10:10",
+ "guncelleme": "2026-10-28T17:51",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-28T10:08",
+   "tarama": "2026-10-28T17:50",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-28T10:10",
+   "tarama": "2026-10-28T17:51",
    "kaynak": "https://mychess.events"
   }
  },
@@ -7829,6 +7829,50 @@
    "oynandi_tarihi": "2026-10-26"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "20th International Lyon Trophy 2026 - Open A & Open B",
+   "city": "Lyon",
+   "start": "2026-10-24",
+   "end": "2026-10-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "FIDE rating",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Free entry",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/20th-international-lyon-trophy-2026-open-a-open-b/",
+   "src": "https://mychess.events/event/20th-international-lyon-trophy-2026-open-a-open-b/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T12:22:51+00:00",
+   "id": "6b17dcbfbfe5",
+   "ilk_gorulme": "2026-10-28",
+   "son_gorulme": "2026-10-28",
+   "durum": "suruyor"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -9437,6 +9481,31 @@
    "lastmod": "2026-06-20T05:57:56+00:00",
    "id": "22d712abe5f1",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-28",
+   "durum": "suruyor"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "2026 Türkiye Görme Engelliler Satranç Şampiyonası Mersin'de",
+   "start": "2026-10-28",
+   "end": "2026-10-28",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/2026-tuerkiye-goerme-engelliler-satranc-sampiyonasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Türkiye Görme Engelliler Satranç Şampiyonası Mersin'de Haber 28 Ekim 2026 2026 Türkiye Görme Engelliler Satranç Şampiyonası Mersin'de Haberi oku",
+   "id": "d7ee9a63f19f",
+   "ilk_gorulme": "2026-10-28",
    "son_gorulme": "2026-10-28",
    "durum": "suruyor"
   },
@@ -12335,14 +12404,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://izmir.tsf.org.tr/",
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2624-oedemis-belediyesi-29-ekim-cumhuriyet-bayrami-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "ÖDEMİŞ BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Ödemiş Belediyesi & Ödemiş Satranç İlçe Temsilciliği işbirliği çerçevesinde satranç turnuvası düzenlenecektir. \"Ödemiş Belediyesi 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 31 Ekim 2026 - 01 Kasım 2026 tarihlerinde Birgi Düğün Salonunda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 - 2013 yılları ve arasında doğan sporcular katılabilir. Turnuva",
+   "kaynak_metin": "ÖDEMİŞ BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI ÖDEMİŞ BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Ödemiş Belediyesi & Ödemiş Satranç İlçe Temsilciliği işbirliği çerçevesinde satranç turnuvası düzenlenecektir. \"Ödemiş Belediyesi 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası\" 31 Ekim 2026 - 01 Kasım 2026 tarihlerinde Birgi Düğün Salonunda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 ",
    "id": "fcbe956a1de1",
    "ilk_gorulme": "2026-10-26",
    "son_gorulme": "2026-10-28",
@@ -13227,14 +13295,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://izmir.tsf.org.tr/",
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2623-deniz-civas-anma-hizli-satranc-turnuvasi-yoenergesi",
    "kaynak": "site",
-   "kaynak_metin": "DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI Karşıyaka Satranç İhtisas Spor Kulübü & İzmir Satranç İl Temsilciliği katkılarıyla satranç turnuvası düzenlenecektir. \"Deniz Cıvaş Anma Hızlı Satranç Turnuvası\" 31 Ekim 2026 tarihlerinde İzmir İstek Okulları Kampüsü'nde yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir.",
+   "kaynak_metin": "DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI Karşıyaka Satranç İhtisas Spor Kulübü & İzmir Satranç İl Temsilciliği katkılarıyla satranç turnuvası düzenlenecektir. \"Deniz Cıvaş Anma Hızlı Satranç Turnuvası\" 31 Ekim 2026 tarihlerinde İzmir İstek Okulları Kampüsü'nde yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuvada",
    "id": "1cf72d339adc",
    "ilk_gorulme": "2026-10-16",
    "son_gorulme": "2026-10-28",
@@ -15225,6 +15292,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Gaziantep",
+   "name": "Dünya Çocuk Kitapları Haftası Satranç Turnuvası",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://gaziantep.tsf.org.tr/turnuva-haberleri/705-dunyacocukkitaplarisatrancturnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "Dünya Çocuk Kitapları Haftası Satranç Turnuvası Dünya Çocuk Kitapları Haftası Satranç Turnuvası Münif Paşa 100. Yıl İl Halk Kütüphanesi tarafından 07-08 Kasım 2026 tarihlerinde Dünya Çocuk Kitapları Haftası Satranç Turnuvası düzenlenecektir. Turnuva 8 Yaş ve Altı, 10 Yaş ve Altı, 14 Yaş ve Altı olmak üzere üç kategoride gerçekleştirilecektir. Turnuvanın kontenjanı her kategoride kayıt sırasına göre ilk kayıt yaptıran 48 sporcu ile sınırlıdır. ÖDÜLLER: Her kategoride; * İlk üç dereceyi elde eden ",
+   "id": "330a014e7db1",
+   "ilk_gorulme": "2026-10-28",
+   "son_gorulme": "2026-10-28",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Osmaniye",
    "name": "Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da",
    "start": "2026-11-07",
@@ -15900,9 +15991,9 @@
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri MANAVGAT 10 KASIM ATA'YI ANMA HIZLI SATRANÇ TURNUVASI × Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği tarafından, 8 Kasım 2026 tarihinde, Manavgat Gençlik Merkezinde 2026 MANAVGAT 10 KASIM ATA'YI ANMA HIZLI SATRANÇ TURNUVASI düzenlenecektir. Müsabaka 10'+5'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için turnuva yönergesine bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER TSF YARIŞMA",
    "id": "63dfab902973",
-   "tarih_degisti": "2026-10-29 → 2026-11-08",
    "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-10-28",
+   "tarih_degisti": "2026-10-29 → 2026-11-08",
    "durum": "yaklasan"
   },
   {
@@ -21518,35 +21609,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "16th Chessence Open 2027",
-   "city": "Willingen (Upland)",
-   "start": "2026-12-07",
-   "end": "2026-12-13",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Player action",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/16th-chessence-open-2027/",
-   "src": "https://mychess.events/event/16th-chessence-open-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-28T09:45:36+00:00",
-   "id": "f0fb8eef8cb1",
-   "ilk_gorulme": "2026-10-28",
-   "son_gorulme": "2026-10-28",
-   "durum": "yaklasan"
-  },
-  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -22113,9 +22175,9 @@
      "age": true
     }
    ],
-   "url": "https://denizli.tsf.org.tr/",
+   "url": "https://denizli.tsf.org.tr/satranc-haberleri/84-satranc-haberleri/1173-denizli-kuecuekler7-8-yas-il-birinciligi-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI İlimizde 12-13 Aralık 2026 Tarihlerinde Denizli Küçükler(7-8 Yaş) İl Birinciliği Satranç Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi ",
+   "kaynak_metin": "DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI İlimizde 12-13 Aralık 2026 Tarihlerinde Denizli Küçükler(7-8 Yaş) İl Birinciliği Satranç Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi < Önceki Sonraki >",
    "id": "5fc1f5b24101",
    "ilk_gorulme": "2026-10-22",
    "son_gorulme": "2026-10-28",
@@ -27634,6 +27696,51 @@
    "ilk_gorulme": "2026-10-01",
    "son_gorulme": "2026-10-16",
    "tarih_degisti": "2027-02-28 → 2027-02-28",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "16th Chessence Open 2027",
+   "city": "Willingen (Upland)",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total per qualifying group",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 15 minutes for the remainder + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/16th-chessence-open-2027/",
+   "src": "https://mychess.events/event/16th-chessence-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T10:14:47+00:00",
+   "id": "afda0782f8fd",
+   "tarih_degisti": "2026-12-07 → 2027-03-01",
+   "ilk_gorulme": "2026-10-28",
+   "son_gorulme": "2026-10-28",
    "durum": "yaklasan"
   },
   {
