@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-28T17:50",
+ "taranma": "2026-10-28T22:27",
  "surum": "0.4",
  "iller": [
   {
@@ -30,7 +30,7 @@
    "il": "Aksaray",
    "durum": "ok",
    "host": "aksaray.tsf.org.tr",
-   "adet": 0
+   "adet": 2
   },
   {
    "il": "Amasya",
@@ -72,7 +72,7 @@
    "il": "Balıkesir",
    "durum": "ok",
    "host": "balikesir.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Bartın",
@@ -162,7 +162,7 @@
    "il": "Düzce",
    "durum": "ok",
    "host": "duzce.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Edirne",
@@ -624,6 +624,46 @@
    "url": "https://afyon.tsf.org.tr/turnuva-haberleri/562-il-ds-turnuvalarmz",
    "kaynak": "site",
    "kaynak_metin": "İl Dışı Turnuvalarımız İl Dışı Turnuvalarımız Adıyaman Belediyesi ve Adıyaman İl Temsilciliği iş birliği ile toplam 7000 TL ödülün dağıtılacağı ADIYAMAN BELEDİYESİ 1.ULUSAL SATRANÇ TURNUVASI 3-4-5 Kasımda gerçekleşecektir. Ayrıntılar için lütfen tıklayınız... Antalya'da ise 27-29 Ekim tarihlerinde ödüllü Cumhuriyet Bayramı Satranç Turnuvası gerçekleştirilecek olup www.antalya.tsf.org.tr adresinden ilgili haber metnine ulaşabilirsiniz. < Önceki Sonraki >"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aksaray",
+   "name": "TÜRKİYE KÜÇÜKLER SATRANÇ ŞAMPİYONASI AKSARAY İL BİRİNCİLİĞİ(7-12 YAŞ)",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aksaray.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KÜÇÜKLER SATRANÇ ŞAMPİYONASI AKSARAY İL BİRİNCİLİĞİ(7-12 YAŞ) KÜÇÜKLER(7-12 Yaş) 14-15 Kasım 2026"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aksaray",
+   "name": "TÜRKİYE YILDIZLAR SATRANÇ ŞAMPİYONASI AKSARAY İL BİRİNCİLİĞİ(13-18 YAŞ)",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aksaray.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE YILDIZLAR SATRANÇ ŞAMPİYONASI AKSARAY İL BİRİNCİLİĞİ(13-18 YAŞ) YILDIZLAR(13-18 Yaş) 14-15 Kasım 2026"
   },
   {
    "c": "TR",
@@ -1260,6 +1300,26 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Balıkesir",
+   "name": "Turnuva Kayıt",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://balikesir.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Kayıt Satranç Haberleri BANDIRMA ATATÜRK'Ü ANMA İLKOKULLAR ARASI TAKIM SATRANÇ TURNUVASI Turnuva BANDIRMA ATATÜRK'Ü ANMA İLKOKULLAR ARASI TAKIM SATRANÇ TURNUVASI Organizasyon BANDIRMA GSİM VE BALIKESİR SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi Son Başvuru 04-05 KASIM 2026 Çarşamba - Perşembe 02 KASIM 2025 Saat:17.00 Turnuva Yeri BANDIRMA GENÇLİK VE SPOR İLÇE MÜDÜRLÜĞÜ 1 NOLU SALON Kategoriler İlkokullar Kategorisi : Bandırma İlçesindeki İlkokullarda Öğrenim Gören ve Okul Satranç Takımına Se"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Bartın",
    "name": "10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI",
    "start": "2026-11-10",
@@ -1669,7 +1729,7 @@
    ],
    "url": "https://bolu.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası Satranç Haberleri Cumhuriyet 2026 Cumhuriyet Bayramı Satranç Turnuvamız 31 Ekim - 01 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ KONUM İÇİN TIKLAYINIZ... ) Yapılacaktır. Sporcularımız 2026-2027 Sezonu Lisans İşlemlerini Yaptırarak ( Lisans işlemleri bilgi almak için tıklayınız... ) Turnuvamıza Katılabilirler. Aşağıdaki Linklerden yönergemizi okuyarak kayıt olabilirsiniz. Son Kayıt 30 Ekim 2026 saat 16:00 dır. YÖNERG"
+   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası Satranç Haberleri Cumhuriyet 2026 Cumhuriyet Bayramı Satranç Turnuvamız 31 Ekim - 01 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ KONUM İÇİN TIKLAYINIZ... ) Yapılacaktır. Sporcularımız 2026-2027 Sezonu Lisans İşlemlerini Yaptırarak ( Lisans işlemleri bilgi almak için tıklayınız... ) Turnuvamıza Katılabilirler. Aşağıdaki Linklerden yönergemizi okuyarak kayıt olabilirsiniz. Son Kayıt 30 Ekim 2026 saat 16:00 dır. İletiş"
   },
   {
    "c": "TR",
@@ -1690,7 +1750,7 @@
    ],
    "url": "https://bolu.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Salonu Satranç Haberleri Cumhuriyet 2026 Cumhuriyet Bayramı Satranç Turnuvamız 31 Ekim - 01 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ KONUM İÇİN TIKLAYINIZ... ) Yapılacaktır. Sporcularımız 2026-2027 Sezonu Lisans İşlemlerini Yaptırarak ( Lisans işlemleri bilgi almak için tıklayınız... ) Turnuvamıza Katılabilirler. Aşağıdaki Linklerden yönergemizi okuyarak kayıt olabilirsiniz. Son Kayıt 30 Ekim 2026 saat 16:00 dır. YÖNERGE TURNUVA KAYIT Gerede Cumhur"
+   "kaynak_metin": "Turnuva Salonu Satranç Haberleri Cumhuriyet 2026 Cumhuriyet Bayramı Satranç Turnuvamız 31 Ekim - 01 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ KONUM İÇİN TIKLAYINIZ... ) Yapılacaktır. Sporcularımız 2026-2027 Sezonu Lisans İşlemlerini Yaptırarak ( Lisans işlemleri bilgi almak için tıklayınız... ) Turnuvamıza Katılabilirler. Aşağıdaki Linklerden yönergemizi okuyarak kayıt olabilirsiniz. Son Kayıt 30 Ekim 2026 saat 16:00 dır. İletişim: Başhakem yrd. Serkan Deni"
   },
   {
    "c": "TR",
@@ -2124,9 +2184,9 @@
      "age": true
     }
    ],
-   "url": "https://denizli.tsf.org.tr/satranc-haberleri/84-satranc-haberleri/1173-denizli-kuecuekler7-8-yas-il-birinciligi-satranc-turnuvasi",
+   "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI İlimizde 12-13 Aralık 2026 Tarihlerinde Denizli Küçükler(7-8 Yaş) İl Birinciliği Satranç Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi < Önceki Sonraki >"
+   "kaynak_metin": "DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI İlimizde 12-13 Aralık 2026 Tarihlerinde Denizli Küçükler(7-8 Yaş) İl Birinciliği Satranç Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi "
   },
   {
    "c": "TR",
@@ -2144,9 +2204,9 @@
      "age": true
     }
    ],
-   "url": "https://denizli.tsf.org.tr/satranc-haberleri/84-satranc-haberleri/1168-cameli-29-ekim-cumhuriyet-bayrami-elo-satranc-turnuvasi",
+   "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI LÜTFEN Yönergeyi okuyunuz. Lütfen Turnuvaya katılamayacaklar kaydınızı siliniz. Lütfen Her tur içinde bir sonraki tura katılamayacaksanız bildiriniz. Uzak yerlerden gelen sporcularımız Turnuva için maç için geliyorlar. İlimiz Çameli İlçemizde 24-25 Ekim 2026 Tarihlerinde Çameli 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası Çameli Hayri Dev Kültür Merkezi Salonu'nda yapılacaktır. Tur"
+   "kaynak_metin": "ÇAMELİ 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI LÜTFEN Yönergeyi okuyunuz. Lütfen Turnuvaya katılamayacaklar kaydınızı siliniz. Lütfen Her tur içinde bir sonraki tura katılamayacaksanız bildiriniz. Uzak yerlerden gelen sporcularımız Turnuva için maç için geliyorlar. İlimiz Çameli İlçemizde 24-25 Ekim 2026 Tarihlerinde Çameli 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası Çameli Hayri Dev Kültür Merkezi Salonu'nda yapılacaktır. Turnuvamızda Çameli Belediyesi Tarafından nakdi ödül verile"
   },
   {
    "c": "TR",
@@ -2207,6 +2267,26 @@
    "url": "https://denizli.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
    "kaynak_metin": "DENİZLİ KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv PAMUKKALE BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimiz Pamukkale İlçemiz Pamukkale Belediyesi Bağbaşı Kültür Merkezinde 31 Eki"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Düzce",
+   "name": "2026 DÜZCE ATATÜRK KUPASI",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://duzce.tsf.org.tr/satranc-haberleri/604-2026-duezce-atatuerk-kupasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 DÜZCE ATATÜRK KUPASI 2026 DÜZCE ATATÜRK KUPASI İlimizde 7-8 Kasım tarihlerinde yapılması planlanan \"Düzce Atatürk Kupası Satranç Turnuvası\" Düzce Belediyesi Prof.Dr. Erol Güngör Kültür Merkezi Satranç Salonunda düzenlenecektir. Kontenjanlar, yaş kategorilerinde 64 kişi, Açık kategoride 32 kişi ile sınırlıdır. Detaylı bilgi için yönerge incelenmelidir... Yönerge... Turnuva Başvuru... Sonraki >"
   },
   {
    "c": "TR",
@@ -4545,27 +4625,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Mersin",
-   "name": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de",
-   "start": "2026-11-02",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://mersin.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Mersin",
    "name": "18 MART ÇANAKKALE ŞEHİTLERİNİ ANMA SATRANÇ TURNUVASI",
    "start": "2027-03-18",
    "end": "2027-03-18",
@@ -4873,6 +4932,27 @@
    "url": "https://mersin.tsf.org.tr/arsiv/2026-2027-turnuvalar/anamur-kuecuekler",
    "kaynak": "site",
    "kaynak_metin": "Anamur (Aydıncık-Bozyazı) Küçükler İlçe Birinciliği Anamur (Aydıncık-Bozyazı) Küçükler İlçe Birinciliği 21-22 Kasım 2026"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mersin",
+   "name": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/satranc-haberleri/1080-tuerkiye-goerme-engelliler-satranc-sampiyonas-2-8-kasmda-mersinde",
+   "kaynak": "site",
+   "kaynak_metin": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de"
   },
   {
    "c": "TR",
