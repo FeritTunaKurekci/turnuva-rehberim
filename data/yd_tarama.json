@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-27T21:59",
+ "taranma": "2026-10-28T10:10",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 25,
  "turnuvalar": [
   {
    "c": "US",
@@ -7084,6 +7084,51 @@
    "lastmod": "2026-08-16T01:58:59+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "7th SkillCraft Chess Fest 2026",
+   "city": "New Delhi 110001",
+   "start": "2026-10-25",
+   "end": "2026-10-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Below-2000 Rapid",
+     "min": null,
+     "max": 1999
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/7th-skillcraft-chess-fest-2026/",
+   "src": "https://mychess.events/event/7th-skillcraft-chess-fest-2026/",
+   "cr": "https://s3.chess-results.com/tnr1524153.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T09:40:52+00:00"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -8910,6 +8955,51 @@
    "lastmod": "2026-10-27T12:19:32+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "2nd Maharathi International Open Classical FIDE Rated Chess Tournament 2026",
+   "city": "Delhi 110052",
+   "start": "2026-11-04",
+   "end": "2026-11-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Classical Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Experienced competitors",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth competitors",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Event registration",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Competitor list",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2nd-maharathi-international-open-classical-2026/",
+   "src": "https://mychess.events/event/2nd-maharathi-international-open-classical-2026/",
+   "cr": "https://s1.chess-results.com/tnr1505049.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T06:06:03+00:00"
+  },
+  {
    "c": "RO",
    "ulke": "Romanya",
    "bayrak": "ro",
@@ -10404,6 +10494,66 @@
    "lastmod": "2026-10-27T12:46:56+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "INVENTIVE 2.0 All India FIDE Rated Rapid Chess Tournament 2026",
+   "city": "Karnataka 560090",
+   "start": "2026-11-10",
+   "end": "2026-11-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "9:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "10:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "11:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1:30 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2:30 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3:30 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4:30 PM",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/inventive-2-0-all-india-fide-rated-rapid-chess-tournament-2026/",
+   "src": "https://mychess.events/event/inventive-2-0-all-india-fide-rated-rapid-chess-tournament-2026/",
+   "cr": "https://s3.chess-results.com/tnr1508844.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T05:53:13+00:00"
+  },
+  {
    "c": "PH",
    "ulke": "Filipinler",
    "bayrak": "ph",
@@ -11267,6 +11417,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-03-17T09:57:57+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Rotary Bangalore Skyway Rapid Chess Tournament 2026",
+   "city": "Karnataka 560092",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-16",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/rotary-bangalore-skyway-rapid-chess-tournament-2026/",
+   "src": "https://mychess.events/event/rotary-bangalore-skyway-rapid-chess-tournament-2026/",
+   "cr": "https://s2.chess-results.com/tnr1492315.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T05:28:13+00:00"
   },
   {
    "c": "EN",
@@ -12562,6 +12757,31 @@
    "cr": "https://chess-results.com/tnr1502676.aspx",
    "kayit_kapali": false,
    "lastmod": "2026-10-05T11:13:25+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Newport Chess Congress 2027",
+   "city": "NP18 1HQ",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/newport-chess-congress-2027/",
+   "src": "https://mychess.events/event/newport-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T09:44:16+00:00"
   },
   {
    "c": "EN",
@@ -15393,6 +15613,31 @@
    "lastmod": "2026-08-22T15:44:59+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "16th Chessence Open 2027",
+   "city": "Willingen (Upland)",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Player action",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/16th-chessence-open-2027/",
+   "src": "https://mychess.events/event/16th-chessence-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T09:45:36+00:00"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -17200,6 +17445,106 @@
    "lastmod": "2026-06-29T18:26:57+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "1st Minerv Chess Open & Age Category Rapid Chess Tournament 2026",
+   "city": "Karnataka",
+   "start": "2026-12-22",
+   "end": "2026-12-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-12",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/1st-minerv-chess-open-age-category-rapid-chess-tournament-2026/",
+   "src": "https://mychess.events/event/1st-minerv-chess-open-age-category-rapid-chess-tournament-2026/",
+   "cr": "https://s3.chess-results.com/tnr1518613.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T05:24:56+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Eight Square Chess Academy 3rd International Below 1700 FIDE Rating Chess Tournament 2026",
+   "city": "Tamil Nadu",
+   "start": "2026-12-22",
+   "end": "2026-12-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Under-7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-9",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-13",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "1400–1550",
+     "min": 1400,
+     "max": 1550
+    },
+    {
+     "n": "Unrated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Veteran",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/eight-square-chess-academy-3rd-international-below-1700-fide-rating-chess-tournament-2026/",
+   "src": "https://mychess.events/event/eight-square-chess-academy-3rd-international-below-1700-fide-rating-chess-tournament-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T05:14:46+00:00"
+  },
+  {
    "c": "CN",
    "ulke": "Çin",
    "bayrak": "cn",
@@ -17528,6 +17873,96 @@
    "cr": "https://chess-results.com/tnr1393360.aspx",
    "kayit_kapali": false,
    "lastmod": "2026-10-01T10:19:48+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Khannur FIDE Rapid Rating Chess Tournament 2026",
+   "city": "Karnataka",
+   "start": "2026-12-25",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sunday, Nov. 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "8:00 AM–5:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Round times",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/khannur-fide-rapid-rating-chess-tournament-2026/",
+   "src": "https://mychess.events/event/khannur-fide-rapid-rating-chess-tournament-2026/",
+   "cr": "https://s1.chess-results.com/tnr1502344.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T06:34:30+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "24th BRDCA All India Open FIDE Rated Rapid Chess Tournament 2026",
+   "city": "Karnataka",
+   "start": "2026-12-25",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, Nov. 14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "8:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "8:30 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "9:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "After Round 1",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "After completion",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/24th-brdca-all-india-open-fide-rated-rapid-chess-tournament-2026/",
+   "src": "https://mychess.events/event/24th-brdca-all-india-open-fide-rated-rapid-chess-tournament-2026/",
+   "cr": "https://s4.chess-results.com/tnrWZ.aspx?lan=1&tno=1514501&turdet=YES",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T05:48:02+00:00"
   },
   {
    "c": "FR",
@@ -20124,6 +20559,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-16T08:35:34+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "1st Annual Princeton Holiday Classic 2026 - Premier & Class Sections",
+   "city": "NJ 08540",
+   "start": "2027-01-16",
+   "end": "2027-01-16",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Chief Arbiter — Premier",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90 + 30-second increment in the five upper sections; G/60, five-second delay in U1300/U1000",
+   "url": "https://mychess.events/event/1st-annual-princeton-holiday-classic-2026/",
+   "src": "https://mychess.events/event/1st-annual-princeton-holiday-classic-2026/",
+   "cr": "https://s2.chess-results.com/tnr1527859.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T06:24:27+00:00"
   },
   {
    "c": "US",
@@ -25792,6 +26287,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T09:26:33+00:00"
+  },
+  {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "XII Dr. Berecz Árpád Memorial 2026 - Groups A & B",
+   "city": "Szeged",
+   "start": "2027-08-07",
+   "end": "2027-08-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Pairing System",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/xii-dr-berecz-arpad-memorial-2026-groups-a-b/",
+   "src": "https://mychess.events/event/xii-dr-berecz-arpad-memorial-2026-groups-a-b/",
+   "cr": "https://s2.chess-results.com/tnr1516615.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-28T07:02:12+00:00"
   },
   {
    "c": "SI",
