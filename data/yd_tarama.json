@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-29T10:13",
+ "taranma": "2026-10-29T18:10",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 19,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -15564,6 +15564,66 @@
    "lastmod": "2026-10-29T07:40:43+00:00"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "Open Internacional de Ajedrez Navidad 2026 - Valencia",
+   "city": "València",
+   "start": "2026-12-05",
+   "end": "2026-12-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Overall Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Women",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Over 65",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Basilio / Ciutat Vella",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "European circuit club",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/open-internacional-de-ajedrez-navidad-valencia-2026/",
+   "src": "https://mychess.events/event/open-internacional-de-ajedrez-navidad-valencia-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T11:25:10+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -16745,6 +16805,51 @@
    "lastmod": "2026-10-15T13:48:07+00:00"
   },
   {
+   "c": "PL",
+   "ulke": "Polonya",
+   "bayrak": "pl",
+   "name": "45th Ludwik Zamenhof Chess Memorial 2026 - Open A–E",
+   "city": "15-323 Białystok",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 2100,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1700,
+     "max": 2150
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open D",
+     "min": null,
+     "max": 1800
+    },
+    {
+     "n": "Open E",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/45th-ludwik-zamenhof-chess-memorial-2026/",
+   "src": "https://mychess.events/event/45th-ludwik-zamenhof-chess-memorial-2026/",
+   "cr": "https://s2.chess-results.com/tnr1479207.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T18:03:59+00:00"
+  },
+  {
    "c": "HR",
    "ulke": "Hırvatistan",
    "bayrak": "hr",
@@ -17658,6 +17763,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-08T18:16:08+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "40th Open du Mans 2026 - Classical Opens A & B and Family Open C",
+   "city": "Le Mans",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B registration discrepancy",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "Opens A/B: G/90 + 30-second increment; Open C: 10 minutes per player",
+   "url": "https://mychess.events/event/40th-open-du-mans-2026-classical-opens-a-b-family-open-c/",
+   "src": "https://mychess.events/event/40th-open-du-mans-2026-classical-opens-a-b-family-open-c/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T10:30:24+00:00"
   },
   {
    "c": "IN",
@@ -22103,6 +22248,46 @@
    "lastmod": "2026-10-13T10:17:01+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "HSK-Weihnachtsopen 2026 - Hamburg Christmas Classical Open",
+   "city": "Hamburg",
+   "start": "2027-02-12",
+   "end": "2027-02-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Best junior",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Best senior over 65",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth entry discount",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 15 minutes for the rest + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/hsk-weihnachtsopen-2026-hamburg-christmas-classical-open/",
+   "src": "https://mychess.events/event/hsk-weihnachtsopen-2026-hamburg-christmas-classical-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T12:22:18+00:00"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -26477,6 +26662,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-01T16:44:26+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Krefelder Weihnachtsopen 2026",
+   "city": "Krefeld",
+   "start": "2027-07-16",
+   "end": "2027-07-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 min / 40 moves + 30 min, with 30 sec per move from move one",
+   "url": "https://mychess.events/event/krefelder-weihnachtsopen-2026/",
+   "src": "https://mychess.events/event/krefelder-weihnachtsopen-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T13:42:09+00:00"
   },
   {
    "c": "HU",
