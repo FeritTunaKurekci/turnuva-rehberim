@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-28T22:27",
+ "taranma": "2026-10-29T10:12",
  "surum": "0.4",
  "iller": [
   {
@@ -18,7 +18,7 @@
    "il": "Afyonkarahisar",
    "durum": "ok",
    "host": "afyon.tsf.org.tr",
-   "adet": 1
+   "adet": 3
   },
   {
    "il": "Ağrı",
@@ -240,7 +240,7 @@
    "il": "İstanbul",
    "durum": "ok",
    "host": "istanbul.tsf.org.tr",
-   "adet": 20
+   "adet": 21
   },
   {
    "il": "İzmir",
@@ -312,7 +312,7 @@
    "il": "Kocaeli",
    "durum": "ok",
    "host": "kocaeli.tsf.org.tr",
-   "adet": 7
+   "adet": 6
   },
   {
    "il": "Konya",
@@ -330,7 +330,7 @@
    "il": "Malatya",
    "durum": "ok",
    "host": "malatya.tsf.org.tr",
-   "adet": 6
+   "adet": 5
   },
   {
    "il": "Manisa",
@@ -456,7 +456,7 @@
    "il": "Tunceli",
    "durum": "ok",
    "host": "tunceli.tsf.org.tr",
-   "adet": 3
+   "adet": 2
   },
   {
    "il": "Uşak",
@@ -603,6 +603,48 @@
    "url": "https://adiyaman.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=327",
    "kaynak": "site",
    "kaynak_metin": "AÇIK KATEGORİ KAYIT İÇİN TIKLAYINIZ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Hakemlerimiz Duyurular Hakem Listesi Hakem Görevlendirmeleri Merkezi Hakem Sistemi Merkez Hakem Kurulu Turnuvalar Turnuva Sayfaları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 29 EKİM CUMHURİYET BAYRAMI TURNUVASI AÇIK KATORİ KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olma"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Afyonkarahisar",
+   "name": "AKTİF TURNUVALARIMIZ",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://afyon.tsf.org.tr/turnuvalar/duyurular/904-aktif-turnuvalarimiz",
+   "kaynak": "site",
+   "kaynak_metin": "AKTİF TURNUVALARIMIZ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakemlerimiz Antrenörlerimiz Turnuvalar Turnuva Haberleri DUYURULAR Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim AKTİF TURNUVALARIMIZ Sonraki > LİSANS İŞLEMLERİ Kaynaklar Satranç Haberleri Turnuva Haberleri Etkinlik Takvimi Turnuva Kayıt Turnuva Kayıt İPTAL Lisans Nasıl Çıkarılır? Antrenörlerimiz Hakemlerimiz TURNUVA ARŞİVİ TSF Market MİLLİ TAK"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Afyonkarahisar",
+   "name": "2026-2027 SEZONU TAMAMLANAN TURNUVALAR",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://afyon.tsf.org.tr/turnuvalar/duyurular/903-2026-2027-sezonu-tamamlanan-turnuvalar",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 SEZONU TAMAMLANAN TURNUVALAR Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Hakemlerimiz Antrenörlerimiz Turnuvalar Turnuva Haberleri DUYURULAR Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 2026-2027 SEZONU TAMAMLANAN TURNUVALAR < Önceki Sonraki > LİSANS İŞLEMLERİ Kaynaklar Satranç Haberleri Turnuva Haberleri Etkinlik Takvimi Turnuva Kayıt Turnuva Kayıt İPTAL Lisans Nasıl Çıkarılır? Antrenörlerimiz Hak"
   },
   {
    "c": "TR",
@@ -2615,7 +2657,7 @@
    ],
    "url": "https://gaziantep.tsf.org.tr/turnuva-haberleri/705-dunyacocukkitaplarisatrancturnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "Dünya Çocuk Kitapları Haftası Satranç Turnuvası Dünya Çocuk Kitapları Haftası Satranç Turnuvası Münif Paşa 100. Yıl İl Halk Kütüphanesi tarafından 07-08 Kasım 2026 tarihlerinde Dünya Çocuk Kitapları Haftası Satranç Turnuvası düzenlenecektir. Turnuva 8 Yaş ve Altı, 10 Yaş ve Altı, 14 Yaş ve Altı olmak üzere üç kategoride gerçekleştirilecektir. Turnuvanın kontenjanı her kategoride kayıt sırasına göre ilk kayıt yaptıran 48 sporcu ile sınırlıdır. ÖDÜLLER: Her kategoride; * İlk üç dereceyi elde eden "
+   "kaynak_metin": "Dünya Çocuk Kitapları Haftası Satranç Turnuvası Dünya Çocuk Kitapları Haftası Satranç Turnuvası Münif Paşa İl Halk Kütüphanesi tarafından 07-08 Kasım 2026 tarihlerinde Dünya Çocuk Kitapları Haftası Satranç Turnuvası düzenlenecektir. Turnuva 8 Yaş ve Altı, 10 Yaş ve Altı, 14 Yaş ve Altı olmak üzere üç kategoride gerçekleştirilecektir. Turnuvanın kontenjanı her kategoride kayıt sırasına göre ilk kayıt yaptıran 48 sporcu ile sınırlıdır. ÖDÜLLER: Her kategoride; * İlk üç dereceyi elde eden sprocular"
   },
   {
    "c": "TR",
@@ -2635,7 +2677,7 @@
    ],
    "url": "https://gaziantep.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Dünya Çocuk Kitapları Haftası Satranç Turnuvası Münif Paşa 100. Yıl İl Halk Kütüphanesi tarafından 07-08 Kasım 2026 tarihlerinde Dünya Çocuk Kitapları Haftası Satranç Turnuvası düzenlenecektir. Turnuva 8 Yaş ve Altı, 10 Yaş ve Altı, 14 Yaş ve Altı olmak üzere üç kategoride gerçekleştirilecektir. Turnuvanın kontenjanı her kategoride kayıt sırasına göre ilk kayıt yaptıran 48 sporcu ile sınırlıdır. ÖDÜLLER: Her kategoride; * İlk üç dereceyi elde eden sproculara Kupa, * İlk beş der"
+   "kaynak_metin": "Turnuva Haberleri Dünya Çocuk Kitapları Haftası Satranç Turnuvası Münif Paşa İl Halk Kütüphanesi tarafından 07-08 Kasım 2026 tarihlerinde Dünya Çocuk Kitapları Haftası Satranç Turnuvası düzenlenecektir. Turnuva 8 Yaş ve Altı, 10 Yaş ve Altı, 14 Yaş ve Altı olmak üzere üç kategoride gerçekleştirilecektir. Turnuvanın kontenjanı her kategoride kayıt sırasına göre ilk kayıt yaptıran 48 sporcu ile sınırlıdır. ÖDÜLLER: Her kategoride; * İlk üç dereceyi elde eden sproculara Kupa, * İlk beş dereceyi eld"
   },
   {
    "c": "TR",
@@ -3076,47 +3118,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İstanbul",
-   "name": "ByChess.com UKD-ELO Satranç Turnuvaları Serisi Başlıyor..",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5332-bychesscom-ukd-elo-turnuvalar-basliyor",
-   "kaynak": "site",
-   "kaynak_metin": "ByChess.com UKD-ELO Satranç Turnuvaları Serisi Başlıyor.. ByChess.com UKD-ELO Satranç Turnuvaları Serisi Başlıyor.. Her seviyeden satranç severlere ücretsiz satranç eğitim videoları, bulmacalar, puzzle ve görüntülü satranç oynama hizmeti sunan Bychess.Com ödüllü UKD/ELO Satranç Turnuvası Serileri Başlıyor… Her yaşa açık turnuvalar, yaş kategorisi turnuvaları formatlarında planlanan turnuvalarla ilgili detaylı bilgi ve turnuva kayıt bilgisi haberin devamında yönergelerde yayınlanmıştır. Tarihler "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "İstanbul",
-   "name": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası..",
-   "start": "2026-11-16",
-   "end": "2026-11-20",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kapali-satranc/5300-goeruelmeyen-gazete-2-uluslararas-goerme-engelliler-satranc-turnuvas",
-   "kaynak": "site",
-   "kaynak_metin": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası.. Türkiye’nin ilk ve tek görme engellilere yönelik gazetesi Görülmeyen Gazete tarafından, İstiklal Satranç Spor Kulübü ve Türkiye Satranç Federasyonu iş birliğiyle Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası düzenlenecektir. Kültür, sanat ve müzikle iç içe geçmiş, unutulmaz bir festival atmosferi sunacak turnuva, 16-20 Kasım 2026 tar"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "İstanbul",
    "name": "İstanbul 29 Ekim Cumhuriyet Kupası Satranç Turnuvaları 13 İlçemizde..",
    "start": "2026-10-29",
    "end": "2026-10-29",
@@ -3137,20 +3138,41 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İstanbul",
-   "name": "Koray Varol Okulları 3. Satranç Turnuvası 8 Kasım 2026 Pazar..",
-   "start": "2026-11-08",
+   "name": "Selectist Chess Cup 2. Satranç Turnuvası 21-22 Kasım 2026`da..",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5338-selectist-chess-cup-2-satranc-turnuvasi-21-22-kasim-2026",
+   "kaynak": "site",
+   "kaynak_metin": "Selectist Chess Cup 2. Satranç Turnuvası 21-22 Kasım 2026`da.. Selectist Chess Cup 2. Satranç Turnuvası 21-22 Kasım 2026`da.. Selectist tarafından 21-22 Kasım 2026 tarihlerinde Selectist Chess Cup 2. Satranç Turnuvası düzenlenecektir. Turnuva her yaştan sporcunun katılımına açık olup, Frankhan by Selectist ev sahipliğinde Beyoğlu ilçesinde maksimum ratingi en yüksek 32 sporcunun katılımıyla 60dk+30sn tempoda ELO-UKD hesaplamalarına dahil yapılacaktır. Turnuva sonunda dereceye girecek sporcular F"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "ByChess.com UKD-ELO Satranç Turnuvaları Serisi Başlıyor..",
+   "start": "2026-11-07",
    "end": "2026-11-08",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "ELO",
    "sections": [
     {
      "n": "Yaş kategorileri",
      "age": true
     }
    ],
-   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5331-koray-varol-okullar-satranc-turnuvasi-8-kasim-2026",
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5332-bychesscom-ukd-elo-turnuvalar-basliyor",
    "kaynak": "site",
-   "kaynak_metin": "Koray Varol Okulları 3. Satranç Turnuvası 8 Kasım 2026 Pazar.. Koray Varol Okulları 3. Satranç Turnuvası 8 Kasım 2026 Pazar.. Koray Varol Okulları (Kağıthane) tarafından 8 Kasım 2026 Pazar günü 7-10 yaşarası sporcuların katılımına yönelik Satranç Turnuvası düzenlenecektir. Turnuva 15 dakika+5 saniye düşünme süresinde yaş kategorilerinde 6 tur İsviçre Sistemiyle hızlı satranç turnuvası olarak 2 kategoride yapılacaktır. Turnuvada genel sıralamada ilk 3 sporcu Kupa ve turnuvayı tamamlayan tüm sporc"
+   "kaynak_metin": "ByChess.com UKD-ELO Satranç Turnuvaları Serisi Başlıyor.. ByChess.com UKD-ELO Satranç Turnuvaları Serisi Başlıyor.. Her seviyeden satranç severlere ücretsiz satranç eğitim videoları, bulmacalar, puzzle ve görüntülü satranç oynama hizmeti sunan Bychess.Com ödüllü UKD/ELO Satranç Turnuvası Serileri Başlıyor… Her yaşa açık turnuvalar, yaş kategorisi turnuvaları formatlarında planlanan turnuvalarla ilgili detaylı bilgi ve turnuva kayıt bilgisi haberin devamında yönergelerde yayınlanmıştır. Tarihler "
   },
   {
    "c": "TR",
@@ -3192,6 +3214,47 @@
    "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5297-mba-okullar-beylikduezue-1-geleneksel-hzl-satranc-turnuvas",
    "kaynak": "site",
    "kaynak_metin": "MBA Okulları Beylikdüzü 1 Geleneksel Hızlı Satranç Turnuvası 31 Ekim Cumartesi MBA Okulları Beylikdüzü 1 Geleneksel Hızlı Satranç Turnuvası 31 Ekim Cumartesi MBA Okulları Beylikdüzü 1 Kampüsü tarafından 31 Ekim 2026 Cumartesi günü 7-14 yaş arası sporcuların katılımına yönelik Geleneksel Hızlı Satranç Turnuvası düzenlenecektir. Turnuva 15 dakika+5 saniye düşünme süresinde 5 tur İsviçre Sistemiyle hızlı satranç turnuvası olarak 5 kategoride yapılacaktır. Turnuvada genel sıralamada ilk 3 sporcu Kup"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası..",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kapali-satranc/5300-goeruelmeyen-gazete-2-uluslararas-goerme-engelliler-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası.. Türkiye’nin ilk ve tek görme engellilere yönelik gazetesi Görülmeyen Gazete tarafından, İstiklal Satranç Spor Kulübü ve Türkiye Satranç Federasyonu iş birliğiyle Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası düzenlenecektir. Kültür, sanat ve müzikle iç içe geçmiş, unutulmaz bir festival atmosferi sunacak turnuva, 16-20 Kasım 2026 tar"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Koray Varol Okulları 3. Satranç Turnuvası 8 Kasım 2026 Pazar..",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5331-koray-varol-okullar-satranc-turnuvasi-8-kasim-2026",
+   "kaynak": "site",
+   "kaynak_metin": "Koray Varol Okulları 3. Satranç Turnuvası 8 Kasım 2026 Pazar.. Koray Varol Okulları 3. Satranç Turnuvası 8 Kasım 2026 Pazar.. Koray Varol Okulları (Kağıthane) tarafından 8 Kasım 2026 Pazar günü 7-10 yaşarası sporcuların katılımına yönelik Satranç Turnuvası düzenlenecektir. Turnuva 15 dakika+5 saniye düşünme süresinde yaş kategorilerinde 6 tur İsviçre Sistemiyle hızlı satranç turnuvası olarak 2 kategoride yapılacaktır. Turnuvada genel sıralamada ilk 3 sporcu Kupa ve turnuvayı tamamlayan tüm sporc"
   },
   {
    "c": "TR",
@@ -4286,32 +4349,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Kocaeli",
-   "name": "2025-2026 TÜRKİYE KULÜPLER SATRANÇ ŞAMPİYONASI İL YÖRE YARIŞMALARI",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "A Kategorisi",
-     "min": 1400,
-     "max": null
-    },
-    {
-     "n": "B Kategorisi",
-     "min": null,
-     "max": 1399
-    }
-   ],
-   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "2025-2026 TÜRKİYE KULÜPLER SATRANÇ ŞAMPİYONASI İL YÖRE YARIŞMALARI Turnuva Haberleri ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Genç"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Konya",
    "name": "KONYA 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI (7-8 KASIM 2026)",
    "start": "2026-11-07",
@@ -4452,27 +4489,6 @@
    "url": "https://malatya.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Turnuvalar Satranç Haberleri FEDERASYON HABERLERİ SAYFASININ TAMAMINI GÖRMEK İÇİN YUKARIDA SAĞDA BULUNAN ÇUBUĞU ALTA DOĞRU, ALTTAKİ ÇUBUĞU SAĞA DOĞRU KAYDIRINIZ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026 7 - 8 KASIM 2026 Tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ???? "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Malatya",
-   "name": "2026 Türkiye Görme Engelliler Satranç Şampiyonası Mersin'de",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://www.tsf.org.tr/haber/2026-tuerkiye-goerme-engelliler-satranc-sampiyonasi",
-   "kaynak": "site",
-   "kaynak_metin": "2026 Türkiye Görme Engelliler Satranç Şampiyonası Mersin'de Haber 28 Ekim 2026 2026 Türkiye Görme Engelliler Satranç Şampiyonası Mersin'de Haberi oku"
   },
   {
    "c": "TR",
@@ -5951,7 +5967,7 @@
    ],
    "url": "https://tunceli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA TUNCELİ SATRANÇ TURNUVASI 10 Kasım Atatürk'ü Anma satranç turnuvası 07 Kasım - 08 Kasım 2026 tarihlerinde yapılacaktır. TURNUVA YERİ : TUNCELİ YUNUS EMRE GENÇLİK MERKEZİ (KONUM) KAYIT KONTROL : 07 Kasım 2026 Cumartesi en geç 09.30'a dek hakem masasında adınız olan listeye + işareti koydurunuz. KATEGORİLER: 8 Yaş ve Altı 10 Yaş ve Altı 12 Yaş ve Altı 14 Yaş ve Altı TEMPO: 35'+30\" Eklemeli Tempo YÖNERGEYİ OKUYUNUZ Turnuvaya TSF LİSANSI ile kayıt yapılır. TSF LİSANSI AÇIKLAM"
+   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA TUNCELİ SATRANÇ TURNUVASI Turnuva 10 Kasım Atatürk'ü Anma Satranç Turnuvası Organizasyon Tunceli GSİM & Tunceli Satranç İl Temsilciliği Turnuva Tarihi 07-08 Kasım 2026 Cumartesi-Pazar Turnuva Yeri Yunus Emre Gençlik Merkezi (KONUM) Kategoriler 08 Yaş ve Altı Kategorisi (2019-2020 Doğumlu Sporcular) 10 Yaş ve Altı Kategorisi (2017-2018 Doğumlu Sporcular) 12 Yaş ve Altı Kategorisi (2015-2016 Doğumlu Sporcular) 14 Yaş ve Altı Kategorisi (2013-2014 Doğumlu Sporcular) Tempo 35"
   },
   {
    "c": "TR",
@@ -5973,26 +5989,6 @@
    "url": "https://tunceli.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "2026-2027 TÜRKİYE KUPASI SATRANÇ TUNCELİ İL BİRİNCİLİĞİ TURNUVASI Türkiye Kupası Satranç Tunceli İl Birinciliği turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde yapılacaktır. TURNUVA YERİ : TUNCELİ YUNUS EMRE GENÇLİK MERKEZİ (KONUM) KAYIT KONTROL : 31 Ekim 2026 Cumartesi en geç 09.30'a dek hakem masasında adınız olan listeye + işareti koydurunuz. KATEGORİLER: İl Birinciliğinde maçlar açık kategoride oynanacaktır. TEMPO: 45' + 30\" Eklemeli Tempo YÖNERGEYİ OKUYUNUZ Turnuvaya TSF LİSANSI ile kayıt yap"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Tunceli",
-   "name": "TURNUVAYA KAYDOLMAK İÇİN TIKLAYINIZ",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://tunceli.tsf.org.tr/turnuva?layout=girisform&tid=82",
-   "kaynak": "site",
-   "kaynak_metin": "TURNUVAYA KAYDOLMAK İÇİN TIKLAYINIZ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Lisans ve Vize İşlemleri 10 KASIM ATATÜRK'Ü ANMA TUNCELİ SATRANÇ TURNUVASI KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edile"
   },
   {
    "c": "TR",

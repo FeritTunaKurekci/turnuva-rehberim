@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-28T22:28",
+ "taranma": "2026-10-29T10:13",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 13,
+ "okunan_sayfa": 19,
  "turnuvalar": [
   {
    "c": "US",
@@ -8064,6 +8064,46 @@
    "lastmod": "2026-08-16T08:59:36+00:00"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "9th Soorser Blitz Chess Championship 2026",
+   "city": "Sursee",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1800 Elo",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "5 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
+   "src": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
+   "cr": "https://s3.chess-results.com/tnr1438001.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T07:16:35+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -15279,31 +15319,6 @@
    "lastmod": "2026-07-05T09:36:54+00:00"
   },
   {
-   "c": "CH",
-   "ulke": "İsviçre",
-   "bayrak": "ch",
-   "name": "9th Soorser Blitz Chess Championship 2026",
-   "city": "Sursee",
-   "start": "2026-12-05",
-   "end": "2026-12-05",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "5 minutes plus 2 seconds per move",
-   "url": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
-   "src": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
-   "cr": "https://chess-results.com/tnr1438001.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-07-01T13:07:49+00:00"
-  },
-  {
    "c": "BR",
    "ulke": "Brezilya",
    "bayrak": "br",
@@ -15497,6 +15512,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-07T11:44:05+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "56th Festival Città di Torino 2027 - Open A & Open B",
+   "city": "Turin",
+   "start": "2026-12-05",
+   "end": "2026-12-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1799,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Rating overlap",
+     "min": 1800,
+     "max": 1899
+    },
+    {
+     "n": "Under-14 participants",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Maximum total capacity",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Unrated competitors",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/56th-festival-citta-di-torino-2027-open-a-open-b/",
+   "src": "https://mychess.events/event/56th-festival-citta-di-torino-2027-open-a-open-b/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T07:40:43+00:00"
   },
   {
    "c": "EN",
@@ -16151,6 +16216,56 @@
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
+   "name": "1st Ciudad de Almería International U2200 Open 2026",
+   "city": "Almería",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U2200",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Below 2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Below 1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Below 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Provincial",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Official-hotel guests",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/1st-ciudad-de-almeria-international-u2200-open-2026/",
+   "src": "https://mychess.events/event/1st-ciudad-de-almeria-international-u2200-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T09:41:21+00:00"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
    "name": "IV Activo Internacional Francisco Pulido Paco Pulido 2026",
    "city": "Las Palmas",
    "start": "2026-12-12",
@@ -16458,6 +16573,36 @@
    "lastmod": "2026-07-01T11:32:06+00:00"
   },
   {
+   "c": "PL",
+   "ulke": "Polonya",
+   "bayrak": "pl",
+   "name": "Wroclaw Chess Festival 2026 - Open A & Open B",
+   "city": "54-424 Wrocław",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 2100,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 2099
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/wroclaw-chess-festival-2026-open-a-open-b/",
+   "src": "https://mychess.events/event/wroclaw-chess-festival-2026-open-a-open-b/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T09:19:38+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -16683,6 +16828,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-07T13:19:15+00:00"
+  },
+  {
+   "c": "HR",
+   "ulke": "Hırvatistan",
+   "bayrak": "hr",
+   "name": "New Zagreb Classic 2027 - International Open A–E",
+   "city": "Zagreb",
+   "start": "2026-12-17",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Open C",
+     "min": 1650,
+     "max": null
+    },
+    {
+     "n": "Open D",
+     "min": 1500,
+     "max": null
+    },
+    {
+     "n": "Open E",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time Control",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for the entire game + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/new-zagreb-classic-2027-international-open-a-e/",
+   "src": "https://mychess.events/event/new-zagreb-classic-2027-international-open-a-e/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T08:20:49+00:00"
   },
   {
    "c": "IT",
@@ -22950,6 +23150,51 @@
    "cr": "https://s3.chess-results.com/tnr1512782.aspx?SNode=S0&lan=0",
    "kayit_kapali": false,
    "lastmod": "2026-10-13T08:30:36+00:00"
+  },
+  {
+   "c": "GR",
+   "ulke": "Yunanistan",
+   "bayrak": "gr",
+   "name": "12th International Christmas Chess Tournament of Fyli 2026",
+   "city": "Ano Liosia 13341",
+   "start": "2027-03-11",
+   "end": "2027-03-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Group B",
+     "min": null,
+     "max": 1850
+    },
+    {
+     "n": "Group A play-up",
+     "min": 1700,
+     "max": 1799
+    },
+    {
+     "n": "Participant capacity",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Special awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/12th-international-christmas-chess-tournament-fyli-2026/",
+   "src": "https://mychess.events/event/12th-international-christmas-chess-tournament-fyli-2026/",
+   "cr": "https://s2.chess-results.com/tnr1519178.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-29T09:55:31+00:00"
   },
   {
    "c": "US",
