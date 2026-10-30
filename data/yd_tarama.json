@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-30T10:28",
+ "taranma": "2026-10-30T17:46",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 24,
+ "okunan_sayfa": 22,
  "turnuvalar": [
   {
    "c": "US",
@@ -7744,41 +7744,6 @@
    "lastmod": "2026-05-28T05:10:35+00:00"
   },
   {
-   "c": "MN",
-   "ulke": "Moğolistan",
-   "bayrak": "mn",
-   "name": "Mongolian National Chess Championships 2026 - Open & Women Finals",
-   "city": "Ulaanbaatar",
-   "start": "2026-10-29",
-   "end": "2026-10-31",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Friday, October 23",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "October 24–31",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 1",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
-   "src": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
-   "cr": "https://s1.chess-results.com/tnr1522698.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-27T06:30:43+00:00"
-  },
-  {
    "c": "RO",
    "ulke": "Romanya",
    "bayrak": "ro",
@@ -8062,46 +8027,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-08-16T08:59:36+00:00"
-  },
-  {
-   "c": "CH",
-   "ulke": "İsviçre",
-   "bayrak": "ch",
-   "name": "9th Soorser Blitz Chess Championship 2026",
-   "city": "Sursee",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Junior U16",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Senior",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 1800 Elo",
-     "min": null,
-     "max": 1799
-    }
-   ],
-   "prize": null,
-   "tc": "5 minutes + 2 seconds per move",
-   "url": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
-   "src": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
-   "cr": "https://s3.chess-results.com/tnr1438001.aspx?SNode=S0&lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-29T07:16:35+00:00"
   },
   {
    "c": "FR",
@@ -10667,6 +10592,41 @@
    "cr": "https://s3.chess-results.com/tnr1508844.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-28T05:53:13+00:00"
+  },
+  {
+   "c": "GE",
+   "ulke": "Gürcistan",
+   "bayrak": "ge",
+   "name": "European Individual Chess Championship 2027",
+   "city": "Adjara",
+   "start": "2026-11-10",
+   "end": "2026-11-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Jun 10–23, 2027",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "During the event",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Within the championship period",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/european-individual-chess-championship-2027/",
+   "src": "https://mychess.events/event/european-individual-chess-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T11:43:00+00:00"
   },
   {
    "c": "PH",
@@ -13490,6 +13450,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-28T10:25:16+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Kapil Dev Khare Memorial FIDE Rated Open Classical Chess Tournament 2027",
+   "city": "Uttar Pradesh 262802",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE 1600–1800",
+     "min": 1600,
+     "max": 1800
+    },
+    {
+     "n": "FIDE 1400–1599",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Unrated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating awards total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/kapil-dev-khare-memorial-fide-rated-open-classical-chess-tournament-2027/",
+   "src": "https://mychess.events/event/kapil-dev-khare-memorial-fide-rated-open-classical-chess-tournament-2027/",
+   "cr": "https://s2.chess-results.com/tnr1518463.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T16:42:48+00:00"
   },
   {
    "c": "CH",
@@ -18665,6 +18665,46 @@
    "lastmod": "2026-10-28T05:48:02+00:00"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "9th Soorser Blitz Chess Championship 2026",
+   "city": "Sursee",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1800 Elo",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "5 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
+   "src": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
+   "cr": "https://s3.chess-results.com/tnr1438001.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T15:51:06+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -19968,6 +20008,46 @@
    "lastmod": "2026-06-10T09:57:04+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Landeseinzelmeisterschaft Niedersachsen 2027 - Open A, B, C & Masters",
+   "city": "Lower Saxony",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "All three Opens",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes / 40 moves + 30 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/landeseinzelmeisterschaft-niedersachsen-2027-open-a-b-c-masters/",
+   "src": "https://mychess.events/event/landeseinzelmeisterschaft-niedersachsen-2027-open-a-b-c-masters/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T14:00:24+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -21088,6 +21168,41 @@
    "lastmod": "2026-10-13T13:20:42+00:00"
   },
   {
+   "c": "MN",
+   "ulke": "Moğolistan",
+   "bayrak": "mn",
+   "name": "Mongolian National Chess Championships 2026 - Open & Women Finals",
+   "city": "Ulaanbaatar",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 24–31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
+   "src": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
+   "cr": "https://s1.chess-results.com/tnr1522698.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T12:56:06+00:00"
+  },
+  {
    "c": "CZ",
    "ulke": "Çekya",
    "bayrak": "cz",
@@ -21763,6 +21878,51 @@
    "lastmod": "2026-10-16T05:55:09+00:00"
   },
   {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "Brasília Chess Open 2027 - Classical Open",
+   "city": "Distrito Federal 70702-904",
+   "start": "2027-01-23",
+   "end": "2027-01-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Classical Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Bullet",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Problem Solving",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/brasilia-chess-open-2027-classical-open/",
+   "src": "https://mychess.events/event/brasilia-chess-open-2027-classical-open/",
+   "cr": "https://s2.chess-results.com/Tnr1444600.aspx?SNode=S0&lan=10",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T16:59:41+00:00"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -22346,6 +22506,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-25T10:09:49+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "40th Festival International des Jeux de Cannes 2027 - Open A, B & C",
+   "city": "Cannes",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 2100,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1600,
+     "max": 2200
+    },
+    {
+     "n": "Open C",
+     "min": 1600,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 30 minutes, with 30 seconds per move from move one",
+   "url": "https://mychess.events/event/40th-festival-international-des-jeux-cannes-2027-open-a-b-c/",
+   "src": "https://mychess.events/event/40th-festival-international-des-jeux-cannes-2027-open-a-b-c/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T14:20:33+00:00"
   },
   {
    "c": "DE",
@@ -24145,6 +24340,52 @@
    "lastmod": "2026-09-25T05:48:10+00:00"
   },
   {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Prague International Chess Festival 2027 - Open (GM Norm)",
+   "city": "00 Prague 3-Žižkov",
+   "start": "2027-03-21",
+   "end": "2027-03-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "D — Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "A — Masters",
+     "inv": true
+    },
+    {
+     "n": "B — Challengers",
+     "inv": true
+    },
+    {
+     "n": "C — Futures",
+     "inv": true
+    },
+    {
+     "n": "E — Rating Groups",
+     "inv": true
+    },
+    {
+     "n": "F — Open 28+",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for the first 40 moves, then 30 minutes, plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/prague-international-chess-festival-2027-open-gm-norm/",
+   "src": "https://mychess.events/event/prague-international-chess-festival-2027-open-gm-norm/",
+   "cr": "https://s1.chess-results.com/tnr1518242.aspx?SNode=S0&lan=29",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T13:06:03+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -24358,6 +24599,41 @@
    "cr": "https://s2.chess-results.com/Tnr1488848.aspx?SNode=S0&lan=2",
    "kayit_kapali": false,
    "lastmod": "2026-09-14T13:18:04+00:00"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "Roquetas Chess Festival 2027 - XXXVIII International Open",
+   "city": "Almería",
+   "start": "2027-03-30",
+   "end": "2027-04-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "XXXVIII International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "XIV Under-2150 Open",
+     "min": null,
+     "max": 2149
+    },
+    {
+     "n": "VIII Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/roquetas-chess-festival-2027-xxxviii-international-open/",
+   "src": "https://mychess.events/event/roquetas-chess-festival-2027-xxxviii-international-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T13:45:45+00:00"
   },
   {
    "c": "DE",

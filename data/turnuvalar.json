@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-30T10:28",
+ "guncelleme": "2026-10-30T17:46",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-30T10:27",
+   "tarama": "2026-10-30T17:45",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-30T10:28",
+   "tarama": "2026-10-30T17:46",
    "kaynak": "https://mychess.events"
   }
  },
@@ -11815,45 +11815,6 @@
    "oynandi_tarihi": "2026-10-30"
   },
   {
-   "c": "MN",
-   "ulke": "Moğolistan",
-   "bayrak": "mn",
-   "name": "Mongolian National Chess Championships 2026 - Open & Women Finals",
-   "city": "Ulaanbaatar",
-   "start": "2026-10-29",
-   "end": "2026-10-31",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Friday, October 23",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "October 24–31",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 1",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
-   "src": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
-   "cr": "https://s1.chess-results.com/tnr1522698.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-27T06:30:43+00:00",
-   "id": "90e804224114",
-   "ilk_gorulme": "2026-10-27",
-   "son_gorulme": "2026-10-30",
-   "durum": "suruyor"
-  },
-  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -12690,6 +12651,31 @@
    "oynandi_tarihi": "2026-10-30"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "2026 Avrupa Yaş Grupları Satranç Şampiyonası başlıyor",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/2026-avrupa-yas-gruplari-satranc-sampiyonasi-basliyor",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Avrupa Yaş Grupları Satranç Şampiyonası başlıyor Haber 30 Ekim 2026 2026 Avrupa Yaş Grupları Satranç Şampiyonası başlıyor Haberi oku",
+   "id": "a51d8e4b6d54",
+   "ilk_gorulme": "2026-10-30",
+   "son_gorulme": "2026-10-30",
+   "durum": "suruyor"
+  },
+  {
    "c": "AU",
    "ulke": "Avustralya",
    "bayrak": "au",
@@ -13120,7 +13106,7 @@
    ],
    "url": "https://tunceli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "2026-2027 TÜRKİYE KUPASI SATRANÇ TUNCELİ İL BİRİNCİLİĞİ TURNUVASI Türkiye Kupası Satranç Tunceli İl Birinciliği turnuvası 31 Ekim - 1 Kasım 2026 tarihlerinde yapılacaktır. TURNUVA YERİ : TUNCELİ YUNUS EMRE GENÇLİK MERKEZİ (KONUM) KAYIT KONTROL : 31 Ekim 2026 Cumartesi en geç 09.30'a dek hakem masasında adınız olan listeye + işareti koydurunuz. KATEGORİLER: İl Birinciliğinde maçlar açık kategoride oynanacaktır. TEMPO: 45' + 30\" Eklemeli Tempo YÖNERGEYİ OKUYUNUZ Turnuvaya TSF LİSANSI ile kayıt yap",
+   "kaynak_metin": "2026-2027 TÜRKİYE KUPASI SATRANÇ TUNCELİ İL BİRİNCİLİĞİ TURNUVASI Turnuva Türkiye Kupası Satranç İl Birinciliği Turnuvası Organizasyon Tunceli GSİM & Tunceli Satranç İl Temsilciliği Turnuva Tarihi 31 Ekim - 01 Kasım 2026 Cumartesi-Pazar Turnuva Yeri Yunus Emre Gençlik Merkezi (KONUM) Kategoriler Açık Kategori (2020 ve öncesinde doğan sporcular) Tempo 45'+30\" Eklemeli Tempo Tur Saatleri 31 Ekim 1.Tur 10.00 2.Tur 13.00 3.Tur 16.00 4.Tur 19.00 01 Kasım 5.Tur 10.00 6.Tur 13.00 7.Tur 16.00 Başvuru Şa",
    "id": "52ac0a5302e3",
    "ilk_gorulme": "2026-10-06",
    "son_gorulme": "2026-10-30",
@@ -13437,13 +13423,14 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://izmir.tsf.org.tr/turnuvalar/2623-deniz-civas-anma-hizli-satranc-turnuvasi-yoenergesi",
+   "url": "https://izmir.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI Karşıyaka Satranç İhtisas Spor Kulübü & İzmir Satranç İl Temsilciliği katkılarıyla satranç turnuvası düzenlenecektir. \"Deniz Cıvaş Anma Hızlı Satranç Turnuvası\" 31 Ekim 2026 tarihlerinde İzmir İstek Okulları Kampüsü'nde yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuvada",
+   "kaynak_metin": "DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI Karşıyaka Satranç İhtisas Spor Kulübü & İzmir Satranç İl Temsilciliği katkılarıyla satranç turnuvası düzenlenecektir. \"Deniz Cıvaş Anma Hızlı Satranç Turnuvası\" 31 Ekim 2026 tarihlerinde İzmir İstek Okulları Kampüsü'nde yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir.",
    "id": "1cf72d339adc",
    "ilk_gorulme": "2026-10-16",
    "son_gorulme": "2026-10-30",
@@ -13492,7 +13479,7 @@
    ],
    "url": "https://bolu.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası Satranç Haberleri Cumhuriyet 2026 Cumhuriyet Bayramı Satranç Turnuvamız 31 Ekim - 01 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ KONUM İÇİN TIKLAYINIZ... ) Yapılacaktır. Sporcularımız 2026-2027 Sezonu Lisans İşlemlerini Yaptırarak ( Lisans işlemleri bilgi almak için tıklayınız... ) Turnuvamıza Katılabilirler. Aşağıdaki Linklerden yönergemizi okuyarak kayıt olabilirsiniz. Son Kayıt 30 Ekim 2026 saat 16:00 dır. İletiş",
+   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası Satranç Haberleri Cumhuriyet 2026 Cumhuriyet Bayramı Satranç Turnuvamız 31 Ekim - 01 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ KONUM İÇİN TIKLAYINIZ... ) Yapılacaktır. ( Lisans işlemleri bilgi almak için tıklayınız... ) İletişim: Başhakem yrd. Serkan Denizli 05334661016 YÖNERGE TURNUVA TAKİP Gerede Cumhuriyet Bayramı Satranç Turnuvası GEREDE CUMHURİYET BAYRAMI SATRANÇ TURNUVASI GEREDE BİLİM SANAT MERKEZİNDE Tamaml",
    "id": "00b6810b6660",
    "ilk_gorulme": "2026-10-13",
    "son_gorulme": "2026-10-30",
@@ -13832,6 +13819,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Bursa",
+   "name": "Turnuva Haberleri",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bursa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Yarışma Sayfaları 2026-2027 Bursa 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Yarışma Sayfası BURSA 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim 2026 ve 1 Kasım 2026 tarihlerinde OSMANGAZİ BELEDİYESİ ARMUTKÖY ATA SPORLARI PARKI ’nda gerçekleştirilecek turnuvaya, 76 sporcu başvuruda bulunmuştur. VELİLERİMİZİN ve SPORCULARIMIZIN DİKKATİNE Kayıt kontrol işlemleri 08:30–09.30 saatleri arasında yapılacak olup saat 09.30'dan sonra kesinlikle kayıt alınmayacaktır. Kayıt kontr",
+   "id": "d8d8e4cca16d",
+   "ilk_gorulme": "2026-10-30",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Kırklareli",
    "name": "Turnuva Haberleri",
    "start": "2026-10-31",
@@ -14023,31 +14034,6 @@
    "id": "a156c4e4c0b3",
    "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-30",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Denizli",
-   "name": "ÇİVRİL BELEDİYESİ ALTIN ELMA YILDIRIM SATRANÇ TURNUVASI",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://denizli.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "ÇİVRİL BELEDİYESİ ALTIN ELMA YILDIRIM SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv PAMUKKALE BELEDİYESİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI İlimiz Pamukkale İlçemiz Pamukkale Belediyesi Bağbaşı Kültür Merkezinde 31 Ekim 202",
-   "id": "fee25464b19b",
-   "ilk_gorulme": "2026-10-22",
-   "son_gorulme": "2026-10-30",
-   "tarih_degisti": "2026-10-24 → 2026-10-31",
    "durum": "yaklasan"
   },
   {
@@ -14312,9 +14298,9 @@
      "max": null
     }
    ],
-   "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1736-2025-2026-turkiye-gormeengelliler",
+   "url": "https://ankara.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "2025-2026 Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım 2026 tarihleri arasında Mersin'de düzenlenecek TSF Ankara 2025-2026 Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım 2026 tarihleri arasında Mersin'de düzenlenecek 2025-2026 Türkiye Görme Engelliler Satranç Şampiyonası, 2-8 Kasım 2026 tarihleri arasında Mersin’de bulunan Fatih Sultan Mehmet Gençlik Kampı ve Mehmet Akif Ersoy Gençlik Kampı’nda düzenlenecektir. Şampiyonada dereceye giren sporcularımıza toplam 200.000 TL ödül ve",
+   "kaynak_metin": "2025-2026 Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım 2026 tarihleri arasında Mersin'de düzenlenecek 2025-2026 Türkiye Görme Engelliler Satranç Şampiyonası, 2-8 Kasım 2026 tarihleri arasında Mersin’de bulunan Fatih Sultan Mehmet Gençlik Kampı ve Mehmet Akif Ersoy Gençlik Kampı’nda düzenlenecektir. Şampiyonada dereceye giren sporcularımıza toplam 200.000 TL ödül verilecektir. Şampiyonaya katılacak sporcularımızın ve refakatçilerinin konaklama ve yemek ihtiyaçları ücretsiz olarak karşıl",
    "id": "142d6046557d",
    "ilk_gorulme": "2026-10-22",
    "son_gorulme": "2026-10-30",
@@ -14859,9 +14845,9 @@
    "kaynak": "site",
    "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız BODRUM EN İYİ 32 KASIM AYI SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 05.11.2026 SAAT 17.00 MUĞLA 10 KASIM ATA'YI ANMA ELO SATRANÇ TURNUVASI SON KAYIT TARİHİ 19.11.2026 SAAT 17.00 ULA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI SON BAŞVURU TARİ",
    "id": "eab24b23adba",
-   "tarih_degisti": "2026-11-19 → 2026-11-05",
    "ilk_gorulme": "2026-09-29",
    "son_gorulme": "2026-10-30",
+   "tarih_degisti": "2026-11-19 → 2026-11-05",
    "durum": "yaklasan"
   },
   {
@@ -15388,6 +15374,31 @@
    "kaynak": "site",
    "kaynak_metin": "2026 Lüleburgaz Kurtuluş Kupası Satranç Turnuvası Turnuva Lüleburgaz Kurtuluş Kupası Satranç Turnuvası Organizasyon Lüleburgaz Belediyesi & Lüleburgaz ADD & Kırklareli Satranç İl Temsilciliği Turnuva Tarihi 07-08 Kasım 2026 Turnuva Yeri/Konum Lüleburgaz LYKA Prof. Dr. Türkan Saylan Salonu Kategoriler Açık : 14 Yaş ve altı: 10 Yaş ve altı: Kontenjan Kontenjan her kategori için 64 sporcu ile sınırlıdır Tempo 35'+30\" Eklemeli Tempo Tur Sayısı 6 Tur Son Başvuru 06 Kasım 2026 saat:18.00 Ödüller Ayrın",
    "id": "a4a9b327bf8b",
+   "ilk_gorulme": "2026-10-21",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Çorum",
+   "name": "2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://corum.tsf.org.tr/haberler",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ Haberler 10 KASIM ATATÜRK'A ANMA SATRANÇ TURNUVASI Turnuva 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 07-08 KASIM 2026 CUMARTESİ VE PAZAR Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 8 YAŞ ALTI (2019-2020 ARASI DOĞAN SPORCULAR) 10 YAŞ ALTI (2017-2020 ARASI DOĞAN SPORCULAR) 14 YAŞ ALTI ( 2013-20 20 Yılları ve Arasında Doğan Sporcular) AÇIK KATEGORİ 20 20 ve Önceki Yıl",
+   "id": "25f6942f3364",
+   "tarih_degisti": "2026-10-31 → 2026-11-07",
    "ilk_gorulme": "2026-10-21",
    "son_gorulme": "2026-10-30",
    "durum": "yaklasan"
@@ -15940,6 +15951,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Ordu",
+   "name": "Turnuvalar",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://ordu.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuvalar Turnuva Haberleri Turnuvalar ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde 19 Eylül Stadyumu/Satranç Turnuva Salonu'nda 4 farklı kategoride düzenlenecektir. Turnuvaya son kayıt tarihi 06.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu 2026 ORDU 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Ordu 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim 2026 tarihlerinde 19 Eylül Stady",
+   "id": "3d365997568b",
+   "ilk_gorulme": "2026-10-30",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Mardin",
    "name": "TÜRKİYE KADINLAR SATRANÇ MARDİN BİRİNCİLİĞİ",
    "start": "2026-11-07",
@@ -16008,6 +16043,31 @@
    "kaynak_metin": "ZONGULDAK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ HIZLI SATRANÇ TURNUVASI 07 KASIM 2026 7 Kasım 2026 tarihinde İbrahim Fikri Anıl Ortaokulunda 15'+10\" Eklemeli Tempoyla 10 Kasım Atatürk'ü Anma Günü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT ",
    "id": "ed4f74839995",
    "ilk_gorulme": "2026-10-18",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Denizli",
+   "name": "ÇİVRİL BELEDİYESİ ALTIN ELMA YILDIRIM SATRANÇ TURNUVASI",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://denizli.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "ÇİVRİL BELEDİYESİ ALTIN ELMA YILDIRIM SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI İlimizde 7-8 Kasım 2026 Tarihlerinde Pamukkale Satranç Salonu'nda Denizli 10 Kasım Atamıza S",
+   "id": "24528390f3c6",
+   "tarih_degisti": "2026-11-21 → 2026-11-07",
+   "ilk_gorulme": "2026-10-22",
    "son_gorulme": "2026-10-30",
    "durum": "yaklasan"
   },
@@ -16320,6 +16380,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Artvin",
+   "name": "10 KASIM ATATÜRK HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://artvin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "10 KASIM ATATÜRK HAFTASI SATRANÇ TURNUVASI Turnuva Direktörü İbrahim KACEROĞLU 05356803715 Başlama - Bitiş Tarihi : 7 - 8 Kasım 2026 Yeri: Hopa Halk Eğitim Merkezi Salonu Son Başvuru Tarihi: 6 Kasım 2026 Saat: 17:00 Düşünme Süresi: 35'+30'' Eklemeli Tempo Yarışma sonuçları UKD hesaplamalarında kullanılacaktır. Kategoriler: Açık Kategori , 10 Yaş ve Altı Kategorisi, 8 Yaş ve Altı Kategorisi NOT: Her Kategori 32 sporcu ile sınırlıdır. NOT: Turnuvaya ön kayıt yaptırdıktan sonra katılamayacak sporcu",
+   "id": "83387e7e11ac",
+   "ilk_gorulme": "2026-10-30",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Çorum",
    "name": "10 KASIM ATATÜRK'A ANMA SATRANÇ TURNUVASI",
    "start": "2026-11-10",
@@ -16332,12 +16416,12 @@
      "age": true
     }
    ],
-   "url": "https://corum.tsf.org.tr/haberler",
+   "url": "https://corum.tsf.org.tr/haberler/757-10-kasim-atatuerka-anma-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "10 KASIM ATATÜRK'A ANMA SATRANÇ TURNUVASI Haberler 10 KASIM ATATÜRK'A ANMA SATRANÇ TURNUVASI Turnuva 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 07-08 KASIM 2026 CUMARTESİ VE PAZAR Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 8 YAŞ ALTI (2019-2020 ARASI DOĞAN SPORCULAR) 10 YAŞ ALTI (2017-2020 ARASI DOĞAN SPORCULAR) 14 YAŞ ALTI ( 2013-20 20 Yılları ve Arasında Doğan Sporcular) AÇIK KATEGORİ 20 20 ve Önceki ",
+   "kaynak_metin": "10 KASIM ATATÜRK'A ANMA SATRANÇ TURNUVASI 10 KASIM ATATÜRK'A ANMA SATRANÇ TURNUVASI Turnuva 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Organizasyon ÇORUM GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ & ÇORUM SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 07-08 KASIM 2026 CUMARTESİ VE PAZAR Turnuva Yeri ÇORUM SPOR SALONU Kategoriler 8 YAŞ ALTI (2019-2020 ARASI DOĞAN SPORCULAR) 10 YAŞ ALTI (2017-2020 ARASI DOĞAN SPORCULAR) 14 YAŞ ALTI ( 2013-20 20 Yılları ve Arasında Doğan Sporcular) AÇIK KATEGORİ 20 20 ve Önceki Yıllarda ",
    "id": "7bb2aa61eb5d",
    "ilk_gorulme": "2026-10-26",
-   "son_gorulme": "2026-10-27",
+   "son_gorulme": "2026-10-30",
    "durum": "yaklasan"
   },
   {
@@ -16387,6 +16471,30 @@
    "id": "c556d8b14750",
    "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Adana",
+   "name": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 2026",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://adana.tsf.org.tr/satranc-haberleri/1625-10-kasim-atatuerkue-anma-satranc-turnuvasi-2026",
+   "kaynak": "site",
+   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 2026 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 2026 ÖNEMLİ UYARILAR Turnuvaya başvuru Adana İL MEM'e bağlı okullarda öğrenim gören sporcular ile sınırlıdır. Turnuvaya başvuru tüm kategorilerde 64 sporcu ile sınırlıdır. Turnuvaya katılamayacak sporcuların KAYIT İPTALİ işlemini son başvuru saatinden önce yapması zorunludur. Yeni Lisans & Vize Yenileme İşlemleri Hakkında Bilgi Almak İçin Tıklayınız ORGANİZASYON Adana GSİM Adana Satranç İl Temsilciliği MBA O",
+   "id": "7c534bb7bf06",
+   "ilk_gorulme": "2026-10-30",
+   "son_gorulme": "2026-10-30",
    "durum": "yaklasan"
   },
   {
@@ -16564,6 +16672,30 @@
    "kaynak_metin": "2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI Sayfa 2 Tüm Sayfalar Sayfa 1 / 2 Bu yıl düzenlenecek olan 10 Kasım Atatürk'ü Anma Haftası Satranç Turnuvası, Özen Pastanesi Salepcilerin katkılarıyla gerçekleştirilecektir. İlk Üç Sporcuya ve En iyi kadın sporcuya, Özen Pastanesinde kullanılmak üzere hediye çekleri verilecektir. Tüm Satranç camiasını turnuvaya bekliyoruz. Önceki Sonraki >> Sonra",
    "id": "38b620056ef3",
    "ilk_gorulme": "2026-10-23",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Tunceli",
+   "name": "2026-2027 10 KASIM ATATÜRK'Ü ANMA TUNCELİ SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://tunceli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 10 KASIM ATATÜRK'Ü ANMA TUNCELİ SATRANÇ TURNUVASI Turnuva 10 Kasım Atatürk'ü Anma Satranç Turnuvası Organizasyon Tunceli GSİM & Tunceli Satranç İl Temsilciliği Turnuva Tarihi 07-08 Kasım 2026 Cumartesi-Pazar Turnuva Yeri Yunus Emre Gençlik Merkezi (KONUM) Kategoriler 08 Yaş ve Altı Kategorisi (2019-2020 Doğumlu Sporcular) 10 Yaş ve Altı Kategorisi (2017-2018 Doğumlu Sporcular) 12 Yaş ve Altı Kategorisi (2015-2016 Doğumlu Sporcular) 14 Yaş ve Altı Kategorisi (2013-2014 Doğumlu Sporcular",
+   "id": "f7c6fd879513",
+   "ilk_gorulme": "2026-10-30",
    "son_gorulme": "2026-10-30",
    "durum": "yaklasan"
   },
@@ -16855,6 +16987,56 @@
    "id": "f1f97a4c4990",
    "ilk_gorulme": "2026-10-18",
    "son_gorulme": "2026-10-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ordu",
+   "name": "ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://ordu.tsf.org.tr/satranc-haberleri/617-ordu-10-kasim-atatuerkue-anma-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Turnuva Haberleri ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde 19 Eylül Stadyumu/Satranç Turnuva Salonu'nda 4 farklı kategoride düzenlenecektir. Turnuvaya son kayıt tarihi 06.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu Sonraki >",
+   "id": "a2a5c5079258",
+   "ilk_gorulme": "2026-10-30",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sakarya",
+   "name": "Sakarya 10 Kasım Atarürk'ü Anma Günü Satranç Turnuvası",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sakarya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Sakarya 10 Kasım Atarürk'ü Anma Günü Satranç Turnuvası Tarih: 07-08 Kasım 2026 Kayıt Tarihleri: 31Ekim - 05 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanız gerekmektedir. YÖNERGE TURNUVA KAYIT KAYIT İPTAL ",
+   "id": "5ca51f555b83",
+   "ilk_gorulme": "2026-10-30",
+   "son_gorulme": "2026-10-30",
    "durum": "yaklasan"
   },
   {
@@ -19593,31 +19775,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Denizli",
-   "name": "ÇİVRİL BELEDİYESİ ALTIN ELMA YILDIRIM SATRANÇ TURNUVASI",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://denizli.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "ÇİVRİL BELEDİYESİ ALTIN ELMA YILDIRIM SATRANÇ TURNUVASI İlimiz Çivril İlçemizde 21 Kasım 2026 Tarihinde Toplam 90000 TL Ödüllü Çivril Belediyesi Kapalı Spor Salonu'nda Çiviril Belediyesi Altın Elma Yıldırım Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Turnuva Kayıt Çivril Belediyesi Kapalı Spor Salonu ",
-   "id": "24528390f3c6",
-   "ilk_gorulme": "2026-10-22",
-   "son_gorulme": "2026-10-30",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Mersin",
    "name": "Ezgi Öğretmenler Günü Satranç Turnuvası",
    "start": "2026-11-22",
@@ -21647,35 +21804,6 @@
    "id": "6c35526158ac",
    "ilk_gorulme": "2026-10-08",
    "son_gorulme": "2026-10-30",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "CH",
-   "ulke": "İsviçre",
-   "bayrak": "ch",
-   "name": "9th Soorser Blitz Chess Championship 2026",
-   "city": "Sursee",
-   "start": "2026-12-05",
-   "end": "2026-12-05",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "5 minutes plus 2 seconds per move",
-   "url": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
-   "src": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
-   "cr": "https://chess-results.com/tnr1438001.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-07-01T13:07:49+00:00",
-   "id": "ac6361ae619a",
-   "ilk_gorulme": "2026-09-23",
-   "son_gorulme": "2026-10-28",
    "durum": "yaklasan"
   },
   {
@@ -24479,6 +24607,51 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "9th Soorser Blitz Chess Championship 2026",
+   "city": "Sursee",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1800 Elo",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "5 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
+   "src": "https://mychess.events/event/9th-soorser-blitz-chess-championship-2026/",
+   "cr": "https://s3.chess-results.com/tnr1438001.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T15:51:06+00:00",
+   "id": "ac6361ae619a",
+   "tarih_degisti": "2026-12-05 → 2026-12-26",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
    "c": "RS",
    "ulke": "Sırbistan",
    "bayrak": "rs",
@@ -26271,6 +26444,46 @@
    "lastmod": "2026-07-09T06:02:16+00:00",
    "id": "46e26cdf91f8",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-10-30",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "MN",
+   "ulke": "Moğolistan",
+   "bayrak": "mn",
+   "name": "Mongolian National Chess Championships 2026 - Open & Women Finals",
+   "city": "Ulaanbaatar",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, October 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "October 24–31",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 1",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
+   "src": "https://mychess.events/event/mongolian-national-chess-championships-2026-open-women-finals/",
+   "cr": "https://s1.chess-results.com/tnr1522698.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T12:56:06+00:00",
+   "id": "7ecb8d080fb9",
+   "tarih_degisti": "2026-10-29 → 2027-01-16",
+   "ilk_gorulme": "2026-10-27",
    "son_gorulme": "2026-10-30",
    "durum": "yaklasan"
   },
