@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-30T17:46",
+ "taranma": "2026-10-30T21:28",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 22,
+ "okunan_sayfa": 15,
  "turnuvalar": [
   {
    "c": "US",
@@ -8439,6 +8439,51 @@
    "cr": "https://s1.chess-results.com/tnr1502537.aspx?SNode=S0&art=0&lan=5&turdet=YES",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T06:19:46+00:00"
+  },
+  {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "Brasília Chess Open 2027 - Classical Open",
+   "city": "Distrito Federal 70702-904",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Classical Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Bullet",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Problem Solving",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/brasilia-chess-open-2027-classical-open/",
+   "src": "https://mychess.events/event/brasilia-chess-open-2027-classical-open/",
+   "cr": "https://s2.chess-results.com/Tnr1444600.aspx?SNode=S0&lan=10",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T18:05:32+00:00"
   },
   {
    "c": "EN",
@@ -20258,6 +20303,46 @@
    "lastmod": "2026-10-26T12:04:03+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Eccles Classical New Year FIDE/ECF Chess Event 2027 - Open & U1400",
+   "city": "Manchester M30 0LH",
+   "start": "2027-01-01",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open — 1st",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "ECF U1400 — 1st",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Combined cash first prizes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Participant gift",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move, from move one",
+   "url": "https://mychess.events/event/eccles-classical-new-year-fide-ecf-chess-event-2027-open-u1400/",
+   "src": "https://mychess.events/event/eccles-classical-new-year-fide-ecf-chess-event-2027-open-u1400/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-30T18:20:18+00:00"
+  },
+  {
    "c": "IN",
    "ulke": "Hindistan",
    "bayrak": "in",
@@ -21876,51 +21961,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-16T05:55:09+00:00"
-  },
-  {
-   "c": "BR",
-   "ulke": "Brezilya",
-   "bayrak": "br",
-   "name": "Brasília Chess Open 2027 - Classical Open",
-   "city": "Distrito Federal 70702-904",
-   "start": "2027-01-23",
-   "end": "2027-01-31",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Classical Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Rapid",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Blitz",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Bullet",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Problem Solving",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/brasilia-chess-open-2027-classical-open/",
-   "src": "https://mychess.events/event/brasilia-chess-open-2027-classical-open/",
-   "cr": "https://s2.chess-results.com/Tnr1444600.aspx?SNode=S0&lan=10",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-30T16:59:41+00:00"
   },
   {
    "c": "HU",
