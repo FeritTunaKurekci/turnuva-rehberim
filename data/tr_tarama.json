@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-31T10:07",
+ "taranma": "2026-10-31T16:46",
  "surum": "0.4",
  "iller": [
   {
@@ -48,7 +48,7 @@
    "il": "Antalya",
    "durum": "ok",
    "host": "antalya.tsf.org.tr",
-   "adet": 8
+   "adet": 9
   },
   {
    "il": "Ardahan",
@@ -240,7 +240,7 @@
    "il": "İstanbul",
    "durum": "ok",
    "host": "istanbul.tsf.org.tr",
-   "adet": 13
+   "adet": 14
   },
   {
    "il": "İzmir",
@@ -396,7 +396,7 @@
    "il": "Sakarya",
    "durum": "ok",
    "host": "sakarya.tsf.org.tr",
-   "adet": 1
+   "adet": 4
   },
   {
    "il": "Samsun",
@@ -486,7 +486,7 @@
    "il": "Zonguldak",
    "durum": "ok",
    "host": "zonguldak.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   }
  ],
  "turnuvalar": [
@@ -707,10 +707,10 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Antalya",
+   "il": "Türkiye geneli",
    "name": "Turnuva Haberleri",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -736,7 +736,7 @@
    ],
    "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 ALANYA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği, Alanya Kaymakamlığı, Alanya Belediyesi, Alanya İlçe Milli Eğitim Müdürlüğü ve TSF Alanya İlçe Temsilciliği tarafından, 31 Ekim-01 Kasım 2026 tarihlerinde, Alanya Gençlik Merkezi'de Alanya 29 Ekim Cumhuriyet Bayramı ELO Satranç Turnuvası düzenlenecektir. Müsabaka 60'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkında"
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 KUMLUCA İLÇE HALK KÜTÜPHANESİ ATATÜRK'Ü ANMA HIZLI SATRANÇ TURNUVASI Afişi büyütmek için üzerine tıklayınız. Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği, Kumluca İlçe Halk Kütüphanesi tarafından düzenlenen turnuva, 7 Kasım 2026 tarihinde Mehmet Akif Ersoy Kültür Sanat Kongre Merkezinde gerçekleştirilecektir. Ödüller ve turnuva hakkındaki diğer bilgiler için turnuva yönergesine bakınız. TURNUVA YÖNERGESİ ULAŞIM GÖREVLİ HAKEMLER × "
   },
   {
    "c": "TR",
@@ -767,6 +767,26 @@
    "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1311-2026alanya10kasim",
    "kaynak": "site",
    "kaynak_metin": "2026 ALANYA 10 KASIM ATA'YI ANMA HIZLI SATRANÇ TURNUVASI 2026 ALANYA 10 KASIM ATA'YI ANMA HIZLI SATRANÇ TURNUVASI Afişi büyütmek için üzerine tıklayınız. Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği, Alanya Kaymakamlığı, Alanya Belediyesi, Alanya Gençlik ve Spor İlçe Müdürlüğü, Alanya Satranç İlçe Temsilciliği ve Alanya İlçe Milli Eğitim Müdürlüğü tarafından düzenlenen turnuva, 8 Kasım 2026 tarihinde Alanya Gençlik Merkezinde gerçekleştirilecektir. Ödüller ve turnuva hak"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Antalya",
+   "name": "2026 KUMLUCA İLÇE HALK KÜTÜPHANESİ ATATÜRK'Ü ANMA HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1313-2026kumluca10kasim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 KUMLUCA İLÇE HALK KÜTÜPHANESİ ATATÜRK'Ü ANMA HIZLI SATRANÇ TURNUVASI 2026 KUMLUCA İLÇE HALK KÜTÜPHANESİ ATATÜRK'Ü ANMA HIZLI SATRANÇ TURNUVASI Afişi büyütmek için üzerine tıklayınız. Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği, Kumluca İlçe Halk Kütüphanesi tarafından düzenlenen turnuva, 7 Kasım 2026 tarihinde Mehmet Akif Ersoy Kültür Sanat Kongre Merkezinde gerçekleştirilecektir. Ödüller ve turnuva hakkındaki diğer bilgiler için turnuva yönergesine bakınız. TURNUV"
   },
   {
    "c": "TR",
@@ -1477,7 +1497,7 @@
    ],
    "url": "https://bursa.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri 2026-2027 Bursa 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Yarışma Sayfası BURSA 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim 2026 ve 1 Kasım 2026 tarihlerinde OSMANGAZİ BELEDİYESİ ARMUTKÖY ATA SPORLARI PARKI ’nda gerçekleştirilecek turnuvaya, 76 sporcu başvuruda bulunmuştur. VELİLERİMİZİN ve SPORCULARIMIZIN DİKKATİNE Kayıt kontrol işlemleri 08:30–09.30 saatleri arasında yapılacak olup saat 09.30'dan sonra kesinlikle kayıt alınmayacaktır. Kayıt kontrol işlemleri turnu"
+   "kaynak_metin": "Turnuva Haberleri Yarışma Sayfaları 2026-2027 Bursa 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Yarışma Sayfası BURSA 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim 2026 ve 1 Kasım 2026 tarihlerinde OSMANGAZİ BELEDİYESİ ARMUTKÖY ATA SPORLARI PARKI ’nda gerçekleştirilecek turnuvaya, 76 sporcu başvuruda bulunmuştur. VELİLERİMİZİN ve SPORCULARIMIZIN DİKKATİNE Kayıt kontrol işlemleri 08:30–09.30 saatleri arasında yapılacak olup saat 09.30'dan sonra kesinlikle kayıt alınmayacaktır. Kayıt kontr"
   },
   {
    "c": "TR",
@@ -1975,26 +1995,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Türkiye geneli",
-   "name": "Turnuva Haberleri",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://gaziantep.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Dünya Çocuk Kitapları Haftası Satranç Turnuvası Münif Paşa İl Halk Kütüphanesi tarafından 07-08 Kasım 2026 tarihlerinde Dünya Çocuk Kitapları Haftası Satranç Turnuvası düzenlenecektir. Turnuva 8 Yaş ve Altı, 10 Yaş ve Altı, 14 Yaş ve Altı olmak üzere üç kategoride gerçekleştirilecektir. Turnuvanın kontenjanı her kategoride kayıt sırasına göre ilk kayıt yaptıran 48 sporcu ile sınırlıdır. ÖDÜLLER: Her kategoride; * İlk üç dereceyi elde eden sproculara Kupa, * İlk beş dereceyi eld"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Türkiye geneli",
    "name": "AVRUPA YAŞ GRUPLARI ŞAMPİYONASI'NDA REKOR BAŞARI: İLK DÖRT DERECE ÜLKEMİZİN, TOPLAM 11 DERECE!",
    "start": "2026-10-28",
    "end": "2026-11-08",
@@ -2404,6 +2404,26 @@
    "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5314-beylikduzu-belediyesi-cumhuriyet-bayram-ve-ataya-sayg-satranc-turnuvas2026",
    "kaynak": "site",
    "kaynak_metin": "Beylikdüzü Belediyesi Cumhuriyet Bayramı ve Ata`ya Saygı Satranç Turnuvası.. Beylikdüzü Belediyesi Cumhuriyet Bayramı ve Ata`ya Saygı Satranç Turnuvası.. Beylikdüzü Belediyesi tarafından 29 Ekim Cumhuriyet Bayramı etkinlikleri kapsamında 31 Ekim-1 Kasım 2026 tarihlerinde 7. Geleneksel Cumhuriyet Bayramı ve Ata`ya Saygı Satranç Turnuvası düzenlenecektir. Turnuva Beylikdüzü Atatürk Kültür ve Sanat Merkezi`nde her yaştan sporcunun katılımına açık olarak 6 kategoride yapılacaktır. Turnuvanın 6 tur 3"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Maltepe Piazza AVM Satranç Turnuvası 7-8 Kasım 2026`da..",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5346-maltepe-piazza-avm-satranc-turnuvasi2026-3",
+   "kaynak": "site",
+   "kaynak_metin": "Maltepe Piazza AVM Satranç Turnuvası 7-8 Kasım 2026`da.. Maltepe Piazza AVM Satranç Turnuvası 7-8 Kasım 2026`da.. Maltepe Piazza AVM tarafından 7-8 Kasım 2026 tarihlerinde 7-14 yaşarası sporcuların katılımına yönelik Satranç Turnuvası düzenlenecektir. Turnuva 8 Yaşaltı, 10 yaşaltı ve 14 Yaşaltı kategorileri olmak üzere 3 kategoride 35 dakika+30 saniye düşünme süresinde 6 tur İsviçre Sistemi ile UKD hesaplamalarına dahil düzenecektir. Turnuva sonunda dereceye girecek sporcular kupa ödülleri ile t"
   },
   {
    "c": "TR",
@@ -3958,6 +3978,46 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Sakarya",
+   "name": "NATO Satranç Şampiyonası’nda 2 Altın 1 Bronz Madalya!",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://sakarya.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "NATO Satranç Şampiyonası’nda 2 Altın 1 Bronz Madalya! Satranç Haberleri Sakarya 10 Kasım Atatürk'ü Anma Günü Satranç Turnuvası Tarih: 07-08 Kasım 2026 Kayıt Tarihleri: 31Ekim - 05 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanı"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sakarya",
+   "name": "Turnuvalar",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://sakarya.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuvalar Satranç Haberleri Sakarya 10 Kasım Atatürk'ü Anma Günü Satranç Turnuvası Tarih: 07-08 Kasım 2026 Kayıt Tarihleri: 31Ekim - 05 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanız gerekmektedir. YÖNERGE TURNUVA KAYIT KAYI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Samsun",
    "name": "2026-SAMSUN 10 KASIM ATATÜRK'Ü ANMA GÜNÜ SATRANÇ TURNUVASI",
    "start": "2026-11-10",
@@ -4454,6 +4514,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Yalova",
+   "name": "2026 SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://yalova.tsf.org.tr/satranc-haberleri/1179-2026-subasi-belediyesi-5geleneksel-atatuerk-kupasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI 2026 SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI 14-15 KASIM 2026 tarihlerinde SUBAŞI MEHMET TUNALI SOSYAL TESİSLERİNDE üç ayrı kategoride yapılacaktır.Açık kategori,12 Yaş ve Altı kategorisi ve 8 yaş ve altı kategorisi olarak yapılacak turnuvada her kategori için kontejan 64 sporcu ile sınırlıdır.Her kategoride ilk üç dereceye girecek sporculara Kupa ve Madalya 4. ve 5. olacak sporculara Madalya v"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Yalova",
    "name": "2026 ATATÜRK'Ü ANMA ELO SATRANÇ TURNUVASI",
    "start": "2026-11-06",
    "end": "2026-11-07",
@@ -4489,26 +4569,6 @@
    "url": "https://yalova.tsf.org.tr/satranc-haberleri/1177-haci-saffet-cam-vakfi-cumhuriyet-kupasi-elo-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "HACI SAFFET ÇAM VAKFI CUMHURİYET KUPASI ELO SATRANÇ TURNUVASI HACI SAFFET ÇAM VAKFI CUMHURİYET KUPASI ELO SATRANÇ TURNUVASI HACI SAFFET ÇAM VAKFI CUMURİYET KUPASI ELO SATRANÇ TURNUVASI 31 EKİM -01 KASIM 2026 tarihlerinde MERTUR OTEL'de yapılacaktır.Turnuvada A kategorisi Elo/Ukd , B,12 Yaş ve Altı ile 8 Yaş ve Altı Kategorileri Ukd hesaplamalarına dahil olacaktır.Turnuva 60 dakika 30 saniye eklemeli tempoda 6 tur üzerinden yapılacaktir.Turnuva katılım bedeli A kategorisi için 610₺ ,B kategorisi "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Yalova",
-   "name": "HACI SAFFET ÇAM VAKFI CUMHURİYET KUPASI ELO SATRANÇ TURNUVASI",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://yalova.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "HACI SAFFET ÇAM VAKFI CUMHURİYET KUPASI ELO SATRANÇ TURNUVASI Satranç Haberleri 2026 ATATÜRK'Ü ANMA ELO SATRANÇ TURNUVASI ATATÜRK'Ü ANMA ELO SATRANÇ TURNUVASI 6-7 KASIM 2026 tarihlerinde 90.Yıl Spor Salonda yapılacak olup A Kategorisi ELO/UKD B Kategorisi UKD hesaplamalarına dahil olacaktır.Her iki kategoride ilk 3 dereceye girecek sporculara Kupa ve Madalya 4.5.lik derecelerine ise Madalya verilecektir.Ayrıca A Kategorisinde 1.olacak sporcuya 5000 ₺,ikinciye 4000 ₺ üçüncüye 3000 ₺ dördüncüye 20"
   },
   {
    "c": "TR",
@@ -4571,6 +4631,26 @@
    "url": "https://zonguldak.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "ZONGULDAK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ HIZLI SATRANÇ TURNUVASI 07 KASIM 2026 7 Kasım 2026 tarihinde İbrahim Fikri Anıl Ortaokulunda 15'+10\" Eklemeli Tempoyla 10 Kasım Atatürk'ü Anma Günü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Zonguldak",
+   "name": "Turnuva Haberleri",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "http://www.zonguldak.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri 2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE EŞLENDİRME-SONUÇ 8 YAŞ 10 YAŞ 14 YAŞ AÇIK E-devlet üzerinden ulusal spor projesi başvurusunun yapılması zorunludur. Başvuru Adımları: E-devlet / Spor Bilgi Sistemi / Ulusal Spor Projeleri / Herkes İç"
   }
  ]
 }

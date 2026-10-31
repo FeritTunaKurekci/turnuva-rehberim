@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-10-31T10:08",
+ "guncelleme": "2026-10-31T16:47",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-10-31T10:07",
+   "tarama": "2026-10-31T16:46",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-10-31T10:08",
+   "tarama": "2026-10-31T16:47",
    "kaynak": "https://mychess.events"
   }
  },
@@ -13834,7 +13834,7 @@
    ],
    "url": "https://bursa.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri 2026-2027 Bursa 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Yarışma Sayfası BURSA 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim 2026 ve 1 Kasım 2026 tarihlerinde OSMANGAZİ BELEDİYESİ ARMUTKÖY ATA SPORLARI PARKI ’nda gerçekleştirilecek turnuvaya, 76 sporcu başvuruda bulunmuştur. VELİLERİMİZİN ve SPORCULARIMIZIN DİKKATİNE Kayıt kontrol işlemleri 08:30–09.30 saatleri arasında yapılacak olup saat 09.30'dan sonra kesinlikle kayıt alınmayacaktır. Kayıt kontrol işlemleri turnu",
+   "kaynak_metin": "Turnuva Haberleri Yarışma Sayfaları 2026-2027 Bursa 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası Yarışma Sayfası BURSA 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim 2026 ve 1 Kasım 2026 tarihlerinde OSMANGAZİ BELEDİYESİ ARMUTKÖY ATA SPORLARI PARKI ’nda gerçekleştirilecek turnuvaya, 76 sporcu başvuruda bulunmuştur. VELİLERİMİZİN ve SPORCULARIMIZIN DİKKATİNE Kayıt kontrol işlemleri 08:30–09.30 saatleri arasında yapılacak olup saat 09.30'dan sonra kesinlikle kayıt alınmayacaktır. Kayıt kontr",
    "id": "d8d8e4cca16d",
    "ilk_gorulme": "2026-10-30",
    "son_gorulme": "2026-10-31",
@@ -13877,17 +13877,16 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
    "url": "http://www.zonguldak.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri Türkiye Satranç Federasyonu sporcu dijital lisans yenileme sistemine geçen ilk federasyon oldu. Kıymetli Satranç Camiası, Türkiye Satranç Federasyonu sporcu vize işlemleri dijitalleştirilmiştir . Ülkemizdeki federasyonlar içerisinde tamamıyla dijital lisans yenileme sistemine geçen ilk federasyon da böylece Türkiye Satranç Federasyonu olmuştur. Yeni uygulama kapsamında, sporcu vize yenileme işlemlerinde havale/EFT veya mobil ödeme yoluyla ödeme yapılması ve de",
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri 2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE EŞLENDİRME-SONUÇ 8 YAŞ 10 YAŞ 14 YAŞ AÇIK E-devlet üzerinden ulusal spor projesi başvurusunun yapılması zorunludur. Başvuru Adımları: E-devlet / Spor Bilgi Sistemi / Ulusal Spor Projeleri / Herkes İç",
    "id": "2ddbcb158095",
    "ilk_gorulme": "2026-10-12",
-   "son_gorulme": "2026-10-29",
+   "son_gorulme": "2026-10-31",
    "durum": "suruyor"
   },
   {
@@ -15730,6 +15729,54 @@
    "lastmod": "2026-10-18T17:31:17+00:00",
    "id": "b6ba9f3848a0",
    "ilk_gorulme": "2026-10-18",
+   "son_gorulme": "2026-10-31",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Maltepe Piazza AVM Satranç Turnuvası 7-8 Kasım 2026`da..",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5346-maltepe-piazza-avm-satranc-turnuvasi2026-3",
+   "kaynak": "site",
+   "kaynak_metin": "Maltepe Piazza AVM Satranç Turnuvası 7-8 Kasım 2026`da.. Maltepe Piazza AVM Satranç Turnuvası 7-8 Kasım 2026`da.. Maltepe Piazza AVM tarafından 7-8 Kasım 2026 tarihlerinde 7-14 yaşarası sporcuların katılımına yönelik Satranç Turnuvası düzenlenecektir. Turnuva 8 Yaşaltı, 10 yaşaltı ve 14 Yaşaltı kategorileri olmak üzere 3 kategoride 35 dakika+30 saniye düşünme süresinde 6 tur İsviçre Sistemi ile UKD hesaplamalarına dahil düzenecektir. Turnuva sonunda dereceye girecek sporcular kupa ödülleri ile t",
+   "id": "e88cf8714e27",
+   "ilk_gorulme": "2026-10-31",
+   "son_gorulme": "2026-10-31",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sakarya",
+   "name": "NATO Satranç Şampiyonası’nda 2 Altın 1 Bronz Madalya!",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://sakarya.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "NATO Satranç Şampiyonası’nda 2 Altın 1 Bronz Madalya! Satranç Haberleri Sakarya 10 Kasım Atatürk'ü Anma Günü Satranç Turnuvası Tarih: 07-08 Kasım 2026 Kayıt Tarihleri: 31Ekim - 05 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanı",
+   "id": "4c3d2884a9ba",
+   "ilk_gorulme": "2026-10-31",
    "son_gorulme": "2026-10-31",
    "durum": "yaklasan"
   },
@@ -18023,6 +18070,30 @@
    "id": "72ca09ef0074",
    "ilk_gorulme": "2026-10-19",
    "son_gorulme": "2026-10-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Yalova",
+   "name": "2026 SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://yalova.tsf.org.tr/satranc-haberleri/1179-2026-subasi-belediyesi-5geleneksel-atatuerk-kupasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI 2026 SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI 14-15 KASIM 2026 tarihlerinde SUBAŞI MEHMET TUNALI SOSYAL TESİSLERİNDE üç ayrı kategoride yapılacaktır.Açık kategori,12 Yaş ve Altı kategorisi ve 8 yaş ve altı kategorisi olarak yapılacak turnuvada her kategori için kontejan 64 sporcu ile sınırlıdır.Her kategoride ilk üç dereceye girecek sporculara Kupa ve Madalya 4. ve 5. olacak sporculara Madalya v",
+   "id": "ed4d163d70cc",
+   "ilk_gorulme": "2026-10-31",
+   "son_gorulme": "2026-10-31",
    "durum": "yaklasan"
   },
   {
