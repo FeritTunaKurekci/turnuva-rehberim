@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-30T21:28",
+ "taranma": "2026-10-31T10:08",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 15,
+ "okunan_sayfa": 16,
  "turnuvalar": [
   {
    "c": "US",
@@ -6944,6 +6944,51 @@
    "lastmod": "2026-10-28T12:22:51+00:00"
   },
   {
+   "c": "BE",
+   "ulke": "Belçika",
+   "bayrak": "be",
+   "name": "Wachtebeke Winter 2027 - Round Robin & 55+ Classical Open",
+   "city": "Wachtebeke",
+   "start": "2026-10-24",
+   "end": "2026-10-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total per group",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes / 40 moves + 15 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/wachtebeke-winter-2027-round-robin-55-plus-classical-open/",
+   "src": "https://mychess.events/event/wachtebeke-winter-2027-round-robin-55-plus-classical-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-31T09:38:46+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -13017,6 +13062,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-28T09:44:16+00:00"
+  },
+  {
+   "c": "IE",
+   "ulke": "İrlanda",
+   "bayrak": "ie",
+   "name": "Sligo Chess & Culture Festival 2027 - Weekender Classical Open",
+   "city": "F91 XW7Y",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master — overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Master — women",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Expert — overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Expert — women",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Championship — overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Championship — women",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major — overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major — women",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/sligo-chess-culture-festival-2027-weekender-classical-open/",
+   "src": "https://mychess.events/event/sligo-chess-culture-festival-2027-weekender-classical-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-31T09:49:44+00:00"
   },
   {
    "c": "EN",
@@ -26068,6 +26173,61 @@
    "cr": "https://chess-results.com/tnr1443805.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-07T10:45:21+00:00"
+  },
+  {
+   "c": "SK",
+   "ulke": "Slovakya",
+   "bayrak": "sk",
+   "name": "Bardejovské Kúpele FIDE Open 2027",
+   "city": "Prešov Region",
+   "start": "2027-05-22",
+   "end": "2027-05-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior prize",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior S62 prize",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s prize",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Elo below 1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Elo 1801–2000",
+     "min": 1801,
+     "max": 2000
+    },
+    {
+     "n": "Elo 1000",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/bardejovske-kupele-fide-open-2027/",
+   "src": "https://mychess.events/event/bardejovske-kupele-fide-open-2027/",
+   "cr": "https://s3.chess-results.com/Test/tnr1520154.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-31T10:03:30+00:00"
   },
   {
    "c": "US",
