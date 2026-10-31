@@ -1,5 +1,5 @@
 {
- "taranma": "2026-10-31T16:46",
+ "taranma": "2026-10-31T21:12",
  "surum": "0.4",
  "iller": [
   {
@@ -240,7 +240,7 @@
    "il": "İstanbul",
    "durum": "ok",
    "host": "istanbul.tsf.org.tr",
-   "adet": 14
+   "adet": 15
   },
   {
    "il": "İzmir",
@@ -486,7 +486,7 @@
    "il": "Zonguldak",
    "durum": "ok",
    "host": "zonguldak.tsf.org.tr",
-   "adet": 2
+   "adet": 1
   }
  ],
  "turnuvalar": [
@@ -1622,7 +1622,7 @@
    ],
    "url": "https://cankiri.tsf.org.tr/component/turnuvakayit/?controller=turnuva&task=edit&cid[0]=131",
    "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYDI için tıklayınız. D Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 24 KASIM SATRANÇ TURNUVASI YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI HIZLI SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 29 EKİ"
+   "kaynak_metin": "TURNUVA KAYDI için tıklayınız. D Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 24 KASIM SATRANÇ TURNUVASI YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI HIZLI SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Türkiy"
   },
   {
    "c": "TR",
@@ -1643,7 +1643,7 @@
    ],
    "url": "https://cankiri.tsf.org.tr/component/turnuvakayit/?controller=turnuva&task=edit&cid[0]=132",
    "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYDI için tıklayınız. Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 24 KASIM SATRANÇ TURNUVASI YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI HIZLI SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 29 EKİM "
+   "kaynak_metin": "TURNUVA KAYDI için tıklayınız. Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 24 KASIM SATRANÇ TURNUVASI YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI HIZLI SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Türkiye "
   },
   {
    "c": "TR",
@@ -2675,21 +2675,22 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "İzmir",
-   "name": "DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
+   "il": "İstanbul",
+   "name": "Kağıthane 10 Kasım Turnuvası",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
    "status": "a",
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://izmir.tsf.org.tr/turnuvalar/2623-deniz-civas-anma-hizli-satranc-turnuvasi-yoenergesi",
+   "url": "https://istanbul.tsf.org.tr/turnuva-kayit-sistemi/kagthane-10-kasm-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI Karşıyaka Satranç İhtisas Spor Kulübü & İzmir Satranç İl Temsilciliği katkılarıyla satranç turnuvası düzenlenecektir. \"Deniz Cıvaş Anma Hızlı Satranç Turnuvası\" 31 Ekim 2026 tarihlerinde İzmir İstek Okulları Kampüsü'nde yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuvada"
+   "kaynak_metin": "Kağıthane 10 Kasım Turnuvası Kağıthane 10 Kasım Turnuvası"
   },
   {
    "c": "TR",
@@ -2710,6 +2711,26 @@
    "url": "https://izmir.tsf.org.tr/turnuvalar/2627-kinik-10-kasim-atatuerkue-anma-guenue-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "KINIK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ SATRANÇ TURNUVASI KINIK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ SATRANÇ TURNUVASI Kınık GSİM & İzmir Satranç İl Temsilciliği işbirliği çerçevesinde satranç turnuvası düzenlenecektir. \"Kınık 10 Kasım Atatürk'ü Anma Günü Satranç Turnuvası\" 7 -8 Kasım 2026 tarihlerinde Kınık Gençlik Merkezinde yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 - 2013 yılları ve arasında doğan sporcular katılab"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İzmir",
+   "name": "DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2623-deniz-civas-anma-hizli-satranc-turnuvasi-yoenergesi",
+   "kaynak": "site",
+   "kaynak_metin": "DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI DENİZ CIVAŞ ANMA HIZLI SATRANÇ TURNUVASI Karşıyaka Satranç İhtisas Spor Kulübü & İzmir Satranç İl Temsilciliği katkılarıyla satranç turnuvası düzenlenecektir. \"Deniz Cıvaş Anma Hızlı Satranç Turnuvası\" 31 Ekim 2026 tarihlerinde İzmir İstek Okulları Kampüsü'nde yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. Turnuvada"
   },
   {
    "c": "TR",
@@ -4631,26 +4652,6 @@
    "url": "https://zonguldak.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "ZONGULDAK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ HIZLI SATRANÇ TURNUVASI 07 KASIM 2026 7 Kasım 2026 tarihinde İbrahim Fikri Anıl Ortaokulunda 15'+10\" Eklemeli Tempoyla 10 Kasım Atatürk'ü Anma Günü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Zonguldak",
-   "name": "Turnuva Haberleri",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "http://www.zonguldak.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri 2026-2027 ZONGULDAK 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 31 Ekim-01 Kasım 2026 tarihlerinde Zonguldak Fener Spor Kompleksinde 35'+30\" Eklemeli Tempoyla Zonguldak 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE EŞLENDİRME-SONUÇ 8 YAŞ 10 YAŞ 14 YAŞ AÇIK E-devlet üzerinden ulusal spor projesi başvurusunun yapılması zorunludur. Başvuru Adımları: E-devlet / Spor Bilgi Sistemi / Ulusal Spor Projeleri / Herkes İç"
   }
  ]
 }
