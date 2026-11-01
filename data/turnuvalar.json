@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-01T10:55",
+ "guncelleme": "2026-11-01T17:49",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-01T10:54",
+   "tarama": "2026-11-01T17:48",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-01T10:55",
+   "tarama": "2026-11-01T17:49",
    "kaynak": "https://mychess.events"
   }
  },
@@ -14198,6 +14198,35 @@
    "c": "AE",
    "ulke": "BAE",
    "bayrak": "ae",
+   "name": "DCCC December Blitz Tournament 2026 - Dubai",
+   "city": "Dubai",
+   "start": "2026-11-01",
+   "end": "2026-11-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 12, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/dccc-december-blitz-tournament-2026-dubai/",
+   "src": "https://mychess.events/event/dccc-december-blitz-tournament-2026-dubai/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-01T14:07:47+00:00",
+   "id": "081949235b55",
+   "ilk_gorulme": "2026-11-01",
+   "son_gorulme": "2026-11-01",
+   "durum": "suruyor"
+  },
+  {
+   "c": "AE",
+   "ulke": "BAE",
+   "bayrak": "ae",
    "name": "FIDE World Junior U20 Rapid & Blitz Championships 2026",
    "city": "Al Ain",
    "start": "2026-11-01",
@@ -15811,7 +15840,7 @@
    "kaynak_metin": "NATO Satranç Şampiyonası’nda 2 Altın 1 Bronz Madalya! Satranç Haberleri Sakarya 10 Kasım Atatürk'ü Anma Günü Satranç Turnuvası Tarih: 07-08 Kasım 2026 Kayıt Tarihleri: 31Ekim - 05 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanı",
    "id": "4c3d2884a9ba",
    "ilk_gorulme": "2026-10-31",
-   "son_gorulme": "2026-10-31",
+   "son_gorulme": "2026-11-01",
    "durum": "yaklasan"
   },
   {
@@ -16810,6 +16839,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Sivas",
+   "name": "2026 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sivas.tsf.org.tr/gecmis/681-2026-10-kasim-atatuerkue-anma-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 2026 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 14-15 Kasım 2026 tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 4 Eylül Vadisi Taha Akgül Antreman Spor Salonu yapılacaktır. Her kategori 48 sporcu ile sınırlıdır. Hatalı kayıt yapan sporcuların kayıtları silinecektir. Tüm sorumluluk sporculara aittir. Sivas Satranç whatsapp Duyuru Grubuna kayıt linki: https://chat.whatsapp.com/IgtxhDb9h1v0WEDTT4MCmC YÖNERGE (Turnuva Başlama Saati:09:00-09:30 De",
+   "id": "aa27d72d5d7c",
+   "ilk_gorulme": "2026-11-01",
+   "son_gorulme": "2026-11-01",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Uşak",
    "name": "2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI",
    "start": "2026-11-10",
@@ -17263,7 +17317,7 @@
    ],
    "url": "https://sakarya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Sakarya 10 Kasım Atatürk'ü Anma Günü Satranç Turnuvası Tarih: 07-08 Kasım 2026 Kayıt Tarihleri: 31Ekim - 05 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanız gerekmektedir. YÖNERGE TURNUVA KAYIT KAYIT İPTAL ",
+   "kaynak_metin": "Sakarya 10 Kasım Atatürk'ü Anma Günü Satranç Turnuvası Tarih: 07-08 Kasım 2026 Kayıt Tarihleri: 31Ekim - 05 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanız gerekmektedir. YÖNERGE TURNUVA KAYIT KAYIT İPTAL FOTOĞRAFLAR ",
    "id": "a113429204e5",
    "ilk_gorulme": "2026-10-31",
    "son_gorulme": "2026-11-01",
@@ -18047,6 +18101,31 @@
    "lastmod": "2026-09-18T17:56:40+00:00",
    "id": "3bdbedf672de",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-01",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sivas",
+   "name": "14-15 Kasım 2026 tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 4 Eylül Vadisi Taha Akgül Antreman Spor Salonu yapılacaktır. Her kategori 48 sporcu ile ",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sivas.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "14-15 Kasım 2026 tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 4 Eylül Vadisi Taha Akgül Antreman Spor Salonu yapılacaktır. Her kategori 48 sporcu ile sınırlıdır. Hatalı kayıt yapan sporcuların kayıtları silinecektir. Tüm sorumluluk sporculara aittir. Sivas Satranç whatsapp Duyuru Grubuna kayıt linki: https://chat.whatsapp.com/IgtxhDb9h1v0WEDTT4MCmC YÖNERGE (Turnuva Başlama Saati:09:00-09:30 Detay yönergenin son sayfasında bulunmaktadır.) KAYIT İÇİN TIKLAYIN… KAYIT İPTAL İÇİN TIKLAYINIZ",
+   "id": "e91d616f7260",
+   "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-01",
    "durum": "yaklasan"
   },
@@ -23115,6 +23194,50 @@
    "durum": "yaklasan"
   },
   {
+   "c": "AE",
+   "ulke": "BAE",
+   "bayrak": "ae",
+   "name": "FIDE World Junior U20 Rapid & Blitz Championships 2026 Overview",
+   "city": "Al Ain",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE World Junior Rapid Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE World Junior Girls Rapid Championsh",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE World Junior Blitz Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE World Junior Girls Blitz Championsh",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 10 seconds increment per move",
+   "url": "https://mychess.events/event/fide-world-junior-u20-rapid-blitz-championships-2026/",
+   "src": "https://mychess.events/event/fide-world-junior-u20-rapid-blitz-championships-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-01T14:45:54+00:00",
+   "id": "d1cc2347c170",
+   "ilk_gorulme": "2026-11-01",
+   "son_gorulme": "2026-11-01",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -26118,6 +26241,45 @@
    "lastmod": "2026-07-07T12:20:07+00:00",
    "id": "be3ad6d3c426",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-11-01",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "3rd International Chess Pong Tournament 2026 - Blitz & Table Tennis",
+   "city": "Trieste",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Chess Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Table Tennis",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Combined Chess Pong",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/3rd-international-chess-pong-tournament-2026/",
+   "src": "https://mychess.events/event/3rd-international-chess-pong-tournament-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-01T14:12:55+00:00",
+   "id": "b3be444857c2",
+   "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-01",
    "durum": "yaklasan"
   },
