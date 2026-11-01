@@ -1,7 +1,7 @@
 {
- "taranma": "2026-10-31T21:13",
+ "taranma": "2026-11-01T10:55",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 16,
+ "okunan_sayfa": 14,
  "turnuvalar": [
   {
    "c": "US",
@@ -17868,6 +17868,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-28T12:47:43+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "12th International Chess Festival \"Usciamo dallo Stallo\" 2027 – Groups A, B & C",
+   "city": "Falconara Marittima (AN)",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City & Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sections",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time Control",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "A/B: 90 min + 30 sec/move; C: 30 min + 30 sec/move",
+   "url": "https://mychess.events/event/12th-international-chess-festival-usciamo-dallo-stallo-2027/",
+   "src": "https://mychess.events/event/12th-international-chess-festival-usciamo-dallo-stallo-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-01T10:28:47+00:00"
   },
   {
    "c": "US",
