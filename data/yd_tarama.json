@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-01T21:54",
+ "taranma": "2026-11-02T11:22",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 16,
+ "okunan_sayfa": 30,
  "turnuvalar": [
   {
    "c": "US",
@@ -16164,6 +16164,56 @@
    "lastmod": "2026-10-31T20:13:20+00:00"
   },
   {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Burwood ACF Classical Tournament (January #1) 2027",
+   "city": "Burwood NSW 2134",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Thursday, January 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, January 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, January 7",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, January 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, January 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, January 8",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/burwood-acf-classical-tournament-january-1-2027/",
+   "src": "https://mychess.events/event/burwood-acf-classical-tournament-january-1-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T07:35:24+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -17448,6 +17498,46 @@
    "lastmod": "2026-10-30T10:16:19+00:00"
   },
   {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2026 Australian Schools Teams Chess Championships - National Finals",
+   "city": "Pearce ACT 2607",
+   "start": "2026-12-12",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Primary Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Primary Girls",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Secondary Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Secondary Girls",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
+   "src": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T10:39:56+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -17551,6 +17641,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-08-22T11:44:14+00:00"
+  },
+  {
+   "c": "ZA",
+   "ulke": "Güney Afrika",
+   "bayrak": "za",
+   "name": "Bellville Chess Club Rapid Open 2027",
+   "city": "Western Cape 7550",
+   "start": "2026-12-13",
+   "end": "2026-12-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "9:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "9:00 AM–4:30 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4:30 PM",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/bellville-chess-club-rapid-open-2027/",
+   "src": "https://mychess.events/event/bellville-chess-club-rapid-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T06:16:22+00:00"
   },
   {
    "c": "HU",
@@ -20662,6 +20787,66 @@
    "lastmod": "2026-10-31T15:22:33+00:00"
   },
   {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2027 Australian Junior Chess Championships - Classical, Blitz & Problem Solving",
+   "city": "Sandy Bay TAS 7005",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U18 and U16 Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U14 and U12 Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U18 and U16 Girls",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U14 and U12 Girls",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U10 and U8 Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U10 and U8 Girls",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz Championships",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Problem Solving",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90+30, 60+30 or 60+10 depending on age group",
+   "url": "https://mychess.events/event/2027-australian-junior-chess-championships/",
+   "src": "https://mychess.events/event/2027-australian-junior-chess-championships/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T09:45:03+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -20755,6 +20940,86 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-08-21T09:54:27+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2027 Southern Suburbs Open - FIDE & ACF Classical",
+   "city": "Bull Creek WA 6149",
+   "start": "2026-12-28",
+   "end": "2026-12-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Classical",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE-Rated Play",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "ACF-Rated Play",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Experienced Juniors",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Other Club Formats",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "75 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/2027-southern-suburbs-open-fide-acf-classical/",
+   "src": "https://mychess.events/event/2027-southern-suburbs-open-fide-acf-classical/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T10:25:09+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2027 Australian Open Chess Championships – Classical & Blitz",
+   "city": "Darwin NT 0800",
+   "start": "2026-12-28",
+   "end": "2026-12-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Australian Open Classical",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Australian Open Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s, Seniors and Rating Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T07:14:10+00:00"
   },
   {
    "c": "EN",
@@ -21297,6 +21562,61 @@
    "lastmod": "2026-09-07T09:40:52+00:00"
   },
   {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Altona Rapid Open 2027",
+   "city": "Altona VIC 3018",
+   "start": "2027-01-07",
+   "end": "2027-01-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Four Rating Group Winners",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Best Female",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Best Girl U18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total Cash Fund",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "10 minutes plus two seconds per move",
+   "url": "https://mychess.events/event/altona-rapid-open-2027/",
+   "src": "https://mychess.events/event/altona-rapid-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T08:18:15+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -21740,6 +22060,66 @@
    "cr": "https://chess-results.com/tnr1473655.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-07T07:06:27+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2026 Australasian Masters - IM Norm Round Robin",
+   "city": "Fitzroy VIC 3065",
+   "start": "2027-01-12",
+   "end": "2027-01-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Alphaeus Wei Ern Ang",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Jairo Andres Hernandez Sanchez",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tedric Li",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Khishigbaatar Bayasgalan",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Alexej Khamatgaleev",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rheyansh Reddy Annapureddy",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Kai Jie Soo",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Christopher Wallis",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/2026-australasian-masters-im-norm-round-robin/",
+   "src": "https://mychess.events/event/2026-australasian-masters-im-norm-round-robin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T10:08:15+00:00"
   },
   {
    "c": "CH",
@@ -22662,6 +23042,56 @@
    "lastmod": "2026-10-16T05:55:09+00:00"
   },
   {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Lidums Australian Allegro Chess Championship 2026",
+   "city": "Glenelg SA 5045",
+   "start": "2027-01-23",
+   "end": "2027-01-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Field",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "GM / WGM / IM / WIM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FM / WFM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Unrated Players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior Players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Female Players",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/lidums-australian-allegro-chess-championship-2026/",
+   "src": "https://mychess.events/event/lidums-australian-allegro-chess-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T09:52:25+00:00"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -22695,6 +23125,91 @@
    "cr": "https://s1.chess-results.com/tnr1511227.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T11:33:34+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2026 Canterbury Summer Swiss - FIDE & ACF Classical",
+   "city": "Notting Hill VIC 3168",
+   "start": "2027-01-27",
+   "end": "2027-01-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Group Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Unrated Award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Titleholder Entry",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "75 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/2026-canterbury-summer-swiss-fide-acf-classical/",
+   "src": "https://mychess.events/event/2026-canterbury-summer-swiss-fide-acf-classical/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T09:15:59+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "December Classical 2026 - Adelaide FIDE & ACF Rated Open",
+   "city": "Adelaide SA 5000",
+   "start": "2027-01-27",
+   "end": "2027-01-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "75 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/december-classical-2026-adelaide/",
+   "src": "https://mychess.events/event/december-classical-2026-adelaide/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T06:54:36+00:00"
   },
   {
    "c": "CH",
@@ -23587,6 +24102,51 @@
    "lastmod": "2026-10-15T05:28:05+00:00"
   },
   {
+   "c": "ZA",
+   "ulke": "Güney Afrika",
+   "bayrak": "za",
+   "name": "2026 Gauteng Inter-Region Chess Championships",
+   "city": "Pretoria",
+   "start": "2027-02-13",
+   "end": "2027-02-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U8, U10, U12, U14, U16, U18, U20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "LSEN",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Ladies",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Adults",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Seniors aged 50+",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes per player + 30 seconds per move (youth team competition)",
+   "url": "https://mychess.events/event/2026-gauteng-inter-region-chess-championships/",
+   "src": "https://mychess.events/event/2026-gauteng-inter-region-chess-championships/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T05:31:20+00:00"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -23670,6 +24230,96 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T05:37:12+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2026 Christmas Special - FIDE & ACF Classical",
+   "city": "Rothwell QLD 4022",
+   "start": "2027-02-16",
+   "end": "2027-03-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Overall Placings",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1600 ACF",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Unrated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Titled Entrants",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/2026-christmas-special-fide-acf-classical/",
+   "src": "https://mychess.events/event/2026-christmas-special-fide-acf-classical/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T09:10:34+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Burwood ACF Classical Tournament (January #2) 2027",
+   "city": "Burwood NSW 2134",
+   "start": "2027-02-16",
+   "end": "2027-03-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Wednesday, January 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, January 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, January 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, January 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, January 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, January 28",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/burwood-acf-classical-tournament-january-2-2027/",
+   "src": "https://mychess.events/event/burwood-acf-classical-tournament-january-2-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T07:43:57+00:00"
   },
   {
    "c": "FR",
