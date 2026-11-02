@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-02T11:22",
+ "taranma": "2026-11-02T21:27",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 30,
+ "okunan_sayfa": 29,
  "turnuvalar": [
   {
    "c": "US",
@@ -10360,6 +10360,101 @@
    "lastmod": "2026-08-22T12:13:48+00:00"
   },
   {
+   "c": "NO",
+   "ulke": "Norveç",
+   "bayrak": "no",
+   "name": "Power Solutions Arctic Chess NGP 2027 - Groups A, B & C",
+   "city": "Alta",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City & Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Groups",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/power-solutions-arctic-chess-ngp-2027/",
+   "src": "https://mychess.events/event/power-solutions-arctic-chess-ngp-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T18:36:11+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "S.V.A. Carnival Chess Trophy 2027 - Open A, B & C",
+   "city": "Guidonia Montecelio (RM)",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1700,
+     "max": 2000
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/sva-carnival-chess-trophy-2027-open-a-b-c/",
+   "src": "https://mychess.events/event/sva-carnival-chess-trophy-2027-open-a-b-c/",
+   "cr": "https://s2.chess-results.com/tnr1530381.aspx?SNode=S0&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T14:09:10+00:00"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -14817,6 +14912,66 @@
    "lastmod": "2026-10-30T06:07:50+00:00"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "7th International Chess Tournament Parma, Città della Cultura 2027 - Open A, B & C",
+   "city": "Parma",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sun, Jan 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sun, Jan 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, Jan 4",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, Jan 4",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tue, Jan 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tue, Jan 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wed, Jan 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wed, Jan 6",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment per move, starting with move one",
+   "url": "https://mychess.events/event/7th-international-chess-tournament-parma-citta-della-cultura-2027/",
+   "src": "https://mychess.events/event/7th-international-chess-tournament-parma-citta-della-cultura-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T12:24:32+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -17538,6 +17693,126 @@
    "lastmod": "2026-11-02T10:39:56+00:00"
   },
   {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Waling Dijkstra Weekend Tournament 2027 - 42nd Edition",
+   "city": "Friesland",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Overall Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Participants",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Overall Prizes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Other Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/waling-dijkstra-weekend-tournament-2027/",
+   "src": "https://mychess.events/event/waling-dijkstra-weekend-tournament-2027/",
+   "cr": "https://s2.chess-results.com/tnr1512601.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T17:31:53+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "48th Kidlington Chess Tournament 2027 - Open, U2000, U1800 & U1600",
+   "city": "Oxfordshire OX5 1AB",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 15 seconds per move",
+   "url": "https://mychess.events/event/48th-kidlington-chess-tournament-2027/",
+   "src": "https://mychess.events/event/48th-kidlington-chess-tournament-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T17:15:39+00:00"
+  },
+  {
+   "c": "PL",
+   "ulke": "Polonya",
+   "bayrak": "pl",
+   "name": "XV International Chess Festival Gwiazda Północy 2027 - Open",
+   "city": "84-104 Jastrzębia Góra",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open (Group A)",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group C",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move (Open)",
+   "url": "https://mychess.events/event/xv-international-chess-festival-gwiazda-polnocy-2027-open/",
+   "src": "https://mychess.events/event/xv-international-chess-festival-gwiazda-polnocy-2027-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T17:06:32+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -18268,6 +18543,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-01T10:28:47+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "V Torneo dell’Epifania 2027 - Open A, B, C & Blitz",
+   "city": "Battipaglia (SA)",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1550,
+     "max": 1900
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical: 90 min + 30 sec/move; Blitz: 5 min + 3 sec/move",
+   "url": "https://mychess.events/event/v-torneo-dell-epifania-2027-open-a-b-c-blitz/",
+   "src": "https://mychess.events/event/v-torneo-dell-epifania-2027-open-a-b-c-blitz/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T13:39:21+00:00"
   },
   {
    "c": "US",
@@ -20352,6 +20667,66 @@
    "lastmod": "2026-03-17T16:42:58+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "18th Rouen International Chess Open 2026 - Open A & Open B U1700",
+   "city": "Venue",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sat, Dec 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Dec 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Dec 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sun, Dec 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sun, Dec 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, Dec 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, Dec 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tue, Dec 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/18th-rouen-international-chess-open-2026-open-a-open-b-u1700/",
+   "src": "https://mychess.events/event/18th-rouen-international-chess-open-2026-open-a-open-b-u1700/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T12:58:31+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -21020,6 +21395,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T07:14:10+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Special 50th Blackpool Weekday Chess Events 2027 - Open & U1800",
+   "city": "Lancashire FY1 2HB",
+   "start": "2026-12-28",
+   "end": "2027-01-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Imperial Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Imperial U1800",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/special-50th-blackpool-weekday-chess-events-2027/",
+   "src": "https://mychess.events/event/special-50th-blackpool-weekday-chess-events-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T18:05:47+00:00"
   },
   {
    "c": "EN",
@@ -21870,6 +22275,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-16T08:32:53+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Heywood Chess Congress 2027",
+   "city": "OL10 1LW",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1649
+    },
+    {
+     "n": "Novice",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": "100 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/heywood-chess-congress-2027/",
+   "src": "https://mychess.events/event/heywood-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T17:44:38+00:00"
   },
   {
    "c": "MC",
@@ -23907,51 +24357,6 @@
    "lastmod": "2026-09-30T04:27:02+00:00"
   },
   {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "50th Blackpool Chess Congress Celebration 2027",
-   "city": "FY1 2HB",
-   "start": "2027-02-12",
-   "end": "2027-02-14",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Lancashire Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Imperial Major",
-     "min": null,
-     "max": 2049
-    },
-    {
-     "n": "Intermediate",
-     "min": null,
-     "max": 1849
-    },
-    {
-     "n": "Minor",
-     "min": null,
-     "max": 1699
-    },
-    {
-     "n": "Standard",
-     "min": null,
-     "max": 1549
-    }
-   ],
-   "prize": "≈ $13,210",
-   "tc": "110 min + 10 sec/move",
-   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
-   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-13T10:17:01+00:00"
-  },
-  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -24804,6 +25209,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-28T10:49:58+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "45th International Chess Open of Clermont-Ferrand 2027",
+   "city": "Clermont-Ferrand",
+   "start": "2027-02-27",
+   "end": "2027-03-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Overall Standings",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Categories",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior Awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Veteran Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/45th-international-chess-open-clermont-ferrand-2027/",
+   "src": "https://mychess.events/event/45th-international-chess-open-clermont-ferrand-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T18:21:17+00:00"
   },
   {
    "c": "DE",
@@ -25893,6 +26348,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-13T10:38:17+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "50th Blackpool Chess Congress Celebration 2027",
+   "city": "FY1 2HB",
+   "start": "2027-03-27",
+   "end": "2027-03-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Lancashire Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Imperial Major",
+     "min": null,
+     "max": 2049
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Standard",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "110 min + 10 sec/move",
+   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T18:05:35+00:00"
   },
   {
    "c": "US",
@@ -27859,51 +28359,6 @@
    "lastmod": "2026-10-16T06:09:57+00:00"
   },
   {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "Heywood Chess Congress 2027",
-   "city": "OL10 1LW",
-   "start": "2027-06-05",
-   "end": "2027-06-06",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Major",
-     "min": null,
-     "max": 1999
-    },
-    {
-     "n": "Intermediate",
-     "min": null,
-     "max": 1849
-    },
-    {
-     "n": "Minor",
-     "min": null,
-     "max": 1649
-    },
-    {
-     "n": "Novice",
-     "min": null,
-     "max": 1499
-    }
-   ],
-   "prize": null,
-   "tc": "100 minutes + 10 seconds per move",
-   "url": "https://mychess.events/event/heywood-chess-congress-2027/",
-   "src": "https://mychess.events/event/heywood-chess-congress-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-23T13:48:20+00:00"
-  },
-  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -28326,6 +28781,66 @@
    "cr": "https://s3.chess-results.com/tnr1502723.aspx?SNode=S0&lan=24",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T09:15:34+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "43rd Open Untergrombach 2027 - A-Open & B-Open",
+   "city": "Bruchsal-Untergrombach",
+   "start": "2027-06-18",
+   "end": "2027-06-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sat, Jan 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Jan 2",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sun, Jan 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sun, Jan 3",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, Jan 4",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tue, Jan 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tue, Jan 5",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wed, Jan 6",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes for the remainder; 30-second increment from move one",
+   "url": "https://mychess.events/event/43rd-open-untergrombach-2027/",
+   "src": "https://mychess.events/event/43rd-open-untergrombach-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T11:49:34+00:00"
   },
   {
    "c": "US",

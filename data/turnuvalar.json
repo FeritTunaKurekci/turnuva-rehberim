@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-02T11:22",
+ "guncelleme": "2026-11-02T21:27",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-02T11:21",
+   "tarama": "2026-11-02T21:26",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-02T11:22",
+   "tarama": "2026-11-02T21:27",
    "kaynak": "https://mychess.events"
   }
  },
@@ -15491,6 +15491,40 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Kars",
+   "name": "2026 TÜRKİYE KUPASI KARS İL BİRİNCİLİĞİ",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1200,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 1199
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kars.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "2026 TÜRKİYE KUPASI KARS İL BİRİNCİLİĞİ Satranç Haberleri KARS 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Turnuvaya katılacak olan tüm sporcuların Whatsapp grubuna dahil olmaları gerekmektedir. Bağlantı adresi; https://chat.whatsapp.com/DjpzeRqblG1JDHjPIU0Ice İlimizde yapılan tüm etkinliklerden haberdar olmak için Kars TSF İl Temsilciliği sosyal medya hesabını takip ediniz. Bağlantı adresi https://instagram.com/tsfkars?igshid=NmQ5Y2ExZGE1MQ== Turnuva Tarihi 07-08 KASIM 2026 Cumartesi - Pazar Turn",
+   "id": "e8b9aa8c3a5d",
+   "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Çorum",
    "name": "2026-2027 ÇORUM GENÇLER İL BİRİNCİLİĞİ",
    "start": "2026-11-07",
@@ -17153,6 +17187,41 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Bursa",
+   "name": "Bursa 10 Kasım Atatürk'ü Anma Günü ELO Satranç Turnuvası",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1400,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "C Kategorisi",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "url": "https://bursa.tsf.org.tr/turnuvaduyurulari/1967-bursa-10-kasm-atatuerkue-anma-guenue-elo-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Bursa 10 Kasım Atatürk'ü Anma Günü ELO Satranç Turnuvası Bursa 10 Kasım Atatürk'ü Anma Günü ELO Satranç Turnuvası Turnuva Bursa 10 Kasım Atatürk'ü Anma Günü ELO Satranç Turnuvası Organizasyon BURSA GSİM & BURSA SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 07 Kasım 2026 Cumartesi - 08 Kasım 2026 Pazar Turnuva Yeri Nilüfer Belediyesi Balat Satranç Evi Kategoriler A Kategorisi ( Herhangi bir ELO puanına sahip sporcular ile ELO puanı olmayan 1400 ve üzeri UKD puanına sahip sporcular ) B Kategorisi ( ELO p",
+   "id": "247f239fcf91",
+   "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Denizli",
    "name": "DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI",
    "start": "2026-11-10",
@@ -17362,6 +17431,40 @@
    "kaynak_metin": "Isparta 10 Kasım Atatürk'ü Anma Satranç Turnuvası 2026 Isparta 10 Kasım Atatürk'ü Anma Satranç Turnuvası 2026 Eşlendirme ve Sonuç Canlı Yayın Isparta 10 Kasım Atatürk'ü Anma Satranç Turnuvası 7-8 Kasım 2026 tarihlerinde Isparta Gençlik Merkezi Satranç Salonu'nda düzenlenecektir. Turnuva Yönergesi Turnuva Kayıt",
    "id": "2988014cbc87",
    "ilk_gorulme": "2026-11-01",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kars",
+   "name": "KARS 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1200,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 1199
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kars.tsf.org.tr/satranc-haberleri/356-kars-10-kasim-atatuerkue-anma-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "KARS 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI KARS 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Turnuvaya katılacak olan tüm sporcuların Whatsapp grubuna dahil olmaları gerekmektedir. Bağlantı adresi; https://chat.whatsapp.com/DjpzeRqblG1JDHjPIU0Ice İlimizde yapılan tüm etkinliklerden haberdar olmak için Kars TSF İl Temsilciliği sosyal medya hesabını takip ediniz. Bağlantı adresi https://instagram.com/tsfkars?igshid=NmQ5Y2ExZGE1MQ== Turnuva Tarihi 07-08 KASIM 2026 Cumartesi - Pazar Turnuva Yeri İS",
+   "id": "28ad33827acc",
+   "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-02",
    "durum": "yaklasan"
   },
@@ -17676,6 +17779,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ankara",
+   "name": "UKD - Açık Kategori",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://ankara.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1271",
+   "kaynak": "site",
+   "kaynak_metin": "UKD - Açık Kategori Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz İlçe Temsilcileri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Hakemler FIDE Arbiters' Commission Merkez Hakem Kurulu MHK Ana Sayfa Hakem Kurs Takvimi Hakem Kursları Genel Bilgilendirme Norm Listesi Belgeler FIDE Arbiters' Manual Türkiye Satranç Federasyonu Hakem Talimatı FIDE Satranç Kuralları FIDE Satranç Kuralları Değişiklik Tablosu FIDE İsviçre Siste",
+   "id": "c068d312be06",
+   "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IN",
    "ulke": "Hindistan",
    "bayrak": "in",
@@ -17740,6 +17868,30 @@
    "kaynak_metin": "YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI TSF MUĞLA / 2026–2027 SEZONU YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI AFİŞİ BÜYÜTMEK İÇİN TIKLAYINIZ TURNUVA DETAYLARI TARİH 7–8 KASIM 2026 YARIŞMA SALONU Yatağan Millet Bahçesi Salonu İL / İLÇE Muğla / Yatağan KATEGORİLER 10 Yaş ve Altı, Açık Kategori TEMPO 35 Dakika + 30 Saniye SİSTEM 6 Tur / Bireysel İsviçre RATING UKD hesaplamalarına dahil ÖDÜLLER Her kategoride ilk 3 sporcuya kupa, 4–6. sıradaki sporculara madalya SON BAŞVURU 5 Kasım 2026",
    "id": "36587f90af65",
    "ilk_gorulme": "2026-10-26",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kırıkkale",
+   "name": "turnuva kayıt sayfası",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kirikkale.tsf.org.tr/turnuva-kayit-form",
+   "kaynak": "site",
+   "kaynak_metin": "turnuva kayıt sayfası Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Hasandede Turnuası Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı deneme İletişim YARARLI LİNKLER eğitim bilişim ağı kırıkkale ghsim satranç okulu analiz satranç Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7 YAŞ KATEGORİSİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 8 ",
+   "id": "c5ddfe636114",
+   "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-02",
    "durum": "yaklasan"
   },
@@ -19102,6 +19254,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Elazığ",
+   "name": "ATATÜRK'Ü ANMA YILDIRIM SATRANÇ TURNUVASI",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://elazig.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "ATATÜRK'Ü ANMA YILDIRIM SATRANÇ TURNUVASI Satranç Haberleri 1. Kademe Yardımcı Antrenör Uygulama Eğitimi Kursu 16-20 Kasım 2026 tarihleri arasında Elazığ Atatürk Stadyumu Konferans Salonunda 1. Kademe Yardımcı Antrenör Uygulama Eğitimi Kursu planlanmıştır. Spor Hizmetleri Genel Müdürlüğü Antrenör Eğitimi Yönetmeliği gereğince bu kurslara sadece, T.C. Gençlik ve Spor Bakanlığının açmış olduğu 1. Kademe Temel Eğitim sınavına katılarak başarılı olanlar, Spor Bilimleri Fakültesi ve Beden Eğitimi ve ",
+   "id": "178ae525765e",
+   "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "İstanbul",
    "name": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası..",
    "start": "2026-11-16",
@@ -20104,6 +20280,40 @@
    "lastmod": "2026-09-22T21:18:40+00:00",
    "id": "56831fcbe9de",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Antalya",
+   "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1400,
+     "max": null
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1314-2026ant24kasm",
+   "kaynak": "site",
+   "kaynak_metin": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği tarafından, 21-22 Kasım 2026 tarihinde, Antalya Kapalı Spor Salonunda Antalya Öğretmenler Günü Satranç Turnuvası düzenlenecektir. Müsabaka 35'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER TSF YARIŞMA YÖNERGELERİ HAZIRLAMA VE",
+   "id": "f980701b93fe",
+   "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-02",
    "durum": "yaklasan"
   },
@@ -26242,6 +26452,40 @@
    "durum": "yaklasan"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Special 50th Blackpool Weekday Chess Events 2027 - Open & U1800",
+   "city": "Lancashire FY1 2HB",
+   "start": "2026-12-28",
+   "end": "2027-01-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Imperial Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Imperial U1800",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/special-50th-blackpool-weekday-chess-events-2027/",
+   "src": "https://mychess.events/event/special-50th-blackpool-weekday-chess-events-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T18:05:47+00:00",
+   "id": "17b0677b687a",
+   "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -28939,55 +29183,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "50th Blackpool Chess Congress Celebration 2027",
-   "city": "FY1 2HB",
-   "start": "2027-02-12",
-   "end": "2027-02-14",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Lancashire Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Imperial Major",
-     "min": null,
-     "max": 2049
-    },
-    {
-     "n": "Intermediate",
-     "min": null,
-     "max": 1849
-    },
-    {
-     "n": "Minor",
-     "min": null,
-     "max": 1699
-    },
-    {
-     "n": "Standard",
-     "min": null,
-     "max": 1549
-    }
-   ],
-   "prize": "≈ $13,210",
-   "tc": "110 min + 10 sec/move",
-   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
-   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-13T10:17:01+00:00",
-   "id": "b00215d51016",
-   "ilk_gorulme": "2026-10-13",
-   "son_gorulme": "2026-11-02",
-   "durum": "yaklasan"
-  },
-  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -29294,7 +29489,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ KÜÇÜKLER SATRANÇ TURNUVASI İlimizde 15-16 Şubat 2027 Tarihlerinde 2026-2027 Öğretim Yılı Okullararası Mahalli Küçükler Satranç Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "kaynak_metin": "2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ KÜÇÜKLER SATRANÇ TURNUVASI İlimizde 15-16 Şubat 2027 Tarihlerinde 2026-2027 Öğretim Yılı Okullararası Mahalli Küçükler Satranç Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi Turnuva Kayıt Uygulama Esasları ",
    "id": "d1c5ac1a407b",
    "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-02",
@@ -29525,7 +29720,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ GENÇLER SATRANÇ TURNUVASI İlimizde 22-23 Şubat 2027 Tarihlerinde Pamukkale Satranç Salonu'nda 2026-2027 Öğretim Yılı Okulsporları Mahalli Gençler Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "kaynak_metin": "2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ GENÇLER SATRANÇ TURNUVASI İlimizde 22-23 Şubat 2027 Tarihlerinde Pamukkale Satranç Salonu'nda 2026-2027 Öğretim Yılı Okulsporları Mahalli Gençler Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Turnuva Kayıt Uygulama Esasları ",
    "id": "8ff23b01ecb0",
    "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-02",
@@ -31214,7 +31409,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ MİNİKLER B SATRANÇ TURNUVASI İlimizde 22-23 Mart 2027 Tarihlerinde Pamukkale Satranç Salonu'nda 2026-2027 Öğretim Yılı Okullararası Mahalli Minikler B Satranç Turnuvası Yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "kaynak_metin": "2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ MİNİKLER B SATRANÇ TURNUVASI İlimizde 22-23 Mart 2027 Tarihlerinde Pamukkale Satranç Salonu'nda 2026-2027 Öğretim Yılı Okullararası Mahalli Minikler B Satranç Turnuvası Yapılacaktır. Turnuva Yönergesi Turnuva Kayıt Uygulama Esasları ",
    "id": "9f916a4c510c",
    "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-02",
@@ -31396,6 +31591,56 @@
    "kayit_kapali": false,
    "lastmod": "2026-10-13T10:38:17+00:00",
    "id": "bfa0a444cc50",
+   "ilk_gorulme": "2026-10-13",
+   "son_gorulme": "2026-11-02",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "50th Blackpool Chess Congress Celebration 2027",
+   "city": "FY1 2HB",
+   "start": "2027-03-27",
+   "end": "2027-03-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Lancashire Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Imperial Major",
+     "min": null,
+     "max": 2049
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Standard",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "110 min + 10 sec/move",
+   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-02T18:05:35+00:00",
+   "id": "ec0be622aeb2",
+   "tarih_degisti": "2027-02-12 → 2027-03-27",
    "ilk_gorulme": "2026-10-13",
    "son_gorulme": "2026-11-02",
    "durum": "yaklasan"
