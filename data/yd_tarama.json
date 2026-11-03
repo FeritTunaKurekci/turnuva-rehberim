@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-03T11:18",
+ "taranma": "2026-11-03T19:03",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 18,
+ "okunan_sayfa": 17,
  "turnuvalar": [
   {
    "c": "US",
@@ -8112,36 +8112,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-08-16T08:59:36+00:00"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "Australian Open Chess Championships 2027 | Darwin",
-   "city": "Darwin NT 0800",
-   "start": "2026-10-30",
-   "end": "2026-11-03",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Australian Open Classical",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Australian Open Blitz",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
-   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-03T10:17:29+00:00"
   },
   {
    "c": "FR",
@@ -20785,6 +20755,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T12:58:31+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Australian Open Chess Championships 2027 | Darwin",
+   "city": "Darwin NT 0800",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Australian Open Classical",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Australian Open Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-03T11:25:07+00:00"
   },
   {
    "c": "DE",
