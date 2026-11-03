@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-02T21:26",
+ "taranma": "2026-11-03T11:17",
  "surum": "0.4",
  "iller": [
   {
@@ -312,7 +312,7 @@
    "il": "Kocaeli",
    "durum": "ok",
    "host": "kocaeli.tsf.org.tr",
-   "adet": 6
+   "adet": 5
   },
   {
    "il": "Konya",
@@ -330,13 +330,13 @@
    "il": "Malatya",
    "durum": "ok",
    "host": "malatya.tsf.org.tr",
-   "adet": 4
+   "adet": 5
   },
   {
    "il": "Manisa",
    "durum": "ok",
    "host": "manisa.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Mardin",
@@ -354,7 +354,7 @@
    "il": "Muğla",
    "durum": "ok",
    "host": "mugla.tsf.org.tr",
-   "adet": 3
+   "adet": 6
   },
   {
    "il": "Muş",
@@ -3209,27 +3209,7 @@
    ],
    "url": "https://kirklareli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "KIRKLARELİ ÖĞRETMENLER HAFTASI SATRANÇ TURNUVASI Turnuva KIRKLARELİ ÖĞRETMENLER HAFTASI SATRANÇ TURNUVASI Organizasyon Kırklareli GSİM & Kırklareli Satranç İl Temsilciliği Turnuva Tarihi 14-15 Kasım 2026 Turnuva Yeri/Konum Kırklareli Dr.Sadık Ahmet Gençlik Merkezi Kategoriler Açık : 14 Yaş ve altı: 10 Yaş ve altı: Kontenjan Kontenjan her kategori için 32 sporcu ile sınırlıdır Tempo 35'+30\" Eklemeli Tempo Tur Sayısı 5 Tur Son Başvuru 13 Kasım 2026 saat:18.00 Ödüller Ayrıntılar Yönergede Başvuru Ş"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Kırklareli",
-   "name": "https://kirklareli.tsf.org.tr/turnuva-kayit-form",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://kirklareli.tsf.org.tr/turnuva-kayit-form",
-   "kaynak": "site",
-   "kaynak_metin": "https://kirklareli.tsf.org.tr/turnuva-kayit-form Ana Sayfa Federasyon TSF Web Sitesi FIDE İstanbul tsf Tekirdağ tsf Edirne tsf Çanakkale tsf Bağlantılar Gençlik Spor Bakanlığı Resmi Gazete Milli Eğitim Bakanlığı Kırklareli Valiliği Kırklareli Belediyesi Kırklareli Üniversitesi Kırklareli İl Milli Eğitim Müdürlüğü Kırklareil İl Jandarma Komutanlığı Kırklareil İl Emniyet Müdürlüğü Kırklareli Adliyesi Kırklareli İl Özel İdaresi Aile ve Sosyal Hizmetler İl Müdürlüğü Kulüplerimiz Lüleburgaz Satranç S"
+   "kaynak_metin": "KIRKLARELİ ÖĞRETMENLER HAFTASI SATRANÇ TURNUVASI Turnuva Kırklareli Öğretmenler Haftası Satranç Turnuvası Organizasyon Kırklareli GSİM & Kırklareli Satranç İl Temsilciliği Turnuva Tarihi 14-15 Kasım 2026 Turnuva Yeri/Konum Kırklareli Dr. Sadık Ahmet Gençlik Merkezi Kategoriler Açık : 14 Yaş ve altı: 10 Yaş ve altı: Kontenjan Kontenjan her kategori için 32 sporcu ile sınırlıdır Tempo 35'+30\" Eklemeli Tempo Tur Sayısı 5 Tur Son Başvuru 13 Kasım 2026 saat:18.00 Ödüller Ayrıntılar Yönergede Başvuru "
   },
   {
    "c": "TR",
@@ -3380,32 +3360,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Kocaeli",
-   "name": "2025-2026 TÜRKİYE KULÜPLER SATRANÇ ŞAMPİYONASI İL YÖRE YARIŞMALARI",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "A Kategorisi",
-     "min": 1400,
-     "max": null
-    },
-    {
-     "n": "B Kategorisi",
-     "min": null,
-     "max": 1399
-    }
-   ],
-   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "2025-2026 TÜRKİYE KULÜPLER SATRANÇ ŞAMPİYONASI İL YÖRE YARIŞMALARI Turnuva Haberleri ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Genç"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Konya",
    "name": "KONYA 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI (7-8 KASIM 2026)",
    "start": "2026-11-07",
@@ -3530,6 +3484,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Malatya",
+   "name": "Hacı Saffet Çam Vakfı Cumhuriyet Kupası Yalova'da",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/haci-saffet-cam-vakfi-cumhuriyet-kupasi-yalova-da",
+   "kaynak": "site",
+   "kaynak_metin": "Hacı Saffet Çam Vakfı Cumhuriyet Kupası Yalova'da Haber 3 Kasım 2026 Hacı Saffet Çam Vakfı Cumhuriyet Kupası Yalova'da Haberi oku"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Manisa",
    "name": "MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
    "start": "2026-11-07",
@@ -3565,6 +3540,26 @@
    "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI Manisa Akhisar Atatürk haftası hızlı satranç turnuvası 7 Kasım 2026 tarihinde 10''+5' temposunda Akhisar MBA Kolejinde yapılacaktır. Turnuva da nakdi ve diğer ödüller yönerge de belirtilmiştir. Kategoriler 64 sporcu ile sınırlıdır KAYITLAR 26.10.2026 SAAT 13 TE AÇILACAKTIR YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT 08 Yaş ve Altı Kategorisi 2019 ve 2020 Doğumlu Sporcular 8 YAŞ 10 Yaş ve Alt"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Manisa",
+   "name": "2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI Turnuva Haberleri AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI Manisa Akhisar Atatürk haftası hızlı satranç turnuvası 7 Kasım 2026 tarihinde 10''+5' temposunda Akhisar MBA Kolejinde yapılacaktır. Turnuva da nakdi ve diğer ödüller yönerge de belirtilmiştir. Kategoriler 64 sporcu ile sınırlıdır KAYITLAR 26.10.2026 SAAT 13 TE AÇILACAKTIR YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT 08 Yaş ve Altı Kategorisi 2019 ve 2020 Doğumlu Sporcular"
   },
   {
    "c": "TR",
@@ -3627,27 +3622,6 @@
    "url": "https://mardin.tsf.org.tr/satranc-haberleri/664-2025-tuerkiye-kupas-sampiyonu-mardinli-fm-baver-ylmaz",
    "kaynak": "site",
    "kaynak_metin": "2025 Türkiye Kupası Şampiyonu Mardinli FM Baver Yılmaz 2025 Türkiye Kupası Şampiyonu Mardinli FM Baver Yılmaz Federasyonumuz tarafından Kayseri Kocasinan Belediyesi ev sahipliğinde, Atatürk Kapalı Spor Salonu’nda 8–16 Kasım tarihleri arasında düzenlenen 2025 Türkiye Kupası sona erdi. 2025 Türkiye Kupası’nın şampiyonu FM Baver Yılmaz oldu. Turnuvada, Türkiye’nin dört bir yanından gelen sporcular, Türkiye Şampiyonası’na doğrudan katılabilmek için mücadele etti. Turnuva kapsamında dereceye giren sp"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Mersin",
-   "name": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de",
-   "start": "2026-11-02",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://mersin.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de "
   },
   {
    "c": "TR",
@@ -3841,6 +3815,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Mersin",
+   "name": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/satranc-haberleri/1080-tuerkiye-goerme-engelliler-satranc-sampiyonas-2-8-kasmda-mersinde",
+   "kaynak": "site",
+   "kaynak_metin": "Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de Türkiye Görme Engelliler Satranç Şampiyonası 2-8 Kasım’da Mersin’de"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Muğla",
    "name": "YATAĞAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI",
    "start": "2026-11-10",
@@ -3862,6 +3857,46 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Muğla",
+   "name": "DALAMAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://mugla.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "DALAMAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI TSF MUĞLA / 2026–2027 SEZONU DALAMAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI AFİŞİ BÜYÜTMEK İÇİN TIKLAYINIZ TURNUVA DETAYLARI TARİH 7–8 KASIM 2026 YARIŞMA SALONU CUMHURİYET İLKOKULU SALONU İL / İLÇE Muğla / Dalaman KATEGORİLER 8 Yaş ve Altı, 10 Yaş ve Altı, Açık Kategori ZAMAN TEMPOSU 45 Dakika + 30 Saniye TUR SAYISI 6 Tur / Bireysel İsviçre Sistemi RATING UKD hesaplamalarına dahil ÖDÜLLER Her kategoride ilk 3 sporcuya kupa, 4–6. sıradaki sporculara "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
+   "name": "BODRUM EN İYİ 32 KASIM AYI SATRANÇ TURNUVASI",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://mugla.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "BODRUM EN İYİ 32 KASIM AYI SATRANÇ TURNUVASI TSF MUĞLA / 2026–2027 SEZONU BODRUM EN İYİ 32 KASIM AYI SATRANÇ TURNUVASI AFİŞİ BÜYÜTMEK İÇİN TIKLAYINIZ TURNUVA DETAYLARI TARİH 7–8 KASIM 2026 YARIŞMA SALONU BODRUM DOĞA KOLEJİ KAMPÜSÜ TURNUVA SALONU İL / İLÇE Muğla / Bodrum ADRES Müskebi Mahallesi, Kapuz Caddesi No: 24/1 KATEGORİ Açık Kategori KONTENJAN Kuvvet puanı en yüksek 32 sporcu ZAMAN TEMPOSU 45 Dakika + 30 Saniye TUR SAYISI 6 Tur / Bireysel İsviçre Sistemi RATING UKD hesaplamalarına dahil ÖD"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
    "name": "TURNUVA KAYIT ›",
    "start": "2026-11-05",
    "end": "2026-11-05",
@@ -3877,6 +3912,26 @@
    "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form",
    "kaynak": "site",
    "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız BODRUM EN İYİ 32 KASIM AYI SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 05.11.2026 SAAT 17.00 MUĞLA 10 KASIM ATA'YI ANMA ELO SATRANÇ TURNUVASI SON KAYIT TARİHİ 19.11.2026 SAAT 17.00 ULA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI SON BAŞVURU TARİ"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Muğla",
+   "name": "TURNUVALAR 26-27",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://mugla.tsf.org.tr/turnuvalar-26-27",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVALAR 26-27 TURNUVALAR 26-27 DALAMAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI TSF MUĞLA / 2026–2027 SEZONU DALAMAN 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI AFİŞİ BÜYÜTMEK İÇİN TIKLAYINIZ TURNUVA DETAYLARI TARİH 7–8 KASIM 2026 YARIŞMA SALONU CUMHURİYET İLKOKULU SALONU İL / İLÇE Muğla / Dalaman KATEGORİLER 8 Yaş ve Altı, 10 Yaş ve Altı, Açık Kategori ZAMAN TEMPOSU 45 Dakika + 30 Saniye TUR SAYISI 6 Tur / Bireysel İsviçre Sistemi RATING UKD hesaplamalarına dahil ÖDÜLLER Her kategoride ilk 3 sporcu"
   },
   {
    "c": "TR",
@@ -4556,7 +4611,7 @@
    ],
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,"
+   "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Satranç Haberleri Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014"
   },
   {
    "c": "TR",

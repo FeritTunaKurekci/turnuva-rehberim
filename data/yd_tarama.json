@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-02T21:27",
+ "taranma": "2026-11-03T11:18",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 29,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -8112,6 +8112,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-08-16T08:59:36+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Australian Open Chess Championships 2027 | Darwin",
+   "city": "Darwin NT 0800",
+   "start": "2026-10-30",
+   "end": "2026-11-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Australian Open Classical",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Australian Open Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-03T10:17:29+00:00"
   },
   {
    "c": "FR",
@@ -18962,6 +18992,36 @@
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
+   "name": "30th International Chess Open of Guingamp 2027 - Open A & Open B U1600",
+   "city": "Saint-Agathon",
+   "start": "2026-12-19",
+   "end": "2026-12-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B U1600",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 30 minutes; 30-second increment per move",
+   "url": "https://mychess.events/event/30th-international-chess-open-guingamp-2027-open-a-b-u1600/",
+   "src": "https://mychess.events/event/30th-international-chess-open-guingamp-2027-open-a-b-u1600/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-03T06:50:10+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
    "name": "2e Rapide International de Noisiel 2026",
    "city": "Noisiel",
    "start": "2026-12-20",
@@ -21360,41 +21420,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T10:25:09+00:00"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "2027 Australian Open Chess Championships – Classical & Blitz",
-   "city": "Darwin NT 0800",
-   "start": "2026-12-28",
-   "end": "2026-12-29",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Australian Open Classical",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Australian Open Blitz",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Women’s, Seniors and Rating Awards",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T07:14:10+00:00"
   },
   {
    "c": "EN",
