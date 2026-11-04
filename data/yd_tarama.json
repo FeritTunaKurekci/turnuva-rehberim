@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-04T10:35",
+ "taranma": "2026-11-04T19:19",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 24,
+ "okunan_sayfa": 21,
  "turnuvalar": [
   {
    "c": "US",
@@ -8569,6 +8569,61 @@
    "cr": "https://s2.chess-results.com/Tnr1444600.aspx?SNode=S0&lan=10",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T18:05:32+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "German Amateur Chess Championship 2026/2027 – Hannover Qualifier",
+   "city": "Langenhagen",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "A",
+     "min": 2101,
+     "max": 2350
+    },
+    {
+     "n": "B",
+     "min": 2001,
+     "max": 2100
+    },
+    {
+     "n": "C",
+     "min": 1901,
+     "max": 2000
+    },
+    {
+     "n": "D",
+     "min": 1801,
+     "max": 1900
+    },
+    {
+     "n": "E",
+     "min": 1701,
+     "max": 1800
+    },
+    {
+     "n": "F",
+     "min": 1551,
+     "max": 1700
+    },
+    {
+     "n": "G",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 15 minutes for the remainder; 30-second increment from move one",
+   "url": "https://mychess.events/event/german-amateur-chess-championship-2027-hannover-qualifier/",
+   "src": "https://mychess.events/event/german-amateur-chess-championship-2027-hannover-qualifier/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T13:39:17+00:00"
   },
   {
    "c": "EN",
@@ -18780,6 +18835,66 @@
    "lastmod": "2026-11-02T13:39:21+00:00"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "VIII Open Ciutat de Manacor 2026",
+   "city": "Illes Balears",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Under 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Category",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Local Club",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/viii-open-ciutat-de-manacor-2026/",
+   "src": "https://mychess.events/event/viii-open-ciutat-de-manacor-2026/",
+   "cr": "https://s2.chess-results.com/tnr1512387.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T12:20:24+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -24167,6 +24282,46 @@
    "lastmod": "2026-09-14T09:51:16+00:00"
   },
   {
+   "c": "IE",
+   "ulke": "İrlanda",
+   "bayrak": "ie",
+   "name": "22nd Annual Gonzaga Charity Chess Classic 2027 - Masters, Championship, Major & Challengers",
+   "city": "D06 KF95",
+   "start": "2027-02-01",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Masters",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Championship",
+     "min": 1650,
+     "max": 1950
+    },
+    {
+     "n": "Major",
+     "min": 1400,
+     "max": 1700
+    },
+    {
+     "n": "Challengers",
+     "min": null,
+     "max": 1449
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/22nd-annual-gonzaga-charity-chess-classic-2027/",
+   "src": "https://mychess.events/event/22nd-annual-gonzaga-charity-chess-classic-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T10:58:37+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -29168,6 +29323,41 @@
    "lastmod": "2026-11-02T11:49:34+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "29th Müngersdorfer Bürgerturnier 2027",
+   "city": "Köln-Müngersdorf",
+   "start": "2027-06-18",
+   "end": "2027-06-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Rating Category 1",
+     "min": 1701,
+     "max": 1900
+    },
+    {
+     "n": "Rating Category 2",
+     "min": 1501,
+     "max": 1700
+    },
+    {
+     "n": "Rating Category 3",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 15 minutes for the rest; 30-second increment per move from move one",
+   "url": "https://mychess.events/event/29th-muengersdorfer-buergerturnier-2027/",
+   "src": "https://mychess.events/event/29th-muengersdorfer-buergerturnier-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T10:37:37+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -29961,6 +30151,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T07:03:18+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "German Amateur Chess Championship 2026/2027 – Berlin Qualifier",
+   "city": "Berlin",
+   "start": "2027-08-06",
+   "end": "2027-08-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": 2101,
+     "max": 2350
+    },
+    {
+     "n": "Group B",
+     "min": 2001,
+     "max": 2100
+    },
+    {
+     "n": "Group C",
+     "min": 1901,
+     "max": 2000
+    },
+    {
+     "n": "Group D",
+     "min": 1801,
+     "max": 1900
+    },
+    {
+     "n": "Group E",
+     "min": 1701,
+     "max": 1800
+    },
+    {
+     "n": "Group F",
+     "min": 1551,
+     "max": 1700
+    },
+    {
+     "n": "Group G",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, plus 15 minutes for remaining moves; 30-second increment from move one",
+   "url": "https://mychess.events/event/german-amateur-chess-championship-2027-berlin-qualifier/",
+   "src": "https://mychess.events/event/german-amateur-chess-championship-2027-berlin-qualifier/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T10:50:23+00:00"
   },
   {
    "c": "AT",
