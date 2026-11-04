@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-03T19:03",
+ "taranma": "2026-11-04T10:35",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 17,
+ "okunan_sayfa": 24,
  "turnuvalar": [
   {
    "c": "US",
@@ -10255,6 +10255,36 @@
    "lastmod": "2026-10-26T12:08:51+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "WCU Winter Chess Congress 2027 - Open & Major U1850",
+   "city": "Wales",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major U1850",
+     "min": null,
+     "max": 1849
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move, from move one",
+   "url": "https://mychess.events/event/wcu-winter-chess-congress-2027-open-major-u1850/",
+   "src": "https://mychess.events/event/wcu-winter-chess-congress-2027-open-major-u1850/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T06:45:40+00:00"
+  },
+  {
    "c": "PT",
    "ulke": "Portekiz",
    "bayrak": "pt",
@@ -12212,6 +12242,46 @@
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
+   "name": "London Chess League FIDE Weekender - February 2027 | Open, U2000, U1650 & U1400",
+   "city": "London W6 0JD",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1650",
+     "min": null,
+     "max": 1649
+    },
+    {
+     "n": "ECF U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": null,
+   "tc": "Open/U2000/U1650: 90 min + 30 sec/move; U1400: 60 min + 30 sec/move",
+   "url": "https://mychess.events/event/london-chess-league-fide-weekender-february-2027/",
+   "src": "https://mychess.events/event/london-chess-league-fide-weekender-february-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T10:11:55+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
    "name": "4th Jurassic Rapidplay – November 2026",
    "city": "Devon",
    "start": "2026-11-15",
@@ -13334,6 +13404,41 @@
    "lastmod": "2026-10-31T09:49:44+00:00"
   },
   {
+   "c": "DK",
+   "ulke": "Danimarka",
+   "bayrak": "dk",
+   "name": "Nordsjælland Weekend EMT 2027 - Five-Round Classical Open",
+   "city": "Allerød",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Highest Master Group",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Other Rating Groups",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior Participants",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/nordsjaelland-weekend-emt-2027/",
+   "src": "https://mychess.events/event/nordsjaelland-weekend-emt-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T05:40:58+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -13850,6 +13955,61 @@
    "cr": "https://s2.chess-results.com/tnr1518463.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T16:42:48+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "German Amateur Chess Championship 2026/2027 - Travemünde Qualifier",
+   "city": "Lübeck",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": 2101,
+     "max": 2350
+    },
+    {
+     "n": "Group B",
+     "min": 2001,
+     "max": 2100
+    },
+    {
+     "n": "Group C",
+     "min": 1901,
+     "max": 2000
+    },
+    {
+     "n": "Group D",
+     "min": 1801,
+     "max": 1900
+    },
+    {
+     "n": "Group E",
+     "min": 1701,
+     "max": 1800
+    },
+    {
+     "n": "Group F",
+     "min": 1551,
+     "max": 1700
+    },
+    {
+     "n": "Group G",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 15 minutes for the rest; 30 seconds per move from move one",
+   "url": "https://mychess.events/event/german-amateur-chess-championship-2027-travemunde-qualifier/",
+   "src": "https://mychess.events/event/german-amateur-chess-championship-2027-travemunde-qualifier/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T07:40:45+00:00"
   },
   {
    "c": "CH",
@@ -16536,6 +16696,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-06T17:13:17+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "11th Festival Week End Mediterranee 2027 - Open A, B & C",
+   "city": "Genova (GE)",
+   "start": "2026-12-06",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1600,
+     "max": 1850
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1649
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/11th-festival-week-end-mediterranee-2027-open-a-b-c/",
+   "src": "https://mychess.events/event/11th-festival-week-end-mediterranee-2027-open-a-b-c/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T06:18:15+00:00"
   },
   {
    "c": "AT",
@@ -21280,6 +21475,111 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T09:45:03+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "VCH New Year Chess Tournament 2027 - Greifswald",
+   "city": "Greifswald",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, January 15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, January 15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, January 16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, January 16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, January 16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 17",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 17",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, January 17",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 30 minutes for the remainder",
+   "url": "https://mychess.events/event/vch-new-year-chess-tournament-2027-greifswald/",
+   "src": "https://mychess.events/event/vch-new-year-chess-tournament-2027-greifswald/",
+   "cr": "https://s3.chess-results.com/tnr1488092.aspx?SNode=S0&art=3&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T10:20:56+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "41st Lohmar Chess Open 2027 - Seven-Round Classical Swiss",
+   "city": "Lohmar",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Competition",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "DWZ Rating Prizes",
+     "min": 1701,
+     "max": 1850
+    },
+    {
+     "n": "Junior Prize",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior Prize",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Prize",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 min/40 moves + 30 min; 30-second increment from move one",
+   "url": "https://mychess.events/event/41st-lohmar-chess-open-2027-seven-round-classical-swiss/",
+   "src": "https://mychess.events/event/41st-lohmar-chess-open-2027-seven-round-classical-swiss/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T09:57:29+00:00"
   },
   {
    "c": "EN",
@@ -29156,6 +29456,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-25T05:49:45+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - January 23-24, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2027-07-02",
+   "end": "2027-07-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-january-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-january-2027-u2400-u1850-u1550/",
+   "cr": "https://s2.chess-results.com/tnr1526440.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T07:10:24+00:00"
   },
   {
    "c": "HU",
