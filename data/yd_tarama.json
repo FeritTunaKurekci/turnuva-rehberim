@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-04T19:19",
+ "taranma": "2026-11-05T11:13",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 21,
+ "okunan_sayfa": 20,
  "turnuvalar": [
   {
    "c": "US",
@@ -8571,61 +8571,6 @@
    "lastmod": "2026-10-30T18:05:32+00:00"
   },
   {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "German Amateur Chess Championship 2026/2027 – Hannover Qualifier",
-   "city": "Langenhagen",
-   "start": "2026-10-31",
-   "end": "2026-11-03",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "A",
-     "min": 2101,
-     "max": 2350
-    },
-    {
-     "n": "B",
-     "min": 2001,
-     "max": 2100
-    },
-    {
-     "n": "C",
-     "min": 1901,
-     "max": 2000
-    },
-    {
-     "n": "D",
-     "min": 1801,
-     "max": 1900
-    },
-    {
-     "n": "E",
-     "min": 1701,
-     "max": 1800
-    },
-    {
-     "n": "F",
-     "min": 1551,
-     "max": 1700
-    },
-    {
-     "n": "G",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes for 40 moves, then 15 minutes for the remainder; 30-second increment from move one",
-   "url": "https://mychess.events/event/german-amateur-chess-championship-2027-hannover-qualifier/",
-   "src": "https://mychess.events/event/german-amateur-chess-championship-2027-hannover-qualifier/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-04T13:39:17+00:00"
-  },
-  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -10338,6 +10283,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-04T06:45:40+00:00"
+  },
+  {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Kazakhstan Chess Cup 2026 – Final",
+   "city": "Almaty",
+   "start": "2026-11-07",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "November 30, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 1–11, 2026",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 12, 2026",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
+   "src": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-04T21:37:29+00:00"
   },
   {
    "c": "PT",
@@ -16584,6 +16564,61 @@
    "lastmod": "2026-11-02T07:35:24+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "German Amateur Chess Championship 2026/2027 – Hannover Qualifier",
+   "city": "Langenhagen",
+   "start": "2026-12-06",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "A",
+     "min": 2101,
+     "max": 2350
+    },
+    {
+     "n": "B",
+     "min": 2001,
+     "max": 2100
+    },
+    {
+     "n": "C",
+     "min": 1901,
+     "max": 2000
+    },
+    {
+     "n": "D",
+     "min": 1801,
+     "max": 1900
+    },
+    {
+     "n": "E",
+     "min": 1701,
+     "max": 1800
+    },
+    {
+     "n": "F",
+     "min": 1551,
+     "max": 1700
+    },
+    {
+     "n": "G",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 15 minutes for the remainder; 30-second increment from move one",
+   "url": "https://mychess.events/event/german-amateur-chess-championship-2027-hannover-qualifier/",
+   "src": "https://mychess.events/event/german-amateur-chess-championship-2027-hannover-qualifier/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T06:43:03+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -22177,6 +22212,56 @@
    "lastmod": "2026-10-16T08:27:10+00:00"
   },
   {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "Open Graz City Chess Championship 2027 (Grazer Stadtmeisterschaft)",
+   "city": "Styria",
+   "start": "2027-01-02",
+   "end": "2027-01-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Swiss field",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "S60 award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Graz city titles",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move, from move one",
+   "url": "https://mychess.events/event/grazer-stadtmeisterschaft-2027-open/",
+   "src": "https://mychess.events/event/grazer-stadtmeisterschaft-2027-open/",
+   "cr": "https://chess-results.com/tnr1480954.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T09:29:17+00:00"
+  },
+  {
    "c": "HR",
    "ulke": "Hırvatistan",
    "bayrak": "hr",
@@ -22380,6 +22465,41 @@
    "cr": "https://chess-results.com/tnr1478256.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-03T13:07:41+00:00"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "24th Amstetten Open City Championship & International New Year Tournament 2027",
+   "city": "Lower Austria",
+   "start": "2027-01-04",
+   "end": "2027-01-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International New Year Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "24th Amstetten Open City Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th Mostviertel Championship",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 30 minutes for the rest of the game; 30-second increment from move one",
+   "url": "https://mychess.events/event/24th-amstetten-open-city-championship-international-new-year-tournament-2027/",
+   "src": "https://mychess.events/event/24th-amstetten-open-city-championship-international-new-year-tournament-2027/",
+   "cr": "https://chess-results.com/tnr1509035.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T09:20:25+00:00"
   },
   {
    "c": "LV",
