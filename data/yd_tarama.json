@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-05T11:13",
+ "taranma": "2026-11-05T19:22",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 20,
+ "okunan_sayfa": 22,
  "turnuvalar": [
   {
    "c": "US",
@@ -13474,6 +13474,41 @@
    "lastmod": "2026-11-04T05:40:58+00:00"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "1st International Chess Festival Memorial Fabio Guarino 2027 - Open A, B & C",
+   "city": "Campania",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1500,
+     "max": 1899
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move, from move one",
+   "url": "https://mychess.events/event/1st-international-chess-festival-memorial-fabio-guarino-2027/",
+   "src": "https://mychess.events/event/1st-international-chess-festival-memorial-fabio-guarino-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T18:58:11+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -21732,6 +21767,46 @@
    "lastmod": "2026-11-04T09:57:29+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Saxony-Anhalt State Individual Chess Championship 2027 - Open A & B",
+   "city": "Saxony-Anhalt",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Masters",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Women’s Masters",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, 30 minutes for remaining moves, +30 seconds/move",
+   "url": "https://mychess.events/event/saxony-anhalt-state-individual-chess-championship-2027/",
+   "src": "https://mychess.events/event/saxony-anhalt-state-individual-chess-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T18:48:59+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -23245,6 +23320,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-13T13:20:42+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "3rd International Chess Festival of Carmignano 2026 - Master, Open A/B & U18",
+   "city": "Tuscany",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Magistrale",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Open A",
+     "min": 1600,
+     "max": 1999
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Under-18 Open C",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "Magistrale/A/B: 90 minutes + 30 seconds/move; Under-18 C: 30 minutes + 30 seconds/move",
+   "url": "https://mychess.events/event/3rd-international-chess-festival-carmignano-2026/",
+   "src": "https://mychess.events/event/3rd-international-chess-festival-carmignano-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T17:19:29+00:00"
   },
   {
    "c": "MN",
@@ -26521,6 +26636,111 @@
    "lastmod": "2026-09-03T10:38:57+00:00"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Basel Spring Open 2027 - International City Classical Chess Open",
+   "city": "Basel-Stadt",
+   "start": "2027-03-14",
+   "end": "2027-03-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "General Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Elo 2000–2199",
+     "min": 2000,
+     "max": 2199
+    },
+    {
+     "n": "Elo 1800–1999",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "Elo 1600–1799",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Elo below 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Women’s award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior / U16",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/basel-spring-open-2027-international-city-open/",
+   "src": "https://mychess.events/event/basel-spring-open-2027-international-city-open/",
+   "cr": "https://s2.chess-results.com/tnr1434225.aspx?SNode=S0&lan=21&turdet=YES",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T18:38:24+00:00"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "5th WIL Rebstock 2DAYS Open 2027 - Classical Chess",
+   "city": "Wil SG",
+   "start": "2027-03-14",
+   "end": "2027-03-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open field",
+     "min": 2399,
+     "max": null
+    },
+    {
+     "n": "2000–2199",
+     "min": 2000,
+     "max": 2199
+    },
+    {
+     "n": "1800–1999",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "1600–1799",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Below 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Under-16 players",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/5th-wil-rebstock-2days-open-2027/",
+   "src": "https://mychess.events/event/5th-wil-rebstock-2days-open-2027/",
+   "cr": "https://s2.chess-results.com/Tnr1350900.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T17:01:10+00:00"
+  },
+  {
    "c": "IS",
    "ulke": "İzlanda",
    "bayrak": "is",
@@ -28249,6 +28469,56 @@
    "cr": "https://s3.chess-results.com/test/tnr1491905.aspx?lan=36",
    "kayit_kapali": false,
    "lastmod": "2026-10-14T12:00:34+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "2nd Trophée des Rois de Dijon 2027 - Classical Open",
+   "city": "Côte-d'Or",
+   "start": "2027-05-06",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Classical Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Overall standings",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Elo category awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Veteran awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes per player + 30-second increment per move",
+   "url": "https://mychess.events/event/2nd-trophee-des-rois-de-dijon-2027/",
+   "src": "https://mychess.events/event/2nd-trophee-des-rois-de-dijon-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-05T16:49:52+00:00"
   },
   {
    "c": "IT",
