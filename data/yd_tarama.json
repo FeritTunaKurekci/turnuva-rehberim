@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-06T11:19",
+ "taranma": "2026-11-06T18:38",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 29,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -13088,6 +13088,61 @@
    "lastmod": "2026-05-29T12:25:37+00:00"
   },
   {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "I IRT Kolping & Xeque Mate Brasil 2026 - FIDE Classical U2400 Open",
+   "city": "SP 04602-005",
+   "start": "2026-11-19",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Under 2400 Open",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "Women’s award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior award",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Kolping member",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/i-irt-kolping-xeque-mate-brasil-2026-fide-classical/",
+   "src": "https://mychess.events/event/i-irt-kolping-xeque-mate-brasil-2026-fide-classical/",
+   "cr": "https://s2.chess-results.com/tnr1505147.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T13:53:18+00:00"
+  },
+  {
    "c": "CA",
    "ulke": "Kanada",
    "bayrak": "ca",
@@ -15819,6 +15874,51 @@
    "cr": "https://chess-results.com/tnr1403736.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-01T11:09:00+00:00"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "24th International Amateur Standard-Open Ascona 2027 - Classical Chess",
+   "city": "Ticino",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "General Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "TWZ below 1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "TWZ below 1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Hotel voucher drawing",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer’s special offer",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move from move one; no second-stage addition",
+   "url": "https://mychess.events/event/24th-international-amateur-standard-open-ascona-2027/",
+   "src": "https://mychess.events/event/24th-international-amateur-standard-open-ascona-2027/",
+   "cr": "https://chess-results.com/tnr1383447.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T09:34:54+00:00"
   },
   {
    "c": "EN",

@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-06T11:19",
+ "guncelleme": "2026-11-06T18:38",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-06T11:13",
+   "tarama": "2026-11-06T18:37",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-06T11:19",
+   "tarama": "2026-11-06T18:38",
    "kaynak": "https://mychess.events"
   }
  },
@@ -15425,7 +15425,7 @@
    ],
    "url": "https://malatya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026 7 - 8 KASIM 2026 Tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ⚠️ HAMLELERİNİZİ YAZMAK İÇİN KALEM GETİRMEYİ UNUTMAYINIZ... ???? Kayıt kontrol işlemleri 08.30–09.30 saatleri arasında yapılacağını unutmayınız... ⚠️ Kayıt kontrol sa",
+   "kaynak_metin": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 7- 8 KASIM 2026 7 - 8 KASIM 2026 Tarihlerinde 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, TURNUVA VERİLERİ EŞLENDİRME - SONUÇ WHATSAP KANALIMIZDAN TAKİP EDİLİR ⚠️ HAMLELERİNİZİ YAZMAK İÇİN KALEM GETİRMEYİ UNUTMAYINIZ... ???? Kayıt kontrol işlemleri 08.30–0",
    "id": "4b28d221b27f",
    "ilk_gorulme": "2026-10-22",
    "son_gorulme": "2026-11-06",
@@ -15719,6 +15719,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Manisa",
+   "name": "AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI Turnuva Haberleri AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI Manisa Akhisar Atatürk haftası hızlı satranç turnuvası 7 Kasım 2026 tarihinde 10''+5' temposunda Akhisar MBA Kolejinde yapılacaktır. Turnuva da nakdi ve diğer ödüller yönerge de belirtilmiştir. Kategoriler 64 sporcu ile sınırlıdır YÖNERGE KATEGORİ KATEGORİ KRİTERİ EŞLENDİRME-SONUÇ 08 Yaş ve Altı Kategorisi 2019 ve 2020 Doğumlu Sporcular 8 YAŞALTI 10 Yaş ve Altı Kategorisi 2017 ve 201",
+   "id": "5c5acc6b8f59",
+   "ilk_gorulme": "2026-11-06",
+   "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Rize",
    "name": "ATATÜRK HAFTASI SATRANÇ TURNUVASI",
    "start": "2026-11-07",
@@ -15834,30 +15858,6 @@
    "ilk_gorulme": "2026-10-12",
    "son_gorulme": "2026-11-06",
    "tarih_degisti": "2026-10-24 → 2026-11-07",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Denizli",
-   "name": "DENİZLİ DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://denizli.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "DENİZLİ DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI İlimizde 7-8 Kasım 2026 Tarihlerinde Pamukkale Satranç Salonu'nda Denizli 10 Kasım Atamıza Saygı ve ",
-   "id": "3f0c8472964e",
-   "ilk_gorulme": "2026-11-01",
-   "son_gorulme": "2026-11-06",
    "durum": "yaklasan"
   },
   {
@@ -16144,30 +16144,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Manisa",
-   "name": "MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI Manisa Akhisar Atatürk haftası hızlı satranç turnuvası 7 Kasım 2026 tarihinde 10''+5' temposunda Akhisar MBA Kolejinde yapılacaktır. Turnuva da nakdi ve diğer ödüller yönerge de belirtilmiştir. Kategoriler 64 sporcu ile sınırlıdır KAYITLAR 26.10.2026 SAAT 13 TE AÇILACAKTIR YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT 08 Yaş ve Altı Kategorisi 2019 ve 2020 Doğumlu Sporcular 8 YAŞ 10 Yaş ve Altı ",
-   "id": "132eaea523e1",
-   "ilk_gorulme": "2026-11-02",
-   "son_gorulme": "2026-11-06",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Muğla",
    "name": "MARMARİS 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
    "start": "2026-11-07",
@@ -16233,7 +16209,7 @@
    "kaynak_metin": "NATO Satranç Şampiyonası’nda 2 Altın 1 Bronz Madalya! Satranç Haberleri Sakarya 10 Kasım Atatürk'ü Anma Günü Satranç Turnuvası Tarih: 07-08 Kasım 2026 Kayıt Tarihleri: 31Ekim - 05 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanı",
    "id": "4c3d2884a9ba",
    "ilk_gorulme": "2026-10-31",
-   "son_gorulme": "2026-11-01",
+   "son_gorulme": "2026-11-06",
    "durum": "yaklasan"
   },
   {
@@ -16517,7 +16493,7 @@
    ],
    "url": "https://ordu.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuvalar Turnuva Haberleri Turnuvalar ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde 19 Eylül Stadyumu/Satranç Turnuva Salonu'nda 4 farklı kategoride düzenlenecektir. Turnuvaya son kayıt tarihi 06.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu 2026 ORDU 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI Ordu 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası 24-25 Ekim 2026 tarihlerinde 19 Eylül Stady",
+   "kaynak_metin": "Turnuvalar Turnuva Haberleri Turnuvalar ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde 19 Eylül Stadyumu/Satranç Turnuva Salonu'nda 4 farklı kategoride düzenlenecektir. Turnuvaya son kayıt tarihi 06.11.2026 Saat 17.00'dir. CHESS RESULTS GÜNCEL LİSTELER: Açık Kategori 12 Yaş ve Altı Kategorisi 10 Yaş ve Altı Kategorisi 8 Yaş ve Altı Kategorisi Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu 2026 ORDU 29 EKİM CUMHURİY",
    "id": "3d365997568b",
    "ilk_gorulme": "2026-10-30",
    "son_gorulme": "2026-11-06",
@@ -16545,6 +16521,30 @@
    "kaynak_metin": "TÜRKİYE KADINLAR SATRANÇ MARDİN BİRİNCİLİĞİ TÜRKİYE KADINLAR SATRANÇ MARDİN BİRİNCİLİĞİ Türkiye Kadınlar Satranç Mardin Birinciliği ; Mardin İl GSM ve Mardin Satranç İl Temsilciliği organizasyonunda, 7 Kasım 2026 tarihi saat 10.00’da başlayacak ve Artuklu Gençlik Merkezi'nde yapılacaktır. Her Kategoride ilk üç sporcuya madalya ve kupa verilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2026-2027 yılı vizesi yapılmış sporcular başvuru yapabilec",
    "id": "cae811e43047",
    "ilk_gorulme": "2026-10-25",
+   "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bitlis",
+   "name": "Tüm Turnuva Haberleri",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Tüm Turnuva Haberleri Turnuvalar Bitlis Yıldızlar (13-18) ile Küçükler (07-12) Satranç Birinciliği -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmaları talimatları, Prosedürleri, Uygulama Yönergeleri, Yarışma Yönergeleri Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. Katlım Şartları ve Başvuru Yöntemi: Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 vizesi yapılmış Yıldızlar 2009-2014, Küçükler 2015-2020 yılları arası",
+   "id": "4ca99a9e3838",
+   "ilk_gorulme": "2026-11-06",
    "son_gorulme": "2026-11-06",
    "durum": "yaklasan"
   },
@@ -16592,7 +16592,7 @@
    ],
    "url": "https://zonguldak.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "ZONGULDAK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ HIZLI SATRANÇ TURNUVASI 07 KASIM 2026 7 Kasım 2026 tarihinde İbrahim Fikri Anıl Ortaokulunda 15'+10\" Eklemeli Tempoyla 10 Kasım Atatürk'ü Anma Günü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT ",
+   "kaynak_metin": "ZONGULDAK 10 KASIM ATATÜRK'Ü ANMA GÜNÜ HIZLI SATRANÇ TURNUVASI 07 KASIM 2026 7 Kasım 2026 tarihinde İbrahim Fikri Anıl Ortaokulunda 15'+10\" Eklemeli Tempoyla 10 Kasım Atatürk'ü Anma Günü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE EŞLENDİRME-SONUÇ AÇIK KATEGORİ ",
    "id": "ed4f74839995",
    "ilk_gorulme": "2026-10-18",
    "son_gorulme": "2026-11-06",
@@ -16786,6 +16786,32 @@
    "lastmod": "2026-08-22T12:13:48+00:00",
    "id": "faf17bed9cc2",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Manisa",
+   "name": "MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-09",
+   "end": "2026-11-09",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI AYITLAR 09 Kasım saat :13'te açılacaktır. YÖNERGE",
+   "id": "132eaea523e1",
+   "tarih_degisti": "2026-11-07 → 2026-11-09",
+   "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-06",
    "durum": "yaklasan"
   },
@@ -17536,14 +17562,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI İlimizde 7-8 Kasım 2026 Tarihlerinde Pamukkale Satranç Salonu'nda Denizli 10 Kasım Atamıza Saygı ve Anma Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "kaynak_metin": "DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI İlimizde 7-8 Kasım 2026 Tarihlerinde Pamukkale Satranç Salonu'nda Denizli 10 Kasım Atamıza Saygı ve Anma Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Eşlendirme ve Sonuçlar 7 Yaş 8 Yaş 10 yaş ve Altı 14 Yaş ve Altı Açık Kategori ",
    "id": "88d0b4536c09",
    "ilk_gorulme": "2026-10-23",
    "son_gorulme": "2026-11-06",
@@ -17908,14 +17933,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
    "url": "https://ordu.tsf.org.tr/satranc-haberleri/617-ordu-10-kasim-atatuerkue-anma-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Turnuva Haberleri ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde 19 Eylül Stadyumu/Satranç Turnuva Salonu'nda 4 farklı kategoride düzenlenecektir. Turnuvaya son kayıt tarihi 06.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu Sonraki >",
+   "kaynak_metin": "ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Turnuva Haberleri ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde 19 Eylül Stadyumu/Satranç Turnuva Salonu'nda 4 farklı kategoride düzenlenecektir. Turnuvaya son kayıt tarihi 06.11.2026 Saat 17.00'dir. CHESS RESULTS GÜNCEL LİSTELER: Açık Kategori 12 Yaş ve Altı Kategorisi 10 Yaş ve Altı Kategorisi 8 Yaş ve Altı Kategorisi Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu S",
    "id": "a2a5c5079258",
    "ilk_gorulme": "2026-10-30",
    "son_gorulme": "2026-11-06",
@@ -19729,6 +19753,32 @@
    "lastmod": "2026-09-19T09:53:15+00:00",
    "id": "31c3a9dff825",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Denizli",
+   "name": "DENİZLİ DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://denizli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "DENİZLİ DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI İlimizde 14 15 Kasım 2026 tarihlerinde Dünya Engelliler Günü Satranç Turnuvası Pamukkale Satranç Salonu'nda yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "id": "3f0c8472964e",
+   "tarih_degisti": "2026-11-07 → 2026-11-15",
+   "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-06",
    "durum": "yaklasan"
   },
@@ -21575,6 +21625,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Muş",
+   "name": "24 kasım 2026 öğretmenler günü satranç turnuvası",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mus.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "24 kasım 2026 öğretmenler günü satranç turnuvası MUŞ GSİM, MUŞ SATRANÇ İL TEMSİLCİLİĞİ TARAFINDAN 28 kasım 2026 TARİHİNDE 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI DÜZENLENECEKTİR. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2020 ve Önceki Yıllarında sporcular katılabilir. Turnuva Detayları için Yönergeyi inceleyiniz. turnuva kaydı için tıklayınız. yönerge için tıklayınız ",
+   "id": "5f649222edbd",
+   "ilk_gorulme": "2026-11-06",
+   "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Aydın",
    "name": "Aydın 24 Kasım Öğretmenler Günü Satranç Turnuvası",
    "start": "2026-11-24",
@@ -22748,6 +22823,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Manisa",
+   "name": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turgutlu Öğretmenler Günü satranç turnuvası 28-29 Kasım 2026 tarihlerinde Kocatürk Koleji kampüsü Turgutlu ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 16 Kasım saat :18'de açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yılları ve arası) 14 YAŞALTI Açık Kategori (2020 ve önceki yıllard",
+   "id": "83eefed40192",
+   "ilk_gorulme": "2026-11-06",
+   "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Kocaeli",
    "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI",
    "start": "2026-11-28",
@@ -23717,6 +23816,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "ENGELLİLER HAFTASI SATRANÇ TURNUVASI 5 - 6 ARALIK 2026",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://malatya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "ENGELLİLER HAFTASI SATRANÇ TURNUVASI 5 - 6 ARALIK 2026 5 - 6 ARALIK 2026 Tarihlerinde ENGELLİLER GÜNÜ SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ⚠️ HAMLELERİNİZİ YAZMAK İÇİN KALEM GETİRMEYİ UNUTMAYINIZ... ???? Kayıt kontrol işlemlerinin Yalnızca Cumartesi Günü Saat 08.30–09.30 saatleri arasında yapılacağını unutmayınız.",
+   "id": "25188f913d90",
+   "ilk_gorulme": "2026-11-06",
+   "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -23818,6 +23942,31 @@
    "lastmod": "2026-08-22T12:09:48+00:00",
    "id": "88dcd563eaff",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Kabataş Erkek Lisesi 9. Liselerarası Takım Satranç Turnuvası 5-6 Aralık`ta..",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/gencler-satranc/5354-kabatas-erkek-lisesi-liselerarasi-takim-satranc-turnuvasi-2026",
+   "kaynak": "site",
+   "kaynak_metin": "Kabataş Erkek Lisesi 9. Liselerarası Takım Satranç Turnuvası 5-6 Aralık`ta.. Kabataş Erkek Lisesi 9. Liselerarası Takım Satranç Turnuvası 5-6 Aralık`ta.. 5-6 Aralık 2026 tarihlerinde Kabataş Erkek Lisesi 9. Liselerarası Takım Satranç Turnuvası düzenlenecektir. Turnuva tüm lise okul takımlarının katılımına açıktır. Takımlar 4 asıl ve 2 yedek sporcudan oluşacaktır. Turnuvanın 6 tur 35 dakika+30 saniye düşünme süresinde UKD hesaplamalarına dahil düzenlenmesi planlanmıştır. Turnuva online kayıtları ",
+   "id": "ef59707b32da",
+   "ilk_gorulme": "2026-11-06",
    "son_gorulme": "2026-11-06",
    "durum": "yaklasan"
   },
