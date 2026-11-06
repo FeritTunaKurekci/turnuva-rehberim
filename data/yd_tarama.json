@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-05T19:22",
+ "taranma": "2026-11-06T11:19",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 22,
+ "okunan_sayfa": 29,
  "turnuvalar": [
   {
    "c": "US",
@@ -8866,6 +8866,56 @@
    "lastmod": "2026-07-13T14:50:36+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "4th International Chess Open Graal-Müritz 2027 - Baltic Sea Classical Open",
+   "city": "Mecklenburg-Vorpommern",
+   "start": "2026-11-02",
+   "end": "2026-11-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Titled Players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Visiting Players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Competition Period",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Location",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Arbitration",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes for the rest, +30 seconds per move",
+   "url": "https://mychess.events/event/4th-international-chess-open-graal-mueritz-2027/",
+   "src": "https://mychess.events/event/4th-international-chess-open-graal-mueritz-2027/",
+   "cr": "https://s1.chess-results.com/tnr1493505.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T06:52:36+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -9183,6 +9233,50 @@
    "cr": "https://s1.chess-results.com/tnr1487544.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-01T13:06:09+00:00"
+  },
+  {
+   "c": "MT",
+   "ulke": "Malta",
+   "bayrak": "mt",
+   "name": "XYChess Spring Open Malta 2027 - International Classical Chess Tournament",
+   "city": "St. Paul's Bay",
+   "start": "2026-11-04",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "General Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time Control",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "International Visitors",
+     "inv": true
+    },
+    {
+     "n": "Prizes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Travel Package",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move, from move one",
+   "url": "https://mychess.events/event/xychess-spring-open-malta-2027/",
+   "src": "https://mychess.events/event/xychess-spring-open-malta-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T09:55:19+00:00"
   },
   {
    "c": "RO",
@@ -10570,6 +10664,51 @@
    "lastmod": "2026-10-05T18:07:38+00:00"
   },
   {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "21st Premium International Chess Tournament Budapest 2027 - Open A & B",
+   "city": "Budapest",
+   "start": "2026-11-09",
+   "end": "2026-11-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open A cash subtotal",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "70 minutes + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/21st-premium-international-chess-tournament-budapest-2027/",
+   "src": "https://mychess.events/event/21st-premium-international-chess-tournament-budapest-2027/",
+   "cr": "https://s2.chess-results.com/tnr1532198.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T05:59:52+00:00"
+  },
+  {
    "c": "GE",
    "ulke": "Gürcistan",
    "bayrak": "ge",
@@ -11459,6 +11598,106 @@
    "lastmod": "2026-10-30T06:44:55+00:00"
   },
   {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "3rd IRT International Ocaso Apart Andino Chess Open 2026",
+   "city": "Santa Fe Province",
+   "start": "2026-11-12",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Number of Playing Sections",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Eligibility",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating and Category Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/3rd-irt-international-ocaso-apart-andino-open-2026/",
+   "src": "https://mychess.events/event/3rd-irt-international-ocaso-apart-andino-open-2026/",
+   "cr": "https://s1.chess-results.com/tnr1515043.aspx?SNode=S0&lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T10:37:16+00:00"
+  },
+  {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "Club de Ajedrez Posadas Centenary IRT 100 Años 2026 - FIDE Classical Open",
+   "city": "Misiones",
+   "start": "2026-11-12",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Under 1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Unrated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth U8–U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Seniors 50+ and 65+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women and Club Members",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Other festival events",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment from move one",
+   "url": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
+   "src": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
+   "cr": "https://chess-results.com/tnr1451594.aspx?lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T10:25:40+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -12312,6 +12551,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-04T10:11:55+00:00"
+  },
+  {
+   "c": "AT",
+   "ulke": "Avusturya",
+   "bayrak": "at",
+   "name": "11th International Bodensee Open 2027 - Classical Chess in Bregenz",
+   "city": "Bregenz",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International Bodensee Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Bodensee Seniors Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "40 moves in 90 minutes, then 30 minutes to finish; 30-second increment from move one",
+   "url": "https://mychess.events/event/11th-international-bodensee-open-2027-bregenz/",
+   "src": "https://mychess.events/event/11th-international-bodensee-open-2027-bregenz/",
+   "cr": "https://s3.chess-results.com/tnr1513905.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T07:11:02+00:00"
   },
   {
    "c": "EN",
@@ -15200,6 +15469,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T12:24:32+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "2027 Coventry Open Chess Congress - Open, U2000, U1750 & U1500",
+   "city": "Coventry CV2 2HP",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total for each section",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2027-coventry-open-chess-congress-fide-classical/",
+   "src": "https://mychess.events/event/2027-coventry-open-chess-congress-fide-classical/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T06:36:38+00:00"
   },
   {
    "c": "ES",
@@ -18133,6 +18442,51 @@
    "lastmod": "2026-11-02T17:06:32+00:00"
   },
   {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2027 Doeberl Cup - Premier, Major, Minor, Mini & U1200",
+   "city": "ACT 2606",
+   "start": "2026-12-12",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Premier",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": 1700,
+     "max": 2099
+    },
+    {
+     "n": "Minor",
+     "min": 1400,
+     "max": 1799
+    },
+    {
+     "n": "Mini",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "Under 1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "Premier / Major / Minor / Mini: 90 minutes + 30-second increment",
+   "url": "https://mychess.events/event/2027-doeberl-cup-canberra-classical-premier-major-minor-mini-u1200/",
+   "src": "https://mychess.events/event/2027-doeberl-cup-canberra-classical-premier-major-minor-mini-u1200/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T09:12:29+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -18438,6 +18792,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-07T13:19:15+00:00"
+  },
+  {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "Argentine Amateur Chess Championships 2026 - U2300, U2000 & U1700 National Finals",
+   "city": "Buenos Aires Province",
+   "start": "2026-12-17",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Under 2300",
+     "min": null,
+     "max": 2299
+    },
+    {
+     "n": "Under 2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Under 1700 / Unrated",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move; federation notes a possible change to 45+30",
+   "url": "https://mychess.events/event/argentine-amateur-chess-championships-2026-la-plata/",
+   "src": "https://mychess.events/event/argentine-amateur-chess-championships-2026-la-plata/",
+   "cr": "https://s2.chess-results.com/tnr1519163.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T09:27:46+00:00"
   },
   {
    "c": "IT",
@@ -22337,6 +22726,46 @@
    "lastmod": "2026-11-05T09:29:17+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "42nd International ChessOrg Chess Festival Bad Wörishofen 2027 - Open, B-Open & Seniors",
+   "city": "Bavaria",
+   "start": "2027-01-02",
+   "end": "2027-01-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "B-Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior Women",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior Men",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 min / 40 moves + 30 min / remaining moves, +30 sec per move from move one",
+   "url": "https://mychess.events/event/42nd-international-chessorg-festival-bad-woerishofen-2027/",
+   "src": "https://mychess.events/event/42nd-international-chessorg-festival-bad-woerishofen-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T06:39:50+00:00"
+  },
+  {
    "c": "HR",
    "ulke": "Hırvatistan",
    "bayrak": "hr",
@@ -25110,6 +25539,60 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-29T12:22:18+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "1st Dinkelsbühler Altstadt-Open 2027 - FIDE Classical Chess",
+   "city": "Bavaria",
+   "start": "2027-02-12",
+   "end": "2027-02-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Overall Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE Standard",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "German DWZ",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Capacity",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Identification",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Published Prizes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Club Eligibility",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": "“90/30/30 minutes” plus a 30-second increment from move one, as written in the official invitation",
+   "url": "https://mychess.events/event/1st-dinkelsbuehler-altstadt-open-2027/",
+   "src": "https://mychess.events/event/1st-dinkelsbuehler-altstadt-open-2027/",
+   "cr": "https://chess-results.com/Kalender.aspx?id=11113&key6=DL",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T06:58:06+00:00"
   },
   {
    "c": "AT",
@@ -30071,6 +30554,56 @@
    "cr": "https://s2.chess-results.com/tnr1526440.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-04T07:10:24+00:00"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Berner Open & Bern Chess Championships 2027",
+   "city": "Bern",
+   "start": "2027-07-02",
+   "end": "2027-07-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Bern local awards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Elo prizes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U16 / U20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Senior",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Rounds 1–3: 20 minutes + 5 seconds/move; Rounds 4–7: 90 minutes + 30 seconds/move",
+   "url": "https://mychess.events/event/berner-open-bern-chess-championships-2027/",
+   "src": "https://mychess.events/event/berner-open-bern-chess-championships-2027/",
+   "cr": "https://s2.chess-results.com/tnr1532934.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T05:51:16+00:00"
   },
   {
    "c": "HU",
