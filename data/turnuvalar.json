@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-07T17:35",
+ "guncelleme": "2026-11-07T21:32",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-07T17:33",
+   "tarama": "2026-11-07T21:31",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-07T17:35",
+   "tarama": "2026-11-07T21:32",
    "kaynak": "https://mychess.events"
   }
  },
@@ -14591,6 +14591,46 @@
    "oynandi_tarihi": "2026-11-04"
   },
   {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Kazakhstan Chess Cup 2026 – Final",
+   "city": "Almaty",
+   "start": "2026-11-03",
+   "end": "2026-11-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "2026 Cup standings",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Federation wild cards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total field",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
+   "src": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T19:39:40+00:00",
+   "id": "8b15e6d80a25",
+   "tarih_degisti": "2026-11-07 → 2026-11-03",
+   "ilk_gorulme": "2026-11-05",
+   "son_gorulme": "2026-11-07",
+   "durum": "suruyor"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -16055,45 +16095,6 @@
    "kaynak_metin": "KONYA 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI (7-8 KASIM 2026) Eşlendirme ve Sonuçlar KONYA İLİ , SELÇUKLU İLÇESİNDE 7 KASIM- 8 KASIM 2026 tarihinlerinde Konya Satranç İl Temsilciliği Salonu’nda, İsviçre sistem il e, 35 dakika 30 saniye eklemeli zaman temposu kullanılarak KONYA 10 KASIM ATATÜRK'Ü ANMA Satranç Turnuvası düzenlenecektir. Turnuvaya başvurular 06.11.2026 Saat 17:00’den önce tamamlan malıdır. YÖNERGE TURNUVA KAYIT Eşlendirme ve Sonuçlar ",
    "id": "0ba3ca79659b",
    "ilk_gorulme": "2026-10-27",
-   "son_gorulme": "2026-11-07",
-   "durum": "suruyor"
-  },
-  {
-   "c": "KZ",
-   "ulke": "Kazakistan",
-   "bayrak": "kz",
-   "name": "Kazakhstan Chess Cup 2026 – Final",
-   "city": "Almaty",
-   "start": "2026-11-07",
-   "end": "2026-11-15",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "November 30, 2026",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "December 1–11, 2026",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "December 12, 2026",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
-   "src": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-04T21:37:29+00:00",
-   "id": "8b15e6d80a25",
-   "ilk_gorulme": "2026-11-05",
    "son_gorulme": "2026-11-07",
    "durum": "suruyor"
   },
@@ -17652,6 +17653,31 @@
    "kaynak": "site",
    "kaynak_metin": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 07-08/11/2026 tarihleri arasında Ted Dörtyol Koleji tarafından Hatay İli Dörtyol İlçesi Dörtyol Ted Koleji Salonu'nda düzenlenecek olan Hatay Dörtyol Ted Koleji Atatürk'ü Anma Satranç Turnuvası başladı. Sonraki >",
    "id": "3418599d6a4d",
+   "ilk_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI BAŞLADI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1649-hatay-doertyol-ted-koleji-10-kasim-atatuerkue-anma-satranc-turnuvasi-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI BAŞLADI HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI BAŞLADI 07-08/11/2026 tarihleri arasında Ted Dörtyol Koleji tarafından Hatay İli Dörtyol İlçesi Dörtyol Ted Koleji Salonu'nda düzenlenecek Hatay Dörtyol Ted Koleji Atatürk'ü Anma Satranç Turnuvası başlamıştır. Turnuva sonuçları için tıklayınız. Turnuva Sonuç < Önceki Sonraki >",
+   "id": "f2bca1ec4858",
    "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
@@ -19761,7 +19787,7 @@
    ],
    "url": "https://cankiri.tsf.org.tr/satranc-haberleri/379-2027-yildirim-satranc-cankiri-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız",
+   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız < Önceki Sonraki >",
    "id": "178926c30d68",
    "ilk_gorulme": "2026-10-17",
    "son_gorulme": "2026-11-07",
@@ -21842,7 +21868,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür",
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g",
    "id": "57473d6a3cce",
    "ilk_gorulme": "2026-10-16",
    "son_gorulme": "2026-11-07",
@@ -23833,13 +23859,13 @@
      "max": 1750
     }
    ],
-   "prize": "≈ $1,880",
+   "prize": null,
    "tc": "90 minutes + 30 seconds per move",
    "url": "https://mychess.events/event/46-trofeo-e-crespi-2026/",
    "src": "https://mychess.events/event/46-trofeo-e-crespi-2026/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-09-08T11:05:18+00:00",
+   "lastmod": "2026-11-07T18:58:27+00:00",
    "id": "b590659998ea",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-07",
@@ -23974,6 +24000,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "Club de Ajedrez Posadas Centenary IRT 100 Años 2026 - FIDE Classical Open",
+   "city": "Misiones",
+   "start": "2026-12-05",
+   "end": "2026-12-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Under 1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Unrated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth U8–U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Seniors 50+ and 65+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women and Club Members",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Other festival events",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment from move one",
+   "url": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
+   "src": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
+   "cr": "https://chess-results.com/tnr1451594.aspx?lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T18:54:08+00:00",
+   "id": "268c64c16e71",
+   "ilk_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -24016,7 +24106,7 @@
    ],
    "url": "https://malatya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "ENGELLİLER HAFTASI SATRANÇ TURNUVASI 5 - 6 ARALIK 2026 5 - 6 ARALIK 2026 Tarihlerinde ENGELLİLER GÜNÜ SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ⚠️ HAMLELERİNİZİ YAZMAK İÇİN KALEM GETİRMEYİ UNUTMAYINIZ... ???? Kayıt kontrol işlemlerinin Yalnızca Cumartesi Günü Saat 08.30–09.30 saatleri arasında yapılacağını unutmayınız.",
+   "kaynak_metin": "ENGELLİLER HAFTASI SATRANÇ TURNUVASI 5 - 6 ARALIK 2026 5 - 6 ARALIK 2026 Tarihlerinde ENGELLİLER GÜNÜ SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ⚠️ HAMLELERİNİZİ YAZMAK İÇİN KALEM GETİRMEYİ UNUTMAYINIZ... ???? ⏰ Kayıt kontrol işlemlerinin Yalnızca Cumartesi Günü Saat 08.30–09.30 saatleri arasında yapılacağını, sporcu li",
    "id": "25188f913d90",
    "ilk_gorulme": "2026-11-06",
    "son_gorulme": "2026-11-07",
@@ -26388,9 +26478,9 @@
      "age": true
     }
    ],
-   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1303-manisa-kuecuekler-9-12-yas-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE ",
+   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE < Önceki Sonraki >",
    "id": "4408af14225b",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-07",
@@ -26690,6 +26780,40 @@
    "lastmod": "2026-09-23T12:55:14+00:00",
    "id": "a5194da77c97",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "7th Check N Mate All India Open FIDE Rated Rapid & Blitz Chess Tournament 2026",
+   "city": "India.",
+   "start": "2026-12-23",
+   "end": "2026-12-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "7th Check N Mate All India Open FIDE Rat",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "7th Check N Mate All India Open Blitz Ch",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/7th-check-n-mate-all-india-open-fide-rated-rapid-and-blitz-chess-tournament-2026/",
+   "src": "https://mychess.events/event/7th-check-n-mate-all-india-open-fide-rated-rapid-and-blitz-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1508199.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T18:56:08+00:00",
+   "id": "cf0db0a8bb3e",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -27462,9 +27586,9 @@
      "age": true
     }
    ],
-   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1304-manisa-yildizlar-13-18-yas-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Manisa Yıkdızlar (13-18 Yaş) il birinciliği satranç turnuvası 26-27 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 14.12.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE ",
+   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Manisa Yıkdızlar (13-18 Yaş) il birinciliği satranç turnuvası 26-27 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 14.12.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE < Önceki",
    "id": "5731e0fdc6d6",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-07",
@@ -27742,6 +27866,45 @@
    "lastmod": "2026-09-23T06:55:00+00:00",
    "id": "7aa20a0b58b4",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "1° Torneo Internazionale di Scacchi “Comune di Capriolo in Franciacorta” 2026",
+   "city": "Capriolo (BS)",
+   "start": "2026-12-27",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Tournament A",
+     "min": 1600,
+     "max": 1900
+    },
+    {
+     "n": "Tournament B",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/1-torneo-internazionale-di-scacchi-comune-di-capriolo-in-franciacorta-2026/",
+   "src": "https://mychess.events/event/1-torneo-internazionale-di-scacchi-comune-di-capriolo-in-franciacorta-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T18:59:24+00:00",
+   "id": "b6efc01e59dd",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -28049,9 +28212,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-07T13:12:02+00:00",
    "id": "be2d2e1a1cae",
-   "tarih_degisti": "2026-12-27 → 2026-12-28",
    "ilk_gorulme": "2026-11-03",
    "son_gorulme": "2026-11-07",
+   "tarih_degisti": "2026-12-27 → 2026-12-28",
    "durum": "yaklasan"
   },
   {
@@ -28907,6 +29070,40 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "I Torneo della Madonna 2026",
+   "city": "Civitanova Marche (MC)",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds increment per move, from move one",
+   "url": "https://mychess.events/event/i-torneo-della-madonna-2026/",
+   "src": "https://mychess.events/event/i-torneo-della-madonna-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T19:12:24+00:00",
+   "id": "058153ace500",
+   "ilk_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -28960,8 +29157,37 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-07T13:37:41+00:00",
    "id": "e43cd620067d",
-   "tarih_degisti": "2026-11-04 → 2027-01-09",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-07",
+   "tarih_degisti": "2026-11-04 → 2027-01-09",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "24th North East FIDE Rating Chess Championship 2026",
+   "city": "Nagaland 797112",
+   "start": "2027-01-09",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/24th-north-east-fide-rating-chess-championship-2026/",
+   "src": "https://mychess.events/event/24th-north-east-fide-rating-chess-championship-2026/",
+   "cr": "https://s3.chess-results.com/tnr1519549.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T20:03:14+00:00",
+   "id": "66591ac5fabc",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -30822,9 +31048,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-07T14:45:48+00:00",
    "id": "766d5b4e1f7b",
-   "tarih_degisti": "2026-12-19 → 2027-02-05",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-07",
+   "tarih_degisti": "2026-12-19 → 2027-02-05",
    "durum": "yaklasan"
   },
   {
@@ -32589,6 +32815,70 @@
    "lastmod": "2026-10-13T08:30:36+00:00",
    "id": "a0a5ca8ed10d",
    "ilk_gorulme": "2026-10-13",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "GR",
+   "ulke": "Yunanistan",
+   "bayrak": "gr",
+   "name": "11th Corinth Open Tournament 2026 - Groups A, B & C",
+   "city": "Corinth",
+   "start": "2027-03-11",
+   "end": "2027-03-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venues",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tournament Director",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Chief Arbiter",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/11th-corinth-open-tournament-2026-groups-a-b-c/",
+   "src": "https://mychess.events/event/11th-corinth-open-tournament-2026-groups-a-b-c/",
+   "cr": "https://s1.chess-results.com/tnr1507328.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T18:55:15+00:00",
+   "id": "7594ca5535bf",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -35640,7 +35930,7 @@
    "ulke": "Gürcistan",
    "bayrak": "ge",
    "name": "FIDE World Cadets’ Championships 2026 Event Details",
-   "city": "Batumi",
+   "city": "Adjara",
    "start": "2027-06-10",
    "end": "2027-06-23",
    "status": "a",
@@ -35675,24 +35965,19 @@
      "n": "Girls U12",
      "min": null,
      "max": null
-    },
-    {
-     "n": "Total",
-     "min": null,
-     "max": null
     }
    ],
    "prize": null,
-   "tc": "90 minutes per player plus 30 seconds per move from move one",
+   "tc": "90 minutes + 30 seconds per move, starting from move one",
    "url": "https://mychess.events/event/fide-world-cadets-championships-2026/",
    "src": "https://mychess.events/event/fide-world-cadets-championships-2026/",
-   "cr": "https://chess-results.com/tnr1514272.aspx?lan=1",
+   "cr": "https://chess-results.com/tnr1514271.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-11-07T14:47:06+00:00",
+   "lastmod": "2026-11-07T19:33:36+00:00",
    "id": "11fcf8ae156f",
-   "tarih_degisti": "2026-11-10 → 2027-06-10",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-07",
+   "tarih_degisti": "2026-11-10 → 2027-06-10",
    "durum": "yaklasan"
   },
   {
@@ -36744,9 +37029,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-07T13:32:40+00:00",
    "id": "d6a637ea3482",
-   "tarih_degisti": "2027-03-08 → 2027-08-20",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-07",
+   "tarih_degisti": "2027-03-08 → 2027-08-20",
    "durum": "yaklasan"
   },
   {

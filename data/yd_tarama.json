@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-07T17:35",
+ "taranma": "2026-11-07T21:32",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 33,
+ "okunan_sayfa": 27,
  "turnuvalar": [
   {
    "c": "US",
@@ -8916,6 +8916,41 @@
    "lastmod": "2026-11-06T06:52:36+00:00"
   },
   {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Kazakhstan Chess Cup 2026 – Final",
+   "city": "Almaty",
+   "start": "2026-11-03",
+   "end": "2026-11-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "2026 Cup standings",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Federation wild cards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total field",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
+   "src": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T19:39:40+00:00"
+  },
+  {
    "c": "CA",
    "ulke": "Kanada",
    "bayrak": "ca",
@@ -10354,41 +10389,6 @@
    "lastmod": "2026-11-04T06:45:40+00:00"
   },
   {
-   "c": "KZ",
-   "ulke": "Kazakistan",
-   "bayrak": "kz",
-   "name": "Kazakhstan Chess Cup 2026 – Final",
-   "city": "Almaty",
-   "start": "2026-11-07",
-   "end": "2026-11-15",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "November 30, 2026",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "December 1–11, 2026",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "December 12, 2026",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
-   "src": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-04T21:37:29+00:00"
-  },
-  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -11539,66 +11539,6 @@
    "lastmod": "2026-10-27T12:09:06+00:00"
   },
   {
-   "c": "GR",
-   "ulke": "Yunanistan",
-   "bayrak": "gr",
-   "name": "11th Corinth Open Tournament 2026 - Groups A, B & C",
-   "city": "Corinth",
-   "start": "2026-11-12",
-   "end": "2026-11-15",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Tournament",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Dates",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Country",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "City",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Venues",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Organizer",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tournament Director",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Chief Arbiter",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes per player + 30 seconds per move from move one",
-   "url": "https://mychess.events/event/11th-corinth-open-tournament-2026-groups-a-b-c/",
-   "src": "https://mychess.events/event/11th-corinth-open-tournament-2026-groups-a-b-c/",
-   "cr": "https://s1.chess-results.com/tnr1507328.aspx?SNode=S0&lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-30T06:44:55+00:00"
-  },
-  {
    "c": "AR",
    "ulke": "Arjantin",
    "bayrak": "ar",
@@ -11637,66 +11577,6 @@
    "cr": "https://s1.chess-results.com/tnr1515043.aspx?SNode=S0&lan=2",
    "kayit_kapali": false,
    "lastmod": "2026-11-06T10:37:16+00:00"
-  },
-  {
-   "c": "AR",
-   "ulke": "Arjantin",
-   "bayrak": "ar",
-   "name": "Club de Ajedrez Posadas Centenary IRT 100 Años 2026 - FIDE Classical Open",
-   "city": "Misiones",
-   "start": "2026-11-12",
-   "end": "2026-11-15",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Main International Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 2000",
-     "min": null,
-     "max": 1999
-    },
-    {
-     "n": "Under 1700",
-     "min": null,
-     "max": 1699
-    },
-    {
-     "n": "Unrated",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Youth U8–U16",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Seniors 50+ and 65+",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Women and Club Members",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Other festival events",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30-second increment from move one",
-   "url": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
-   "src": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
-   "cr": "https://chess-results.com/tnr1451594.aspx?lan=2",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-06T10:25:40+00:00"
   },
   {
    "c": "AR",
@@ -14233,36 +14113,6 @@
    "lastmod": "2026-10-05T10:29:03+00:00"
   },
   {
-   "c": "IN",
-   "ulke": "Hindistan",
-   "bayrak": "in",
-   "name": "7th Check N Mate All India Open FIDE Rated Rapid & Blitz Chess Tournament 2026",
-   "city": "India.",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "7th Check N Mate All India Open FIDE Rat",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "7th Check N Mate All India Open Blitz Ch",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $4,570",
-   "tc": null,
-   "url": "https://mychess.events/event/7th-check-n-mate-all-india-open-fide-rated-rapid-and-blitz-chess-tournament-2026/",
-   "src": "https://mychess.events/event/7th-check-n-mate-all-india-open-fide-rated-rapid-and-blitz-chess-tournament-2026/",
-   "cr": "https://chess-results.com/tnr1508199.aspx",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-05T09:51:24+00:00"
-  },
-  {
    "c": "LK",
    "ulke": "Sri Lanka",
    "bayrak": "lk",
@@ -16556,6 +16406,66 @@
    "lastmod": "2026-11-07T08:45:42+00:00"
   },
   {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "Club de Ajedrez Posadas Centenary IRT 100 Años 2026 - FIDE Classical Open",
+   "city": "Misiones",
+   "start": "2026-12-05",
+   "end": "2026-12-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Under 1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Unrated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth U8–U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Seniors 50+ and 65+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women and Club Members",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Other festival events",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment from move one",
+   "url": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
+   "src": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
+   "cr": "https://chess-results.com/tnr1451594.aspx?lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T18:54:08+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -16602,13 +16512,13 @@
      "max": 1750
     }
    ],
-   "prize": "≈ $1,880",
+   "prize": null,
    "tc": "90 minutes + 30 seconds per move",
    "url": "https://mychess.events/event/46-trofeo-e-crespi-2026/",
    "src": "https://mychess.events/event/46-trofeo-e-crespi-2026/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-09-08T11:05:18+00:00"
+   "lastmod": "2026-11-07T18:58:27+00:00"
   },
   {
    "c": "ES",
@@ -16861,36 +16771,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-24T07:18:50+00:00"
-  },
-  {
-   "c": "IT",
-   "ulke": "İtalya",
-   "bayrak": "it",
-   "name": "I Torneo della Madonna 2026",
-   "city": "Civitanova Marche (MC)",
-   "start": "2026-12-05",
-   "end": "2026-12-08",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open A",
-     "min": 1600,
-     "max": null
-    },
-    {
-     "n": "Open B",
-     "min": null,
-     "max": 1599
-    }
-   ],
-   "prize": "≈ $1270",
-   "tc": null,
-   "url": "https://mychess.events/event/i-torneo-della-madonna-2026/",
-   "src": "https://mychess.events/event/i-torneo-della-madonna-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-24T09:46:53+00:00"
   },
   {
    "c": "US",
@@ -20368,6 +20248,61 @@
    "lastmod": "2026-10-28T05:14:46+00:00"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "Chessinfo & Golden Knights Chess Academy International FIDE Rating Below 1700 Chess Tournament 2026",
+   "city": "Tamil Nadu 635601",
+   "start": "2026-12-22",
+   "end": "2026-12-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "45 minutes + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/chessinfo-golden-knights-international-below-1700-fide-chess-tournament-2026/",
+   "src": "https://mychess.events/event/chessinfo-golden-knights-international-below-1700-fide-chess-tournament-2026/",
+   "cr": "https://s1.chess-results.com/tnr1532524.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T19:43:49+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "7th Check N Mate All India Open FIDE Rated Rapid & Blitz Chess Tournament 2026",
+   "city": "India.",
+   "start": "2026-12-23",
+   "end": "2026-12-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "7th Check N Mate All India Open FIDE Rat",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "7th Check N Mate All India Open Blitz Ch",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/7th-check-n-mate-all-india-open-fide-rated-rapid-and-blitz-chess-tournament-2026/",
+   "src": "https://mychess.events/event/7th-check-n-mate-all-india-open-fide-rated-rapid-and-blitz-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1508199.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T18:56:08+00:00"
+  },
+  {
    "c": "CN",
    "ulke": "Çin",
    "bayrak": "cn",
@@ -21007,25 +20942,30 @@
    "ulke": "İspanya",
    "bayrak": "es",
    "name": "XV Festival Internacional de Ajedrez Ciudad de Lorca 2026",
-   "city": "Spain",
+   "city": "Murcia",
    "start": "2026-12-26",
    "end": "2026-12-30",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Açık",
+     "n": "A — U2200",
      "min": null,
-     "max": null
+     "max": 2199
+    },
+    {
+     "n": "B — U1800",
+     "min": null,
+     "max": 1799
     }
    ],
    "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
+   "tc": null,
    "url": "https://mychess.events/event/xv-festival-internacional-de-ajedrez-ciudad-de-lorca-2026/",
    "src": "https://mychess.events/event/xv-festival-internacional-de-ajedrez-ciudad-de-lorca-2026/",
-   "cr": "",
+   "cr": "https://chess-results.com/tnr1523684.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-09-23T07:33:30+00:00"
+   "lastmod": "2026-11-07T19:54:43+00:00"
   },
   {
    "c": "CZ",
@@ -21817,7 +21757,7 @@
    "name": "1° Torneo Internazionale di Scacchi “Comune di Capriolo in Franciacorta” 2026",
    "city": "Capriolo (BS)",
    "start": "2026-12-27",
-   "end": "2026-12-29",
+   "end": "2027-01-03",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
@@ -21837,13 +21777,13 @@
      "max": 1599
     }
    ],
-   "prize": "≈ $7,410",
+   "prize": null,
    "tc": "90 minutes + 30 seconds per move",
    "url": "https://mychess.events/event/1-torneo-internazionale-di-scacchi-comune-di-capriolo-in-franciacorta-2026/",
    "src": "https://mychess.events/event/1-torneo-internazionale-di-scacchi-comune-di-capriolo-in-franciacorta-2026/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-08-21T10:11:27+00:00"
+   "lastmod": "2026-11-07T18:59:24+00:00"
   },
   {
    "c": "DE",
@@ -23431,6 +23371,36 @@
    "lastmod": "2026-11-02T08:18:15+00:00"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "I Torneo della Madonna 2026",
+   "city": "Civitanova Marche (MC)",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds increment per move, from move one",
+   "url": "https://mychess.events/event/i-torneo-della-madonna-2026/",
+   "src": "https://mychess.events/event/i-torneo-della-madonna-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T19:12:24+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -23779,6 +23749,31 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T17:44:38+00:00"
+  },
+  {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "24th North East FIDE Rating Chess Championship 2026",
+   "city": "Nagaland 797112",
+   "start": "2027-01-09",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/24th-north-east-fide-rating-chess-championship-2026/",
+   "src": "https://mychess.events/event/24th-north-east-fide-rating-chess-championship-2026/",
+   "cr": "https://s3.chess-results.com/tnr1519549.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T20:03:14+00:00"
   },
   {
    "c": "MC",
@@ -27372,6 +27367,66 @@
    "c": "GR",
    "ulke": "Yunanistan",
    "bayrak": "gr",
+   "name": "11th Corinth Open Tournament 2026 - Groups A, B & C",
+   "city": "Corinth",
+   "start": "2027-03-11",
+   "end": "2027-03-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venues",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tournament Director",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Chief Arbiter",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/11th-corinth-open-tournament-2026-groups-a-b-c/",
+   "src": "https://mychess.events/event/11th-corinth-open-tournament-2026-groups-a-b-c/",
+   "cr": "https://s1.chess-results.com/tnr1507328.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T18:55:15+00:00"
+  },
+  {
+   "c": "GR",
+   "ulke": "Yunanistan",
+   "bayrak": "gr",
    "name": "ACO 2027 World Amateur Chess Championship - Seven Rating Groups in Kos",
    "city": "Venue",
    "start": "2027-03-11",
@@ -30581,7 +30636,7 @@
    "ulke": "Gürcistan",
    "bayrak": "ge",
    "name": "FIDE World Cadets’ Championships 2026 Event Details",
-   "city": "Batumi",
+   "city": "Adjara",
    "start": "2027-06-10",
    "end": "2027-06-23",
    "status": "a",
@@ -30616,20 +30671,15 @@
      "n": "Girls U12",
      "min": null,
      "max": null
-    },
-    {
-     "n": "Total",
-     "min": null,
-     "max": null
     }
    ],
    "prize": null,
-   "tc": "90 minutes per player plus 30 seconds per move from move one",
+   "tc": "90 minutes + 30 seconds per move, starting from move one",
    "url": "https://mychess.events/event/fide-world-cadets-championships-2026/",
    "src": "https://mychess.events/event/fide-world-cadets-championships-2026/",
-   "cr": "https://chess-results.com/tnr1514272.aspx?lan=1",
+   "cr": "https://chess-results.com/tnr1514271.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-11-07T14:47:06+00:00"
+   "lastmod": "2026-11-07T19:33:36+00:00"
   },
   {
    "c": "US",
