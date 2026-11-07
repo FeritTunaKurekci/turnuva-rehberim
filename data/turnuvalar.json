@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-07T10:31",
+ "guncelleme": "2026-11-07T17:35",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-07T10:29",
+   "tarama": "2026-11-07T17:33",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-07T10:31",
+   "tarama": "2026-11-07T17:35",
    "kaynak": "https://mychess.events"
   }
  },
@@ -14617,35 +14617,6 @@
    "oynandi_tarihi": "2026-11-05"
   },
   {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "20th Annual SPICE Cup Open 2026",
-   "city": "USA",
-   "start": "2026-11-04",
-   "end": "2026-11-09",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "SPICE Cup Open",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $12,500",
-   "tc": "G/90 +30 seconds per move",
-   "url": "https://mychess.events/event/20th-annual-spice-cup-open-2026/",
-   "src": "https://mychess.events/event/20th-annual-spice-cup-open-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-21T17:07:36+00:00",
-   "id": "ed3945b2848a",
-   "ilk_gorulme": "2026-09-22",
-   "son_gorulme": "2026-11-07",
-   "durum": "suruyor"
-  },
-  {
    "c": "CL",
    "ulke": "Şili",
    "bayrak": "cl",
@@ -17625,52 +17596,63 @@
    "c": "GE",
    "ulke": "Gürcistan",
    "bayrak": "ge",
-   "name": "FIDE World Cadets’ Championships 2026 Event Details",
-   "city": "Georgia",
+   "name": "European Individual Chess Championship 2027",
+   "city": "Adjara",
    "start": "2026-11-10",
    "end": "2026-11-17",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Groups",
+     "n": "Jun 10–23, 2027",
      "min": null,
      "max": null
     },
     {
-     "n": "Players per Group",
+     "n": "During the event",
      "min": null,
      "max": null
     },
     {
-     "n": "System",
-     "inv": true
-    },
-    {
-     "n": "Games per Player",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Time Control",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Default Time",
+     "n": "Within the championship period",
      "min": null,
      "max": null
     }
    ],
    "prize": null,
-   "tc": "90 minutes + 30 seconds per move from move one",
-   "url": "https://mychess.events/event/fide-world-cadets-championships-2026/",
-   "src": "https://mychess.events/event/fide-world-cadets-championships-2026/",
+   "tc": null,
+   "url": "https://mychess.events/event/european-individual-chess-championship-2027/",
+   "src": "https://mychess.events/event/european-individual-chess-championship-2027/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-09-21T18:05:56+00:00",
-   "id": "6b26f2c149cc",
-   "ilk_gorulme": "2026-09-22",
+   "lastmod": "2026-10-30T11:43:00+00:00",
+   "id": "415587478120",
+   "ilk_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1651-hatay-doertyol-ted-koleji-10-kasim-atatuerkue-anma-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI 07-08/11/2026 tarihleri arasında Ted Dörtyol Koleji tarafından Hatay İli Dörtyol İlçesi Dörtyol Ted Koleji Salonu'nda düzenlenecek olan Hatay Dörtyol Ted Koleji Atatürk'ü Anma Satranç Turnuvası başladı. Sonraki >",
+   "id": "3418599d6a4d",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -19779,7 +19761,7 @@
    ],
    "url": "https://cankiri.tsf.org.tr/satranc-haberleri/379-2027-yildirim-satranc-cankiri-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız < Önceki Sonraki >",
+   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız",
    "id": "178926c30d68",
    "ilk_gorulme": "2026-10-17",
    "son_gorulme": "2026-11-07",
@@ -20077,9 +20059,9 @@
      "age": true
     }
    ],
-   "url": "https://edirne.tsf.org.tr/satranc-haberleri",
+   "url": "https://edirne.tsf.org.tr/satranc-haberleri/618-18-kasm-uzunkoepruenuen-kurtulusu-satranc-turnuvas-2026",
    "kaynak": "site",
-   "kaynak_metin": "18 Kasım Uzunköprü'nün Kurtuluşu Satranç Turnuvası 2026 Satranç Haberleri 18 Kasım Uzunköprü'nün Kurtuluşu Satranç Turnuvası 2026 Turnuva 18 Kasım Uzunköprü'nün Kurtuluşu Satranç Turnuvası 2026 Organizasyon Edirne GSİM & Edirne Satranç İl Temsilciliği Turnuva Tarihi 14-15 Kasım 2026 Cumartesi-Pazar Turnuva Yeri/Konum Uzunköprü Oğuz Arda Sel Gençlik Merkezi Kategoriler 08 Yaş ve Altı Kategorisi (2020-2019 Doğumlu Sporcular) 10 Yaş ve Altı Kategorisi (2018-2017 Doğumlu Sporcular) 14 Yaş ve Altı Ka",
+   "kaynak_metin": "18 Kasım Uzunköprü'nün Kurtuluşu Satranç Turnuvası 2026 18 Kasım Uzunköprü'nün Kurtuluşu Satranç Turnuvası 2026 Turnuva 18 Kasım Uzunköprü'nün Kurtuluşu Satranç Turnuvası 2026 Organizasyon Edirne GSİM & Edirne Satranç İl Temsilciliği Turnuva Tarihi 14-15 Kasım 2026 Cumartesi-Pazar Turnuva Yeri/Konum Uzunköprü Oğuz Arda Sel Gençlik Merkezi Kategoriler 08 Yaş ve Altı Kategorisi (2020-2019 Doğumlu Sporcular) 10 Yaş ve Altı Kategorisi (2018-2017 Doğumlu Sporcular) 14 Yaş ve Altı Kategorisi (2016-201",
    "id": "dce0ab906cc7",
    "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
@@ -21368,6 +21350,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Kahramanmaraş",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kahramanmaras.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Kahramanmaraş Öğretmenler Günü Satranç Turnuvası Turnuvaya, Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2025 – 2026 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan lisanslı sporcular katılabilir. Turnuva Direktörü : Atilla GÜLER- 050 235 25 26 Turnuva Tarihi: 21-22 Kasım 2026 Turnuva Kayıt: *** TURNUVA KATILMAK İÇİN TIKLAYINIZ *** Yönerge: YÖNERGE.pdf Kayıt Kontrol: Turnuva İlk Gününde Saat: 08:30-9:15 (Turlar başlamadan teyid masasında teyid ",
+   "id": "62ae4f85baa6",
+   "ilk_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Denizli",
    "name": "ÇİVRİL BELEDİYESİ ALTIN ELMA YILDIRIM SATRANÇ TURNUVASI",
    "start": "2026-11-21",
@@ -21835,7 +21842,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g",
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür",
    "id": "57473d6a3cce",
    "ilk_gorulme": "2026-10-16",
    "son_gorulme": "2026-11-07",
@@ -22893,7 +22900,7 @@
    "kaynak_metin": "Kahramanmaraş İl Birincilikleri Satranç Turnuvası Kahramanmaraş 2026-2027 İl Birincilikleri takvimi aşağıdaki tabloya işlenmiştir. Yönergeyi detaylı şekilde okuyunuz. Turnuva tarihleri için yapılan planlamada değişiklik olması halinde resmi web sayfamız ve sosyal medya hesaplarımızda ilan edilecektir. Turnuva Direktörü : Atilla GÜLER - 0505 644 25 26 Turnuva Tarihi: Yönergeleri detaylı okuyalım Turnuva Kayıt: *** TURNUVA KATILMAK İÇİN TIKLAYINIZ *** Kayıt Kontrol: Turnuva Başladığı Gün - Saat: 0",
    "id": "0df04ecb834a",
    "ilk_gorulme": "2026-11-02",
-   "son_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
   {
@@ -25408,18 +25415,8 @@
    "start": "2026-12-12",
    "end": "2026-12-13",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
-    {
-     "n": "A Kategorisi",
-     "min": 1400,
-     "max": null
-    },
-    {
-     "n": "B Kategorisi",
-     "min": null,
-     "max": 1399
-    },
     {
      "n": "Yaş kategorileri",
      "age": true
@@ -25427,10 +25424,10 @@
    ],
    "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 MANAVGAT BAHÇEŞEHİR KOLEJİ SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği, Manavgat İlçe Temsilciliği tarafından, 12-13 Aralık 2026 tarihlerinde, Manavgat Bahçeşehir Kolejinde 2026 Manavgat Bahçeşhir Koleji Satranç Turnuvası düzenlenecektir. Müsabaka 35'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLE",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 ANTALYA BAHÇEŞEHİR KOLEJİ PARK ORMAN BATI KAMPÜSÜ SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği ve Bahçeşehir Koleji tarafından, 12-13 Aralık 2026 tarihinde, Bahçeşehir Koleji Park Orman Batı Kampüsünde, Antalya Bahçeşehir Koleji Park Orman Batı Kampüsü Satranç Turnuvası düzenlenecektir. Müsabaka 35'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA ",
    "id": "51d670680c15",
    "ilk_gorulme": "2026-10-02",
-   "son_gorulme": "2026-11-05",
+   "son_gorulme": "2026-11-07",
    "tarih_degisti": "2026-11-14 → 2026-12-12",
    "durum": "yaklasan"
   },
@@ -25555,6 +25552,31 @@
    "id": "97d02f0aff72",
    "ilk_gorulme": "2026-10-24",
    "son_gorulme": "2026-10-26",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bilecik",
+   "name": "YILDIZLAR BİLECİK BİRİNCİLİĞİ",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bilecik.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIZLAR BİLECİK BİRİNCİLİĞİ -13 Aralık 2026 tarihlerinde Bilecik Gençlik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 11.12.2026 Yönerge Turnuva Kayıt Devamını oku...",
+   "id": "023d4f9396be",
+   "ilk_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
   {
@@ -26326,70 +26348,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "NL",
-   "ulke": "Hollanda",
-   "bayrak": "nl",
-   "name": "Chessfestival Groningen 2026",
-   "city": "AC Groningen",
-   "start": "2026-12-19",
-   "end": "2026-12-24",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Saturday, December 19",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, December 19",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Wednesday, December 23",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $11,580",
-   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
-   "url": "https://mychess.events/event/chessfestival-groningen-2026/",
-   "src": "https://mychess.events/event/chessfestival-groningen-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-06-07T16:35:09+00:00",
-   "id": "76e0dcb5f3d9",
-   "ilk_gorulme": "2026-09-23",
-   "son_gorulme": "2026-11-07",
-   "durum": "yaklasan"
-  },
-  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -26435,6 +26393,54 @@
    "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE ",
    "id": "4408af14225b",
    "ilk_gorulme": "2026-11-04",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Tata Steel Chess Tournament 2027 - Amateur Nine-Round Tienkampen",
+   "city": "North Holland",
+   "start": "2026-12-19",
+   "end": "2026-12-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Nine-Round Tienkampen",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Weekend Three-Round Event",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Weekday Three-Round Event",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth Rapid Event",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Masters and Challengers",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes / 40 moves + 30 minutes + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/tata-steel-chess-tournament-2027-amateur-nine-round-tienkampen/",
+   "src": "https://mychess.events/event/tata-steel-chess-tournament-2027-amateur-nine-round-tienkampen/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-10-31T10:23:43+00:00",
+   "id": "19c73cfa2c74",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -27297,70 +27303,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "GR",
-   "ulke": "Yunanistan",
-   "bayrak": "gr",
-   "name": "ACO 2027 World Amateur Chess Championship - Seven Rating Groups in Kos",
-   "city": "Venue",
-   "start": "2026-12-26",
-   "end": "2027-01-03",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Tournament",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Dates",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "City & Country",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Organizer",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Venue",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Time Control",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Rounds",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Groups",
-     "min": 2201,
-     "max": 2400
-    }
-   ],
-   "prize": null,
-   "tc": "90 min / 40 moves + 15 min; 30 sec per move",
-   "url": "https://mychess.events/event/aco-2027-world-amateur-chess-championship-kos/",
-   "src": "https://mychess.events/event/aco-2027-world-amateur-chess-championship-kos/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-07T10:24:42+00:00",
-   "id": "a49022300aa9",
-   "ilk_gorulme": "2026-11-07",
-   "son_gorulme": "2026-11-07",
-   "durum": "yaklasan"
-  },
-  {
    "c": "RS",
    "ulke": "Sırbistan",
    "bayrak": "rs",
@@ -27908,7 +27850,7 @@
    "lastmod": "2026-11-02T09:45:03+00:00",
    "id": "ad7dfa1b2331",
    "ilk_gorulme": "2026-11-02",
-   "son_gorulme": "2026-11-03",
+   "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
   {
@@ -27947,40 +27889,6 @@
    "lastmod": "2026-08-21T10:57:34+00:00",
    "id": "1941eb5cdab6",
    "ilk_gorulme": "2026-09-22",
-   "son_gorulme": "2026-11-07",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "Australian Open Chess Championships 2027 | Darwin",
-   "city": "Darwin NT 0800",
-   "start": "2026-12-27",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Australian Open Classical",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Australian Open Blitz",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
-   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-03T11:25:07+00:00",
-   "id": "be2d2e1a1cae",
-   "ilk_gorulme": "2026-11-03",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -28108,6 +28016,41 @@
    "lastmod": "2026-11-02T10:25:09+00:00",
    "id": "68c4ba9e139a",
    "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Australian Open Chess Championships 2027 | Darwin",
+   "city": "Darwin NT 0800",
+   "start": "2026-12-28",
+   "end": "2026-12-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Australian Open Classical",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Australian Open Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:12:02+00:00",
+   "id": "be2d2e1a1cae",
+   "tarih_degisti": "2026-12-27 → 2026-12-28",
+   "ilk_gorulme": "2026-11-03",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -28348,6 +28291,70 @@
    "lastmod": "2026-10-13T06:33:31+00:00",
    "id": "8dfbfdf7598d",
    "ilk_gorulme": "2026-10-13",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "42nd Böblinger Open 2026",
+   "city": "Böblingen",
+   "start": "2027-01-02",
+   "end": "2027-01-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/42nd-boblinger-open-2026/",
+   "src": "https://mychess.events/event/42nd-boblinger-open-2026/",
+   "cr": "https://s1.chess-results.com/tnr1411789.aspx?lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:45:29+00:00",
+   "id": "e21e4bfc148b",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -28925,6 +28932,36 @@
    "lastmod": "2026-08-02T17:24:35+00:00",
    "id": "82854b2e5b04",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "20th Annual SPICE Cup Open 2026",
+   "city": "USA",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "SPICE Cup Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90 +30 seconds per move",
+   "url": "https://mychess.events/event/20th-annual-spice-cup-open-2026/",
+   "src": "https://mychess.events/event/20th-annual-spice-cup-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:37:41+00:00",
+   "id": "e43cd620067d",
+   "tarih_degisti": "2026-11-04 → 2027-01-09",
+   "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -30457,6 +30494,45 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "6th Collingwood-Somborac Chess Festival 2027 - Classical Open",
+   "city": "Ontario L9Y 5G4",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Crown",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Under 1500",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/6th-collingwood-somborac-chess-festival-2027/",
+   "src": "https://mychess.events/event/6th-collingwood-somborac-chess-festival-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T11:08:42+00:00",
+   "id": "d2de3fd983f9",
+   "ilk_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -30683,6 +30759,71 @@
    "lastmod": "2026-10-14T06:38:20+00:00",
    "id": "c3ef9496df8b",
    "ilk_gorulme": "2026-10-14",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Chessfestival Groningen 2026",
+   "city": "AC Groningen",
+   "start": "2027-02-05",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, December 23",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/chessfestival-groningen-2026/",
+   "src": "https://mychess.events/event/chessfestival-groningen-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:45:48+00:00",
+   "id": "766d5b4e1f7b",
+   "tarih_degisti": "2026-12-19 → 2027-02-05",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -31064,6 +31205,55 @@
    "lastmod": "2026-09-24T11:24:22+00:00",
    "id": "5956450fd0d6",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "FIDE Freestyle Chess World Championship 2027",
+   "city": "Weissenhaus",
+   "start": "2027-02-12",
+   "end": "2027-02-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Magnus Carlsen",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Fabiano Caruana",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Nodirbek Abdusattorov",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Vincent Keymer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Pranav Venkatesh",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/fide-freestyle-chess-world-championship-2027/",
+   "src": "https://mychess.events/event/fide-freestyle-chess-world-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-09-30T04:27:02+00:00",
+   "id": "54515a4ae689",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -32289,50 +32479,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "SI",
-   "ulke": "Slovenya",
-   "bayrak": "si",
-   "name": "Bled Chess Festival 2027",
-   "city": "Bled",
-   "start": "2027-03-08",
-   "end": "2027-03-14",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Bled OPEN",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Late Night Blitz",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Freestyle Chess (Chess960) Rapid",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Dr. Janez Barle Memorial Blitz",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $6,720",
-   "tc": "75 minutes + 30 seconds per move; 15 additional minutes after move 40",
-   "url": "https://mychess.events/event/bled-chess-festival-2027/",
-   "src": "https://mychess.events/event/bled-chess-festival-2027/",
-   "cr": "https://s3.chess-results.com/tnr1496771.aspx?SNode=S0&lan=21",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-25T11:03:51+00:00",
-   "id": "2999eb4ceb5c",
-   "ilk_gorulme": "2026-09-23",
-   "son_gorulme": "2026-11-07",
-   "durum": "yaklasan"
-  },
-  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -32443,6 +32589,71 @@
    "lastmod": "2026-10-13T08:30:36+00:00",
    "id": "a0a5ca8ed10d",
    "ilk_gorulme": "2026-10-13",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "GR",
+   "ulke": "Yunanistan",
+   "bayrak": "gr",
+   "name": "ACO 2027 World Amateur Chess Championship - Seven Rating Groups in Kos",
+   "city": "Venue",
+   "start": "2027-03-11",
+   "end": "2027-03-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City & Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time Control",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Groups",
+     "min": 2201,
+     "max": 2400
+    }
+   ],
+   "prize": null,
+   "tc": "90 min / 40 moves + 15 min; 30 sec per move",
+   "url": "https://mychess.events/event/aco-2027-world-amateur-chess-championship-kos/",
+   "src": "https://mychess.events/event/aco-2027-world-amateur-chess-championship-kos/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T10:35:42+00:00",
+   "id": "420fd658a586",
+   "tarih_degisti": "2026-12-26 → 2027-03-11",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -33266,9 +33477,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-06T21:12:57+00:00",
    "id": "fb28c081f423",
-   "tarih_degisti": "2027-01-01 → 2027-03-21",
    "ilk_gorulme": "2026-09-25",
    "son_gorulme": "2026-11-07",
+   "tarih_degisti": "2027-01-01 → 2027-03-21",
    "durum": "yaklasan"
   },
   {
@@ -34211,6 +34422,50 @@
    "lastmod": "2026-09-17T16:50:09+00:00",
    "id": "dc7643ae638a",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "BC Open 2027 - FIDE Classical Open, U2000, U1500 & U1000 in Richmond",
+   "city": "BC V6X 1A3",
+   "start": "2027-04-23",
+   "end": "2027-04-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1500",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "U1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/bc-open-2027-richmond-canada/",
+   "src": "https://mychess.events/event/bc-open-2027-richmond-canada/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:01:34+00:00",
+   "id": "776fee92d9df",
+   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
@@ -35381,6 +35636,66 @@
    "durum": "yaklasan"
   },
   {
+   "c": "GE",
+   "ulke": "Gürcistan",
+   "bayrak": "ge",
+   "name": "FIDE World Cadets’ Championships 2026 Event Details",
+   "city": "Batumi",
+   "start": "2027-06-10",
+   "end": "2027-06-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/fide-world-cadets-championships-2026/",
+   "src": "https://mychess.events/event/fide-world-cadets-championships-2026/",
+   "cr": "https://chess-results.com/tnr1514272.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:47:06+00:00",
+   "id": "11fcf8ae156f",
+   "tarih_degisti": "2026-11-10 → 2027-06-10",
+   "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -36386,6 +36701,51 @@
    "lastmod": "2026-10-15T09:26:33+00:00",
    "id": "cc80f692bdfe",
    "ilk_gorulme": "2026-10-15",
+   "son_gorulme": "2026-11-07",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "SI",
+   "ulke": "Slovenya",
+   "bayrak": "si",
+   "name": "Bled Chess Festival 2027",
+   "city": "Bled",
+   "start": "2027-08-20",
+   "end": "2027-08-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Bled OPEN",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Late Night Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Freestyle Chess (Chess960) Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dr. Janez Barle Memorial Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "75 minutes + 30 seconds per move; 15 additional minutes after move 40",
+   "url": "https://mychess.events/event/bled-chess-festival-2027/",
+   "src": "https://mychess.events/event/bled-chess-festival-2027/",
+   "cr": "https://s3.chess-results.com/tnr1496771.aspx?SNode=S0&lan=21",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:32:40+00:00",
+   "id": "d6a637ea3482",
+   "tarih_degisti": "2027-03-08 → 2027-08-20",
+   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },

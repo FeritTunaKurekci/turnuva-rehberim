@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-07T10:31",
+ "taranma": "2026-11-07T17:35",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 32,
+ "okunan_sayfa": 33,
  "turnuvalar": [
   {
    "c": "US",
@@ -8916,31 +8916,6 @@
    "lastmod": "2026-11-06T06:52:36+00:00"
   },
   {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "20th Annual SPICE Cup Open 2026",
-   "city": "USA",
-   "start": "2026-11-04",
-   "end": "2026-11-09",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "SPICE Cup Open",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $12,500",
-   "tc": "G/90 +30 seconds per move",
-   "url": "https://mychess.events/event/20th-annual-spice-cup-open-2026/",
-   "src": "https://mychess.events/event/20th-annual-spice-cup-open-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-21T17:07:36+00:00"
-  },
-  {
    "c": "CA",
    "ulke": "Kanada",
    "bayrak": "ca",
@@ -10414,6 +10389,46 @@
    "lastmod": "2026-11-04T21:37:29+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Golders Green FIDE Rapid – November 2026",
+   "city": "London NW3 7SU",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "ECF Under 1100",
+     "min": null,
+     "max": 1099
+    }
+   ],
+   "prize": null,
+   "tc": "20 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/golders-green-fide-rapid-november-2026/",
+   "src": "https://mychess.events/event/golders-green-fide-rapid-november-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:37:00+00:00"
+  },
+  {
    "c": "PT",
    "ulke": "Portekiz",
    "bayrak": "pt",
@@ -10707,55 +10722,6 @@
    "cr": "https://s2.chess-results.com/tnr1532198.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-06T05:59:52+00:00"
-  },
-  {
-   "c": "GE",
-   "ulke": "Gürcistan",
-   "bayrak": "ge",
-   "name": "FIDE World Cadets’ Championships 2026 Event Details",
-   "city": "Georgia",
-   "start": "2026-11-10",
-   "end": "2026-11-17",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Groups",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Players per Group",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "System",
-     "inv": true
-    },
-    {
-     "n": "Games per Player",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Time Control",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Default Time",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move from move one",
-   "url": "https://mychess.events/event/fide-world-cadets-championships-2026/",
-   "src": "https://mychess.events/event/fide-world-cadets-championships-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-21T18:05:56+00:00"
   },
   {
    "c": "HU",
@@ -11386,6 +11352,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-26T19:17:32+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "23e Open International de Noël de Mont-de-Marsan 2026",
+   "city": "Mont-de-Marsan",
+   "start": "2026-11-11",
+   "end": "2026-11-11",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "December 26–30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, December 30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/23e-open-international-de-noel-de-mont-de-marsan-2026/",
+   "src": "https://mychess.events/event/23e-open-international-de-noel-de-mont-de-marsan-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:45:39+00:00"
   },
   {
    "c": "GR",
@@ -12266,46 +12267,6 @@
    "cr": "https://chess-results.com/tnr1459746.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-21T07:25:18+00:00"
-  },
-  {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "Golders Green FIDE Rapid – November 2026",
-   "city": "London NW3 7SU",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 1900",
-     "min": null,
-     "max": 1899
-    },
-    {
-     "n": "Under 1600",
-     "min": null,
-     "max": 1599
-    },
-    {
-     "n": "ECF Under 1100",
-     "min": null,
-     "max": 1099
-    }
-   ],
-   "prize": null,
-   "tc": "20 minutes + 5 seconds per move",
-   "url": "https://mychess.events/event/golders-green-fide-rapid-november-2026/",
-   "src": "https://mychess.events/event/golders-green-fide-rapid-november-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-21T07:12:57+00:00"
   },
   {
    "c": "ES",
@@ -14683,6 +14644,31 @@
    "cr": "https://chess-results.com/tnr1476055.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-03T13:19:42+00:00"
+  },
+  {
+   "c": "IS",
+   "ulke": "İzlanda",
+   "bayrak": "is",
+   "name": "Reykjavik Open 2027",
+   "city": "Reykjavik",
+   "start": "2026-11-24",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/reykjavik-open-2027/",
+   "src": "https://mychess.events/event/reykjavik-open-2027/",
+   "cr": "https://chess-results.com/tnr1480891.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:44:43+00:00"
   },
   {
    "c": "US",
@@ -18141,6 +18127,51 @@
    "lastmod": "2026-10-29T09:41:21+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Chessence Open - December 2027",
+   "city": "Willingen (Upland)",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Standard Eligibility",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Optional Entry",
+     "min": 1950,
+     "max": null
+    },
+    {
+     "n": "Membership",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE ID",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 15 minutes for the rest + 30 seconds per move",
+   "url": "https://mychess.events/event/chessence-open-december-2027/",
+   "src": "https://mychess.events/event/chessence-open-december-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:44:23+00:00"
+  },
+  {
    "c": "AE",
    "ulke": "BAE",
    "bayrak": "ae",
@@ -19788,66 +19819,6 @@
    "lastmod": "2026-06-29T18:33:49+00:00"
   },
   {
-   "c": "NL",
-   "ulke": "Hollanda",
-   "bayrak": "nl",
-   "name": "Chessfestival Groningen 2026",
-   "city": "AC Groningen",
-   "start": "2026-12-19",
-   "end": "2026-12-24",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Saturday, December 19",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, December 19",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Wednesday, December 23",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $11,580",
-   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
-   "url": "https://mychess.events/event/chessfestival-groningen-2026/",
-   "src": "https://mychess.events/event/chessfestival-groningen-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-06-07T16:35:09+00:00"
-  },
-  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -21205,66 +21176,6 @@
    "lastmod": "2026-08-02T11:20:55+00:00"
   },
   {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "42nd Böblinger Open 2026",
-   "city": "Böblingen",
-   "start": "2026-12-26",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 29",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 29",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $6,810",
-   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
-   "url": "https://mychess.events/event/42nd-boblinger-open-2026/",
-   "src": "https://mychess.events/event/42nd-boblinger-open-2026/",
-   "cr": "https://s1.chess-results.com/tnr1411789.aspx?lan=0",
-   "kayit_kapali": false,
-   "lastmod": "2026-07-06T11:42:56+00:00"
-  },
-  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -21538,41 +21449,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-06-09T08:37:15+00:00"
-  },
-  {
-   "c": "FR",
-   "ulke": "Fransa",
-   "bayrak": "fr",
-   "name": "23e Open International de Noël de Mont-de-Marsan 2026",
-   "city": "Mont-de-Marsan",
-   "start": "2026-12-26",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "December 26–30",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Wednesday, December 30",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $6,980",
-   "tc": "90 minutes per player + 30 seconds per move",
-   "url": "https://mychess.events/event/23e-open-international-de-noel-de-mont-de-marsan-2026/",
-   "src": "https://mychess.events/event/23e-open-international-de-noel-de-mont-de-marsan-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-06-09T07:39:55+00:00"
   },
   {
    "c": "ES",
@@ -21858,96 +21734,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T12:58:31+00:00"
-  },
-  {
-   "c": "GR",
-   "ulke": "Yunanistan",
-   "bayrak": "gr",
-   "name": "ACO 2027 World Amateur Chess Championship - Seven Rating Groups in Kos",
-   "city": "Venue",
-   "start": "2026-12-26",
-   "end": "2027-01-03",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Tournament",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Dates",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "City & Country",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Organizer",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Venue",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Time Control",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Rounds",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Groups",
-     "min": 2201,
-     "max": 2400
-    }
-   ],
-   "prize": null,
-   "tc": "90 min / 40 moves + 15 min; 30 sec per move",
-   "url": "https://mychess.events/event/aco-2027-world-amateur-chess-championship-kos/",
-   "src": "https://mychess.events/event/aco-2027-world-amateur-chess-championship-kos/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-07T10:24:42+00:00"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "Australian Open Chess Championships 2027 | Darwin",
-   "city": "Darwin NT 0800",
-   "start": "2026-12-27",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Australian Open Classical",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Australian Open Blitz",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
-   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-03T11:25:07+00:00"
   },
   {
    "c": "DE",
@@ -22590,6 +22376,76 @@
    "lastmod": "2026-11-05T18:48:59+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Chessence Open - February 2027",
+   "city": "Willingen (Upland)",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total per Group",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 15 minutes for the rest + 30 seconds per move",
+   "url": "https://mychess.events/event/chessence-open-february-2027/",
+   "src": "https://mychess.events/event/chessence-open-february-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:44:37+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Australian Open Chess Championships 2027 | Darwin",
+   "city": "Darwin NT 0800",
+   "start": "2026-12-28",
+   "end": "2026-12-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Australian Open Classical",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Australian Open Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:12:02+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -22888,6 +22744,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T18:20:18+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "42nd Böblinger Open 2026",
+   "city": "Böblingen",
+   "start": "2027-01-02",
+   "end": "2027-01-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 29",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/42nd-boblinger-open-2026/",
+   "src": "https://mychess.events/event/42nd-boblinger-open-2026/",
+   "cr": "https://s1.chess-results.com/tnr1411789.aspx?lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:45:29+00:00"
   },
   {
    "c": "IN",
@@ -23643,6 +23559,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-01T14:12:55+00:00"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Letzi Open 2027 - Seven-Round Rapid & Classical Chess in Zurich",
+   "city": "Zürich",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Rapid rounds 1–3: 10+5; Classical rounds 4–7: 90+30",
+   "url": "https://mychess.events/event/letzi-open-2027-zurich/",
+   "src": "https://mychess.events/event/letzi-open-2027-zurich/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T10:40:47+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "20th Annual SPICE Cup Open 2026",
+   "city": "USA",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "SPICE Cup Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90 +30 seconds per move",
+   "url": "https://mychess.events/event/20th-annual-spice-cup-open-2026/",
+   "src": "https://mychess.events/event/20th-annual-spice-cup-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:37:41+00:00"
   },
   {
    "c": "EN",
@@ -24556,6 +24522,41 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
+   "name": "2027 Charlotte February Open - FIDE Classical Championship, U2050 & U1600",
+   "city": "NC 28210",
+   "start": "2027-01-16",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 2050",
+     "min": null,
+     "max": 2049
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "Championship 3-day: G/110+10; U2050/U1600 3-day: G/100+10; shortened 2-day qualifying rounds",
+   "url": "https://mychess.events/event/2027-charlotte-february-open-fide-classical/",
+   "src": "https://mychess.events/event/2027-charlotte-february-open-fide-classical/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:14:00+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
    "name": "2027 Charlotte Open Blitz",
    "city": "NC 28262",
    "start": "2027-01-17",
@@ -25370,6 +25371,41 @@
    "lastmod": "2026-10-16T08:24:20+00:00"
   },
   {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "6th Collingwood-Somborac Chess Festival 2027 - Classical Open",
+   "city": "Ontario L9Y 5G4",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Crown",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Under 1500",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/6th-collingwood-somborac-chess-festival-2027/",
+   "src": "https://mychess.events/event/6th-collingwood-somborac-chess-festival-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T11:08:42+00:00"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -25513,6 +25549,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-13T07:24:42+00:00"
+  },
+  {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Chessfestival Groningen 2026",
+   "city": "AC Groningen",
+   "start": "2027-02-05",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, December 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, December 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, December 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, December 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, December 23",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/chessfestival-groningen-2026/",
+   "src": "https://mychess.events/event/chessfestival-groningen-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:45:48+00:00"
   },
   {
    "c": "US",
@@ -25883,46 +25979,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T14:20:33+00:00"
-  },
-  {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "Chessence Open - February 2027",
-   "city": "Willingen (Upland)",
-   "start": "2027-02-12",
-   "end": "2027-02-14",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "1st Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "2nd Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "3rd Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Total per Group",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes for 40 moves + 15 minutes for the rest + 30 seconds per move",
-   "url": "https://mychess.events/event/chessence-open-february-2027/",
-   "src": "https://mychess.events/event/chessence-open-february-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-24T11:24:22+00:00"
   },
   {
    "c": "CH",
@@ -27313,44 +27369,64 @@
    "lastmod": "2026-10-14T08:52:29+00:00"
   },
   {
-   "c": "SI",
-   "ulke": "Slovenya",
-   "bayrak": "si",
-   "name": "Bled Chess Festival 2027",
-   "city": "Bled",
-   "start": "2027-03-08",
-   "end": "2027-03-14",
+   "c": "GR",
+   "ulke": "Yunanistan",
+   "bayrak": "gr",
+   "name": "ACO 2027 World Amateur Chess Championship - Seven Rating Groups in Kos",
+   "city": "Venue",
+   "start": "2027-03-11",
+   "end": "2027-03-15",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Bled OPEN",
+     "n": "Tournament",
      "min": null,
      "max": null
     },
     {
-     "n": "Late Night Blitz",
+     "n": "Dates",
      "min": null,
      "max": null
     },
     {
-     "n": "Freestyle Chess (Chess960) Rapid",
+     "n": "City & Country",
      "min": null,
      "max": null
     },
     {
-     "n": "Dr. Janez Barle Memorial Blitz",
+     "n": "Organizer",
      "min": null,
      "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time Control",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Groups",
+     "min": 2201,
+     "max": 2400
     }
    ],
-   "prize": "≈ $6,720",
-   "tc": "75 minutes + 30 seconds per move; 15 additional minutes after move 40",
-   "url": "https://mychess.events/event/bled-chess-festival-2027/",
-   "src": "https://mychess.events/event/bled-chess-festival-2027/",
-   "cr": "https://s3.chess-results.com/tnr1496771.aspx?SNode=S0&lan=21",
+   "prize": null,
+   "tc": "90 min / 40 moves + 15 min; 30 sec per move",
+   "url": "https://mychess.events/event/aco-2027-world-amateur-chess-championship-kos/",
+   "src": "https://mychess.events/event/aco-2027-world-amateur-chess-championship-kos/",
+   "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-10-25T11:03:51+00:00"
+   "lastmod": "2026-11-07T10:35:42+00:00"
   },
   {
    "c": "GR",
@@ -27843,13 +27919,13 @@
    "lastmod": "2026-11-05T17:01:10+00:00"
   },
   {
-   "c": "IS",
-   "ulke": "İzlanda",
-   "bayrak": "is",
-   "name": "Reykjavik Open 2027",
-   "city": "Reykjavik",
-   "start": "2027-03-17",
-   "end": "2027-03-23",
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "12th Locarno Weekend Open 2027 - Swiss Lake & City Classical Chess",
+   "city": "Ticino",
+   "start": "2027-03-14",
+   "end": "2027-03-20",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
@@ -27860,12 +27936,12 @@
     }
    ],
    "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/reykjavik-open-2027/",
-   "src": "https://mychess.events/event/reykjavik-open-2027/",
-   "cr": "https://chess-results.com/tnr1480891.aspx?lan=1",
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/12th-locarno-weekend-open-2027-swiss-lake-city-open/",
+   "src": "https://mychess.events/event/12th-locarno-weekend-open-2027-swiss-lake-city-open/",
+   "cr": "https://s3.chess-results.com/tnr1434250.aspx?SNode=S0&lan=32",
    "kayit_kapali": false,
-   "lastmod": "2026-09-04T11:26:15+00:00"
+   "lastmod": "2026-11-07T10:59:46+00:00"
   },
   {
    "c": "CH",
@@ -29080,6 +29156,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-17T16:50:09+00:00"
+  },
+  {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "BC Open 2027 - FIDE Classical Open, U2000, U1500 & U1000 in Richmond",
+   "city": "BC V6X 1A3",
+   "start": "2027-04-23",
+   "end": "2027-04-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1500",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "U1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/bc-open-2027-richmond-canada/",
+   "src": "https://mychess.events/event/bc-open-2027-richmond-canada/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:01:34+00:00"
   },
   {
    "c": "US",
@@ -30459,6 +30575,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-13T17:29:55+00:00"
+  },
+  {
+   "c": "GE",
+   "ulke": "Gürcistan",
+   "bayrak": "ge",
+   "name": "FIDE World Cadets’ Championships 2026 Event Details",
+   "city": "Batumi",
+   "start": "2027-06-10",
+   "end": "2027-06-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Girls U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/fide-world-cadets-championships-2026/",
+   "src": "https://mychess.events/event/fide-world-cadets-championships-2026/",
+   "cr": "https://chess-results.com/tnr1514272.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T14:47:06+00:00"
   },
   {
    "c": "US",
@@ -31933,6 +32104,46 @@
    "c": "SI",
    "ulke": "Slovenya",
    "bayrak": "si",
+   "name": "Bled Chess Festival 2027",
+   "city": "Bled",
+   "start": "2027-08-20",
+   "end": "2027-08-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Bled OPEN",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Late Night Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Freestyle Chess (Chess960) Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dr. Janez Barle Memorial Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "75 minutes + 30 seconds per move; 15 additional minutes after move 40",
+   "url": "https://mychess.events/event/bled-chess-festival-2027/",
+   "src": "https://mychess.events/event/bled-chess-festival-2027/",
+   "cr": "https://s3.chess-results.com/tnr1496771.aspx?SNode=S0&lan=21",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-07T13:32:40+00:00"
+  },
+  {
+   "c": "SI",
+   "ulke": "Slovenya",
+   "bayrak": "si",
    "name": "European Youth Rapid & Blitz Chess Championships 2027",
    "city": "Terme Čatež resort area – Čatež ob Savi",
    "start": "2027-08-20",
@@ -32113,51 +32324,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T11:00:10+00:00"
-  },
-  {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "Chessence Open - December 2027",
-   "city": "Willingen (Upland)",
-   "start": "2027-12-03",
-   "end": "2027-12-05",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Standard Eligibility",
-     "min": 2000,
-     "max": null
-    },
-    {
-     "n": "Optional Entry",
-     "min": 1950,
-     "max": null
-    },
-    {
-     "n": "Membership",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Rating",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "FIDE ID",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes for 40 moves + 15 minutes for the rest + 30 seconds per move",
-   "url": "https://mychess.events/event/chessence-open-december-2027/",
-   "src": "https://mychess.events/event/chessence-open-december-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-24T11:36:33+00:00"
   },
   {
    "c": "HU",
