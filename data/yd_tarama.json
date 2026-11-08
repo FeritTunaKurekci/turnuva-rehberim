@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-08T10:43",
+ "taranma": "2026-11-08T17:47",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 28,
+ "okunan_sayfa": 47,
  "turnuvalar": [
   {
    "c": "US",
@@ -8571,6 +8571,31 @@
    "lastmod": "2026-10-30T18:05:32+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Binzer Senior Winter Chess Tournament 2026",
+   "city": "Germany.",
+   "start": "2026-10-31",
+   "end": "2026-11-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "130 minutes per player",
+   "url": "https://mychess.events/event/binzer-senior-winter-chess-tournament-2026/",
+   "src": "https://mychess.events/event/binzer-senior-winter-chess-tournament-2026/",
+   "cr": "https://chess-results.com/tnr1336130.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:23:03+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -8914,6 +8939,31 @@
    "cr": "https://s1.chess-results.com/tnr1493505.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-06T06:52:36+00:00"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "Stein am Rhein Swiss City Open 2027",
+   "city": "Stein am Rhein",
+   "start": "2026-11-02",
+   "end": "2026-11-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/stein-am-rhein-swiss-city-open-2027/",
+   "src": "https://mychess.events/event/stein-am-rhein-swiss-city-open-2027/",
+   "cr": "https://s3.chess-results.com/Tnr1434232.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T15:16:37+00:00"
   },
   {
    "c": "KZ",
@@ -12129,6 +12179,51 @@
    "lastmod": "2026-10-28T05:28:13+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2026 US Masters",
+   "city": "USA",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Established Rating",
+     "min": 2200,
+     "max": null
+    },
+    {
+     "n": "Recognized Titles",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Foreign National Masters",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Untitled Juniors",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "CM / WCM",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/80 +30 seconds per move",
+   "url": "https://mychess.events/event/2026-us-masters/",
+   "src": "https://mychess.events/event/2026-us-masters/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:22:48+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -12939,101 +13034,6 @@
    "lastmod": "2026-09-22T16:35:55+00:00"
   },
   {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "12th Heusenstamm Sparkassen Open 2026",
-   "city": "Heusenstamm",
-   "start": "2026-11-19",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Eligibility",
-     "min": 1800,
-     "max": null
-    },
-    {
-     "n": "Rating",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Guaranteed Fund",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Playing Days",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $9,760",
-   "tc": "40/90, then 30 minutes; +30 seconds per move from move one",
-   "url": "https://mychess.events/event/12th-heusenstamm-sparkassen-open-2026/",
-   "src": "https://mychess.events/event/12th-heusenstamm-sparkassen-open-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-21T06:53:29+00:00"
-  },
-  {
-   "c": "IS",
-   "ulke": "İzlanda",
-   "bayrak": "is",
-   "name": "Sel Hótel Mývatn/Mývatn Öl Open 2026",
-   "city": "Mývatn",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Thursday, November 19",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $3,270",
-   "tc": "90 minutes per player + 30 seconds per move",
-   "url": "https://mychess.events/event/sel-hotel-myvatn-myvatn-ol-open-2026/",
-   "src": "https://mychess.events/event/sel-hotel-myvatn-myvatn-ol-open-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-05-29T12:25:37+00:00"
-  },
-  {
    "c": "BR",
    "ulke": "Brezilya",
    "bayrak": "br",
@@ -13089,79 +13089,29 @@
    "lastmod": "2026-11-06T13:53:18+00:00"
   },
   {
-   "c": "CA",
-   "ulke": "Kanada",
-   "bayrak": "ca",
-   "name": "Open de Gatineau 2026",
-   "city": "QC J8X 4A6",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
+   "c": "IS",
+   "ulke": "İzlanda",
+   "bayrak": "is",
+   "name": "Fridrik Olafsson Memorial 2026",
+   "city": "Reykjavík",
+   "start": "2026-11-19",
+   "end": "2026-11-20",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "1st",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "2nd",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "3rd",
+     "n": "Açık",
      "min": null,
      "max": null
     }
    ],
-   "prize": "≈ $8,580",
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/open-de-gatineau-2026/",
-   "src": "https://mychess.events/event/open-de-gatineau-2026/",
-   "cr": "",
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/fridrik-olafsson-memorial-2026/",
+   "src": "https://mychess.events/event/fridrik-olafsson-memorial-2026/",
+   "cr": "https://chess-results.com/tnr1476055.aspx?lan=1",
    "kayit_kapali": false,
-   "lastmod": "2026-09-22T12:52:56+00:00"
-  },
-  {
-   "c": "DK",
-   "ulke": "Danimarka",
-   "bayrak": "dk",
-   "name": "Hillerød Open November 2026",
-   "city": "Hillerød",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Number of Groups",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Maximum per Group",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Maximum Overall Entry",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Fixed Rating Cutoffs",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $470",
-   "tc": "15 minutes + 10 seconds per move",
-   "url": "https://mychess.events/event/hillerod-open-november-2026/",
-   "src": "https://mychess.events/event/hillerod-open-november-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-22T11:13:54+00:00"
+   "lastmod": "2026-11-08T17:21:00+00:00"
   },
   {
    "c": "EN",
@@ -13192,436 +13142,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-19T09:21:25+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "2026 Marshall Amateur Championship / Jerry Simon Memorial",
-   "city": "NY 10011",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Main Field",
-     "min": null,
-     "max": 2099
-    },
-    {
-     "n": "FIDE Rating Limit",
-     "min": 2100,
-     "max": null
-    },
-    {
-     "n": "U2000",
-     "min": null,
-     "max": 1999
-    },
-    {
-     "n": "U1800",
-     "min": null,
-     "max": 1799
-    },
-    {
-     "n": "U1600",
-     "min": null,
-     "max": 1599
-    }
-   ],
-   "prize": "≈ $2,500",
-   "tc": "G/90 + 30-second increment",
-   "url": "https://mychess.events/event/2026-marshall-amateur-championship-jerry-simon-memorial/",
-   "src": "https://mychess.events/event/2026-marshall-amateur-championship-jerry-simon-memorial/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-16T07:50:35+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "2026 Georgia Open & Amateur Championship",
-   "city": "GA 30341",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "1st Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "2nd Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Top 2000–2199",
-     "min": 2000,
-     "max": 2199
-    },
-    {
-     "n": "Top 1800–1999",
-     "min": 1800,
-     "max": 1999
-    },
-    {
-     "n": "Top Under 1800",
-     "min": null,
-     "max": 1799
-    }
-   ],
-   "prize": "≈ $6,000",
-   "tc": null,
-   "url": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
-   "src": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-15T08:47:41+00:00"
-  },
-  {
-   "c": "IE",
-   "ulke": "İrlanda",
-   "bayrak": "ie",
-   "name": "Kilkenny Chess Club 48th Annual Congress 2026",
-   "city": "Kilkenny",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Kilkenny International Masters",
-     "min": 1950,
-     "max": null
-    },
-    {
-     "n": "Kilkenny Major",
-     "min": 1600,
-     "max": 1999
-    },
-    {
-     "n": "Stars Barred",
-     "min": null,
-     "max": 1599
-    },
-    {
-     "n": "Seniors",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/kilkenny-chess-club-48th-annual-congress-2026/",
-   "src": "https://mychess.events/event/kilkenny-chess-club-48th-annual-congress-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-08-20T13:39:28+00:00"
-  },
-  {
-   "c": "IT",
-   "ulke": "İtalya",
-   "bayrak": "it",
-   "name": "14° Festival Veloce Club Pinerolo 2026",
-   "city": "Pinerolo (TO)",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $590",
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/14-festival-veloce-club-pinerolo-2026/",
-   "src": "https://mychess.events/event/14-festival-veloce-club-pinerolo-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-08-20T13:29:45+00:00"
-  },
-  {
-   "c": "SE",
-   "ulke": "İsveç",
-   "bayrak": "se",
-   "name": "GECO – Gefle Elite Chess Open 2026",
-   "city": "Gävle",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "15 minutes + 5 seconds per move",
-   "url": "https://mychess.events/event/geco-gefle-elite-chess-open-2026/",
-   "src": "https://mychess.events/event/geco-gefle-elite-chess-open-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-08-20T12:48:55+00:00"
-  },
-  {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "58th Torbay Chess Congress 2026",
-   "city": "England",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes per player + 30 seconds per move",
-   "url": "https://mychess.events/event/58th-torbay-chess-congress-2026/",
-   "src": "https://mychess.events/event/58th-torbay-chess-congress-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-05-30T03:03:02+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "Lone Star FIDE Chess Tournament 2026",
-   "city": "TX 77025",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Friday, November 20",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 21",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 22",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $1,540",
-   "tc": "90 minutes per player + 30 seconds per move",
-   "url": "https://mychess.events/event/lone-star-fide-chess-tournament-2026/",
-   "src": "https://mychess.events/event/lone-star-fide-chess-tournament-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-05-30T02:50:51+00:00"
-  },
-  {
-   "c": "FR",
-   "ulke": "Fransa",
-   "bayrak": "fr",
-   "name": "3ème Open Vétéran et Senior Plus du Gard 2026",
-   "city": "Nîmes",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Veteran & Senior Plus Open",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "60+30",
-   "url": "https://mychess.events/event/3eme-open-veteran-et-senior-plus-du-gard-2026/",
-   "src": "https://mychess.events/event/3eme-open-veteran-et-senior-plus-du-gard-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-25T18:05:12+00:00"
-  },
-  {
-   "c": "ES",
-   "ulke": "İspanya",
-   "bayrak": "es",
-   "name": "I Torneo de Ajedrez Sub-2400 Zamora, La Bien Cercada 2026",
-   "city": "Spain.",
-   "start": "2026-11-20",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Overall",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "U2000",
-     "min": null,
-     "max": 1999
-    },
-    {
-     "n": "U1800",
-     "min": null,
-     "max": 1799
-    },
-    {
-     "n": "U1600",
-     "min": null,
-     "max": 1599
-    },
-    {
-     "n": "Local",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Women",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "50+",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "U18",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $1,820",
-   "tc": "60 minutes + 30 seconds increment per move",
-   "url": "https://mychess.events/event/i-torneo-de-ajedrez-sub-2400-zamora-la-bien-cercada-2026/",
-   "src": "https://mychess.events/event/i-torneo-de-ajedrez-sub-2400-zamora-la-bien-cercada-2026/",
-   "cr": "https://chess-results.com/tnr1502676.aspx",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-05T11:13:25+00:00"
   },
   {
    "c": "EN",
@@ -13817,286 +13337,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-08T04:18:02+00:00"
-  },
-  {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "3rd Warwick Congress 2026",
-   "city": "Coventry CV4 8EJ",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "U1750",
-     "min": null,
-     "max": 1749
-    }
-   ],
-   "prize": "≈ $1,610",
-   "tc": "60 minutes + 30 seconds per move from move one",
-   "url": "https://mychess.events/event/3rd-warwick-congress-2026/",
-   "src": "https://mychess.events/event/3rd-warwick-congress-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-22T21:18:40+00:00"
-  },
-  {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "Northampton FIDE Congress – November 2026",
-   "city": "Northampton NN1 5PH",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "U2400",
-     "min": null,
-     "max": 2399
-    },
-    {
-     "n": "U1900",
-     "min": null,
-     "max": 1899
-    },
-    {
-     "n": "U1600",
-     "min": null,
-     "max": 1599
-    },
-    {
-     "n": "ECF U1400",
-     "min": null,
-     "max": 1399
-    }
-   ],
-   "prize": "≈ $1,690",
-   "tc": "60 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/northampton-fide-congress-november-2026/",
-   "src": "https://mychess.events/event/northampton-fide-congress-november-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-22T13:10:54+00:00"
-  },
-  {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "5th Tunbridge Wells FIDE Congress 2026",
-   "city": "Kent TN1 1DL",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "U2300",
-     "min": null,
-     "max": 2299
-    },
-    {
-     "n": "U1800",
-     "min": null,
-     "max": 1799
-    },
-    {
-     "n": "U1550",
-     "min": null,
-     "max": 1549
-    }
-   ],
-   "prize": "≈ $1,370",
-   "tc": "60 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/5th-tunbridge-wells-fide-congress-2026/",
-   "src": "https://mychess.events/event/5th-tunbridge-wells-fide-congress-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-19T08:32:53+00:00"
-  },
-  {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "2. Bopfinger Schachtag mit Ipf-Turnier 2026",
-   "city": "Bopfingen",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "From 09:30",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "10:00–approx. 12:30",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "13:00",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "13:00–approx. 19:00",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "After Round 7",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $360",
-   "tc": "15 minutes per player",
-   "url": "https://mychess.events/event/2-bopfinger-schachtag-mit-ipf-turnier-2026/",
-   "src": "https://mychess.events/event/2-bopfinger-schachtag-mit-ipf-turnier-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-08-22T11:50:49+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "Delaware Capital Open 2026",
-   "city": "DE 19901",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 1600",
-     "min": null,
-     "max": 1599
-    },
-    {
-     "n": "Under 1000",
-     "min": null,
-     "max": 999
-    }
-   ],
-   "prize": null,
-   "tc": "G/90;d5",
-   "url": "https://mychess.events/event/delaware-capital-open-2026/",
-   "src": "https://mychess.events/event/delaware-capital-open-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-08-20T12:35:34+00:00"
-  },
-  {
-   "c": "JP",
-   "ulke": "Japonya",
-   "bayrak": "jp",
-   "name": "Japan Open 2026",
-   "city": "Chiba City",
-   "start": "2026-11-21",
-   "end": "2026-11-25",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "GM 2400+, IM/WGM 2300+, WIM 2200+",
-     "min": 2400,
-     "max": null
-    },
-    {
-     "n": "2300+",
-     "min": 2300,
-     "max": null
-    },
-    {
-     "n": "2200–2299",
-     "min": 2200,
-     "max": 2299
-    },
-    {
-     "n": "2100–2199",
-     "min": 2100,
-     "max": 2199
-    },
-    {
-     "n": "2000–2099",
-     "min": 2000,
-     "max": 2099
-    }
-   ],
-   "prize": "≈ $5,270",
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/japan-open-2026/",
-   "src": "https://mychess.events/event/japan-open-2026/",
-   "cr": "https://s3.chess-results.com/tnr1467606.aspx?lan=28&flag=30&turdet=YES&SNode=S0",
-   "kayit_kapali": false,
-   "lastmod": "2026-08-20T11:33:11+00:00"
-  },
-  {
-   "c": "CZ",
-   "ulke": "Çekya",
-   "bayrak": "cz",
-   "name": "František Zikuda Memorial 2026",
-   "city": "Czech Republic",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "08:45–09:15",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "09:20–09:30",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "09:30–12:30",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "12:30–13:30",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "13:30–15:50",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "16:00",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $380",
-   "tc": "10 minutes plus a 5-second increment per move",
-   "url": "https://mychess.events/event/frantisek-zikuda-memorial-2026/",
-   "src": "https://mychess.events/event/frantisek-zikuda-memorial-2026/",
-   "cr": "https://chess-results.com/tnr1432758.aspx?lan=1&utm_source=chatgpt.com",
-   "kayit_kapali": false,
-   "lastmod": "2026-07-14T05:40:26+00:00"
   },
   {
    "c": "IN",
@@ -14397,111 +13637,6 @@
    "lastmod": "2026-09-30T04:26:37+00:00"
   },
   {
-   "c": "ES",
-   "ulke": "İspanya",
-   "bayrak": "es",
-   "name": "VI Festival Internacional de Ajedrez Ruy López de Zafra 2026",
-   "city": "Extremadura",
-   "start": "2026-11-23",
-   "end": "2026-11-29",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Monday, Nov. 23",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, Nov. 24",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Wednesday, Nov. 25",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Thursday, Nov. 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, Nov. 27",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $4,670",
-   "tc": null,
-   "url": "https://mychess.events/event/vi-festival-internacional-ajedrez-ruy-lopez-zafra-2026/",
-   "src": "https://mychess.events/event/vi-festival-internacional-ajedrez-ruy-lopez-zafra-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-08-20T13:02:53+00:00"
-  },
-  {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "26th Open Senior Individual Chess Championship Mecklenburg-Vorpommern 2026",
-   "city": "Ostseebad Heringsdorf/Usedom",
-   "start": "2026-11-23",
-   "end": "2026-12-03",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Wednesday, November 25",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Wednesday, November 25",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Wednesday, November 25",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Thursday, November 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Friday, November 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, November 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, November 29",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, November 30",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $2,350",
-   "tc": "40 moves in 90 minutes, then 30 minutes to finish, plus 30 seconds per move",
-   "url": "https://mychess.events/event/26th-open-senior-individual-chess-championship-mecklenburg-vorpommern-2026/",
-   "src": "https://mychess.events/event/26th-open-senior-individual-chess-championship-mecklenburg-vorpommern-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-05-30T03:20:50+00:00"
-  },
-  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -14539,31 +13674,6 @@
    "c": "IS",
    "ulke": "İzlanda",
    "bayrak": "is",
-   "name": "Fridrik Olafsson Memorial 2026",
-   "city": "Reykjavík",
-   "start": "2026-11-24",
-   "end": "2026-11-29",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/fridrik-olafsson-memorial-2026/",
-   "src": "https://mychess.events/event/fridrik-olafsson-memorial-2026/",
-   "cr": "https://chess-results.com/tnr1476055.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-03T13:19:42+00:00"
-  },
-  {
-   "c": "IS",
-   "ulke": "İzlanda",
-   "bayrak": "is",
    "name": "Reykjavik Open 2027",
    "city": "Reykjavik",
    "start": "2026-11-24",
@@ -14584,76 +13694,6 @@
    "cr": "https://chess-results.com/tnr1480891.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-07T14:44:43+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "2026 US Masters",
-   "city": "USA",
-   "start": "2026-11-25",
-   "end": "2026-11-29",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Established Rating",
-     "min": 2200,
-     "max": null
-    },
-    {
-     "n": "Recognized Titles",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Foreign National Masters",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Untitled Juniors",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "CM / WCM",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $25,000",
-   "tc": "G/80 +30 seconds per move",
-   "url": "https://mychess.events/event/2026-us-masters/",
-   "src": "https://mychess.events/event/2026-us-masters/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-21T19:09:16+00:00"
-  },
-  {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "26. Offene Senioren Schach Einzelmeisterschaft Mecklenburg-Vorpommern 2026",
-   "city": "Ostseebad Heringsdorf",
-   "start": "2026-11-25",
-   "end": "2026-12-03",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/26-offene-senioren-schach-einzelmeisterschaft-mecklenburg-vorpommern-2026/",
-   "src": "https://mychess.events/event/26-offene-senioren-schach-einzelmeisterschaft-mecklenburg-vorpommern-2026/",
-   "cr": "https://chess-results.com/tnr1317720.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-09-08T05:36:57+00:00"
   },
   {
    "c": "IN",
@@ -14719,31 +13759,6 @@
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
-   "name": "Binzer Senior Winter Chess Tournament 2026",
-   "city": "Germany.",
-   "start": "2026-11-26",
-   "end": "2026-12-04",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "130 minutes per player",
-   "url": "https://mychess.events/event/binzer-senior-winter-chess-tournament-2026/",
-   "src": "https://mychess.events/event/binzer-senior-winter-chess-tournament-2026/",
-   "cr": "https://chess-results.com/tnr1336130.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-06-30T07:53:16+00:00"
-  },
-  {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
    "name": "28th NordWest-Cup 2027 - Open A, AS, B & C",
    "city": "Lower Saxony",
    "start": "2026-11-26",
@@ -14784,6 +13799,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-31T18:37:51+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "14° Festival Veloce Club Pinerolo 2026",
+   "city": "Pinerolo (TO)",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/14-festival-veloce-club-pinerolo-2026/",
+   "src": "https://mychess.events/event/14-festival-veloce-club-pinerolo-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:10:57+00:00"
   },
   {
    "c": "RO",
@@ -15399,41 +14469,6 @@
    "cr": "https://chess-results.com/tnr1321252.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-07T16:54:53+00:00"
-  },
-  {
-   "c": "HU",
-   "ulke": "Macaristan",
-   "bayrak": "hu",
-   "name": "Vezérképző Budapest GM-IM-U2300 November-December 2026",
-   "city": "Budapest",
-   "start": "2026-11-27",
-   "end": "2026-12-03",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "GM Tournament",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "IM Tournament",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "U2300 Tournament",
-     "min": null,
-     "max": 2299
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30-second increment",
-   "url": "https://mychess.events/event/vezerkepzo-budapest-gm-im-u2300-november-december-2026/",
-   "src": "https://mychess.events/event/vezerkepzo-budapest-gm-im-u2300-november-december-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-15T13:29:32+00:00"
   },
   {
    "c": "HU",
@@ -17081,6 +16116,31 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T07:35:24+00:00"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "2nd Lugano-Paradiso Easter Open 2027",
+   "city": "Paradiso",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/2nd-lugano-paradiso-easter-open-2027/",
+   "src": "https://mychess.events/event/2nd-lugano-paradiso-easter-open-2027/",
+   "cr": "https://chess-results.com/tnr1434240.aspx?lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T16:40:11+00:00"
   },
   {
    "c": "DE",
@@ -18910,6 +17970,41 @@
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
+   "name": "Vezérképző Budapest GM-IM-U2300 November-December 2026",
+   "city": "Budapest",
+   "start": "2026-12-14",
+   "end": "2026-12-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "IM Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2300 Tournament",
+     "min": null,
+     "max": 2299
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment",
+   "url": "https://mychess.events/event/vezerkepzo-budapest-gm-im-u2300-november-december-2026/",
+   "src": "https://mychess.events/event/vezerkepzo-budapest-gm-im-u2300-november-december-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:23:31+00:00"
+  },
+  {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
    "name": "2nd Forintos Győző Memorial 2026 - GM, IM & U2200",
    "city": "Budapest",
    "start": "2026-12-14",
@@ -19667,6 +18762,40 @@
    "cr": "https://s1.chess-results.com/tnr1531472.aspx?SNode=S0&lan=2",
    "kayit_kapali": false,
    "lastmod": "2026-11-06T19:34:32+00:00"
+  },
+  {
+   "c": "UZ",
+   "ulke": "Özbekistan",
+   "bayrak": "uz",
+   "name": "5th International President Cup 2026",
+   "city": "Tashkent",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Masters",
+     "inv": true
+    },
+    {
+     "n": "Open-A",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Open-B",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/5th-international-president-cup-2026/",
+   "src": "https://mychess.events/event/5th-international-president-cup-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:23:14+00:00"
   },
   {
    "c": "US",
@@ -20886,6 +20015,126 @@
    "cr": "https://s3.chess-results.com/tnr1461646.aspx?lan=1&turdet=YES",
    "kayit_kapali": false,
    "lastmod": "2026-11-08T04:16:58+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "12th Heusenstamm Sparkassen Open 2026",
+   "city": "Heusenstamm",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Eligibility",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Guaranteed Fund",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Playing Days",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "40/90, then 30 minutes; +30 seconds per move from move one",
+   "url": "https://mychess.events/event/12th-heusenstamm-sparkassen-open-2026/",
+   "src": "https://mychess.events/event/12th-heusenstamm-sparkassen-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T16:51:31+00:00"
+  },
+  {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "Open de Gatineau 2026",
+   "city": "QC J8X 4A6",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/open-de-gatineau-2026/",
+   "src": "https://mychess.events/event/open-de-gatineau-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:07:27+00:00"
+  },
+  {
+   "c": "JP",
+   "ulke": "Japonya",
+   "bayrak": "jp",
+   "name": "Japan Open 2026",
+   "city": "Chiba City",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM 2400+, IM/WGM 2300+, WIM 2200+",
+     "min": 2400,
+     "max": null
+    },
+    {
+     "n": "2300+",
+     "min": 2300,
+     "max": null
+    },
+    {
+     "n": "2200–2299",
+     "min": 2200,
+     "max": 2299
+    },
+    {
+     "n": "2100–2199",
+     "min": 2100,
+     "max": 2199
+    },
+    {
+     "n": "2000–2099",
+     "min": 2000,
+     "max": 2099
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/japan-open-2026/",
+   "src": "https://mychess.events/event/japan-open-2026/",
+   "cr": "https://s3.chess-results.com/tnr1467606.aspx?lan=28&flag=30&turdet=YES&SNode=S0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:16:07+00:00"
   },
   {
    "c": "CH",
@@ -22551,34 +21800,64 @@
    "lastmod": "2026-11-07T14:44:37+00:00"
   },
   {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "Australian Open Chess Championships 2027 | Darwin",
-   "city": "Darwin NT 0800",
+   "c": "SE",
+   "ulke": "İsveç",
+   "bayrak": "se",
+   "name": "GECO – Gefle Elite Chess Open 2026",
+   "city": "Gävle",
    "start": "2026-12-28",
-   "end": "2026-12-29",
+   "end": "2026-12-30",
    "status": "a",
    "kaynak": "mychess",
    "sections": [
     {
-     "n": "Australian Open Classical",
+     "n": "Friday, November 20",
      "min": null,
      "max": null
     },
     {
-     "n": "Australian Open Blitz",
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
      "min": null,
      "max": null
     }
    ],
    "prize": null,
-   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
-   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "tc": "15 minutes + 5 seconds per move",
+   "url": "https://mychess.events/event/geco-gefle-elite-chess-open-2026/",
+   "src": "https://mychess.events/event/geco-gefle-elite-chess-open-2026/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-11-07T13:12:02+00:00"
+   "lastmod": "2026-11-08T17:10:44+00:00"
   },
   {
    "c": "EN",
@@ -22749,6 +22028,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T18:05:47+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "58th Torbay Chess Congress 2026",
+   "city": "England",
+   "start": "2027-01-01",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/58th-torbay-chess-congress-2026/",
+   "src": "https://mychess.events/event/58th-torbay-chess-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:13:28+00:00"
   },
   {
    "c": "EN",
@@ -23566,6 +22895,101 @@
    "lastmod": "2026-11-02T08:18:15+00:00"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "I Torneo de Ajedrez Sub-2400 Zamora, La Bien Cercada 2026",
+   "city": "Spain.",
+   "start": "2027-01-08",
+   "end": "2027-01-16",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Local",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "50+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U18",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds increment per move",
+   "url": "https://mychess.events/event/i-torneo-de-ajedrez-sub-2400-zamora-la-bien-cercada-2026/",
+   "src": "https://mychess.events/event/i-torneo-de-ajedrez-sub-2400-zamora-la-bien-cercada-2026/",
+   "cr": "https://chess-results.com/tnr1502676.aspx",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:07:06+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Delaware Capital Open 2026",
+   "city": "DE 19901",
+   "start": "2027-01-08",
+   "end": "2027-01-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Under 1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "G/90;d5",
+   "url": "https://mychess.events/event/delaware-capital-open-2026/",
+   "src": "https://mychess.events/event/delaware-capital-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:16:17+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -24034,6 +23458,51 @@
    "cr": "https://chess-results.com/tnr1467258.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-10-23T13:26:19+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "2. Bopfinger Schachtag mit Ipf-Turnier 2026",
+   "city": "Bopfingen",
+   "start": "2027-01-11",
+   "end": "2027-01-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "From 09:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "10:00–approx. 12:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "13:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "13:00–approx. 19:00",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "After Round 7",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes per player",
+   "url": "https://mychess.events/event/2-bopfinger-schachtag-mit-ipf-turnier-2026/",
+   "src": "https://mychess.events/event/2-bopfinger-schachtag-mit-ipf-turnier-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:15:57+00:00"
   },
   {
    "c": "DE",
@@ -24966,6 +24435,31 @@
    "lastmod": "2026-10-05T12:35:40+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "26. Offene Senioren Schach Einzelmeisterschaft Mecklenburg-Vorpommern 2026",
+   "city": "Ostseebad Heringsdorf",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/26-offene-senioren-schach-einzelmeisterschaft-mecklenburg-vorpommern-2026/",
+   "src": "https://mychess.events/event/26-offene-senioren-schach-einzelmeisterschaft-mecklenburg-vorpommern-2026/",
+   "cr": "https://chess-results.com/tnr1317720.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:21:09+00:00"
+  },
+  {
    "c": "NZ",
    "ulke": "Yeni Zelanda",
    "bayrak": "nz",
@@ -25179,6 +24673,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-01T11:19:23+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Australian Open Chess Championships 2027 | Darwin",
+   "city": "Darwin NT 0800",
+   "start": "2027-01-23",
+   "end": "2027-01-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Australian Open Classical",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Australian Open Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T16:45:43+00:00"
   },
   {
    "c": "BR",
@@ -25654,6 +25178,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T11:42:47+00:00"
+  },
+  {
+   "c": "IE",
+   "ulke": "İrlanda",
+   "bayrak": "ie",
+   "name": "Kilkenny Chess Club 48th Annual Congress 2026",
+   "city": "Kilkenny",
+   "start": "2027-02-01",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Kilkenny International Masters",
+     "min": 1950,
+     "max": null
+    },
+    {
+     "n": "Kilkenny Major",
+     "min": 1600,
+     "max": 1999
+    },
+    {
+     "n": "Stars Barred",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Seniors",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/kilkenny-chess-club-48th-annual-congress-2026/",
+   "src": "https://mychess.events/event/kilkenny-chess-club-48th-annual-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:11:08+00:00"
   },
   {
    "c": "IE",
@@ -26360,31 +25924,6 @@
    "lastmod": "2026-11-06T06:58:06+00:00"
   },
   {
-   "c": "CH",
-   "ulke": "İsviçre",
-   "bayrak": "ch",
-   "name": "Stein am Rhein Swiss City Open 2027",
-   "city": "Stein am Rhein",
-   "start": "2027-02-12",
-   "end": "2027-02-14",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/stein-am-rhein-swiss-city-open-2027/",
-   "src": "https://mychess.events/event/stein-am-rhein-swiss-city-open-2027/",
-   "cr": "https://s3.chess-results.com/Tnr1434232.aspx?SNode=S0&lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-08T04:14:20+00:00"
-  },
-  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -26718,6 +26257,81 @@
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
+   "name": "3ème Open Vétéran et Senior Plus du Gard 2026",
+   "city": "Nîmes",
+   "start": "2027-02-18",
+   "end": "2027-02-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Veteran & Senior Plus Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60+30",
+   "url": "https://mychess.events/event/3eme-open-veteran-et-senior-plus-du-gard-2026/",
+   "src": "https://mychess.events/event/3eme-open-veteran-et-senior-plus-du-gard-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:07:16+00:00"
+  },
+  {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "František Zikuda Memorial 2026",
+   "city": "Czech Republic",
+   "start": "2027-02-18",
+   "end": "2027-02-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "08:45–09:15",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "09:20–09:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "09:30–12:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "12:30–13:30",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "13:30–15:50",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "16:00",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "10 minutes plus a 5-second increment per move",
+   "url": "https://mychess.events/event/frantisek-zikuda-memorial-2026/",
+   "src": "https://mychess.events/event/frantisek-zikuda-memorial-2026/",
+   "cr": "https://chess-results.com/tnr1432758.aspx?lan=1&utm_source=chatgpt.com",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:16:28+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
    "name": "28e Open International de Fenain 2027",
    "city": "Fenain",
    "start": "2027-02-20",
@@ -26993,40 +26607,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-14T08:28:54+00:00"
-  },
-  {
-   "c": "UZ",
-   "ulke": "Özbekistan",
-   "bayrak": "uz",
-   "name": "5th International President Cup 2026",
-   "city": "Tashkent",
-   "start": "2027-02-26",
-   "end": "2027-02-28",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Masters",
-     "inv": true
-    },
-    {
-     "n": "Open-A",
-     "min": 2000,
-     "max": null
-    },
-    {
-     "n": "Open-B",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/5th-international-president-cup-2026/",
-   "src": "https://mychess.events/event/5th-international-president-cup-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-10-27T06:59:31+00:00"
   },
   {
    "c": "IT",
@@ -27419,6 +26999,66 @@
    "lastmod": "2026-10-13T12:58:22+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "26th Open Senior Individual Chess Championship Mecklenburg-Vorpommern 2026",
+   "city": "Ostseebad Heringsdorf/Usedom",
+   "start": "2027-03-05",
+   "end": "2027-03-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Wednesday, November 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, November 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, November 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 27",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 28",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 29",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Monday, November 30",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "40 moves in 90 minutes, then 30 minutes to finish, plus 30 seconds per move",
+   "url": "https://mychess.events/event/26th-open-senior-individual-chess-championship-mecklenburg-vorpommern-2026/",
+   "src": "https://mychess.events/event/26th-open-senior-individual-chess-championship-mecklenburg-vorpommern-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:20:34+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -27457,6 +27097,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-13T12:23:43+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2026 Marshall Amateur Championship / Jerry Simon Memorial",
+   "city": "NY 10011",
+   "start": "2027-03-06",
+   "end": "2027-03-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main Field",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "FIDE Rating Limit",
+     "min": 2100,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "G/90 + 30-second increment",
+   "url": "https://mychess.events/event/2026-marshall-amateur-championship-jerry-simon-memorial/",
+   "src": "https://mychess.events/event/2026-marshall-amateur-championship-jerry-simon-memorial/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:10:13+00:00"
   },
   {
    "c": "EN",
@@ -28184,6 +27869,61 @@
    "lastmod": "2026-11-07T10:59:46+00:00"
   },
   {
+   "c": "IS",
+   "ulke": "İzlanda",
+   "bayrak": "is",
+   "name": "Sel Hótel Mývatn/Mývatn Öl Open 2026",
+   "city": "Mývatn",
+   "start": "2027-03-17",
+   "end": "2027-03-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Thursday, November 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/sel-hotel-myvatn-myvatn-ol-open-2026/",
+   "src": "https://mychess.events/event/sel-hotel-myvatn-myvatn-ol-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:06:51+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -28491,6 +28231,51 @@
    "cr": "https://s1.chess-results.com/tnr1518242.aspx?SNode=S0&lan=29",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T13:06:03+00:00"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "VI Festival Internacional de Ajedrez Ruy López de Zafra 2026",
+   "city": "Extremadura",
+   "start": "2027-03-24",
+   "end": "2027-03-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Monday, Nov. 23",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tuesday, Nov. 24",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Wednesday, Nov. 25",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Thursday, Nov. 26",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Friday, Nov. 27",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/vi-festival-internacional-ajedrez-ruy-lopez-zafra-2026/",
+   "src": "https://mychess.events/event/vi-festival-internacional-ajedrez-ruy-lopez-zafra-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:20:14+00:00"
   },
   {
    "c": "ES",
@@ -29118,6 +28903,46 @@
    "lastmod": "2026-09-03T11:20:39+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Northampton FIDE Congress – November 2026",
+   "city": "Northampton NN1 5PH",
+   "start": "2027-04-17",
+   "end": "2027-04-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "ECF U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/northampton-fide-congress-november-2026/",
+   "src": "https://mychess.events/event/northampton-fide-congress-november-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:15:37+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -29498,6 +29323,51 @@
    "lastmod": "2026-09-07T12:01:50+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2026 Georgia Open & Amateur Championship",
+   "city": "GA 30341",
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Top 2000–2199",
+     "min": 2000,
+     "max": 2199
+    },
+    {
+     "n": "Top 1800–1999",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "Top Under 1800",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
+   "src": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:10:31+00:00"
+  },
+  {
    "c": "NL",
    "ulke": "Hollanda",
    "bayrak": "nl",
@@ -29791,6 +29661,46 @@
    "cr": "https://s1.chess-results.com/tnr1492827.aspx?lan=5&SNode=S0",
    "kayit_kapali": false,
    "lastmod": "2026-10-02T13:33:43+00:00"
+  },
+  {
+   "c": "DK",
+   "ulke": "Danimarka",
+   "bayrak": "dk",
+   "name": "Hillerød Open November 2026",
+   "city": "Hillerød",
+   "start": "2027-05-05",
+   "end": "2027-05-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Number of Groups",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Maximum per Group",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Maximum Overall Entry",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Fixed Rating Cutoffs",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/hillerod-open-november-2026/",
+   "src": "https://mychess.events/event/hillerod-open-november-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:07:44+00:00"
   },
   {
    "c": "DK",
@@ -30204,7 +30114,7 @@
    "src": "https://mychess.events/event/austrian-chess-bundesliga-2026-2027/",
    "cr": "https://s3.chess-results.com/tnr1404438.aspx?lan=1&turdet=YES&SNode=S0",
    "kayit_kapali": false,
-   "lastmod": "2026-08-02T09:29:14+00:00"
+   "lastmod": "2026-11-08T17:22:33+00:00"
   },
   {
    "c": "US",
@@ -31279,6 +31189,56 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
+   "name": "Lone Star FIDE Chess Tournament 2026",
+   "city": "TX 77025",
+   "start": "2027-06-19",
+   "end": "2027-06-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, November 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, November 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, November 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes per player + 30 seconds per move",
+   "url": "https://mychess.events/event/lone-star-fide-chess-tournament-2026/",
+   "src": "https://mychess.events/event/lone-star-fide-chess-tournament-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:13:42+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
    "name": "ICA Glen Rock Quads - June 19, 2027",
    "city": "NJ 07452",
    "start": "2027-06-19",
@@ -31684,6 +31644,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T09:23:23+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "3rd Warwick Congress 2026",
+   "city": "Coventry CV4 8EJ",
+   "start": "2027-07-10",
+   "end": "2027-07-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U1750",
+     "min": null,
+     "max": 1749
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/3rd-warwick-congress-2026/",
+   "src": "https://mychess.events/event/3rd-warwick-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:14:05+00:00"
   },
   {
    "c": "EN",
@@ -32414,6 +32404,41 @@
    "cr": "https://chess-results.com/tnr1207714.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-07-09T05:54:35+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "5th Tunbridge Wells FIDE Congress 2026",
+   "city": "Kent TN1 1DL",
+   "start": "2027-09-24",
+   "end": "2027-09-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2300",
+     "min": null,
+     "max": 2299
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/5th-tunbridge-wells-fide-congress-2026/",
+   "src": "https://mychess.events/event/5th-tunbridge-wells-fide-congress-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T17:13:52+00:00"
   },
   {
    "c": "EN",
