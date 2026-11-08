@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-08T17:47",
+ "guncelleme": "2026-11-08T21:51",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-08T17:45",
+   "tarama": "2026-11-08T21:48",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-08T17:47",
+   "tarama": "2026-11-08T21:51",
    "kaynak": "https://mychess.events"
   }
  },
@@ -14594,47 +14594,6 @@
    "oynandi_tarihi": "2026-11-04"
   },
   {
-   "c": "KZ",
-   "ulke": "Kazakistan",
-   "bayrak": "kz",
-   "name": "Kazakhstan Chess Cup 2026 – Final",
-   "city": "Almaty",
-   "start": "2026-11-03",
-   "end": "2026-11-07",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "2026 Cup standings",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Federation wild cards",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Total field",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
-   "src": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-07T19:39:40+00:00",
-   "id": "8b15e6d80a25",
-   "ilk_gorulme": "2026-11-05",
-   "son_gorulme": "2026-11-08",
-   "tarih_degisti": "2026-11-07 → 2026-11-03",
-   "oynandi_tarihi": "2026-11-08",
-   "durum": "oynandi"
-  },
-  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -17419,7 +17378,7 @@
    ],
    "url": "https://usak.tsf.org.tr/kurslar/914-2026-usak-atatuerkue-anma-haftasi-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI Sayfa 2 Tüm Sayfalar Sayfa 1 / 2 Bu yıl düzenlenecek olan 10 Kasım Atatürk'ü Anma Haftası Satranç Turnuvası, Özen Pastanesi Salepcilerin katkılarıyla gerçekleştirilecektir. İlk Üç Sporcuya ve En iyi kadın sporcuya, Özen Pastanesinde kullanılmak üzere hediye çekleri verilecektir. Tüm Satranç camiasını turnuvaya bekliyoruz. Önceki Sonraki >> Sonra",
+   "kaynak_metin": "2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI Ayrıntılar Kategori: Satranç Haberleri 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI Sayfa 2 Tüm Sayfalar Sayfa 1 / 2 Bu yıl düzenlenecek olan 10 Kasım Atatürk'ü Anma Haftası Satranç Turnuvası, Özen Pastanesi Salepcilerin katkılarıyla gerçekleştirilecektir. İlk Üç Sporcuya ve En iyi kadın sporcuya, Özen Pastanesinde kullanılmak üzere hediye çekleri verilecektir. Tüm Satranç camiasını turnuv",
    "id": "38b620056ef3",
    "ilk_gorulme": "2026-10-23",
    "son_gorulme": "2026-11-08",
@@ -17842,6 +17801,31 @@
    "id": "557d27d14e54",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI ÖDÜL TÖRENİ",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1652-hatay-doertyol-ted-koleji-10-kasim-atatuerkue-anma-satranc-turnuvasi-oeduel-toereni",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI ÖDÜL TÖRENİ HATAY DÖRTYOL TED KOLEJİ 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI ÖDÜL TÖRENİ 07-08/11/2026 tarihleri arasında Ted Dörtyol Koleji tarafından Hatay İli Dörtyol İlçesi Dörtyol Ted Koleji Salonu'nda düzenlenen Hatay Dörtyol Ted Koleji Atatürk'ü Anma Satranç Turnuvası ödül töreni ile sona erdi. Dereceye giren sporcularımızı tebrik ediyoruz. Sonraki >",
+   "id": "40061217489c",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
   {
@@ -19551,6 +19535,46 @@
    "durum": "yaklasan"
   },
   {
+   "c": "KZ",
+   "ulke": "Kazakistan",
+   "bayrak": "kz",
+   "name": "Kazakhstan Chess Cup 2026 – Final",
+   "city": "Almaty",
+   "start": "2026-11-14",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "2026 Cup standings",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Federation wild cards",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total field",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
+   "src": "https://mychess.events/event/kazakhstan-chess-cup-2026-final/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:03:29+00:00",
+   "id": "8b15e6d80a25",
+   "tarih_degisti": "2026-11-03 → 2026-11-14",
+   "ilk_gorulme": "2026-11-05",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -19923,7 +19947,7 @@
    ],
    "url": "https://cankiri.tsf.org.tr/satranc-haberleri/379-2027-yildirim-satranc-cankiri-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız < Önceki Sonraki >",
+   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız",
    "id": "178926c30d68",
    "ilk_gorulme": "2026-10-17",
    "son_gorulme": "2026-11-08",
@@ -20401,9 +20425,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:21:00+00:00",
    "id": "18e24d687e37",
-   "tarih_degisti": "2026-11-24 → 2026-11-19",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-24 → 2026-11-19",
    "durum": "yaklasan"
   },
   {
@@ -20545,9 +20569,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T04:18:02+00:00",
    "id": "3c4b30075181",
-   "tarih_degisti": "2027-04-23 → 2026-11-20",
    "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2027-04-23 → 2026-11-20",
    "durum": "yaklasan"
   },
   {
@@ -21618,9 +21642,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-07T14:44:43+00:00",
    "id": "08a1fc6aef6d",
-   "tarih_degisti": "2027-03-17 → 2026-11-24",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2027-03-17 → 2026-11-24",
    "durum": "yaklasan"
   },
   {
@@ -22031,9 +22055,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:10:57+00:00",
    "id": "0bca37993afd",
-   "tarih_degisti": "2026-11-20 → 2026-11-27",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2026-11-27",
    "durum": "yaklasan"
   },
   {
@@ -22239,6 +22263,40 @@
    "lastmod": "2026-08-20T11:54:02+00:00",
    "id": "9e433ae8a8d3",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "CL",
+   "ulke": "Şili",
+   "bayrak": "cl",
+   "name": "IV Festival Internacional de Ajedrez Ciudad de Temuco 2027 - International Open",
+   "city": "Temuco",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International Open (ITT)",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "International Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 min + 30 sec/move from move 1",
+   "url": "https://mychess.events/event/iv-festival-internacional-de-ajedrez-ciudad-de-temuco-2027/",
+   "src": "https://mychess.events/event/iv-festival-internacional-de-ajedrez-ciudad-de-temuco-2027/",
+   "cr": "https://s1.chess-results.com/tnr1487544.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:28:53+00:00",
+   "id": "be3173d40c71",
+   "ilk_gorulme": "2026-11-08",
    "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
@@ -23335,6 +23393,65 @@
    "durum": "yaklasan"
   },
   {
+   "c": "IN",
+   "ulke": "Hindistan",
+   "bayrak": "in",
+   "name": "4th Rotaract RUAS × Children Chess Academy Below 1800 FIDE Classical Chess Tournament 2026",
+   "city": "Karnataka 560054",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st in classification",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "5th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "6th–15th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "16th–20th",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "30 minutes for the game plus 30 seconds per move from move one",
+   "url": "https://mychess.events/event/4th-rotaract-ruas-children-chess-academy-below-1800-classical-2026/",
+   "src": "https://mychess.events/event/4th-rotaract-ruas-children-chess-academy-below-1800-classical-2026/",
+   "cr": "https://s2.chess-results.com/tnr1487662.aspx?SNode=S0&lan=1&turdet=YES",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:25:33+00:00",
+   "id": "badedffac0a2",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -23614,6 +23731,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "3rd IRT Sub-2200 A.D.U.M. 2026 - Mar del Plata FIDE Classical",
+   "city": "Venue",
+   "start": "2026-12-05",
+   "end": "2026-12-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": 2199
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/3rd-irt-sub-2200-adum-mar-del-plata-2026/",
+   "src": "https://mychess.events/event/3rd-irt-sub-2200-adum-mar-del-plata-2026/",
+   "cr": "https://chess-results.com/tnr1518314.aspx?lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:20:07+00:00",
+   "id": "00a790d34613",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -23772,70 +23918,6 @@
    "lastmod": "2026-11-02T07:35:24+00:00",
    "id": "d07ec6308934",
    "ilk_gorulme": "2026-11-02",
-   "son_gorulme": "2026-11-08",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "AR",
-   "ulke": "Arjantin",
-   "bayrak": "ar",
-   "name": "Club de Ajedrez Posadas Centenary IRT 100 Años 2026 - FIDE Classical Open",
-   "city": "Misiones",
-   "start": "2026-12-05",
-   "end": "2026-12-08",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Main International Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Under 2000",
-     "min": null,
-     "max": 1999
-    },
-    {
-     "n": "Under 1700",
-     "min": null,
-     "max": 1699
-    },
-    {
-     "n": "Unrated",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Youth U8–U16",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Seniors 50+ and 65+",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Women and Club Members",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Other festival events",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30-second increment from move one",
-   "url": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
-   "src": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
-   "cr": "https://chess-results.com/tnr1451594.aspx?lan=2",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-07T18:54:08+00:00",
-   "id": "268c64c16e71",
-   "ilk_gorulme": "2026-11-07",
    "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
@@ -24775,6 +24857,71 @@
    "durum": "yaklasan"
   },
   {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "Club de Ajedrez Posadas Centenary IRT 100 Años 2026 - FIDE Classical Open",
+   "city": "Misiones",
+   "start": "2026-12-11",
+   "end": "2026-12-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Under 1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Unrated",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Youth U8–U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Seniors 50+ and 65+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women and Club Members",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Other festival events",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment from move one",
+   "url": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
+   "src": "https://mychess.events/event/club-de-ajedrez-posadas-centenary-irt-100-anos-2026/",
+   "cr": "https://chess-results.com/tnr1451594.aspx?lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:07:28+00:00",
+   "id": "268c64c16e71",
+   "tarih_degisti": "2026-12-05 → 2026-12-11",
+   "ilk_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "name": "III Abierto Sub-2400 Ciudad de Utrera",
    "city": "Utrera, Sevilla",
@@ -24866,50 +25013,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "2026 Australian Schools Teams Chess Championships - National Finals",
-   "city": "Pearce ACT 2607",
-   "start": "2026-12-12",
-   "end": "2026-12-20",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Primary Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Primary Girls",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Secondary Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Secondary Girls",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "60 minutes + 10 seconds per move",
-   "url": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
-   "src": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T10:39:56+00:00",
-   "id": "1070c0dd68da",
-   "ilk_gorulme": "2026-11-02",
-   "son_gorulme": "2026-11-08",
-   "durum": "yaklasan"
-  },
-  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -24932,6 +25035,79 @@
    "id": "94f58f186caa",
    "ilk_gorulme": "2026-11-06",
    "son_gorulme": "2026-11-06",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Adıyaman",
+   "name": "2026-2027 ADIYAMAN GENÇLER, KÜÇÜKLER VE YILDIZLAR SATRANÇ ŞAMPİYONALARI İL BİRİNCİLİĞİ BAŞLIYOR",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://adiyaman.tsf.org.tr/satranc-haberleri/469-2026-2027-tuerkiye-gencler-kuecuekler-ve-yildizlar-satranc-sampiyonalari-il-birinciligi-basliyor",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 ADIYAMAN GENÇLER, KÜÇÜKLER VE YILDIZLAR SATRANÇ ŞAMPİYONALARI İL BİRİNCİLİĞİ BAŞLIYOR 2026-2027 ADIYAMAN GENÇLER, KÜÇÜKLER VE YILDIZLAR SATRANÇ ŞAMPİYONALARI İL BİRİNCİLİĞİ BAŞLIYOR Haydi Satranç Severler Türkiye Gençler, Küçükler ve Yıldızlar Şampiyonası Adıyaman İl Birinciliği Satranç Turnuvası Yeni Mahalle Kapalı Spor Salonunda düzenlenecektir Gençler kategorisi: 2007-2020 Doğumlu Sporcular 28-29 Kasım 2026 Yıldızlar kategorisi: 2009-2014 (13-18 Yaş) Doğumlu Sporcular 05-06 Aralık 2",
+   "id": "38a0b93b5c3f",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2027 Doeberl Cup - Premier, Major, Minor, Mini & U1200",
+   "city": "ACT 2606",
+   "start": "2026-12-12",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Premier",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": 1700,
+     "max": 2099
+    },
+    {
+     "n": "Minor",
+     "min": 1400,
+     "max": 1799
+    },
+    {
+     "n": "Mini",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "Under 1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "Premier / Major / Minor / Mini: 90 minutes + 30-second increment",
+   "url": "https://mychess.events/event/2027-doeberl-cup-canberra-classical-premier-major-minor-mini-u1200/",
+   "src": "https://mychess.events/event/2027-doeberl-cup-canberra-classical-premier-major-minor-mini-u1200/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-06T09:12:29+00:00",
+   "id": "0a89a9a592d2",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
   {
@@ -25599,9 +25775,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:23:31+00:00",
    "id": "7cd6fed7e2ff",
-   "tarih_degisti": "2026-11-27 → 2026-12-14",
    "ilk_gorulme": "2026-10-15",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-27 → 2026-12-14",
    "durum": "yaklasan"
   },
   {
@@ -25669,6 +25845,65 @@
    "lastmod": "2026-11-06T09:27:46+00:00",
    "id": "2c31db6bc552",
    "ilk_gorulme": "2026-11-06",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "III IRT OATD Alicia L. Guelman U2400 2026 - Buenos Aires FIDE Classical",
+   "city": "Buenos Aires",
+   "start": "2026-12-17",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Under 2400 Open",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U2150",
+     "min": null,
+     "max": 2149
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Over 70",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Club member",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes per player + 30-second increment per move",
+   "url": "https://mychess.events/event/iii-irt-oatd-alicia-l-guelman-u2400-2026/",
+   "src": "https://mychess.events/event/iii-irt-oatd-alicia-l-guelman-u2400-2026/",
+   "cr": "https://chess-results.com/tnr1527703.aspx?lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:13:19+00:00",
+   "id": "68d5e239100e",
+   "ilk_gorulme": "2026-11-08",
    "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
@@ -25771,6 +26006,50 @@
    "durum": "yaklasan"
   },
   {
+   "c": "AR",
+   "ulke": "Arjantin",
+   "bayrak": "ar",
+   "name": "3rd IRT International Ocaso Apart Andino Chess Open 2026",
+   "city": "Santa Fe Province",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "International Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Number of Playing Sections",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Eligibility",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating and Category Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/3rd-irt-international-ocaso-apart-andino-open-2026/",
+   "src": "https://mychess.events/event/3rd-irt-international-ocaso-apart-andino-open-2026/",
+   "cr": "https://s1.chess-results.com/tnr1515043.aspx?SNode=S0&lan=2",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:19:49+00:00",
+   "id": "1fef483e33b9",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
    "c": "UZ",
    "ulke": "Özbekistan",
    "bayrak": "uz",
@@ -25804,9 +26083,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:23:14+00:00",
    "id": "a8bbcb28f940",
-   "tarih_degisti": "2027-02-26 → 2026-12-18",
    "ilk_gorulme": "2026-10-27",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2027-02-26 → 2026-12-18",
    "durum": "yaklasan"
   },
   {
@@ -26362,9 +26641,9 @@
      "age": true
     }
    ],
-   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1303-manisa-kuecuekler-9-12-yas-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE ",
+   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE < Önceki Sonraki >",
    "id": "4408af14225b",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-08",
@@ -27588,9 +27867,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:16:07+00:00",
    "id": "a973951ac2cc",
-   "tarih_degisti": "2026-11-21 → 2026-12-26",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-21 → 2026-12-26",
    "durum": "yaklasan"
   },
   {
@@ -27609,9 +27888,9 @@
      "age": true
     }
    ],
-   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1304-manisa-yildizlar-13-18-yas-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Manisa Yıkdızlar (13-18 Yaş) il birinciliği satranç turnuvası 26-27 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 14.12.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE ",
+   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Manisa Yıkdızlar (13-18 Yaş) il birinciliği satranç turnuvası 26-27 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 14.12.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE < Önceki",
    "id": "5731e0fdc6d6",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-08",
@@ -27755,9 +28034,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:07:27+00:00",
    "id": "cbcb4d2b8d63",
-   "tarih_degisti": "2026-11-20 → 2026-12-26",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2026-12-26",
    "durum": "yaklasan"
   },
   {
@@ -28080,6 +28359,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "PL",
+   "ulke": "Polonya",
+   "bayrak": "pl",
+   "name": "37th Cracovia International Chess Festival 2026",
+   "city": "31-535 Kraków",
+   "start": "2026-12-27",
+   "end": "2026-12-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": 2100,
+     "max": null
+    },
+    {
+     "n": "Group B",
+     "min": 1800,
+     "max": 2149
+    },
+    {
+     "n": "Group C",
+     "min": 1601,
+     "max": 1899
+    },
+    {
+     "n": "Group D",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Group E",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Group F",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Group G",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Group H",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/37th-cracovia-international-chess-festival-2026/",
+   "src": "https://mychess.events/event/37th-cracovia-international-chess-festival-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:25:00+00:00",
+   "id": "cf7be2215ea3",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -28305,9 +28648,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:10:44+00:00",
    "id": "14e84a818c48",
-   "tarih_degisti": "2026-11-20 → 2026-12-28",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2026-12-28",
    "durum": "yaklasan"
   },
   {
@@ -28433,9 +28776,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:13:28+00:00",
    "id": "06945bf696fa",
-   "tarih_degisti": "2026-11-20 → 2027-01-01",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2027-01-01",
    "durum": "yaklasan"
   },
   {
@@ -29037,6 +29380,55 @@
    "durum": "yaklasan"
   },
   {
+   "c": "BR",
+   "ulke": "Brezilya",
+   "bayrak": "br",
+   "name": "Brasília Chess Open 2027 - Classical Open",
+   "city": "Distrito Federal 70702-904",
+   "start": "2027-01-06",
+   "end": "2027-01-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Classical Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Bullet",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Problem Solving",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/brasilia-chess-open-2027-classical-open/",
+   "src": "https://mychess.events/event/brasilia-chess-open-2027-classical-open/",
+   "cr": "https://s2.chess-results.com/Tnr1444600.aspx?SNode=S0&lan=10",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:29:05+00:00",
+   "id": "1a19af2d1a57",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
    "c": "LV",
    "ulke": "Letonya",
    "bayrak": "lv",
@@ -29276,9 +29668,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:16:17+00:00",
    "id": "ae0e958ddd59",
-   "tarih_degisti": "2026-11-21 → 2027-01-08",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-21 → 2027-01-08",
    "durum": "yaklasan"
   },
   {
@@ -29341,9 +29733,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:07:06+00:00",
    "id": "d5c14dcd72cc",
-   "tarih_degisti": "2026-11-20 → 2027-01-08",
    "ilk_gorulme": "2026-10-06",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2027-01-08",
    "durum": "yaklasan"
   },
   {
@@ -29743,9 +30135,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:15:57+00:00",
    "id": "22180ca97f0b",
-   "tarih_degisti": "2026-11-21 → 2027-01-11",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-21 → 2027-01-11",
    "durum": "yaklasan"
   },
   {
@@ -29891,70 +30283,6 @@
    "lastmod": "2026-07-21T18:43:35+00:00",
    "id": "3d7028f9a1a9",
    "ilk_gorulme": "2026-09-23",
-   "son_gorulme": "2026-11-08",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "2026 Australasian Masters - IM Norm Round Robin",
-   "city": "Fitzroy VIC 3065",
-   "start": "2027-01-12",
-   "end": "2027-01-20",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Alphaeus Wei Ern Ang",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Jairo Andres Hernandez Sanchez",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tedric Li",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Khishigbaatar Bayasgalan",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Alexej Khamatgaleev",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Rheyansh Reddy Annapureddy",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Kai Jie Soo",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Christopher Wallis",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/2026-australasian-masters-im-norm-round-robin/",
-   "src": "https://mychess.events/event/2026-australasian-masters-im-norm-round-robin/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T10:08:15+00:00",
-   "id": "be7e7f32f75e",
-   "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
@@ -30477,50 +30805,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "ZA",
-   "ulke": "Güney Afrika",
-   "bayrak": "za",
-   "name": "Mzansi Youth Chess Championship 2026",
-   "city": "Bloemfontein 9301",
-   "start": "2027-01-17",
-   "end": "2027-01-17",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Team championship",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Blitz championship",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Individual championship",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Age and gender divisions",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/mzansi-youth-chess-championship-2026/",
-   "src": "https://mychess.events/event/mzansi-youth-chess-championship-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-01T19:06:20+00:00",
-   "id": "1dafbac92b6e",
-   "ilk_gorulme": "2026-11-01",
-   "son_gorulme": "2026-11-08",
-   "durum": "yaklasan"
-  },
-  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -30670,9 +30954,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:21:09+00:00",
    "id": "d52c7dac7638",
-   "tarih_degisti": "2026-11-25 → 2027-01-22",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-25 → 2027-01-22",
    "durum": "yaklasan"
   },
   {
@@ -30823,9 +31107,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T16:45:43+00:00",
    "id": "8fc72dfac9dd",
-   "tarih_degisti": "2026-12-28 → 2027-01-23",
    "ilk_gorulme": "2026-11-03",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-12-28 → 2027-01-23",
    "durum": "yaklasan"
   },
   {
@@ -30879,7 +31163,7 @@
    "lastmod": "2026-10-05T09:32:17+00:00",
    "id": "2a97c63ddfe9",
    "ilk_gorulme": "2026-10-05",
-   "son_gorulme": "2026-11-07",
+   "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
   {
@@ -30933,60 +31217,6 @@
    "lastmod": "2026-10-16T05:55:09+00:00",
    "id": "5bbe962d8457",
    "ilk_gorulme": "2026-10-16",
-   "son_gorulme": "2026-11-08",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "Lidums Australian Allegro Chess Championship 2026",
-   "city": "Glenelg SA 5045",
-   "start": "2027-01-23",
-   "end": "2027-01-23",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open Field",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "GM / WGM / IM / WIM",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "FM / WFM",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Unrated Players",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Junior Players",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Female Players",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "15 minutes + 2 seconds per move",
-   "url": "https://mychess.events/event/lidums-australian-allegro-chess-championship-2026/",
-   "src": "https://mychess.events/event/lidums-australian-allegro-chess-championship-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T09:52:25+00:00",
-   "id": "b7b6544496ba",
-   "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
@@ -31069,6 +31299,61 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-02T09:15:59+00:00",
    "id": "7cb2e63d6727",
+   "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Lidums Australian Allegro Chess Championship 2026",
+   "city": "Glenelg SA 5045",
+   "start": "2027-01-27",
+   "end": "2027-01-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open Field",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "GM / WGM / IM / WIM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FM / WFM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Unrated Players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior Players",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Female Players",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/lidums-australian-allegro-chess-championship-2026/",
+   "src": "https://mychess.events/event/lidums-australian-allegro-chess-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:20:54+00:00",
+   "id": "b7b6544496ba",
+   "tarih_degisti": "2027-01-23 → 2027-01-27",
    "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
@@ -31313,9 +31598,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:11:08+00:00",
    "id": "fa96e885166c",
-   "tarih_degisti": "2026-11-20 → 2027-02-01",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2027-02-01",
    "durum": "yaklasan"
   },
   {
@@ -32146,6 +32431,51 @@
    "durum": "yaklasan"
   },
   {
+   "c": "ZA",
+   "ulke": "Güney Afrika",
+   "bayrak": "za",
+   "name": "Mzansi Youth Chess Championship 2026",
+   "city": "Bloemfontein 9301",
+   "start": "2027-02-13",
+   "end": "2027-02-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Team championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blitz championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Individual championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Age and gender divisions",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/mzansi-youth-chess-championship-2026/",
+   "src": "https://mychess.events/event/mzansi-youth-chess-championship-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:14:02+00:00",
+   "id": "b30b93ca12d7",
+   "tarih_degisti": "2027-01-17 → 2027-02-13",
+   "ilk_gorulme": "2026-11-01",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -32292,6 +32622,51 @@
    "c": "AU",
    "ulke": "Avustralya",
    "bayrak": "au",
+   "name": "2026 Australian Schools Teams Chess Championships - National Finals",
+   "city": "Pearce ACT 2607",
+   "start": "2027-02-16",
+   "end": "2027-03-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Primary Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Primary Girls",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Secondary Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Secondary Girls",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
+   "src": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:10:00+00:00",
+   "id": "de10f21f60a9",
+   "tarih_degisti": "2026-12-12 → 2027-02-16",
+   "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
    "name": "2026 Christmas Special - FIDE & ACF Classical",
    "city": "Rothwell QLD 4022",
    "start": "2027-02-16",
@@ -32382,9 +32757,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:07:16+00:00",
    "id": "6cd96659442c",
-   "tarih_degisti": "2026-11-20 → 2027-02-18",
    "ilk_gorulme": "2026-09-25",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2027-02-18",
    "durum": "yaklasan"
   },
   {
@@ -32437,8 +32812,72 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:16:28+00:00",
    "id": "e2054b128db0",
-   "tarih_degisti": "2026-11-21 → 2027-02-18",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-21 → 2027-02-18",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "18th Rouen International Chess Open 2026 - Open A & Open B U1700",
+   "city": "Venue",
+   "start": "2027-02-20",
+   "end": "2027-02-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sat, Dec 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Dec 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Dec 19",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sun, Dec 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sun, Dec 20",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, Dec 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, Dec 21",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tue, Dec 22",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/18th-rouen-international-chess-open-2026-open-a-open-b-u1700/",
+   "src": "https://mychess.events/event/18th-rouen-international-chess-open-2026-open-a-open-b-u1700/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:20:18+00:00",
+   "id": "d34feafbcdcb",
+   "ilk_gorulme": "2026-11-08",
    "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
@@ -33022,9 +33461,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:20:34+00:00",
    "id": "74e36b2cee07",
-   "tarih_degisti": "2026-11-23 → 2027-03-05",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-23 → 2027-03-05",
    "durum": "yaklasan"
   },
   {
@@ -33116,9 +33555,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:10:13+00:00",
    "id": "3c1516de2d9b",
-   "tarih_degisti": "2026-11-20 → 2027-03-06",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2027-03-06",
    "durum": "yaklasan"
   },
   {
@@ -33811,9 +34250,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:06:51+00:00",
    "id": "c933b5e3c801",
-   "tarih_degisti": "2026-11-19 → 2027-03-17",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-19 → 2027-03-17",
    "durum": "yaklasan"
   },
   {
@@ -34486,9 +34925,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:20:14+00:00",
    "id": "069acc6b7467",
-   "tarih_degisti": "2026-11-23 → 2027-03-24",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-23 → 2027-03-24",
    "durum": "yaklasan"
   },
   {
@@ -34542,6 +34981,71 @@
    "lastmod": "2026-09-04T11:19:33+00:00",
    "id": "8677e2e235c9",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-08",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "2026 Australasian Masters - IM Norm Round Robin",
+   "city": "Fitzroy VIC 3065",
+   "start": "2027-03-25",
+   "end": "2027-03-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Alphaeus Wei Ern Ang",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Jairo Andres Hernandez Sanchez",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Tedric Li",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Khishigbaatar Bayasgalan",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Alexej Khamatgaleev",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rheyansh Reddy Annapureddy",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Kai Jie Soo",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Christopher Wallis",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/2026-australasian-masters-im-norm-round-robin/",
+   "src": "https://mychess.events/event/2026-australasian-masters-im-norm-round-robin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-08T19:13:47+00:00",
+   "id": "b1c538a534fa",
+   "tarih_degisti": "2027-01-12 → 2027-03-25",
+   "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-08",
    "durum": "yaklasan"
   },
@@ -35807,9 +36311,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:07:44+00:00",
    "id": "40860b4d8a34",
-   "tarih_degisti": "2026-11-20 → 2027-05-05",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-20 → 2027-05-05",
    "durum": "yaklasan"
   },
   {
@@ -37453,9 +37957,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:14:05+00:00",
    "id": "d484a51b7034",
-   "tarih_degisti": "2026-11-21 → 2027-07-10",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-08",
+   "tarih_degisti": "2026-11-21 → 2027-07-10",
    "durum": "yaklasan"
   },
   {
