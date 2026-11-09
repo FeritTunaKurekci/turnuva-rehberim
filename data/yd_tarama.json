@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-09T11:49",
+ "taranma": "2026-11-09T22:10",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 33,
+ "okunan_sayfa": 34,
  "turnuvalar": [
   {
    "c": "US",
@@ -8921,6 +8921,31 @@
    "lastmod": "2026-11-08T15:16:37+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Open Brandenburg Senior Chess Championship 2027 - Women 55+ & Men 60+",
+   "city": "Brandenburg",
+   "start": "2026-11-02",
+   "end": "2026-11-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 30 minutes for the remainder + 30-second increment per move",
+   "url": "https://mychess.events/event/open-brandenburg-senior-chess-championship-2027-55-60/",
+   "src": "https://mychess.events/event/open-brandenburg-senior-chess-championship-2027-55-60/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T12:23:53+00:00"
+  },
+  {
    "c": "CA",
    "ulke": "Kanada",
    "bayrak": "ca",
@@ -13619,6 +13644,41 @@
    "lastmod": "2026-11-08T04:18:02+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 U.S. Amateur Team North - Open, Reserve & U1000 Booster",
+   "city": "IL 60523",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open — team average U2200",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Reserve — team average U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "U1000 Booster — Saturday only",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "Main 3-day: G/90 +30-second increment; main 2-day Rounds 1–2: G/60;d5; Booster: G/60;d5",
+   "url": "https://mychess.events/event/2027-us-amateur-team-north-open-reserve-u1000-oak-brook/",
+   "src": "https://mychess.events/event/2027-us-amateur-team-north-open-reserve-u1000-oak-brook/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T16:58:21+00:00"
+  },
+  {
    "c": "IN",
    "ulke": "Hindistan",
    "bayrak": "in",
@@ -13880,6 +13940,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-04T07:40:45+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "7th Bournemouth Grand Chess Congress 2027",
+   "city": "Bournemouth BH2 5JS",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major U1950",
+     "min": null,
+     "max": 1949
+    },
+    {
+     "n": "Intermediate U1750",
+     "min": null,
+     "max": 1749
+    },
+    {
+     "n": "Minor U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/7th-bournemouth-grand-chess-congress-2027/",
+   "src": "https://mychess.events/event/7th-bournemouth-grand-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T11:57:04+00:00"
   },
   {
    "c": "CH",
@@ -16848,6 +16948,86 @@
    "lastmod": "2026-11-09T06:47:18+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Charlotte Open - Championship, U2100, U1900, U1700, U1500 & U1200",
+   "city": "NC 28262",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2100",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "U1500",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "Championship: G/110+10; three-day Under: G/100+10; two-day Under Rounds 1–3: G/20+10, Rounds 4–6: G/100+10",
+   "url": "https://mychess.events/event/2027-charlotte-open-classical-championship-u2100-u1900-u1700-u1500-u1200/",
+   "src": "https://mychess.events/event/2027-charlotte-open-classical-championship-u2100-u1900-u1700-u1500-u1200/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T14:46:00+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "4th Open Thuringian Senior Chess Championship 2027 - 50+ & 65+",
+   "city": "Thuringia",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "50+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "65+",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes for 40 moves + 30 minutes for the rest; 30-second increment from move 1",
+   "url": "https://mychess.events/event/4th-open-thuringian-senior-chess-championship-2027/",
+   "src": "https://mychess.events/event/4th-open-thuringian-senior-chess-championship-2027/",
+   "cr": "https://s2.chess-results.com/tnr1499676.aspx?SNode=S0&lan=33",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T12:52:08+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -19476,6 +19656,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-08T17:23:14+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Michigan Master/Expert & Class Championships",
+   "city": "MI 48933",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master/Expert",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Class A",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "Class B",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Class C",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Class D",
+     "min": 1200,
+     "max": 1399
+    },
+    {
+     "n": "Class E",
+     "min": null,
+     "max": 1199
+    },
+    {
+     "n": "Novice U1000",
+     "min": null,
+     "max": 999
+    },
+    {
+     "n": "Novice U600",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Master/Expert and A–E: G/90+30-second increment; Novice: G/30;d5 (5-second delay)",
+   "url": "https://mychess.events/event/2027-michigan-master-expert-class-championships-lansing/",
+   "src": "https://mychess.events/event/2027-michigan-master-expert-class-championships-lansing/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T14:40:34+00:00"
   },
   {
    "c": "US",
@@ -22545,6 +22785,46 @@
    "lastmod": "2026-11-09T05:56:11+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "9th Arsenal FIDE Open 2027 - U2400 | Le Robert, Martinique",
+   "city": "Martinique",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "Adult entrants",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior entrants",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Arbiter and eligibility",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes plus a 30-second increment per move",
+   "url": "https://mychess.events/event/9th-arsenal-fide-open-2027-u2400-le-robert-martinique/",
+   "src": "https://mychess.events/event/9th-arsenal-fide-open-2027-u2400-le-robert-martinique/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T18:16:15+00:00"
+  },
+  {
    "c": "SE",
    "ulke": "İsveç",
    "bayrak": "se",
@@ -22818,6 +23098,41 @@
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - July 10–11, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2026-12-28",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/southall-fide-congress-july-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-july-2027-u2400-u1850-u1550/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T14:01:48+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
    "name": "58th Torbay Chess Congress 2026",
    "city": "England",
    "start": "2027-01-01",
@@ -22993,6 +23308,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T18:20:18+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - May 15–16, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2027-01-01",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-may-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-may-2027-u2400-u1850-u1550/",
+   "cr": "https://s3.chess-results.com/tnr1526869.aspx?SNode=S0&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T13:52:47+00:00"
   },
   {
    "c": "DE",
@@ -23358,6 +23708,41 @@
    "cr": "https://s2.chess-results.com/tnr1517904.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-08T04:18:20+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Pan-American Intercollegiate Championships - Open, U2000 & U1400",
+   "city": "AZ 85281",
+   "start": "2027-01-02",
+   "end": "2027-01-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": null,
+   "tc": "Game/90 + 30-second increment per move",
+   "url": "https://mychess.events/event/2027-pan-american-intercollegiate-championships-tempe/",
+   "src": "https://mychess.events/event/2027-pan-american-intercollegiate-championships-tempe/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T14:29:36+00:00"
   },
   {
    "c": "HR",
@@ -24265,6 +24650,41 @@
    "lastmod": "2026-11-08T04:18:29+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - August 28–29, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/southall-fide-congress-august-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-august-2027-u2400-u1850-u1550/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T13:59:37+00:00"
+  },
+  {
    "c": "MC",
    "ulke": "Monako",
    "bayrak": "mc",
@@ -24918,6 +25338,48 @@
    "lastmod": "2026-11-07T13:14:00+00:00"
   },
   {
+   "c": "CZ",
+   "ulke": "Çekya",
+   "bayrak": "cz",
+   "name": "Prague International Chess Festival 2027 - Futures",
+   "city": "20 Prague 3",
+   "start": "2027-01-16",
+   "end": "2027-01-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Futures",
+     "inv": true
+    },
+    {
+     "n": "Masters",
+     "inv": true
+    },
+    {
+     "n": "Challengers",
+     "inv": true
+    },
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open 28+",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/prague-international-chess-festival-2027-futures/",
+   "src": "https://mychess.events/event/prague-international-chess-festival-2027-futures/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T13:18:35+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -25495,6 +25957,41 @@
    "lastmod": "2026-10-16T05:55:09+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - February 20–21, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2027-01-23",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-february-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-february-2027-u2400-u1850-u1550/",
+   "cr": "https://s1.chess-results.com/tnr1526840.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T13:32:23+00:00"
+  },
+  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -25843,6 +26340,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T11:42:47+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "3rd Annual MLK Day Open 2027 - Dallas",
+   "city": "TX 75254",
+   "start": "2027-01-31",
+   "end": "2027-01-31",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Premier",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2200",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1600",
+     "min": 1200,
+     "max": 1599
+    },
+    {
+     "n": "U1300",
+     "min": null,
+     "max": 1299
+    },
+    {
+     "n": "U1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "Premier–U1600: G/90 + 30-second increment; U1300/U1000: G/60 with 5-second delay",
+   "url": "https://mychess.events/event/3rd-annual-mlk-day-open-2027-dallas/",
+   "src": "https://mychess.events/event/3rd-annual-mlk-day-open-2027-dallas/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T14:21:34+00:00"
   },
   {
    "c": "IE",
@@ -27249,6 +27801,41 @@
    "lastmod": "2026-10-16T07:22:18+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - March 20–21, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2027-02-20",
+   "end": "2027-02-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-march-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-march-2027-u2400-u1850-u1550/",
+   "cr": "https://s1.chess-results.com/tnr1526850.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T13:35:34+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -27397,6 +27984,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-09T07:09:02+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Saratoga Tournament Of-The-Ages Open 2027 - Classical Swiss & College Prizes",
+   "city": "NY 12866",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main playing section",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "NY State Senior Championship re-entry",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating prizes",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "College bonus",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "College team plaques",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mixed doubles bonus",
+     "min": null,
+     "max": 2199
+    }
+   ],
+   "prize": null,
+   "tc": "40 moves in 80 minutes, then SD/30; 30-second delay. Two-day option Rounds 1–2: G/60;d10.",
+   "url": "https://mychess.events/event/saratoga-tournament-of-the-ages-open-2027/",
+   "src": "https://mychess.events/event/saratoga-tournament-of-the-ages-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T18:04:30+00:00"
   },
   {
    "c": "CH",
@@ -28254,6 +28891,41 @@
    "lastmod": "2026-10-08T06:11:26+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 (59th) Virginia Open & 1st Virginia Women’s Championship",
+   "city": "VA 20166",
+   "start": "2027-03-12",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Virginia Open Championship",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Virginia Open Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Virginia Women’s Championship",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Round 1: G/90 + 30-second increment; Rounds 2–5: 40/90, SD/30 + 30-second increment",
+   "url": "https://mychess.events/event/2027-59th-virginia-open-virginia-womens-championship/",
+   "src": "https://mychess.events/event/2027-59th-virginia-open-virginia-womens-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T14:16:25+00:00"
+  },
+  {
    "c": "CZ",
    "ulke": "Çekya",
    "bayrak": "cz",
@@ -28442,6 +29114,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-07T09:29:40+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - September 25–26, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2027-03-13",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-september-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-september-2027-u2400-u1850-u1550/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T13:57:11+00:00"
   },
   {
    "c": "CH",
@@ -28707,6 +29414,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-07-07T12:33:22+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "14th Annual New York State Senior Chess Championship 2027",
+   "city": "NY 12866",
+   "start": "2027-03-19",
+   "end": "2027-03-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Senior Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under-2200 prize",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Under-1900 / Unrated prize",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "Under-1600 prize",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "New York State senior title",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mixed doubles",
+     "min": null,
+     "max": 2199
+    }
+   ],
+   "prize": null,
+   "tc": "Three-day: 40/80, SD/30; d30. Two-day Rounds 1–2: G/60;d10, then main control.",
+   "url": "https://mychess.events/event/14th-new-york-state-senior-chess-championship-2027-saratoga/",
+   "src": "https://mychess.events/event/14th-new-york-state-senior-chess-championship-2027-saratoga/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T17:35:25+00:00"
   },
   {
    "c": "US",
@@ -30006,6 +30763,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-30T09:15:16+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - June 12–13, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2027-04-17",
+   "end": "2027-04-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-june-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-june-2027-u2400-u1850-u1550/",
+   "cr": "https://s3.chess-results.com/tnr1526881.aspx?SNode=S0&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T14:05:03+00:00"
   },
   {
    "c": "US",
@@ -31425,6 +32217,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-16T06:09:57+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress - April 17–18, 2027 | U2400, U1850 & U1550",
+   "city": "London UB1 1GH",
+   "start": "2027-06-05",
+   "end": "2027-06-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-april-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-april-2027-u2400-u1850-u1550/",
+   "cr": "https://s2.chess-results.com/tnr1526865.aspx?SNode=S0&lan=34",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-09T13:40:54+00:00"
   },
   {
    "c": "US",
