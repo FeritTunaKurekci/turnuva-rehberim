@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-10T11:38",
+ "guncelleme": "2026-11-10T19:20",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-10T11:37",
+   "tarama": "2026-11-10T19:18",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-10T11:38",
+   "tarama": "2026-11-10T19:20",
    "kaynak": "https://mychess.events"
   }
  },
@@ -16538,31 +16538,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Manisa",
-   "name": "Turnuva Haberleri",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI Manisa Akhisar Atatürk haftası hızlı satranç turnuvası 7 Kasım 2026 tarihinde 10''+5' temposunda Akhisar MBA Kolejinde yapılacaktır. Turnuva da nakdi ve diğer ödüller yönerge de belirtilmiştir. Kategoriler 64 sporcu ile sınırlıdır KAYITLAR 26.10.2026 SAAT 13 TE AÇILACAKTIR YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT 08 Yaş ve Altı Kategorisi 2019 ve 2020 Doğumlu Sporcular 8 YAŞ 10 Yaş ve Altı Kategorisi 2017 ve 2018 ",
-   "id": "d7aa174bcdca",
-   "ilk_gorulme": "2026-10-27",
-   "son_gorulme": "2026-10-28",
-   "durum": "oynandi",
-   "oynandi_tarihi": "2026-11-08"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Karabük",
    "name": "Turnuvalar",
    "start": "2026-11-07",
@@ -17529,7 +17504,7 @@
    ],
    "url": "https://usak.tsf.org.tr/kurslar/914-2026-usak-atatuerkue-anma-haftasi-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI Ayrıntılar Kategori: Satranç Haberleri 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI Sayfa 2 Tüm Sayfalar Sayfa 1 / 2 Bu yıl düzenlenecek olan 10 Kasım Atatürk'ü Anma Haftası Satranç Turnuvası, Özen Pastanesi Salepcilerin katkılarıyla gerçekleştirilecektir. İlk Üç Sporcuya ve En iyi kadın sporcuya, Özen Pastanesinde kullanılmak üzere hediye çekleri verilecektir. Tüm Satranç camiasını turnuv",
+   "kaynak_metin": "2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 UŞAK ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI Sayfa 2 Tüm Sayfalar Sayfa 1 / 2 Bu yıl düzenlenecek olan 10 Kasım Atatürk'ü Anma Haftası Satranç Turnuvası, Özen Pastanesi Salepcilerin katkılarıyla gerçekleştirilecektir. İlk Üç Sporcuya ve En iyi kadın sporcuya, Özen Pastanesinde kullanılmak üzere hediye çekleri verilecektir. Tüm Satranç camiasını turnuvaya bekliyoruz. Önceki Sonraki >> Sonra",
    "id": "38b620056ef3",
    "ilk_gorulme": "2026-10-23",
    "son_gorulme": "2026-11-10",
@@ -18222,6 +18197,30 @@
    "kaynak_metin": "Kuşadası 10 Kasım Atatürk Haftası Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Kuşadası 10 Kasım Atatürk Haftası Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 14–15 Kasım 2026 Yarışma Salonu Kuşadası Pera Düğün Salonu ↗ İl / İlçe Aydın / Kuşadası Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 5’e madalya Ayrıca her kategoride UKD puanı olmayan en iyi erkek ve kadın s",
    "id": "67787f21c4f1",
    "ilk_gorulme": "2026-11-04",
+   "son_gorulme": "2026-11-10",
+   "durum": "suruyor"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Denizli",
+   "name": "MERKEZEFENDİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://denizli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "MERKEZEFENDİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI İlimiz Merkezefendi ilçemizde Merkezefendi GSİM Tarafından Merkez Efendi Çok Amaçlı Spor Salonunda Merkezefendi 10 Kasım Atamıza Saygı ve Anma Satranç Turnuvası 21-22 Kasım 2026 Tarihlerinde yapılacaktır. Turnuvamız 7 ve 8 Yaş Kategorilerindedir. Turnuva Yönergesi Turnuva Kayıt Adres: Adalet Mahallesi, Fatih Sultan Mehmet Caddesi, No:11, Merkezefendi / Denizli TCGSB Çok Amaçlı Spor Salonu ",
+   "id": "bf41e10c3f0b",
+   "ilk_gorulme": "2026-11-10",
    "son_gorulme": "2026-11-10",
    "durum": "suruyor"
   },
@@ -19694,14 +19693,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
    "url": "https://hatay.tsf.org.tr/satranc-haberleri/1637-hatay-arsuz-oezel-tunc-koleji-satranc-turnuvasi-kayitlari-basladi",
    "kaynak": "site",
-   "kaynak_metin": "HATAY ARSUZ ÖZEL TUNÇ KOLEJİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY ARSUZ ÖZEL TUNÇ KOLEJİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI 14-15/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Arsuz İlçesi Özel Tunç Koleji Salonu'nda Hatay Arsuz Özel Tunç Koleji Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 12/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >",
+   "kaynak_metin": "HATAY ARSUZ ÖZEL TUNÇ KOLEJİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY ARSUZ ÖZEL TUNÇ KOLEJİ SATRANÇ TURNUVASI KAYITLARI BAŞLADI 14-15/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Arsuz İlçesi Özel Tunç Koleji Salonu'nda Hatay Arsuz Özel Tunç Koleji Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 12/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi Not: 7 ve 8 yaş bütün katılımcı sporcularımıza madalya verilecektir",
    "id": "72c4939d6993",
    "ilk_gorulme": "2026-10-11",
    "son_gorulme": "2026-11-10",
@@ -20488,6 +20486,32 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Muğla",
+   "name": "TURNUVA KAYIT ›",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız TÜRKİYE KUPASI SATRANÇ BODRUM İLÇE BİRİNCİLİĞİ SON KAYIT TARİHİ 17.11.2026 SAAT 17.00 DATÇA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI SON BAŞVURU TARİHİ 20.11.2026 SAAT 17.00 DATÇA 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI SON BAŞVURU TARİ",
+   "id": "eab24b23adba",
+   "tarih_degisti": "2026-11-19 → 2026-11-17",
+   "ilk_gorulme": "2026-09-29",
+   "son_gorulme": "2026-11-10",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Edirne",
    "name": "18 Kasım Uzunköprü'nün Kurtuluşu Satranç Turnuvası 2026",
    "start": "2026-11-18",
@@ -20683,32 +20707,6 @@
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-10",
    "tarih_degisti": "2026-11-24 → 2026-11-19",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Muğla",
-   "name": "TURNUVA KAYIT ›",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "http://www.mugla.tsf.org.tr/turnuva-kayit-form",
-   "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYIT › Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız SEYDİKEMER 10 KASIM ATA'YI ANMA SATRANÇ TURNUVASI-100 SPORCU İLE SINIRLIDIR-SON BAŞVURU 13.11.2026 15:00 MUĞLA 10 KASIM ATA'YI ANMA ELO SATRANÇ TURNUVASI SON KAYIT TARİHİ 19.11.2026 SAAT 17.00 ULA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
-   "id": "eab24b23adba",
-   "ilk_gorulme": "2026-09-29",
-   "son_gorulme": "2026-11-10",
-   "tarih_degisti": "2026-11-05 → 2026-11-19",
    "durum": "yaklasan"
   },
   {
@@ -21636,6 +21634,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Manisa",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Manisa Öğretmenler Günü satranç turnuvası 21-22 Kasım 2026 tarihlerinde GSB 75. Yıl Gençlik Merkezi/ Yunusemre ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 09 Kasım saat :13'te açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yılları ve arası) 14 YAŞALTI",
+   "id": "d7aa174bcdca",
+   "tarih_degisti": "2026-11-07 → 2026-11-21",
+   "ilk_gorulme": "2026-10-27",
+   "son_gorulme": "2026-11-10",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Denizli",
    "name": "ÇİVRİL BELEDİYESİ ALTIN ELMA YILDIRIM SATRANÇ TURNUVASI",
    "start": "2026-11-21",
@@ -22126,7 +22149,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g",
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür",
    "id": "57473d6a3cce",
    "ilk_gorulme": "2026-10-16",
    "son_gorulme": "2026-11-10",
@@ -23196,6 +23219,56 @@
    "durum": "yaklasan"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "50th Blackpool Chess Congress Celebration 2027",
+   "city": "FY1 2HB",
+   "start": "2026-11-28",
+   "end": "2026-12-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Lancashire Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Imperial Major",
+     "min": null,
+     "max": 2049
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Standard",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "110 min + 10 sec/move",
+   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T17:45:44+00:00",
+   "id": "ea827e8c486f",
+   "tarih_degisti": "2027-03-27 → 2026-11-28",
+   "ilk_gorulme": "2026-10-13",
+   "son_gorulme": "2026-11-10",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -23568,6 +23641,65 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Zonguldak",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.zonguldak.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri ZONGULDAK BORSA İSTANBUL ANADOLU LİSESİ 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI 22 Kasım 2026 Pazar günü 10'+5\" eklemeli tempoyla Zonguldak Borsa İstanbul Anadolu Lisesi 24 Kasım Öğretmenler Günü Ödüllü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT 4 ARALIK DÜNYA MADENCİLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Zonguldak TMMOB Maden Mühendisleri Odası Zonguldak Şubesinde 35'+30\" Eklemeli Tempoy",
+   "id": "b58b41e14477",
+   "ilk_gorulme": "2026-11-10",
+   "son_gorulme": "2026-11-10",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İzmir",
+   "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1400,
+     "max": 2100
+    },
+    {
+     "n": "B Kategorisi",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2630-ufuk-aksoy-anisina-cesme-cydd-subesi-2-elo-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI Çağdaş Yaşamı Destekleme Derneği Çeşme Şubesi ve TSF Çeşme İlçe Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Ufuk Aksoy Anısına Çeşme ÇYDD Şubesi 2. ELO Satranç Turnuvası\" 28-29 Kasım 2026 tarihlerinde Aya Haralambos Kültür Merkezi' nde düzenlenecektir. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi y",
+   "id": "e900c2133225",
+   "ilk_gorulme": "2026-11-10",
+   "son_gorulme": "2026-11-10",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Kocaeli",
    "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI",
    "start": "2026-11-28",
@@ -23865,7 +23997,7 @@
    "kaynak_metin": "MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR ",
    "id": "2f83baf7ea60",
    "ilk_gorulme": "2026-11-04",
-   "son_gorulme": "2026-11-09",
+   "son_gorulme": "2026-11-10",
    "durum": "yaklasan"
   },
   {
@@ -24729,9 +24861,9 @@
    "kaynak": "site",
    "kaynak_metin": "Başöğretmen Atatürk Kupası 2026 Satranç Haberleri Bolu Final Okulları Bolu Final Okulları Satranç Turnuvası 05-06 Aralık 2026 Tarihleri Arasında Bolu Final Okulları Salonunda Gerçekleşecektir. Para Ödüllü Turnuvamıza Son Kayıt 04.12.2026 Saat:16:00 dır. Aşağıdaki Linkten Yönergemizi Okuyarak Turnuvamıza Kayıt Olabilirsiniz. YÖNERGE TURNUVA KAYIT Başöğretmen Atatürk Kupası 2026 Başöğretmen Atatürk Kupası Satranç Turnuvamız 28-29 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GEN",
    "id": "4358fb144b1d",
-   "tarih_degisti": "2026-11-28 → 2026-12-05",
    "ilk_gorulme": "2026-11-03",
    "son_gorulme": "2026-11-10",
+   "tarih_degisti": "2026-11-28 → 2026-12-05",
    "durum": "yaklasan"
   },
   {
@@ -24831,7 +24963,7 @@
    ],
    "url": "https://malatya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "ENGELLİLER HAFTASI SATRANÇ TURNUVASI 5 - 6 ARALIK 2026 5 - 6 ARALIK 2026 Tarihlerinde ENGELLİLER GÜNÜ SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ???? ⏰ Kayıt kontrol işlemlerinin Yalnızca Cumartesi Günü Saat 08.30–09.30 saatleri arasında yapılacağını, sporcu listesindeki isminize + koydurmayı, ⚠️ Kayıt kontrol saatinden",
+   "kaynak_metin": "ENGELLİLER HAFTASI SATRANÇ TURNUVASI 5 - 6 ARALIK 2026 5 - 6 ARALIK 2026 Tarihlerinde ENGELLİLER GÜNÜ SATRANÇ TURNUVASI YAPILACAKTIR. Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan sporcular katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ???? ⏰ Kayıt kontrol işlemlerinin Yalnızca 5 Aralık Cumartesi Günü Saat 08.30–09.30 saatleri arasında yapılacağını, sporcu listesindeki isminize + koydurmayı, ⚠️ Kayıt kontrol ",
    "id": "25188f913d90",
    "ilk_gorulme": "2026-11-06",
    "son_gorulme": "2026-11-10",
@@ -27607,7 +27739,7 @@
    ],
    "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE ",
+   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT Kızlar Kategorisi 2015 ve 2018 Yılları ve Arasında Sporcular KIZLAR Genel Kategorisi 2015 ve 2018 Yılları ve Arasında Sporcular GENEL ",
    "id": "4408af14225b",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-10",
@@ -27718,7 +27850,7 @@
    ],
    "url": "https://malatya.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "YILDIZLAR (13-18 YAŞ) SATRANÇ MALATYA İL BİRİNCİLİĞİ 19 - 20 Aralık 2026 Tarihlerinde GSİM Satranç Merkezi'nde yapılacak olan YILDIZLAR (13-18 YAŞ) SATRANÇ MALATYA İL BİRİNCİLİĞİ YARIŞMASINA yalnızca 2014 - 2009 Doğumlu 13 - 18 Yaş Sporcuları katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ⏰ Kayıt kontrol işlemlerinin Yalnızca Cumartesi Günü Saat 08.30–09.30 saatleri arasında yapılacağını, sporcu listesindeki isminize + koydurmayı, ⚠️ Kayıt kontrol saatinden sonra gelenlerin imkanlar ölçüsünde birbiri il",
+   "kaynak_metin": "YILDIZLAR (13-18 YAŞ) SATRANÇ MALATYA İL BİRİNCİLİĞİ 19 - 20 Aralık 2026 Tarihlerinde GSİM Satranç Merkezi'nde yapılacak olan YILDIZLAR (13-18 YAŞ) SATRANÇ MALATYA İL BİRİNCİLİĞİ YARIŞMASINA yalnızca 2014 - 2009 Doğumlu 13 - 18 Yaş Sporcuları katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ⏰ Kayıt kontrol işlemlerinin Yalnızca 19 Aralık Cumartesi Günü Saat 08.30–09.30 saatleri arasında yapılacağını, sporcu listesindeki isminize + koydurmayı, ⚠️ Kayıt kontrol saatinden sonra gelenlerin imkanlar ölçüsünde ",
    "id": "e670adaba74d",
    "ilk_gorulme": "2026-11-08",
    "son_gorulme": "2026-11-10",
@@ -28467,70 +28599,6 @@
    "id": "e32fc7208b73",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-10",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "CH",
-   "ulke": "İsviçre",
-   "bayrak": "ch",
-   "name": "50th Zürcher Weihnachtsopen 2026",
-   "city": "Zürich",
-   "start": "2026-12-26",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 29",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $23,500",
-   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
-   "url": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
-   "src": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-06-09T06:49:16+00:00",
-   "id": "60df5345f301",
-   "ilk_gorulme": "2026-09-23",
-   "son_gorulme": "2026-10-30",
    "durum": "yaklasan"
   },
   {
@@ -30260,9 +30328,9 @@
    "kayit_kapali": false,
    "lastmod": "2026-11-10T04:21:54+00:00",
    "id": "cc90b78c15d4",
-   "tarih_degisti": "2026-12-27 → 2027-01-03",
    "ilk_gorulme": "2026-11-09",
    "son_gorulme": "2026-11-10",
+   "tarih_degisti": "2026-12-27 → 2027-01-03",
    "durum": "yaklasan"
   },
   {
@@ -33275,6 +33343,56 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
+   "name": "50th Zürcher Weihnachtsopen 2026",
+   "city": "Zürich",
+   "start": "2027-02-12",
+   "end": "2027-02-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Meisterturnier / Master",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Allgemeines Turnier / Main",
+     "min": null,
+     "max": 2050
+    },
+    {
+     "n": "Hobbyturnier / Hobby Rapid",
+     "min": null,
+     "max": 1800
+    },
+    {
+     "n": "Blitzturnier",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapidturnier",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 min for 40 moves, plus 30 min for the rest, plus 30 sec per move from move one",
+   "url": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
+   "src": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
+   "cr": "https://s1.chess-results.com/tnr1513984.aspx?SNode=S0&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T18:12:58+00:00",
+   "id": "0236e64bb2b8",
+   "tarih_degisti": "2026-12-26 → 2027-02-12",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-11-10",
+   "durum": "yaklasan"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -34433,6 +34551,66 @@
    "ilk_gorulme": "2026-10-01",
    "son_gorulme": "2026-10-16",
    "tarih_degisti": "2027-02-28 → 2027-02-28",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2026 Georgia Open & Amateur Championship",
+   "city": "GA 30341",
+   "start": "2027-02-28",
+   "end": "2027-02-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Amateur U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Scholastic U1200",
+     "min": null,
+     "max": 1199
+    },
+    {
+     "n": "Scholastic U900",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Scholastic U600",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Georgia residents",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Out-of-state entrants",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90;d30 main rounds; two-day first two G/60;d5; Scholastic G/60;d5",
+   "url": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
+   "src": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T17:56:52+00:00",
+   "id": "2e7fb71f5420",
+   "tarih_degisti": "2027-05-01 → 2027-02-28",
+   "ilk_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-10",
    "durum": "yaklasan"
   },
   {
@@ -36428,56 +36606,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "50th Blackpool Chess Congress Celebration 2027",
-   "city": "FY1 2HB",
-   "start": "2027-03-27",
-   "end": "2027-03-27",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Lancashire Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Imperial Major",
-     "min": null,
-     "max": 2049
-    },
-    {
-     "n": "Intermediate",
-     "min": null,
-     "max": 1849
-    },
-    {
-     "n": "Minor",
-     "min": null,
-     "max": 1699
-    },
-    {
-     "n": "Standard",
-     "min": null,
-     "max": 1549
-    }
-   ],
-   "prize": null,
-   "tc": "110 min + 10 sec/move",
-   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
-   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T18:05:35+00:00",
-   "id": "ec0be622aeb2",
-   "ilk_gorulme": "2026-10-13",
-   "son_gorulme": "2026-11-10",
-   "tarih_degisti": "2027-02-12 → 2027-03-27",
-   "durum": "yaklasan"
-  },
-  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -37321,55 +37449,6 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
-   "name": "2026 Georgia Open & Amateur Championship",
-   "city": "GA 30341",
-   "start": "2027-05-01",
-   "end": "2027-05-01",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "1st Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "2nd Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Top 2000–2199",
-     "min": 2000,
-     "max": 2199
-    },
-    {
-     "n": "Top 1800–1999",
-     "min": 1800,
-     "max": 1999
-    },
-    {
-     "n": "Top Under 1800",
-     "min": null,
-     "max": 1799
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
-   "src": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-08T17:10:31+00:00",
-   "id": "57a7088c0e19",
-   "ilk_gorulme": "2026-11-08",
-   "son_gorulme": "2026-11-10",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
    "name": "ICA Glen Rock Quads - May 1, 2027",
    "city": "NJ 07452",
    "start": "2027-05-01",
@@ -37417,7 +37496,7 @@
    "lastmod": "2026-10-16T06:32:50+00:00",
    "id": "04a8ce78d90c",
    "ilk_gorulme": "2026-10-16",
-   "son_gorulme": "2026-11-08",
+   "son_gorulme": "2026-11-10",
    "durum": "yaklasan"
   },
   {

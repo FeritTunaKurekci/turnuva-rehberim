@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-10T11:38",
+ "taranma": "2026-11-10T19:20",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 14,
+ "okunan_sayfa": 22,
  "turnuvalar": [
   {
    "c": "US",
@@ -13679,6 +13679,51 @@
    "lastmod": "2026-11-09T16:58:21+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Heywood Chess Congress 2027",
+   "city": "OL10 1LW",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1649
+    },
+    {
+     "n": "Novice",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": "100 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/heywood-chess-congress-2027/",
+   "src": "https://mychess.events/event/heywood-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T17:45:30+00:00"
+  },
+  {
    "c": "IN",
    "ulke": "Hindistan",
    "bayrak": "in",
@@ -15349,6 +15394,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-09-26T16:54:43+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "50th Blackpool Chess Congress Celebration 2027",
+   "city": "FY1 2HB",
+   "start": "2026-11-28",
+   "end": "2026-12-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Lancashire Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Imperial Major",
+     "min": null,
+     "max": 2049
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "Standard",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "110 min + 10 sec/move",
+   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T17:45:44+00:00"
   },
   {
    "c": "CH",
@@ -20062,6 +20152,81 @@
    "lastmod": "2026-11-03T06:50:10+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Special 50th Blackpool Weekday Chess Events 2027 - Open & U1800",
+   "city": "Lancashire FY1 2HB",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Imperial Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Imperial U1800",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/special-50th-blackpool-weekday-chess-events-2027/",
+   "src": "https://mychess.events/event/special-50th-blackpool-weekday-chess-events-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T17:45:51+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Loir-et-Cher Chess Championship 2027 - Saint-Aignan U2400",
+   "city": "Saint-Aignan",
+   "start": "2026-12-19",
+   "end": "2026-12-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "Adults",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Juniors",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Departmental championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Licensing",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/loir-et-cher-chess-championship-2027-saint-aignan-u2400/",
+   "src": "https://mychess.events/event/loir-et-cher-chess-championship-2027-saint-aignan-u2400/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T18:16:40+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -21733,66 +21898,6 @@
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
-   "name": "50th Zürcher Weihnachtsopen 2026",
-   "city": "Zürich",
-   "start": "2026-12-26",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 29",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $23,500",
-   "tc": "90 minutes for 40 moves, then 30 minutes to finish, plus 30 seconds per move",
-   "url": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
-   "src": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-06-09T06:49:16+00:00"
-  },
-  {
-   "c": "CH",
-   "ulke": "İsviçre",
-   "bayrak": "ch",
    "name": "Basel Xmas Festival 2026",
    "city": "Basel",
    "start": "2026-12-26",
@@ -21953,6 +22058,31 @@
    "cr": "https://s1.chess-results.com/tnr1507328.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-08T04:17:50+00:00"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "Roquetas Chess Festival 2027 – XIV International Open U2150",
+   "city": "Almería",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": 2149
+    }
+   ],
+   "prize": null,
+   "tc": "85 minutes + 5-second increment per move",
+   "url": "https://mychess.events/event/roquetas-chess-festival-2027-xiv-international-open-u2150/",
+   "src": "https://mychess.events/event/roquetas-chess-festival-2027-xiv-international-open-u2150/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T18:36:31+00:00"
   },
   {
    "c": "PL",
@@ -22983,36 +23113,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T10:25:09+00:00"
-  },
-  {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "Special 50th Blackpool Weekday Chess Events 2027 - Open & U1800",
-   "city": "Lancashire FY1 2HB",
-   "start": "2026-12-28",
-   "end": "2027-01-05",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Imperial Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Imperial U1800",
-     "min": null,
-     "max": 1799
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/special-50th-blackpool-weekday-chess-events-2027/",
-   "src": "https://mychess.events/event/special-50th-blackpool-weekday-chess-events-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T18:05:47+00:00"
   },
   {
    "c": "EN",
@@ -24538,51 +24638,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-16T08:32:53+00:00"
-  },
-  {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "Heywood Chess Congress 2027",
-   "city": "OL10 1LW",
-   "start": "2027-01-09",
-   "end": "2027-01-09",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Major",
-     "min": null,
-     "max": 1999
-    },
-    {
-     "n": "Intermediate",
-     "min": null,
-     "max": 1849
-    },
-    {
-     "n": "Minor",
-     "min": null,
-     "max": 1649
-    },
-    {
-     "n": "Novice",
-     "min": null,
-     "max": 1499
-    }
-   ],
-   "prize": null,
-   "tc": "100 minutes + 10 seconds per move",
-   "url": "https://mychess.events/event/heywood-chess-congress-2027/",
-   "src": "https://mychess.events/event/heywood-chess-congress-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T17:44:38+00:00"
   },
   {
    "c": "IN",
@@ -26980,6 +27035,51 @@
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
+   "name": "50th Zürcher Weihnachtsopen 2026",
+   "city": "Zürich",
+   "start": "2027-02-12",
+   "end": "2027-02-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Meisterturnier / Master",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Allgemeines Turnier / Main",
+     "min": null,
+     "max": 2050
+    },
+    {
+     "n": "Hobbyturnier / Hobby Rapid",
+     "min": null,
+     "max": 1800
+    },
+    {
+     "n": "Blitzturnier",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapidturnier",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 min for 40 moves, plus 30 min for the rest, plus 30 sec per move from move one",
+   "url": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
+   "src": "https://mychess.events/event/50th-zurcher-weihnachtsopen-2026/",
+   "cr": "https://s1.chess-results.com/tnr1513984.aspx?SNode=S0&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T18:12:58+00:00"
+  },
+  {
+   "c": "CH",
+   "ulke": "İsviçre",
+   "bayrak": "ch",
    "name": "25th Stadthaus Open Burgdorf 2027",
    "city": "Burgdorf",
    "start": "2027-02-12",
@@ -28314,6 +28414,61 @@
    "cr": "https://chess-results.com/tnr1434287.aspx?lan=2",
    "kayit_kapali": false,
    "lastmod": "2026-11-07T10:09:43+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2026 Georgia Open & Amateur Championship",
+   "city": "GA 30341",
+   "start": "2027-02-28",
+   "end": "2027-02-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Amateur U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Scholastic U1200",
+     "min": null,
+     "max": 1199
+    },
+    {
+     "n": "Scholastic U900",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Scholastic U600",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Georgia residents",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Out-of-state entrants",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90;d30 main rounds; two-day first two G/60;d5; Scholastic G/60;d5",
+   "url": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
+   "src": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T17:56:52+00:00"
   },
   {
    "c": "DE",
@@ -30000,51 +30155,6 @@
    "lastmod": "2026-10-13T10:38:17+00:00"
   },
   {
-   "c": "EN",
-   "ulke": "İngiltere",
-   "bayrak": "gb-eng",
-   "name": "50th Blackpool Chess Congress Celebration 2027",
-   "city": "FY1 2HB",
-   "start": "2027-03-27",
-   "end": "2027-03-27",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Lancashire Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Imperial Major",
-     "min": null,
-     "max": 2049
-    },
-    {
-     "n": "Intermediate",
-     "min": null,
-     "max": 1849
-    },
-    {
-     "n": "Minor",
-     "min": null,
-     "max": 1699
-    },
-    {
-     "n": "Standard",
-     "min": null,
-     "max": 1549
-    }
-   ],
-   "prize": null,
-   "tc": "110 min + 10 sec/move",
-   "url": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
-   "src": "https://mychess.events/event/50th-blackpool-chess-congress-celebration-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T18:05:35+00:00"
-  },
-  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -30923,51 +31033,6 @@
    "cr": "https://chess-results.com/tnr1434266.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-07T12:01:50+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "2026 Georgia Open & Amateur Championship",
-   "city": "GA 30341",
-   "start": "2027-05-01",
-   "end": "2027-05-01",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "1st Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "2nd Place",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Top 2000–2199",
-     "min": 2000,
-     "max": 2199
-    },
-    {
-     "n": "Top 1800–1999",
-     "min": 1800,
-     "max": 1999
-    },
-    {
-     "n": "Top Under 1800",
-     "min": null,
-     "max": 1799
-    }
-   ],
-   "prize": null,
-   "tc": null,
-   "url": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
-   "src": "https://mychess.events/event/2026-georgia-open-amateur-championship/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-08T17:10:31+00:00"
   },
   {
    "c": "NL",
