@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-09T22:10",
+ "taranma": "2026-11-10T11:38",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 34,
+ "okunan_sayfa": 14,
  "turnuvalar": [
   {
    "c": "US",
@@ -22785,46 +22785,6 @@
    "lastmod": "2026-11-09T05:56:11+00:00"
   },
   {
-   "c": "FR",
-   "ulke": "Fransa",
-   "bayrak": "fr",
-   "name": "9th Arsenal FIDE Open 2027 - U2400 | Le Robert, Martinique",
-   "city": "Martinique",
-   "start": "2026-12-27",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open U2400",
-     "min": null,
-     "max": 2399
-    },
-    {
-     "n": "Adult entrants",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Junior entrants",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Arbiter and eligibility",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "60 minutes plus a 30-second increment per move",
-   "url": "https://mychess.events/event/9th-arsenal-fide-open-2027-u2400-le-robert-martinique/",
-   "src": "https://mychess.events/event/9th-arsenal-fide-open-2027-u2400-le-robert-martinique/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-09T18:16:15+00:00"
-  },
-  {
    "c": "SE",
    "ulke": "İsveç",
    "bayrak": "se",
@@ -23743,6 +23703,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-09T14:29:36+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "9th Arsenal FIDE Open 2027 - U2400 | Le Robert, Martinique",
+   "city": "Martinique",
+   "start": "2027-01-03",
+   "end": "2027-01-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "Adult entrants",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Junior entrants",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Arbiter and eligibility",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes plus a 30-second increment per move",
+   "url": "https://mychess.events/event/9th-arsenal-fide-open-2027-u2400-le-robert-martinique/",
+   "src": "https://mychess.events/event/9th-arsenal-fide-open-2027-u2400-le-robert-martinique/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T04:21:54+00:00"
   },
   {
    "c": "HR",

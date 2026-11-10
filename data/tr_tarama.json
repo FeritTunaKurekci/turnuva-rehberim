@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-09T22:08",
+ "taranma": "2026-11-10T11:37",
  "surum": "0.4",
  "iller": [
   {
@@ -66,7 +66,7 @@
    "il": "Aydın",
    "durum": "ok",
    "host": "aydin.tsf.org.tr",
-   "adet": 7
+   "adet": 50
   },
   {
    "il": "Balıkesir",
@@ -114,7 +114,7 @@
    "il": "Bolu",
    "durum": "ok",
    "host": "bolu.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Burdur",
@@ -150,7 +150,7 @@
    "il": "Denizli",
    "durum": "ok",
    "host": "denizli.tsf.org.tr",
-   "adet": 13
+   "adet": 14
   },
   {
    "il": "Diyarbakır",
@@ -330,13 +330,13 @@
    "il": "Malatya",
    "durum": "ok",
    "host": "malatya.tsf.org.tr",
-   "adet": 6
+   "adet": 7
   },
   {
    "il": "Manisa",
    "durum": "ok",
    "host": "manisa.tsf.org.tr",
-   "adet": 4
+   "adet": 2
   },
   {
    "il": "Mardin",
@@ -1067,11 +1067,11 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Aydın",
-   "name": "Kuşadası 10 Kasım Atatürk Haftası Satranç Turnuvası",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
+   "name": "1.Forum Aydın Satranç Turnuvası",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "UKD",
    "sections": [
     {
      "n": "Yaş kategorileri",
@@ -1080,7 +1080,27 @@
    ],
    "url": "https://aydin.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Kuşadası 10 Kasım Atatürk Haftası Satranç Turnuvası Kuşadası Gençlik ve Spor İlçe Müdürlüğü ve Kuşadası Satranç İlçe Temsilciliğinin düzenlediği Kuşadası 10 Kasım Atatürk Haftası Satranç Turnuvası 14-15 Kasım 2 026 günlerinde Kuşadası Pera Düğün Salonu ' nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Tu"
+   "kaynak_metin": "1.Forum Aydın Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu 1. Forum Aydın Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 28–29 Kasım 2026 Yarışma Salonu Forum Aydın Giriş Kat ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 10’a madalya Ayrıca toplam 75.000 ₺ değerinde hediye çeki Son Başvuru 26 Kasım 2026 Perşembe, 17.00 Bağlantılar 8 Yaş ve Altı ("
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Kuşadası 10 Kasım Atatürk Haftası Satranç Turnuvası",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Kuşadası 10 Kasım Atatürk Haftası Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Kuşadası 10 Kasım Atatürk Haftası Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 14–15 Kasım 2026 Yarışma Salonu Kuşadası Pera Düğün Salonu ↗ İl / İlçe Aydın / Kuşadası Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 5’e madalya Ayrıca her kategoride UKD puanı olmayan en iyi erkek ve kadın s"
   },
   {
    "c": "TR",
@@ -1091,7 +1111,7 @@
    "start": "2026-11-10",
    "end": "2026-11-10",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "UKD",
    "sections": [
     {
      "n": "Yaş kategorileri",
@@ -1100,54 +1120,35 @@
    ],
    "url": "https://aydin.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "Nazilli 10 Kasım Atatürk Haftası Satranç Turnuvası Nazilli Gençlik ve Spor İlçe Müdürlüğü, Nazilli Satranç İlçe Temsilciliğinin düzenlediği Nazilli 10 Kasım Atatürk Haftası Satranç Turnuvası 14-15 Kasım 2 026 günlerinde Nazilli Esat ERGÜLER Spor Tesislerinde yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Tu"
+   "kaynak_metin": "Nazilli 10 Kasım Atatürk Haftası Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Nazilli 10 Kasım Atatürk Haftası Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 14–15 Kasım 2026 Yarışma Salonu Esat Ergüler Spor Tesisleri ↗ İl / İlçe Aydın / Nazilli Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e madalya Ayrıca her kategoride ilk 3 kadın sporcuya madalya Son Başvuru 12 Kasım 2026 Pe"
   },
   {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Aydın",
-   "name": "Aydın 24 Kasım Öğretmenler Günü Satranç Turnuvası",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
+   "name": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol →",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "ELO",
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://aydin.tsf.org.tr/",
+   "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1008",
    "kaynak": "site",
-   "kaynak_metin": "Aydın 24 Kasım Öğretmenler Günü Satranç Turnuvası Aydın Gençlik ve Spor İl Müdürlüğü ve Aydın Satranç İl Temsilciliğinin düzenlediği Aydın 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2 026 günlerinde Aydın SKS Spor Salonu 'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Turnuvaya kayıt için s"
+   "kaynak_metin": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. İlçe Temsilcileri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Etkinlik Takvimi İletişim Bağlantılar FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal"
   },
   {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Aydın",
-   "name": "Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://aydin.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası Didim Gençlik ve Spor İlçe Müdürlüğü ve Didim Satranç İlçe Temsilciliğinin düzenlediği Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2 026 günlerinde Didim Gençlik Merkezi Salonu 'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan sporcular katılabilir. Daha detaylı bilgi için turnuva yönergesini inceleyiniz. Turnuvaya k"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Aydın",
-   "name": "Açık Kategori Kayıt",
+   "name": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol →",
    "start": "2026-11-10",
    "end": "2026-11-10",
    "status": "a",
@@ -1161,28 +1162,47 @@
    ],
    "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=986",
    "kaynak": "site",
-   "kaynak_metin": "Açık Kategori Kayıt Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. İlçe Temsilcileri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Etkinlik Takvimi İletişim Bağlantılar FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Kuşadası 10 Kasım Atatürk Ha"
+   "kaynak_metin": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. İlçe Temsilcileri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Etkinlik Takvimi İletişim Bağlantılar FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal"
   },
   {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Aydın",
-   "name": "Açık Kategori Kayıt",
+   "name": "Aydın 24 Kasım Öğretmenler Günü Satranç Turnuvası",
    "start": "2026-11-24",
    "end": "2026-11-24",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": "UKD",
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
-   "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=994",
+   "url": "https://aydin.tsf.org.tr/satranc-haberleri/1302-aydn-24-kasm-oegretmenler-guenue-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "Açık Kategori Kayıt Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. İlçe Temsilcileri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Etkinlik Takvimi İletişim Bağlantılar FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Aydın 24 Kasım Öğretmenler G"
+   "kaynak_metin": "Aydın 24 Kasım Öğretmenler Günü Satranç Turnuvası Aydın 24 Kasım Öğretmenler Günü Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Aydın 24 Kasım Öğretmenler Günü Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 21–22 Kasım 2026 Yarışma Salonu Aydın SKS Spor Salonu ↗ İl / İlçe Aydın / Efeler Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa ve madalya Son Başvuru 19 Kasım 2026 Perş"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/satranc-haberleri/1303-didim-24-kasm-oegretmenler-guenue-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 21–22 Kasım 2026 Yarışma Salonu Didim Gençlik Merkezi ↗ İl / İlçe Aydın / Didim Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e madalya Son Başvuru 19 Kasım 2026 Perşembe, 17."
   },
   {
    "c": "TR",
@@ -1193,8 +1213,13 @@
    "start": "2026-11-24",
    "end": "2026-11-24",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "UKD",
    "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1200,
+     "max": null
+    },
     {
      "n": "Yaş kategorileri",
      "age": true
@@ -1202,7 +1227,885 @@
    ],
    "url": "https://aydin.tsf.org.tr/satranc-haberleri/1301-soeke-24-kasm-oegretmenler-guenue-satranc-turnuvas",
    "kaynak": "site",
-   "kaynak_metin": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası Söke Gençlik ve Spor İlçe Müdürlüğü ve Söke Satranç İlçe Temsilciliğinin düzenlediği Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası 28-29 Kasım 2 026 günlerinde Söke Gençlik Merkezi Salonu 'nda yapılacaktır. (Bilgi !!! Yeni yerleşke olduğu için haritalarda inşaat gözükmekte) Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerince çıkartılan TSF Lisansına sahip 2026 - 2027 yılı vizesi yapılmış, 2020 ve ö"
+   "kaynak_metin": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 28–29 Kasım 2026 Yarışma Salonu Söke Gençlik Merkezi ↗ İl / İlçe Aydın / Söke Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 5’e madalya Ayrıca her kategoride ilk 3 ka"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 Avrupa Yaş Grupları Satranç Şampiyonası",
+   "start": "2026-11-02",
+   "end": "2026-11-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Avrupa Yaş Grupları Satranç Şampiyonası 2–13 Kasım 2026 · Yunanistan - Girit"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 Dünya Emektarlar Satranç Şampiyonası",
+   "start": "2026-11-02",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Dünya Emektarlar Satranç Şampiyonası 2–15 Kasım 2026 · Sırbistan - Banja"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2025 - 2026 Türkiye Kupası",
+   "start": "2026-11-14",
+   "end": "2026-11-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2025 - 2026 Türkiye Kupası 14–21 Kasım 2026 · Kayseri - Talas"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 Dünya Yaş Grupları Satranç Şampiyonası (8 - 10 - 12 Yaş)",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Dünya Yaş Grupları Satranç Şampiyonası (8 - 10 - 12 Yaş) 21–29 Kasım 2026 · Gürcistan - Batum"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 Türkiye Şampiyonası",
+   "start": "2026-12-03",
+   "end": "2026-12-14",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Türkiye Şampiyonası 3–14 Aralık 2026"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 Türkiye Hızlı Yıldırım Satranç Şampiyonası",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Türkiye Hızlı Yıldırım Satranç Şampiyonası 18–20 Aralık 2026"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 - 2027 Türkiye Küçükler Satranç Şampiyonası",
+   "start": "2027-01-23",
+   "end": "2027-01-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 - 2027 Türkiye Küçükler Satranç Şampiyonası 23–30 Ocak 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 - 2027 Türkiye Yıldızlar Satranç Şampiyonası",
+   "start": "2027-01-23",
+   "end": "2027-01-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 - 2027 Türkiye Yıldızlar Satranç Şampiyonası 23–30 Ocak 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası İl Yarışmaları",
+   "start": "2027-02-13",
+   "end": "2027-02-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası İl Yarışmaları 13 Şubat 2027 – 4 Nisan 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 - 2027 Kulüpler Şampiyonası İl - Yöre Yarışmaları",
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 - 2027 Kulüpler Şampiyonası İl - Yöre Yarışmaları 13 Mart 2027 – 13 Haziran 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2027 Avrupa Kadınlar Satranç Şampiyonası",
+   "start": "2027-03-15",
+   "end": "2027-03-28",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2027 Avrupa Kadınlar Satranç Şampiyonası 15–28 Mart 2027 · Malta"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2027 Avrupa Okullar Satranç Şampiyonası",
+   "start": "2027-03-21",
+   "end": "2027-03-31",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2027 Avrupa Okullar Satranç Şampiyonası 21–31 Mart 2027 · Antalya"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası Türkiye Finali",
+   "start": "2027-04-21",
+   "end": "2027-04-25",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası Türkiye Finali 21–25 Nisan 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 - 2027 Türkiye Kadınlar Satranç Şampiyonası",
+   "start": "2027-05-01",
+   "end": "2027-05-07",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 - 2027 Türkiye Kadınlar Satranç Şampiyonası 1–7 Mayıs 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Avrupa Bireysel Satranç Şampiyonası",
+   "start": "2027-05-11",
+   "end": "2027-05-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "Avrupa Bireysel Satranç Şampiyonası 11–24 Mayıs 2027 · Gürcistan - Batum"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 - 2027 Türkiye Emektarlar Satranç Şampiyonası",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 - 2027 Türkiye Emektarlar Satranç Şampiyonası 24–30 Mayıs 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 - 2027 Türkiye Gençler Satranç Şampiyonası",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 - 2027 Türkiye Gençler Satranç Şampiyonası 24–30 Mayıs 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2027 Avrupa Genç Takımlar Satranç Şampiyonası",
+   "start": "2027-06-26",
+   "end": "2027-07-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2027 Avrupa Genç Takımlar Satranç Şampiyonası 26 Haziran 2027 – 4 Temmuz 2027 · Romanya - Mamaia"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Avrupa Takımlar Satranç Şampiyonası",
+   "start": "2027-10-01",
+   "end": "2027-10-12",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "Avrupa Takımlar Satranç Şampiyonası 1–12 Ekim 2027 · Portekiz - Lagos"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Dünya 13 - 17 Yaş Altı Satranç Şampiyonası",
+   "start": "2027-10-26",
+   "end": "2027-11-05",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "Dünya 13 - 17 Yaş Altı Satranç Şampiyonası 26 Ekim 2027 – 5 Kasım 2027 · Antalya"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Avrupa Yaş Grupları Satranç Şampiyonası",
+   "start": "2027-11-01",
+   "end": "2027-11-12",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "Avrupa Yaş Grupları Satranç Şampiyonası 1–12 Kasım 2027 · Yunanistan - Rodos"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2 KAS 2026 Avrupa Yaş Grupları Satranç Şampiyonası 2–13 Kasım 2026 · Yunanistan - Girit",
+   "start": "2026-11-02",
+   "end": "2026-11-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1064",
+   "kaynak": "site",
+   "kaynak_metin": "2 KAS 2026 Avrupa Yaş Grupları Satranç Şampiyonası 2–13 Kasım 2026 · Yunanistan - Girit 2 KAS 2026 Avrupa Yaş Grupları Satranç Şampiyonası 2–13 Kasım 2026 · Yunanistan - Girit"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2 KAS 2026 Dünya Emektarlar Satranç Şampiyonası 2–15 Kasım 2026 · Sırbistan - Banja",
+   "start": "2026-11-02",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1065",
+   "kaynak": "site",
+   "kaynak_metin": "2 KAS 2026 Dünya Emektarlar Satranç Şampiyonası 2–15 Kasım 2026 · Sırbistan - Banja 2 KAS 2026 Dünya Emektarlar Satranç Şampiyonası 2–15 Kasım 2026 · Sırbistan - Banja"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "14 KAS 2025 - 2026 Türkiye Kupası 14–21 Kasım 2026 · Kayseri - Talas",
+   "start": "2026-11-14",
+   "end": "2026-11-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1052",
+   "kaynak": "site",
+   "kaynak_metin": "14 KAS 2025 - 2026 Türkiye Kupası 14–21 Kasım 2026 · Kayseri - Talas 14 KAS 2025 - 2026 Türkiye Kupası 14–21 Kasım 2026 · Kayseri - Talas"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "21 KAS 2026 Dünya Yaş Grupları Satranç Şampiyonası (8 - 10 - 12 Yaş) 21–29 Kasım 2026 · Gürcistan - Batum",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1066",
+   "kaynak": "site",
+   "kaynak_metin": "21 KAS 2026 Dünya Yaş Grupları Satranç Şampiyonası (8 - 10 - 12 Yaş) 21–29 Kasım 2026 · Gürcistan - Batum 21 KAS 2026 Dünya Yaş Grupları Satranç Şampiyonası (8 - 10 - 12 Yaş) 21–29 Kasım 2026 · Gürcistan - Batum"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "3 ARA 2026 Türkiye Şampiyonası 3–14 Aralık 2026",
+   "start": "2026-12-03",
+   "end": "2026-12-14",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1067",
+   "kaynak": "site",
+   "kaynak_metin": "3 ARA 2026 Türkiye Şampiyonası 3–14 Aralık 2026 3 ARA 2026 Türkiye Şampiyonası 3–14 Aralık 2026"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "18 ARA 2026 Türkiye Hızlı Yıldırım Satranç Şampiyonası 18–20 Aralık 2026",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1119",
+   "kaynak": "site",
+   "kaynak_metin": "18 ARA 2026 Türkiye Hızlı Yıldırım Satranç Şampiyonası 18–20 Aralık 2026 18 ARA 2026 Türkiye Hızlı Yıldırım Satranç Şampiyonası 18–20 Aralık 2026"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "23 OCA 2026 - 2027 Türkiye Küçükler Satranç Şampiyonası 23–30 Ocak 2027",
+   "start": "2027-01-23",
+   "end": "2027-01-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1089",
+   "kaynak": "site",
+   "kaynak_metin": "23 OCA 2026 - 2027 Türkiye Küçükler Satranç Şampiyonası 23–30 Ocak 2027 23 OCA 2026 - 2027 Türkiye Küçükler Satranç Şampiyonası 23–30 Ocak 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "23 OCA 2026 - 2027 Türkiye Yıldızlar Satranç Şampiyonası 23–30 Ocak 2027",
+   "start": "2027-01-23",
+   "end": "2027-01-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1090",
+   "kaynak": "site",
+   "kaynak_metin": "23 OCA 2026 - 2027 Türkiye Yıldızlar Satranç Şampiyonası 23–30 Ocak 2027 23 OCA 2026 - 2027 Türkiye Yıldızlar Satranç Şampiyonası 23–30 Ocak 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "13 ŞUB 2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası İl Yarışmaları 13 Şubat 2027 – 4 Nisan 2027",
+   "start": "2027-02-13",
+   "end": "2027-02-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1091",
+   "kaynak": "site",
+   "kaynak_metin": "13 ŞUB 2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası İl Yarışmaları 13 Şubat 2027 – 4 Nisan 2027 13 ŞUB 2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası İl Yarışmaları 13 Şubat 2027 – 4 Nisan 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "13 MAR 2026 - 2027 Kulüpler Şampiyonası İl - Yöre Yarışmaları 13 Mart 2027 – 13 Haziran 2027",
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1092",
+   "kaynak": "site",
+   "kaynak_metin": "13 MAR 2026 - 2027 Kulüpler Şampiyonası İl - Yöre Yarışmaları 13 Mart 2027 – 13 Haziran 2027 13 MAR 2026 - 2027 Kulüpler Şampiyonası İl - Yöre Yarışmaları 13 Mart 2027 – 13 Haziran 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "15 MAR 2027 Avrupa Kadınlar Satranç Şampiyonası 15–28 Mart 2027 · Malta",
+   "start": "2027-03-15",
+   "end": "2027-03-28",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1096",
+   "kaynak": "site",
+   "kaynak_metin": "15 MAR 2027 Avrupa Kadınlar Satranç Şampiyonası 15–28 Mart 2027 · Malta 15 MAR 2027 Avrupa Kadınlar Satranç Şampiyonası 15–28 Mart 2027 · Malta"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "21 MAR 2027 Avrupa Okullar Satranç Şampiyonası 21–31 Mart 2027 · Antalya",
+   "start": "2027-03-21",
+   "end": "2027-03-31",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1097",
+   "kaynak": "site",
+   "kaynak_metin": "21 MAR 2027 Avrupa Okullar Satranç Şampiyonası 21–31 Mart 2027 · Antalya 21 MAR 2027 Avrupa Okullar Satranç Şampiyonası 21–31 Mart 2027 · Antalya"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "21 NİS 2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası Türkiye Finali 21–25 Nisan 2027",
+   "start": "2027-04-21",
+   "end": "2027-04-25",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1099",
+   "kaynak": "site",
+   "kaynak_metin": "21 NİS 2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası Türkiye Finali 21–25 Nisan 2027 21 NİS 2026 - 2027 Küçükler ve Yıldızlar Takım Şampiyonası Türkiye Finali 21–25 Nisan 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "1 MAY 2026 - 2027 Türkiye Kadınlar Satranç Şampiyonası 1–7 Mayıs 2027",
+   "start": "2027-05-01",
+   "end": "2027-05-07",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1102",
+   "kaynak": "site",
+   "kaynak_metin": "1 MAY 2026 - 2027 Türkiye Kadınlar Satranç Şampiyonası 1–7 Mayıs 2027 1 MAY 2026 - 2027 Türkiye Kadınlar Satranç Şampiyonası 1–7 Mayıs 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "11 MAY Avrupa Bireysel Satranç Şampiyonası 11–24 Mayıs 2027 · Gürcistan - Batum",
+   "start": "2027-05-11",
+   "end": "2027-05-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1121",
+   "kaynak": "site",
+   "kaynak_metin": "11 MAY Avrupa Bireysel Satranç Şampiyonası 11–24 Mayıs 2027 · Gürcistan - Batum 11 MAY Avrupa Bireysel Satranç Şampiyonası 11–24 Mayıs 2027 · Gürcistan - Batum"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "24 MAY 2026 - 2027 Türkiye Emektarlar Satranç Şampiyonası 24–30 Mayıs 2027",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1106",
+   "kaynak": "site",
+   "kaynak_metin": "24 MAY 2026 - 2027 Türkiye Emektarlar Satranç Şampiyonası 24–30 Mayıs 2027 24 MAY 2026 - 2027 Türkiye Emektarlar Satranç Şampiyonası 24–30 Mayıs 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "24 MAY 2026 - 2027 Türkiye Gençler Satranç Şampiyonası 24–30 Mayıs 2027",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1105",
+   "kaynak": "site",
+   "kaynak_metin": "24 MAY 2026 - 2027 Türkiye Gençler Satranç Şampiyonası 24–30 Mayıs 2027 24 MAY 2026 - 2027 Türkiye Gençler Satranç Şampiyonası 24–30 Mayıs 2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "26 HAZ 2027 Avrupa Genç Takımlar Satranç Şampiyonası 26 Haziran 2027 – 4 Temmuz 2027 · Romanya - Mamaia",
+   "start": "2027-06-26",
+   "end": "2027-07-04",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1122",
+   "kaynak": "site",
+   "kaynak_metin": "26 HAZ 2027 Avrupa Genç Takımlar Satranç Şampiyonası 26 Haziran 2027 – 4 Temmuz 2027 · Romanya - Mamaia 26 HAZ 2027 Avrupa Genç Takımlar Satranç Şampiyonası 26 Haziran 2027 – 4 Temmuz 2027 · Romanya - Mamaia"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "1 EKİ Avrupa Takımlar Satranç Şampiyonası 1–12 Ekim 2027 · Portekiz - Lagos",
+   "start": "2027-10-01",
+   "end": "2027-10-12",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1123",
+   "kaynak": "site",
+   "kaynak_metin": "1 EKİ Avrupa Takımlar Satranç Şampiyonası 1–12 Ekim 2027 · Portekiz - Lagos 1 EKİ Avrupa Takımlar Satranç Şampiyonası 1–12 Ekim 2027 · Portekiz - Lagos"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "26 EKİ Dünya 13 - 17 Yaş Altı Satranç Şampiyonası 26 Ekim 2027 – 5 Kasım 2027 · Antalya",
+   "start": "2027-10-26",
+   "end": "2027-11-05",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1124",
+   "kaynak": "site",
+   "kaynak_metin": "26 EKİ Dünya 13 - 17 Yaş Altı Satranç Şampiyonası 26 Ekim 2027 – 5 Kasım 2027 · Antalya 26 EKİ Dünya 13 - 17 Yaş Altı Satranç Şampiyonası 26 Ekim 2027 – 5 Kasım 2027 · Antalya"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "1 KAS Avrupa Yaş Grupları Satranç Şampiyonası 1–12 Kasım 2027 · Yunanistan - Rodos",
+   "start": "2027-11-01",
+   "end": "2027-11-12",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/etkinlik/1125",
+   "kaynak": "site",
+   "kaynak_metin": "1 KAS Avrupa Yaş Grupları Satranç Şampiyonası 1–12 Kasım 2027 · Yunanistan - Rodos 1 KAS Avrupa Yaş Grupları Satranç Şampiyonası 1–12 Kasım 2027 · Yunanistan - Rodos"
   },
   {
    "c": "TR",
@@ -1473,6 +2376,27 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Bayburt",
+   "name": "TURNUVAYA KAYIT OL",
+   "start": "2026-11-20",
+   "end": "2026-11-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.bayburt.tsf.org.tr/turnuva-kayit-form",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVAYA KAYIT OL Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği Kulüplerimiz Satranç Merkezleri Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Kayıt Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 20-21 KASIM GENÇLER SATRANÇ BAYBURT BİRİNCİLİĞİ 17-19 KASIM YILDIZLAR (KIZ SPORCU) SATRANÇ BAYBURT BİRİNCİLİĞİ 17-19 KASIM YILD"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bayburt",
    "name": "KÜÇÜKLER BAYBURT İL BİRİNCİLİĞİ",
    "start": "2026-11-20",
    "end": "2026-11-21",
@@ -1548,26 +2472,6 @@
    "url": "https://bayburt.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
    "kaynak_metin": "BAYBURT KIZILAY HAFTASI SATRANÇ ŞENLİĞİ Satranç Haberleri 2027 GENÇLER SATRANÇ BAYBURT BİRİNCİLİĞİ GENÇLER SATRANÇ BAYBURT BİRİNCİLİĞİ DİKKAT: Hızlı iletişim için 0532 054 09 69 nolu hattı arayınız yoğunluktan kaynaklı ulaşım sağlayamadığınız durumlarda mesaj gönderiniz. - Turnuva 20-21-22 KASIM 2026 tarihlerinde Bayburt Yeni Kapalı Spor Salonu Satranç Turnuva Salonun da gerçekleştirilecektir. - Turnuva başvuruları 10 - 19 Kasım 2026 arasında devam edecektir. - Turnuva detaylarına belirtilen yön"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Bayburt",
-   "name": "29 EKİM CUMHURİYET BAYRAMI ŞENLİĞİ SATRANÇ TURNUVASI",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://bayburt.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "29 EKİM CUMHURİYET BAYRAMI ŞENLİĞİ SATRANÇ TURNUVASI Satranç Haberleri 2027 GENÇLER SATRANÇ BAYBURT BİRİNCİLİĞİ GENÇLER SATRANÇ BAYBURT BİRİNCİLİĞİ DİKKAT: Hızlı iletişim için 0532 054 09 69 nolu hattı arayınız yoğunluktan kaynaklı ulaşım sağlayamadığınız durumlarda mesaj gönderiniz. - Turnuva 20-21-22 KASIM 2026 tarihlerinde Bayburt Yeni Kapalı Spor Salonu Satranç Turnuva Salonun da gerçekleştirilecektir. - Turnuva başvuruları 10 - 19 Kasım 2026 arasında devam edecektir. - Turnuva detaylarına b"
   },
   {
    "c": "TR",
@@ -1804,9 +2708,9 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Bolu",
-   "name": "Gerede Cumhuriyet Bayramı Satranç Turnuvası",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
+   "name": "Başöğretmen Atatürk Kupası 2026",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -1818,7 +2722,28 @@
    ],
    "url": "https://bolu.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası Satranç Haberleri Başöğretmen Atatürk Kupası 2026 Başöğretmen Atatürk Kupası Satranç Turnuvamız 28-29 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GENÇLİK MERKEZİ) (KONUM İÇİN TIKLAYINIZ...) Yapılacaktır. Dört Kategoride Gerçekleşecek Turnuvamız için Son Başvuru 27 Kasım 2026 saat 16:00 dır. Sporcularımız Lisans işlemlerini yaptrdıktan sonra aşağıdaki linklerden yönergeyi okuyarak kayıt olabilirler. Tüm Satranç severleri turnuvamıza"
+   "kaynak_metin": "Başöğretmen Atatürk Kupası 2026 Satranç Haberleri Bolu Final Okulları Bolu Final Okulları Satranç Turnuvası 05-06 Aralık 2026 Tarihleri Arasında Bolu Final Okulları Salonunda Gerçekleşecektir. Para Ödüllü Turnuvamıza Son Kayıt 04.12.2026 Saat:16:00 dır. Aşağıdaki Linkten Yönergemizi Okuyarak Turnuvamıza Kayıt Olabilirsiniz. YÖNERGE TURNUVA KAYIT Başöğretmen Atatürk Kupası 2026 Başöğretmen Atatürk Kupası Satranç Turnuvamız 28-29 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YEDİGÖLLER GEN"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bolu",
+   "name": "Gerede Cumhuriyet Bayramı Satranç Turnuvası",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bolu.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Gerede Cumhuriyet Bayramı Satranç Turnuvası Satranç Haberleri Bolu Final Okulları Bolu Final Okulları Satranç Turnuvası 05-06 Aralık 2026 Tarihleri Arasında Bolu Final Okulları Salonunda Gerçekleşecektir. Para Ödüllü Turnuvamıza Son Kayıt 04.12.2026 Saat:16:00 dır. Aşağıdaki Linkten Yönergemizi Okuyarak Turnuvamıza Kayıt Olabilirsiniz. YÖNERGE TURNUVA KAYIT Başöğretmen Atatürk Kupası 2026 Başöğretmen Atatürk Kupası Satranç Turnuvamız 28-29 Kasım 2026 tarihleri arasında Bolu Satranç Salonunda (YE"
   },
   {
    "c": "TR",
@@ -1986,7 +2911,7 @@
    ],
    "url": "https://cankiri.tsf.org.tr/satranc-haberleri/379-2027-yildirim-satranc-cankiri-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız < Önceki Sonraki >"
+   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız"
   },
   {
    "c": "TR",
@@ -2199,26 +3124,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Denizli",
-   "name": "DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://denizli.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI İlimizde 7-8 Kasım 2026 Tarihlerinde Pamukkale Satranç Salonu'nda Denizli 10 Kasım Atamıza Saygı ve Anma Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Eşlendirme ve Sonuçlar 7 Yaş 8 Yaş 10 yaş ve Altı 14 Yaş ve Altı Açık Kategori "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Denizli",
    "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -2253,7 +3158,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI İlimizde 5-6 Aralık 2026 Tarihlerinde Pamukkale Satranç Salonunda Denizli Küçükler (9-12 Yaş) İl Birinciliği Satranç Turnuvası yapılacaktır. Turnuva Yönergesi "
+   "kaynak_metin": "DENİZLİ KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI İlimizde 5-6 Aralık 2026 Tarihlerinde Pamukkale Satranç Salonunda Denizli Küçükler (9-12 Yaş) İl Birinciliği Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Turnuva Kayıt "
   },
   {
    "c": "TR",
@@ -2376,9 +3281,29 @@
      "max": null
     }
    ],
-   "url": "https://denizli.tsf.org.tr/84-satranc-haberleri/1180-2026-2027-oegretim-yili-okullararasi-mahalli-minikler-a-satranc-turnuvasi",
+   "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ MİNİKLER A SATRANÇ TURNUVASI 2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ MİNİKLER A SATRANÇ TURNUVASI İlimizde 24-25 Mart 2027 Tarihlerinde Pamukkale Satranç Salonu'nda 2026-2027 Öğretim Yılı Okulsporları Mahalli Minikler A Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Turnuva Kayıt Uygulama Esasları"
+   "kaynak_metin": "2026-2027 ÖĞRETİM YILI OKULLARARASI MAHALLİ MİNİKLER A SATRANÇ TURNUVASI İlimizde 24-25 Mart 2027 Tarihlerinde Pamukkale Satranç Salonu'nda 2026-2027 Öğretim Yılı Okulsporları Mahalli Minikler A Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Turnuva Kayıt Uygulama Esasları "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Denizli",
+   "name": "DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://denizli.tsf.org.tr/84-satranc-haberleri/1174-denizli-10-kasim-atamiza-saygi-ve-anma-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI DENİZLİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI İlimizde 7-8 Kasım 2026 Tarihlerinde Pamukkale Satranç Salonu'nda Denizli 10 Kasım Atamıza Saygı ve Anma Satranç Turnuvası yapılacaktır. Turnuva Yönergesi Eşlendirme ve Sonuçlar 7 Yaş 8 Yaş 10 yaş ve Altı 14 Yaş ve Altı Açık Kategori"
   },
   {
    "c": "TR",
@@ -2419,6 +3344,26 @@
    "url": "https://denizli.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
    "kaynak_metin": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI İlimizde 14 15 Kasım 2026 tarihlerinde Dünya Engelliler Günü Satranç Turnuvası Pamukkale Satranç Salonu'nd"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Denizli",
+   "name": "DENİZLİ KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://denizli.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "DENİZLİ KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI İlimizde 14 15 Kasım 2026 tarihlerinde Dünya Engelliler Günü Satranç Turnuvası Pamukkale Satranç"
   },
   {
    "c": "TR",
@@ -3958,6 +4903,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Malatya",
+   "name": "YILDIZLAR (13-18 YAŞ) SATRANÇ MALATYA İL BİRİNCİLİĞİ",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://malatya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIZLAR (13-18 YAŞ) SATRANÇ MALATYA İL BİRİNCİLİĞİ 19 - 20 Aralık 2026 Tarihlerinde GSİM Satranç Merkezi'nde yapılacak olan YILDIZLAR (13-18 YAŞ) SATRANÇ MALATYA İL BİRİNCİLİĞİ YARIŞMASINA yalnızca 2014 - 2009 Doğumlu 13 - 18 Yaş Sporcuları katılabilir. ♟️ DEĞERLİ SPORCULARIMIZ, ⏰ Kayıt kontrol işlemlerinin Yalnızca Cumartesi Günü Saat 08.30–09.30 saatleri arasında yapılacağını, sporcu listesindeki isminize + koydurmayı, ⚠️ Kayıt kontrol saatinden sonra gelenlerin imkanlar ölçüsünde birbiri il"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
    "name": "KÜÇÜKLER (07-12 YAŞ) SATRANÇ MALATYA İL BİRİNCİLİĞİ",
    "start": "2027-01-02",
    "end": "2027-01-03",
@@ -4069,9 +5034,9 @@
      "age": true
     }
    ],
-   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1303-manisa-kuecuekler-9-12-yas-il-birinciligi",
+   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE < Önceki Sonraki >"
+   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE "
   },
   {
    "c": "TR",
@@ -4089,50 +5054,9 @@
      "age": true
     }
    ],
-   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1304-manisa-yildizlar-13-18-yas-il-birinciligi",
-   "kaynak": "site",
-   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Manisa Yıkdızlar (13-18 Yaş) il birinciliği satranç turnuvası 26-27 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 14.12.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE < Önceki"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Manisa",
-   "name": "2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
    "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI Kayıtlar 23 Kasım 2026 tarihinde saat 13'te açılacaktır. YÖNERGE "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Manisa",
-   "name": "MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ",
-   "start": "2026-11-30",
-   "end": "2026-11-30",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR "
+   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Manisa Yıkdızlar (13-18 Yaş) il birinciliği satranç turnuvası 26-27 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 14.12.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE "
   },
   {
    "c": "TR",
