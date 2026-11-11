@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-11T11:14",
+ "taranma": "2026-11-11T19:13",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 95,
+ "okunan_sayfa": 22,
  "turnuvalar": [
   {
    "c": "US",
@@ -13197,6 +13197,46 @@
    "lastmod": "2026-11-11T06:33:20+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "London Chess League FIDE Weekender - June 2027 | Open, U2000, U1650 & U1400",
+   "city": "London W6 0JD",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1650",
+     "min": null,
+     "max": 1649
+    },
+    {
+     "n": "ECF U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": null,
+   "tc": "Open/U2000/U1650: 90+30; ECF U1400: 60+30",
+   "url": "https://mychess.events/event/london-chess-league-fide-weekender-june-2027/",
+   "src": "https://mychess.events/event/london-chess-league-fide-weekender-june-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-11T11:53:38+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -20612,46 +20652,6 @@
    "lastmod": "2026-11-10T19:39:42+00:00"
   },
   {
-   "c": "DE",
-   "ulke": "Almanya",
-   "bayrak": "de",
-   "name": "12th Heusenstamm Sparkassen Open 2026",
-   "city": "Heusenstamm",
-   "start": "2026-12-26",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Eligibility",
-     "min": 1800,
-     "max": null
-    },
-    {
-     "n": "Rating",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Guaranteed Fund",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Playing Days",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "40/90, then 30 minutes; +30 seconds per move from move one",
-   "url": "https://mychess.events/event/12th-heusenstamm-sparkassen-open-2026/",
-   "src": "https://mychess.events/event/12th-heusenstamm-sparkassen-open-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-08T16:51:31+00:00"
-  },
-  {
    "c": "CA",
    "ulke": "Kanada",
    "bayrak": "ca",
@@ -22963,6 +22963,51 @@
    "cr": "https://s3.chess-results.com/tnr1526869.aspx?SNode=S0&lan=0",
    "kayit_kapali": false,
    "lastmod": "2026-11-09T13:52:47+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Indiana Chess Congress & 86th Indiana State Championship",
+   "city": "IN 46203",
+   "start": "2027-01-01",
+   "end": "2027-01-04",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "86th State Championship — 1900+",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Major Open — U2100",
+     "min": 1800,
+     "max": 2099
+    },
+    {
+     "n": "Reserve — U1801",
+     "min": 1500,
+     "max": 1800
+    },
+    {
+     "n": "Booster — U1500",
+     "min": 1200,
+     "max": 1499
+    },
+    {
+     "n": "Novice — U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "Three-day: G/90+30; two-day first two rounds: G/60+30",
+   "url": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
+   "src": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-11T11:30:18+00:00"
   },
   {
    "c": "IT",
@@ -27100,6 +27145,46 @@
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
+   "name": "London Chess League FIDE Weekender - August 2027 | Open, U2000, U1650 & U1400",
+   "city": "London W6 0JD",
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1650",
+     "min": null,
+     "max": 1649
+    },
+    {
+     "n": "ECF U1400",
+     "min": null,
+     "max": 1399
+    }
+   ],
+   "prize": null,
+   "tc": "Open/U2000/U1650: 90 min + 30 sec/move; U1400: 60 min + 30 sec/move",
+   "url": "https://mychess.events/event/london-chess-league-fide-weekender-august-2027/",
+   "src": "https://mychess.events/event/london-chess-league-fide-weekender-august-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-11T11:48:00+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
    "name": "36th Nottingham Rapidplay 2027",
    "city": "NG1 4HU",
    "start": "2027-02-07",
@@ -27769,6 +27854,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-02T07:43:57+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "12th Heusenstamm Sparkassen Open 2026",
+   "city": "Heusenstamm",
+   "start": "2027-02-18",
+   "end": "2027-02-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Eligibility",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Guaranteed Fund",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Playing Days",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "40/90, then 30 minutes; +30 seconds per move from move one",
+   "url": "https://mychess.events/event/12th-heusenstamm-sparkassen-open-2026/",
+   "src": "https://mychess.events/event/12th-heusenstamm-sparkassen-open-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-11T12:05:12+00:00"
   },
   {
    "c": "FR",
@@ -28959,6 +29084,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-14T08:52:29+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Castle Chess Grand Prix",
+   "city": "GA 30322",
+   "start": "2027-03-07",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master",
+     "min": 2200,
+     "max": null
+    },
+    {
+     "n": "Expert",
+     "min": 2000,
+     "max": 2199
+    },
+    {
+     "n": "Class A",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "Class B",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Class C",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Class D",
+     "min": 1200,
+     "max": 1399
+    },
+    {
+     "n": "U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "G/90 + 10-second increment; first round of 2-day schedule: G/55 + 10",
+   "url": "https://mychess.events/event/2027-castle-chess-grand-prix-atlanta/",
+   "src": "https://mychess.events/event/2027-castle-chess-grand-prix-atlanta/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-11T18:46:08+00:00"
   },
   {
    "c": "GR",
@@ -33773,6 +33953,41 @@
    "lastmod": "2026-10-25T06:07:16+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Army & Navy Club Pall Mall FIDE Congress - June 2027 | Open, U2000 & U1650",
+   "city": "London SW1Y 5JN",
+   "start": "2027-06-27",
+   "end": "2027-06-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Minor U1650",
+     "min": null,
+     "max": 1649
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/army-navy-club-pall-mall-fide-congress-june-2027/",
+   "src": "https://mychess.events/event/army-navy-club-pall-mall-fide-congress-june-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-11T11:39:22+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -34756,6 +34971,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-08T07:24:32+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "43rd St Albans Chess Congress 2027 - Five-Round Classical Swiss",
+   "city": "Hertfordshire AL3 4AW",
+   "start": "2027-09-25",
+   "end": "2027-09-26",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Challengers",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Intermediate",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Minor",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 10 seconds per move in standing congress rules; reconfirm for 2027",
+   "url": "https://mychess.events/event/43rd-st-albans-chess-congress-2027-classical-swiss/",
+   "src": "https://mychess.events/event/43rd-st-albans-chess-congress-2027-classical-swiss/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-11T12:02:13+00:00"
   },
   {
    "c": "HU",
