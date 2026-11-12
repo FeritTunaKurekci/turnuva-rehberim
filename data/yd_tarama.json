@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-12T11:28",
+ "taranma": "2026-11-12T19:31",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 15,
+ "okunan_sayfa": 26,
  "turnuvalar": [
   {
    "c": "US",
@@ -11949,6 +11949,31 @@
    "lastmod": "2026-11-06T07:11:02+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Growth Chess Winter Blitz 2027 – Johnson Creek",
+   "city": "WI 53038",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/growth-chess-winter-blitz-2027-johnson-creek/",
+   "src": "https://mychess.events/event/growth-chess-winter-blitz-2027-johnson-creek/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T19:26:55+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -16563,6 +16588,39 @@
    "lastmod": "2026-11-09T12:52:08+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Chicago Winter – GM/IM Norm Round Robin",
+   "city": "IL 60173",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "GM Norm",
+     "inv": true
+    },
+    {
+     "n": "IM Norm",
+     "inv": true
+    },
+    {
+     "n": "Future Norm Seekers",
+     "min": 2100,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90+30",
+   "url": "https://mychess.events/event/2027-chicago-winter-gm-im-norm-round-robin/",
+   "src": "https://mychess.events/event/2027-chicago-winter-gm-im-norm-round-robin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T14:43:54+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -19787,6 +19845,51 @@
    "lastmod": "2026-11-10T18:16:40+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "The 2027 Ken Ferguson Memorial Open – New Orleans",
+   "city": "LA 70130",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 2100 — 1st / 2nd / 3rd",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "Under 1800 — 1st / 2nd / 3rd",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "G/90+30",
+   "url": "https://mychess.events/event/2027-ken-ferguson-memorial-open-new-orleans/",
+   "src": "https://mychess.events/event/2027-ken-ferguson-memorial-open-new-orleans/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T14:50:28+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -21750,6 +21853,66 @@
    "lastmod": "2026-11-11T09:59:13+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "59th New York State K–8 Scholastic Championships 2027",
+   "city": "Saratoga Music Hall and Courtyard by Marriott Saratoga Springs",
+   "start": "2026-12-26",
+   "end": "2026-12-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Middle School (K–8) Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–8 Under 1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "K–8 Under 1300",
+     "min": null,
+     "max": 1299
+    },
+    {
+     "n": "K–8 Under 900",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Elementary (K–5) Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–5 Under 1400",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "K–5 Under 1000",
+     "min": null,
+     "max": 999
+    },
+    {
+     "n": "K–5 Under 600",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/60, 10-second delay",
+   "url": "https://mychess.events/event/59th-new-york-state-k8-scholastic-championships-2027/",
+   "src": "https://mychess.events/event/59th-new-york-state-k8-scholastic-championships-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T19:07:56+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -23483,6 +23646,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-09T14:29:36+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "2nd Maasch & Kirsch Chess Festival 2027 – Classical Open A, B & C",
+   "city": "Burghausen",
+   "start": "2027-01-02",
+   "end": "2027-01-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1500,
+     "max": 1999
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1499
+    }
+   ],
+   "prize": null,
+   "tc": "90 min / 40 moves + 15 min; 30-sec increment per move",
+   "url": "https://mychess.events/event/2nd-maasch-kirsch-chess-festival-2027-open-a-b-c/",
+   "src": "https://mychess.events/event/2nd-maasch-kirsch-chess-festival-2027-open-a-b-c/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T12:58:34+00:00"
   },
   {
    "c": "ES",
@@ -25962,6 +26160,46 @@
    "lastmod": "2026-11-09T09:07:14+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "59th New York State High School Championship 2027 – Saratoga Springs",
+   "city": "NY 12866",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "High School Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "High School U1900 / Unrated",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "High School U1500 / Unrated",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "High School U1000 / Unrated",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "G/60, 10-second delay",
+   "url": "https://mychess.events/event/59th-new-york-state-high-school-championship-2027-saratoga/",
+   "src": "https://mychess.events/event/59th-new-york-state-high-school-championship-2027-saratoga/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T18:41:14+00:00"
+  },
+  {
    "c": "RS",
    "ulke": "Sırbistan",
    "bayrak": "rs",
@@ -28236,6 +28474,46 @@
    "lastmod": "2026-11-09T13:35:34+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 U.S. Amateur Team South – Kissimmee",
+   "city": "FL 34747",
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "U1900 team award",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1600 team award",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "U1300 team award",
+     "min": null,
+     "max": 1299
+    }
+   ],
+   "prize": null,
+   "tc": "3-day G/90+15; two-day Round 1 G/80,d5",
+   "url": "https://mychess.events/event/2027-us-amateur-team-south-kissimmee/",
+   "src": "https://mychess.events/event/2027-us-amateur-team-south-kissimmee/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T18:35:43+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -29331,6 +29609,46 @@
    "lastmod": "2026-11-09T14:16:25+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Cornerstone Chess Winter Classic – Irvine",
+   "city": "CA 92612",
+   "start": "2027-03-12",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 2200 prize",
+     "min": null,
+     "max": 2199
+    }
+   ],
+   "prize": null,
+   "tc": "G/60+30",
+   "url": "https://mychess.events/event/2027-cornerstone-chess-winter-classic-irvine/",
+   "src": "https://mychess.events/event/2027-cornerstone-chess-winter-classic-irvine/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T18:16:20+00:00"
+  },
+  {
    "c": "CZ",
    "ulke": "Çekya",
    "bayrak": "cz",
@@ -30139,6 +30457,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-25T05:21:58+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "The Dreaming King Open 2027 – Los Angeles",
+   "city": "CA 90045",
+   "start": "2027-03-20",
+   "end": "2027-03-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Elite",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2100",
+     "min": null,
+     "max": 2099
+    },
+    {
+     "n": "U1900",
+     "min": null,
+     "max": 1899
+    },
+    {
+     "n": "U1700",
+     "min": null,
+     "max": 1699
+    },
+    {
+     "n": "U1500",
+     "min": null,
+     "max": 1499
+    },
+    {
+     "n": "U1300",
+     "min": null,
+     "max": 1299
+    },
+    {
+     "n": "U1100",
+     "min": null,
+     "max": 1099
+    }
+   ],
+   "prize": null,
+   "tc": "3-day: G/100+30; 2-day first three: G/40,d5",
+   "url": "https://mychess.events/event/the-dreaming-king-open-2027-los-angeles/",
+   "src": "https://mychess.events/event/the-dreaming-king-open-2027-los-angeles/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T14:56:03+00:00"
   },
   {
    "c": "FR",
@@ -31348,6 +31721,56 @@
    "cr": "https://s3.chess-results.com/tnr1526881.aspx?SNode=S0&lan=0",
    "kayit_kapali": false,
    "lastmod": "2026-11-09T14:05:03+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Delaware State Championship 2027 – Newark",
+   "city": "Ramada Inn / Ramada by Wyndham Newark-Wilmington",
+   "start": "2027-04-17",
+   "end": "2027-04-18",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U2000 — 1st",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U2000 — 2nd",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "U1800 — 1st",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "U1800 — 2nd",
+     "min": null,
+     "max": 1799
+    }
+   ],
+   "prize": null,
+   "tc": "G/90 with a five-second delay",
+   "url": "https://mychess.events/event/delaware-state-championship-2027-newark/",
+   "src": "https://mychess.events/event/delaware-state-championship-2027-newark/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-12T14:44:31+00:00"
   },
   {
    "c": "US",
