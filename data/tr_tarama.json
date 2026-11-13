@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-12T19:29",
+ "taranma": "2026-11-13T11:20",
  "surum": "0.4",
  "iller": [
   {
@@ -42,7 +42,7 @@
    "il": "Ankara",
    "durum": "ok",
    "host": "ankara.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Antalya",
@@ -126,7 +126,7 @@
    "il": "Bursa",
    "durum": "ok",
    "host": "bursa.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Çanakkale",
@@ -246,7 +246,7 @@
    "il": "İzmir",
    "durum": "ok",
    "host": "izmir.tsf.org.tr",
-   "adet": 6
+   "adet": 7
   },
   {
    "il": "Kahramanmaraş",
@@ -336,7 +336,7 @@
    "il": "Manisa",
    "durum": "ok",
    "host": "manisa.tsf.org.tr",
-   "adet": 8
+   "adet": 10
   },
   {
    "il": "Mardin",
@@ -384,7 +384,7 @@
    "il": "Osmaniye",
    "durum": "ok",
    "host": "osmaniye.tsf.org.tr",
-   "adet": 4
+   "adet": 5
   },
   {
    "il": "Rize",
@@ -486,7 +486,7 @@
    "il": "Zonguldak",
    "durum": "ok",
    "host": "zonguldak.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   }
  ],
  "turnuvalar": [
@@ -576,6 +576,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Ankara",
+   "name": "2026 Avrupa Yaş Grupları Satranç Şampiyonası'nda Sporcularımızın Gururlandıran Başarısı",
+   "start": "2026-11-02",
+   "end": "2026-11-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1744-2026-avrupa-yas-gruplar-satranc-sampiyonasnda-sporcularmzn-basars",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Avrupa Yaş Grupları Satranç Şampiyonası'nda Sporcularımızın Gururlandıran Başarısı TSF Ankara 2026 Avrupa Yaş Grupları Satranç Şampiyonası'nda Sporcularımızın Gururlandıran Başarısı 2026 Avrupa Yaş Grupları Satranç Şampiyonası, 02–13 Kasım 2026 tarihleri arasında Yunanistan’ın Girit Adası’nda düzenlendi. Sporcumuz Melike Eliz Karahan, 8 Yaş Kızlar kategorisinde oynadığı 9 oyunda 7,5 puan alarak altın madalya kazandı. Sporcumuz Elif Defne Özer, 10 Yaş Kızlar kategorisinde oynadığı 9 oyunda 7"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ankara",
    "name": "Ankara Kasım Ayı ELO/UKD Satranç Turnuvası",
    "start": "2026-11-14",
    "end": "2026-11-15",
@@ -595,7 +615,7 @@
    ],
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1737-10-kasim-ataturku-anma-satranc-turnuvas-6",
    "kaynak": "site",
-   "kaynak_metin": "Ankara Kasım Ayı ELO/UKD Satranç Turnuvası TSF Ankara Ankara Kasım Ayı ELO/UKD Satranç Turnuvası 10 Kasım Atatürk'ü Anma Ankara Kasım Ayı ELO/UKD Satranç Turnuvası, 14/15 Kasım 2026 tarihlerinde Sincan Spor Kompleksinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. YÖNERGE - ELO YÖNERGE - UKD Yarışma Yeri : Sincan Spor Kompleksi 1. Kat Yarışma yerine toplu taşıma ile ulaşım : 505 (Sincan - Sıhhiye), 509 (Sincan - Törekent), 516 (Sincan - Yapracık TOKİ Konutları), 524 (Sincan - Ü"
+   "kaynak_metin": "Ankara Kasım Ayı ELO/UKD Satranç Turnuvası TSF Ankara Ankara Kasım Ayı ELO/UKD Satranç Turnuvası 10 Kasım Atatürk'ü Anma Ankara Kasım Ayı ELO/UKD Satranç Turnuvası, 14/15 Kasım 2026 tarihlerinde Sincan Spor Kompleksinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. YÖNERGE - ELO Chess-Results ELO YÖNERGE - UKD Yarışma Yeri : Sincan Spor Kompleksi 1. Kat Yarışma yerine toplu taşıma ile ulaşım : 505 (Sincan - Sıhhiye), 509 (Sincan - Törekent), 516 (Sincan - Yapracık TOKİ Konutları"
   },
   {
    "c": "TR",
@@ -904,6 +924,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Aydın",
+   "name": "Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 21–22 Kasım 2026 Yarışma Salonu Didim Gençlik Merkezi ↗ İl / İlçe Aydın / Didim Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e madalya Son Başvuru 19 Kasım 2026 Perşembe, 17.00 Bağlantılar 8 Yaş ve Altı Kategorisi (2019-2020"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
    "name": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol →",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -919,27 +959,6 @@
    "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1008",
    "kaynak": "site",
    "kaynak_metin": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İlçe Temsilcileri İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. Turnuvalar Turnuva Haberleri Etkinlik Takvimi İletişim Bağlantılar FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Kulüplerimiz 1. Forum Aydın Satranç Tur"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Aydın",
-   "name": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol →",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=986",
-   "kaynak": "site",
-   "kaynak_metin": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İlçe Temsilcileri İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. Turnuvalar Turnuva Haberleri Etkinlik Takvimi İletişim Bağlantılar FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Kulüplerimiz Toplam Kayıt: 1 AD SOYAD İ"
   },
   {
    "c": "TR",
@@ -967,20 +986,21 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Aydın",
-   "name": "Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası",
+   "name": "Açık Kategori (2014 ve öncesi doğumlular) · Kayıt Ol →",
    "start": "2026-11-24",
    "end": "2026-11-24",
    "status": "a",
-   "reyting_turu": "UKD",
+   "reyting_turu": "ELO",
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://aydin.tsf.org.tr/satranc-haberleri/1303-didim-24-kasm-oegretmenler-guenue-satranc-turnuvas",
+   "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1001",
    "kaynak": "site",
-   "kaynak_metin": "Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Didim 24 Kasım Öğretmenler Günü Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 21–22 Kasım 2026 Yarışma Salonu Didim Gençlik Merkezi ↗ İl / İlçe Aydın / Didim Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e madalya Son Başvuru 19 Kasım 2026 Perşembe, 17."
+   "kaynak_metin": "Açık Kategori (2014 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İlçe Temsilcileri İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. Turnuvalar Turnuva Haberleri Etkinlik Takvimi İletişim Bağlantılar FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Kulüplerimiz Didim 24 Kasım Öğretmenler"
   },
   {
    "c": "TR",
@@ -2187,7 +2207,7 @@
    ],
    "url": "https://bilecik.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ BİLECİK BİRİNCİLİĞİ 14 -15 Kasım 2026 tarihlerinde Bilecik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 12.11.2026 Yönerge Turnuva Kayıt Devamını oku..."
+   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ BİLECİK BİRİNCİLİĞİ 14 -15 Kasım 2026 tarihlerinde Bilecik Gençlik Merkezinde gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 12.11.2026 Yönerge Turnuva Kayıt Devamını oku..."
   },
   {
    "c": "TR",
@@ -2352,7 +2372,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür"
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g"
   },
   {
    "c": "TR",
@@ -2479,6 +2499,26 @@
    "url": "https://burdur.tsf.org.tr/satranc-haberleri/847-24kasim",
    "kaynak": "site",
    "kaynak_metin": "24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI TURNUVA TA RİHİ: 14 KASIM 2026 SON BAŞVURU TARİHİ: 12 KASIM 2026 - 17.00 TURNUVA YERİ: Merkez Kapalı Spor Salonu TURNUVA KAYIT TURNUVA YÖNERGESİ Turnuva Sayfası Sonraki >"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bursa",
+   "name": "Deneyim Satranç 8 Yaş ve Altı Satranç Turnuvası",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bursa.tsf.org.tr/turnuvaduyurulari/1970-deneyim-satranc-8yasvealti-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Deneyim Satranç 8 Yaş ve Altı Satranç Turnuvası Deneyim Satranç 8 Yaş ve Altı Satranç Turnuvası Turnuva DENEYİM SATRANÇ 8 YAŞ VE ALTI SATRANÇ TURNUVASI Organizasyon BURSA DENEYİM SATRANÇ SPOR KULÜBÜ Turnuva Tarihi 21 Kasım 2026 Cumartesi - 22 Kasım 2026 Pazar Turnuva Yeri BURSA DENEYİM SATRANÇ SPOR KULÜBÜ Kategoriler 8 YAŞ VE ALTI : 2019 ve 2020 yıllarında doğan sporcular Kontenjan Turnuva tek kategori olup kontenjan başvuru tarih sırasına göre 64 sporcu ile sınırlıdır. Tempo 45' + 30 '' Eklemel"
   },
   {
    "c": "TR",
@@ -2702,7 +2742,7 @@
    ],
    "url": "https://cankiri.tsf.org.tr/satranc-haberleri/379-2027-yildirim-satranc-cankiri-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız"
+   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız < Önceki Sonraki >"
   },
   {
    "c": "TR",
@@ -3377,7 +3417,7 @@
    "start": "2026-11-14",
    "end": "2026-11-15",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
     {
      "n": "Yaş kategorileri",
@@ -3481,7 +3521,7 @@
    "start": "2026-11-14",
    "end": "2026-11-15",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
     {
      "n": "Yaş kategorileri",
@@ -3501,7 +3541,7 @@
    "start": "2026-11-14",
    "end": "2026-11-15",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
     {
      "n": "Yaş kategorileri",
@@ -3856,6 +3896,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İzmir",
+   "name": "NAİM SÜLEYMANOĞLU ANISINA 2. SATRANÇ TURNUVASI",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2632-naim-sueleymanoglu-anisina-2-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "NAİM SÜLEYMANOĞLU ANISINA 2. SATRANÇ TURNUVASI NAİM SÜLEYMANOĞLU ANISINA 2. SATRANÇ TURNUVASI Balkan Göçmenleri Kültür ve Dayanışma Derneği Gaziemir Sarnıç Şubesi ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" Naim Süleymanoğlu Anısına 2. Satranç Turnuvası\" 21 -22 Kasım 2026 tarihlerinde Sarnıç Naim Süleymanoğlu Kültür Merkezi'nde yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İzmir",
    "name": "DİKİLİ 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
    "start": "2026-11-24",
    "end": "2026-11-24",
@@ -3869,7 +3929,7 @@
    ],
    "url": "https://izmir.tsf.org.tr/turnuvalar/2631-dikili-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "DİKİLİ 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI DİKİLİ 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" 24 Kasım Öğretmenler Günü Satranç Turnuvası\" 21 -22 Kasım 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış; 2020-2013 yılları ve arasında doğan sporc"
+   "kaynak_metin": "DİKİLİ 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI DİKİLİ 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI İzmir GSİM ve İzmir Satranç İl Temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \" 24 Kasım Öğretmenler Günü Satranç Turnuvası\" 21 -22 Kasım 2026 tarihlerinde Dikili Spor Salonu'nda yapılacaktır. Konum için tıklayınız. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış; 2020-2013 yılları ve arasında doğan sporc"
   },
   {
    "c": "TR",
@@ -4706,8 +4766,8 @@
    "bayrak": "tr",
    "il": "Manisa",
    "name": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -4716,9 +4776,29 @@
      "age": true
     }
    ],
-   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1304-manisa-yildizlar-13-18-yas-il-birinciligi",
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Manisa Yıkdızlar (13-18 Yaş) il birinciliği satranç turnuvası 26-27 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 14.12.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE < Önceki Sonraki >"
+   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Turnuva Haberleri MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Manisa Öğretmenler Günü satranç turnuvası 21-22 Kasım 2026 tarihlerinde GSB 75. Yıl Gençlik Merkezi/ Yunusemre ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 09 Kasım saat :13'te açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yı"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Manisa",
+   "name": "AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI TAMAMLANDI",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "AKHİSAR ATATÜRK HAFTASI HIZLI SATRANÇ TURNUVASI TAMAMLANDI Turnuva Haberleri MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Manisa Öğretmenler Günü satranç turnuvası 21-22 Kasım 2026 tarihlerinde GSB 75. Yıl Gençlik Merkezi/ Yunusemre ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 09 Kasım saat :13'te açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategoris"
   },
   {
    "c": "TR",
@@ -4759,6 +4839,26 @@
    "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT Kızlar Kategorisi 2015 ve 2018 Yılları ve Arasında Sporcular KIZLAR Genel Kategorisi 2015 ve 2018 Yılları ve Arasında Sporcular GENEL "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Manisa",
+   "name": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "MANİSA YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ Manisa Yıkdızlar (13-18 Yaş) il birinciliği satranç turnuvası 26-27 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 14.12.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE "
   },
   {
    "c": "TR",
@@ -5173,6 +5273,26 @@
    "url": "https://osmaniye.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Yıldızlar(13-18 Yaş) Satranç Osmaniye İl Birinciliği Satranç Haberleri Merkez Atatürk Haftası Satranç Turnuvası Osmaniye Atatürk Haftası Satranç Turnuvası 14-15 Kasım 2026 tarihlerinde 4 farklı kategoride Çok Amaçlı Spor Salonunda yapılacak. YÖNERGE TURNUVA KAYIT Kadirli Atatürk Haftası Satranç Turnuvası 14-15 Kasım'da Kadirli Atatürk Haftası Satranç Turnuvası 14-15 Kasım 2026 tarihlerinde 4 farklı kategoride Kadirli Gençlik Merkezinde yapılacak. YÖNERGE TURNUVA KAYIT Küçükler(7-12) Satranç Osma"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Osmaniye",
+   "name": "Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://osmaniye.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Düziçi Atatürk Haftası Satranç Turnuvası 7-8 Kasım'da Satranç Haberleri Merkez Atatürk Haftası Satranç Turnuvası Osmaniye Atatürk Haftası Satranç Turnuvası 14-15 Kasım 2026 tarihlerinde 4 farklı kategoride Çok Amaçlı Spor Salonunda yapılacak. YÖNERGE TURNUVA KAYIT Kadirli Atatürk Haftası Satranç Turnuvası 14-15 Kasım'da Kadirli Atatürk Haftası Satranç Turnuvası 14-15 Kasım 2026 tarihlerinde 4 farklı kategoride Kadirli Gençlik Merkezinde yapılacak. YÖNERGE TURNUVA KAYIT Küçükler(7-12) Satranç Osm"
   },
   {
    "c": "TR",
@@ -5710,6 +5830,27 @@
    "url": "https://zonguldak.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "4 ARALIK DÜNYA MADENCİLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Zonguldak TMMOB Maden Mühendisleri Odası Zonguldak Şubesinde 35'+30\" Eklemeli Tempoyla 4 Aralık Dünya Madenciler Günü Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Zonguldak",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "http://www.zonguldak.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri ZONGULDAK BORSA İSTANBUL ANADOLU LİSESİ 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI 22 Kasım 2026 Pazar günü 10'+5\" eklemeli tempoyla Zonguldak Borsa İstanbul Anadolu Lisesi 24 Kasım Öğretmenler Günü Ödüllü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT 4 ARALIK DÜNYA MADENCİLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Zonguldak TMMOB Maden Mühendisleri Odası Zonguldak Şubesinde 35'+30\" Eklemeli Tempoy"
   }
  ]
 }
