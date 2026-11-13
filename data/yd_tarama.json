@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-13T11:22",
+ "taranma": "2026-11-13T19:12",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 28,
+ "okunan_sayfa": 30,
  "turnuvalar": [
   {
    "c": "US",
@@ -10229,101 +10229,6 @@
    "lastmod": "2026-08-22T12:13:48+00:00"
   },
   {
-   "c": "NO",
-   "ulke": "Norveç",
-   "bayrak": "no",
-   "name": "Power Solutions Arctic Chess NGP 2027 - Groups A, B & C",
-   "city": "Alta",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Tournament",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Dates",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "City & Country",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Organizer",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Venue",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Format",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Groups",
-     "min": 1600,
-     "max": 1799
-    },
-    {
-     "n": "Rounds",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/power-solutions-arctic-chess-ngp-2027/",
-   "src": "https://mychess.events/event/power-solutions-arctic-chess-ngp-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T18:36:11+00:00"
-  },
-  {
-   "c": "IT",
-   "ulke": "İtalya",
-   "bayrak": "it",
-   "name": "S.V.A. Carnival Chess Trophy 2027 - Open A, B & C",
-   "city": "Guidonia Montecelio (RM)",
-   "start": "2026-11-08",
-   "end": "2026-11-08",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open A",
-     "min": 1900,
-     "max": null
-    },
-    {
-     "n": "Open B",
-     "min": 1700,
-     "max": 2000
-    },
-    {
-     "n": "Open C",
-     "min": null,
-     "max": 1699
-    }
-   ],
-   "prize": null,
-   "tc": "90 minutes + 30 seconds per move",
-   "url": "https://mychess.events/event/sva-carnival-chess-trophy-2027-open-a-b-c/",
-   "src": "https://mychess.events/event/sva-carnival-chess-trophy-2027-open-a-b-c/",
-   "cr": "https://s2.chess-results.com/tnr1530381.aspx?SNode=S0&lan=0",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T14:09:10+00:00"
-  },
-  {
    "c": "HU",
    "ulke": "Macaristan",
    "bayrak": "hu",
@@ -11637,51 +11542,6 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
-   "name": "2027 Maryland Senior Open - Irwin Qualifier",
-   "city": "MD 21117",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Senior Open — 50+",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Three-day option",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Two-day option",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Age 60+ and 70+ prizes",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Maryland resident stipend",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "3-day: G/90+30; 2-day R1–2: G/45;d30, then G/90+30",
-   "url": "https://mychess.events/event/2027-maryland-senior-open-irwin-qualifier-owings-mills/",
-   "src": "https://mychess.events/event/2027-maryland-senior-open-irwin-qualifier-owings-mills/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-11T10:53:19+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
    "name": "2027 Arizona State Grades Championship – Tempe",
    "city": "AZ 85281",
    "start": "2026-11-13",
@@ -11737,6 +11597,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-13T06:54:34+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Wisconsin State Scholastic Chess Championship – Individual K–12, K–8 & K–5",
+   "city": "WI 54301",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "K–12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–5",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/45, 5-second delay",
+   "url": "https://mychess.events/event/2027-wisconsin-state-scholastic-individual-k12-k8-k5-green-bay/",
+   "src": "https://mychess.events/event/2027-wisconsin-state-scholastic-individual-k12-k8-k5-green-bay/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T12:38:46+00:00"
   },
   {
    "c": "KZ",
@@ -12202,6 +12097,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-09T05:46:06+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Wisconsin State Scholastic Championship – Varsity I & Varsity II",
+   "city": "WI 54301",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Varsity I",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Varsity II",
+     "min": null,
+     "max": 1099
+    }
+   ],
+   "prize": null,
+   "tc": "G/60, five-second delay",
+   "url": "https://mychess.events/event/2027-wisconsin-state-scholastic-varsity-i-varsity-ii-green-bay/",
+   "src": "https://mychess.events/event/2027-wisconsin-state-scholastic-varsity-i-varsity-ii-green-bay/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T12:46:09+00:00"
   },
   {
    "c": "IN",
@@ -12869,6 +12794,36 @@
    "lastmod": "2026-11-10T17:45:30+00:00"
   },
   {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "Goodbye 2026 Open",
+   "city": "BC V2Y 2V5",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Classical U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Bonus Blitz Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical: 90 minutes + 30 seconds per move; bonus blitz: 3 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/richmond-international-chess-festival-2026/",
+   "src": "https://mychess.events/event/richmond-international-chess-festival-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:58:32+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -13322,6 +13277,56 @@
    "lastmod": "2026-11-11T11:53:38+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Rising Star June Grand Prix 2027 – Mesa, Arizona",
+   "city": "AZ 85210",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Class A",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "Class B",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Class C",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Class D",
+     "min": 1200,
+     "max": 1399
+    },
+    {
+     "n": "Under 1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "G/45 + 10-second increment per move",
+   "url": "https://mychess.events/event/rising-star-june-grand-prix-2027-mesa-arizona/",
+   "src": "https://mychess.events/event/rising-star-june-grand-prix-2027-mesa-arizona/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:01:24+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -13449,6 +13454,46 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-07T09:17:35+00:00"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "31st San Andrés Chess Tournament – Azkoitia 2026",
+   "city": "Gipuzkoa",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Thu, Nov 26 · 6:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Nov 28 · 10:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Nov 28 · after Round 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Nov 28 · after Round 9",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3 minutes + 2 seconds per move (blitz)",
+   "url": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
+   "src": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
+   "cr": "https://chess-results.com/tnr1356330.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:38:45+00:00"
   },
   {
    "c": "IS",
@@ -13619,6 +13664,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-08T19:24:30+00:00"
+  },
+  {
+   "c": "NO",
+   "ulke": "Norveç",
+   "bayrak": "no",
+   "name": "Power Solutions Arctic Chess NGP 2027 - Groups A, B & C",
+   "city": "Alta",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City & Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Groups",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/power-solutions-arctic-chess-ngp-2027/",
+   "src": "https://mychess.events/event/power-solutions-arctic-chess-ngp-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:43:59+00:00"
   },
   {
    "c": "IT",
@@ -14676,31 +14781,6 @@
    "lastmod": "2026-09-21T20:24:05+00:00"
   },
   {
-   "c": "ES",
-   "ulke": "İspanya",
-   "bayrak": "es",
-   "name": "31st San Andrés Chess Tournament – Azkoitia 2026",
-   "city": "Azkoitia",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "3 minutes plus 2 seconds per move",
-   "url": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
-   "src": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
-   "cr": "https://chess-results.com/tnr1356330.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-07-01T10:49:20+00:00"
-  },
-  {
    "c": "BR",
    "ulke": "Brezilya",
    "bayrak": "br",
@@ -15534,6 +15614,41 @@
    "cr": "https://chess-results.com/tnr1523684.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-08T04:17:21+00:00"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "S.V.A. Carnival Chess Trophy 2027 - Open A, B & C",
+   "city": "Guidonia Montecelio (RM)",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1700,
+     "max": 2000
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/sva-carnival-chess-trophy-2027-open-a-b-c/",
+   "src": "https://mychess.events/event/sva-carnival-chess-trophy-2027-open-a-b-c/",
+   "cr": "https://s2.chess-results.com/tnr1530381.aspx?SNode=S0&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:47:52+00:00"
   },
   {
    "c": "IN",
@@ -19574,6 +19689,51 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
+   "name": "Dragon Knight Chess Artur Yusupov (1960) Grand Prix 2027",
+   "city": "NC 27560",
+   "start": "2026-12-18",
+   "end": "2026-12-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Under 1900",
+     "min": 1600,
+     "max": 1899
+    },
+    {
+     "n": "Under 1700",
+     "min": 1400,
+     "max": 1699
+    },
+    {
+     "n": "Under 1500",
+     "min": 1200,
+     "max": 1499
+    },
+    {
+     "n": "Under 1300",
+     "min": null,
+     "max": 1299
+    }
+   ],
+   "prize": null,
+   "tc": "G/60; 5-second delay per move (not an increment)",
+   "url": "https://mychess.events/event/dragon-knight-chess-artur-yusupov-1960-grand-prix-2027/",
+   "src": "https://mychess.events/event/dragon-knight-chess-artur-yusupov-1960-grand-prix-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T12:19:42+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
    "name": "2026 McGrath Memorial – Vermont State Championship",
    "city": "VT 05405",
    "start": "2026-12-19",
@@ -20068,6 +20228,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-12T14:50:28+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Dragon Knight Chess Ju Wenjun (1991) Grand Prix 2027",
+   "city": "NC 27560",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Under 1900",
+     "min": 1600,
+     "max": 1899
+    },
+    {
+     "n": "Under 1700",
+     "min": 1400,
+     "max": 1699
+    },
+    {
+     "n": "Under 1500",
+     "min": 1200,
+     "max": 1499
+    },
+    {
+     "n": "Under 1300",
+     "min": null,
+     "max": 1299
+    }
+   ],
+   "prize": null,
+   "tc": "G/60; 5-second delay per move (not an increment)",
+   "url": "https://mychess.events/event/dragon-knight-chess-ju-wenjun-1991-grand-prix-2027/",
+   "src": "https://mychess.events/event/dragon-knight-chess-ju-wenjun-1991-grand-prix-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T12:51:12+00:00"
   },
   {
    "c": "FR",
@@ -21591,66 +21796,6 @@
    "cr": "https://s2.chess-results.com/tnr1397991.aspx?lan=1&flag=30&turdet=YES&SNode=S0",
    "kayit_kapali": false,
    "lastmod": "2026-06-09T09:11:44+00:00"
-  },
-  {
-   "c": "CA",
-   "ulke": "Kanada",
-   "bayrak": "ca",
-   "name": "Richmond International Chess Festival 2026",
-   "city": "BC V7C 4N3",
-   "start": "2026-12-26",
-   "end": "2026-12-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Saturday, December 26",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Sunday, December 27",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Monday, December 28",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 29",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Tuesday, December 29",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": "≈ $4,300",
-   "tc": "90 minutes per player + 30 seconds per move",
-   "url": "https://mychess.events/event/richmond-international-chess-festival-2026/",
-   "src": "https://mychess.events/event/richmond-international-chess-festival-2026/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-06-09T08:37:15+00:00"
   },
   {
    "c": "ES",
@@ -23308,51 +23453,6 @@
    "lastmod": "2026-11-09T13:52:47+00:00"
   },
   {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "2027 Indiana Chess Congress & 86th Indiana State Championship",
-   "city": "IN 46203",
-   "start": "2027-01-01",
-   "end": "2027-01-04",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "86th State Championship — 1900+",
-     "min": 1900,
-     "max": null
-    },
-    {
-     "n": "Major Open — U2100",
-     "min": 1800,
-     "max": 2099
-    },
-    {
-     "n": "Reserve — U1801",
-     "min": 1500,
-     "max": 1800
-    },
-    {
-     "n": "Booster — U1500",
-     "min": 1200,
-     "max": 1499
-    },
-    {
-     "n": "Novice — U1200",
-     "min": null,
-     "max": 1199
-    }
-   ],
-   "prize": null,
-   "tc": "Three-day: G/90+30; two-day first two rounds: G/60+30",
-   "url": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
-   "src": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-11T11:30:18+00:00"
-  },
-  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -23861,6 +23961,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-12T12:58:34+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "2nd Schach Open im Münchner Oberland 2027 – A & B Classical Open",
+   "city": "Holzkirchen",
+   "start": "2027-01-02",
+   "end": "2027-01-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "A Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "B Tournament",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/2nd-schach-open-im-munchner-oberland-2027-a-b-classical-open/",
+   "src": "https://mychess.events/event/2nd-schach-open-im-munchner-oberland-2027-a-b-classical-open/",
+   "cr": "https://chess-results.com/tnr1533260.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T11:36:55+00:00"
   },
   {
    "c": "ES",
@@ -24436,6 +24566,81 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-10T19:34:51+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Australian Open Chess Championships 2027 | Darwin",
+   "city": "Darwin NT 0800",
+   "start": "2027-01-07",
+   "end": "2027-01-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Australian Open Classical",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Australian Open Blitz",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
+   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T14:15:59+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Maryland Senior Open - Irwin Qualifier",
+   "city": "MD 21117",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Senior Open — 50+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Three-day option",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Two-day option",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Age 60+ and 70+ prizes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Maryland resident stipend",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3-day: G/90+30; 2-day R1–2: G/45;d30, then G/90+30",
+   "url": "https://mychess.events/event/2027-maryland-senior-open-irwin-qualifier-owings-mills/",
+   "src": "https://mychess.events/event/2027-maryland-senior-open-irwin-qualifier-owings-mills/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:28:19+00:00"
   },
   {
    "c": "ES",
@@ -26608,36 +26813,6 @@
    "cr": "https://s2.chess-results.com/tnr1465965.aspx?lan=1&SNode=S0",
    "kayit_kapali": false,
    "lastmod": "2026-11-11T03:51:29+00:00"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "Australian Open Chess Championships 2027 | Darwin",
-   "city": "Darwin NT 0800",
-   "start": "2027-01-23",
-   "end": "2027-01-23",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Australian Open Classical",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Australian Open Blitz",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "Classical: 90 minutes + 30 seconds per move; Blitz: 3 minutes + 2 seconds per move",
-   "url": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "src": "https://mychess.events/event/2027-australian-open-chess-championships-darwin/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-08T16:45:43+00:00"
   },
   {
    "c": "BR",
@@ -28977,6 +29152,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-12T18:35:43+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 PA State Game/75 Championship – West",
+   "city": "PA 15260",
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Premier",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Scholastic",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "75 minutes per player, with a five-second delay per move",
+   "url": "https://mychess.events/event/2027-pa-state-game-75-championship-west-pittsburgh/",
+   "src": "https://mychess.events/event/2027-pa-state-game-75-championship-west-pittsburgh/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T11:50:37+00:00"
   },
   {
    "c": "FR",
@@ -34090,6 +34300,51 @@
    "cr": "https://chess-results.com/tnr1514271.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-08T04:17:43+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Indiana Chess Congress & 86th Indiana State Championship",
+   "city": "IN 46203",
+   "start": "2027-06-12",
+   "end": "2027-06-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "86th State Championship — 1900+",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Major Open — U2100",
+     "min": 1800,
+     "max": 2099
+    },
+    {
+     "n": "Reserve — U1801",
+     "min": 1500,
+     "max": 1800
+    },
+    {
+     "n": "Booster — U1500",
+     "min": 1200,
+     "max": 1499
+    },
+    {
+     "n": "Novice — U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "Three-day: G/90+30; two-day first two rounds: G/60+30",
+   "url": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
+   "src": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:33:04+00:00"
   },
   {
    "c": "US",

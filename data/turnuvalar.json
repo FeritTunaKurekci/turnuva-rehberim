@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-13T11:22",
+ "guncelleme": "2026-11-13T19:12",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-13T11:20",
+   "tarama": "2026-11-13T19:11",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-13T11:22",
+   "tarama": "2026-11-13T19:12",
    "kaynak": "https://mychess.events"
   }
  },
@@ -14434,7 +14434,7 @@
    ],
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1744-2026-avrupa-yas-gruplar-satranc-sampiyonasnda-sporcularmzn-basars",
    "kaynak": "site",
-   "kaynak_metin": "2026 Avrupa Yaş Grupları Satranç Şampiyonası'nda Sporcularımızın Gururlandıran Başarısı TSF Ankara 2026 Avrupa Yaş Grupları Satranç Şampiyonası'nda Sporcularımızın Gururlandıran Başarısı 2026 Avrupa Yaş Grupları Satranç Şampiyonası, 02–13 Kasım 2026 tarihleri arasında Yunanistan’ın Girit Adası’nda düzenlendi. Sporcumuz Melike Eliz Karahan, 8 Yaş Kızlar kategorisinde oynadığı 9 oyunda 7,5 puan alarak altın madalya kazandı. Sporcumuz Elif Defne Özer, 10 Yaş Kızlar kategorisinde oynadığı 9 oyunda 7",
+   "kaynak_metin": "2026 Avrupa Yaş Grupları Satranç Şampiyonası'nda Sporcularımızın Gururlandıran Başarısı TSF Ankara 2026 Avrupa Yaş Grupları Satranç Şampiyonası'nda Sporcularımızın Gururlandıran Başarısı 2026 Avrupa Yaş Grupları Satranç Şampiyonası, 02–13 Kasım 2026 tarihleri arasında Yunanistan’ın Girit Adası’nda düzenlendi. Ankara ili sporcumuz Melike Eliz Karahan, 8 Yaş Kızlar kategorisinde oynadığı 9 oyunda 7,5 puan alarak altın madalya kazandı. Ankara ili sporcumuz Elif Defne Özer, 10 Yaş Kızlar kategorisin",
    "id": "72a55f281e45",
    "ilk_gorulme": "2026-11-13",
    "son_gorulme": "2026-11-13",
@@ -19563,7 +19563,7 @@
    ],
    "url": "https://ankara.tsf.org.tr/95-turnuva-haber/1737-10-kasim-ataturku-anma-satranc-turnuvas-6",
    "kaynak": "site",
-   "kaynak_metin": "Ankara Kasım Ayı ELO/UKD Satranç Turnuvası TSF Ankara Ankara Kasım Ayı ELO/UKD Satranç Turnuvası 10 Kasım Atatürk'ü Anma Ankara Kasım Ayı ELO/UKD Satranç Turnuvası, 14/15 Kasım 2026 tarihlerinde Sincan Spor Kompleksinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. YÖNERGE - ELO Chess-Results ELO YÖNERGE - UKD Yarışma Yeri : Sincan Spor Kompleksi 1. Kat Yarışma yerine toplu taşıma ile ulaşım : 505 (Sincan - Sıhhiye), 509 (Sincan - Törekent), 516 (Sincan - Yapracık TOKİ Konutları",
+   "kaynak_metin": "Ankara Kasım Ayı ELO/UKD Satranç Turnuvası TSF Ankara Ankara Kasım Ayı ELO/UKD Satranç Turnuvası 10 Kasım Atatürk'ü Anma Ankara Kasım Ayı ELO/UKD Satranç Turnuvası, 14/15 Kasım 2026 tarihlerinde Sincan Spor Kompleksinde düzenlenecektir. Detaylar turnuva yönergesinde yer almaktadır. YÖNERGE - ELO Chess-Results ELO YÖNERGE - UKD Chess-Results UKD Yarışma Yeri : Sincan Spor Kompleksi 1. Kat Yarışma yerine toplu taşıma ile ulaşım : 505 (Sincan - Sıhhiye), 509 (Sincan - Törekent), 516 (Sincan - Yapra",
    "id": "86ff571116ec",
    "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-13",
@@ -20279,6 +20279,40 @@
    "durum": "yaklasan"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Wisconsin State Scholastic Championship – Varsity I & Varsity II",
+   "city": "WI 54301",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Varsity I",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Varsity II",
+     "min": null,
+     "max": 1099
+    }
+   ],
+   "prize": null,
+   "tc": "G/60, five-second delay",
+   "url": "https://mychess.events/event/2027-wisconsin-state-scholastic-varsity-i-varsity-ii-green-bay/",
+   "src": "https://mychess.events/event/2027-wisconsin-state-scholastic-varsity-i-varsity-ii-green-bay/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T12:46:09+00:00",
+   "id": "c69fbf4a98d5",
+   "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -20297,7 +20331,7 @@
    ],
    "url": "https://cankiri.tsf.org.tr/satranc-haberleri/379-2027-yildirim-satranc-cankiri-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız < Önceki Sonraki >",
+   "kaynak_metin": "2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ 2027 YILDIRIM SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ Yıldırım Satranç Çankırı İl Birinciliği 15 Kasım 2026 tarihinde; Şehit Yahya Coşkuner Ortaokulu Salonu'nda yapılacaktır. TURNUVA YÖNERGESİ i çin tıklayınız TURNUVA KAYDI için tıklayınız",
    "id": "178926c30d68",
    "ilk_gorulme": "2026-10-17",
    "son_gorulme": "2026-11-13",
@@ -20359,14 +20393,13 @@
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Genel",
-     "min": null,
-     "max": null
+     "n": "Yaş kategorileri",
+     "age": true
     }
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI İlimizde 14 15 Kasım 2026 tarihlerinde Dünya Engelliler Günü Satranç Turnuvası Pamukkale Satranç Salonu'nda yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
+   "kaynak_metin": "DENİZLİ DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI İlimizde 14 15 Kasım 2026 tarihlerinde Dünya Engelliler Günü Satranç Turnuvası Pamukkale Satranç Salonu'nda yapılacaktır. Turnuva Yönergesi Eşlendirme ve Sonuçlar 7 Yaş 8 Yaş 14 Yaş ve Altı A Kategorisi ",
    "id": "3f0c8472964e",
    "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-13",
@@ -21184,6 +21217,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Şanlıurfa",
+   "name": "2026 TÜRKİYE KUPASI ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sanliurfa.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "2026 TÜRKİYE KUPASI ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ Şanlıurfa Gençlik ve Spor İl Müdürlüğü ile Şanlıurfa Satranç İl Temsilciliği iş birliği içerisinde Türkiye Kupası Satranç Şanlıurfa İl Birinciliği Satranç Turnuvası düzenlenmiştir. Satranç Turnuvası 21 - 22 Kasım tarihlerinde 11 Nisan Kapalı Spor Salonu'nda yapılacaktır. Turnuva kaydını 20 Kasım Cuma günü Saat:17.00'dan önce yapmanız gerekmektedir. Sporcuların Dikkatine: Notasyonu bilmeyen oyuncular turnuvaya kabul edilmeyecektir. Her sporcu t",
+   "id": "ad2d2b8cb7a4",
+   "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -21696,6 +21754,60 @@
    "durum": "yaklasan"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Rising Star June Grand Prix 2027 – Mesa, Arizona",
+   "city": "AZ 85210",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Class A",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "Class B",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Class C",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Class D",
+     "min": 1200,
+     "max": 1399
+    },
+    {
+     "n": "Under 1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "G/45 + 10-second increment per move",
+   "url": "https://mychess.events/event/rising-star-june-grand-prix-2027-mesa-arizona/",
+   "src": "https://mychess.events/event/rising-star-june-grand-prix-2027-mesa-arizona/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:01:24+00:00",
+   "id": "4b1b27b1b307",
+   "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
@@ -22110,6 +22222,51 @@
    "durum": "yaklasan"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "31st San Andrés Chess Tournament – Azkoitia 2026",
+   "city": "Gipuzkoa",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Thu, Nov 26 · 6:00 PM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Nov 28 · 10:00 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Nov 28 · after Round 6",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sat, Nov 28 · after Round 9",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3 minutes + 2 seconds per move (blitz)",
+   "url": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
+   "src": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
+   "cr": "https://chess-results.com/tnr1356330.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:38:45+00:00",
+   "id": "59d4cfaff860",
+   "tarih_degisti": "2026-11-28 → 2026-11-23",
+   "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -22266,7 +22423,7 @@
    ],
    "url": "https://burdur.tsf.org.tr/satranc-haberleri/847-24kasim",
    "kaynak": "site",
-   "kaynak_metin": "24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI TURNUVA TA RİHİ: 14 KASIM 2026 SON BAŞVURU TARİHİ: 12 KASIM 2026 - 17.00 TURNUVA YERİ: Merkez Kapalı Spor Salonu TURNUVA KAYIT TURNUVA YÖNERGESİ Turnuva Sayfası Sonraki >",
+   "kaynak_metin": "24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI TURNUVA TA RİHİ: 14 KASIM 2026 SON BAŞVURU TARİHİ: 12 KASIM 2026 - 17.00 TURNUVA BAŞHAKEMİ NA Serdar KAYA :0 537 882 13 63 TURNUVA YERİ: Merkez Kapalı Spor Salonu TURNUVA KAYIT TURNUVA YÖNERGESİ Turnuva Sayfası Sonraki >",
    "id": "206d8b3d8a3d",
    "ilk_gorulme": "2026-10-30",
    "son_gorulme": "2026-11-13",
@@ -23406,6 +23563,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "NO",
+   "ulke": "Norveç",
+   "bayrak": "no",
+   "name": "Power Solutions Arctic Chess NGP 2027 - Groups A, B & C",
+   "city": "Alta",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City & Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Groups",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/power-solutions-arctic-chess-ngp-2027/",
+   "src": "https://mychess.events/event/power-solutions-arctic-chess-ngp-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:43:59+00:00",
+   "id": "d2b3dffc651a",
+   "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -23571,6 +23792,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Antalya",
+   "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİLİĞİ",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1321-2026ilbirinc1112",
+   "kaynak": "site",
+   "kaynak_metin": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİLİĞİ 2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİLİĞİ Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği tarafından, 28-29 Kasım 2026 tarihinde, Antalya Kapalı Spor Salonunda Antalya Küçükler 11-12 Yaş Satranç Antalya İl Birinciliği düzenlenecektir. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER TSF YARIŞMA YÖNERGELERİ HAZIRLAMA VE UYGULAMA PR",
+   "id": "3ea8230e0d38",
+   "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Çorum",
    "name": "2026 ÇORUM YILDIZLAR İL BİRİNCİLİĞİ",
    "start": "2026-11-28",
@@ -23636,35 +23881,6 @@
    "kaynak_metin": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (13-18 YAŞ) 2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (13-18 YAŞ) Turnuva 2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (13-18 YAŞ) Organizasyon BALIKESİR GSİM & BALIKESİR SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 28-29 KASIM 2026 CUMARTESİ-PAZAR Turnuva Yeri YASEMİN ADAR SPOR KOMPLEKSİ SATRANÇ SALONU Kategoriler 13 YAŞ GENEL – 13 YAŞ KIZLAR 14 YAŞ GENEL – 14 YAŞ KIZLAR 15 YAŞ GENEL – 15 YAŞ KIZLAR 16 YAŞ GENEL – 16 YAŞ KIZLAR 17 YAŞ GENEL – 1",
    "id": "ebde48bbce23",
    "ilk_gorulme": "2026-11-03",
-   "son_gorulme": "2026-11-13",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "ES",
-   "ulke": "İspanya",
-   "bayrak": "es",
-   "name": "31st San Andrés Chess Tournament – Azkoitia 2026",
-   "city": "Azkoitia",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Açık",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "3 minutes plus 2 seconds per move",
-   "url": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
-   "src": "https://mychess.events/event/31st-san-andres-chess-tournament-azkoitia-2026/",
-   "cr": "https://chess-results.com/tnr1356330.aspx?lan=1",
-   "kayit_kapali": false,
-   "lastmod": "2026-07-01T10:49:20+00:00",
-   "id": "59d4cfaff860",
-   "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-13",
    "durum": "yaklasan"
   },
@@ -24013,6 +24229,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Kocaeli",
+   "name": "KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kocaeli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. ",
+   "id": "761eeb054d3e",
+   "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Konya",
    "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026)",
    "start": "2026-11-28",
@@ -24168,7 +24409,7 @@
      "max": null
     }
    ],
-   "url": "http://www.zonguldak.tsf.org.tr/",
+   "url": "http://zonguldak.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Satranç Haberleri ZONGULDAK BORSA İSTANBUL ANADOLU LİSESİ 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI 22 Kasım 2026 Pazar günü 10'+5\" eklemeli tempoyla Zonguldak Borsa İstanbul Anadolu Lisesi 24 Kasım Öğretmenler Günü Ödüllü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT 4 ARALIK DÜNYA MADENCİLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Zonguldak TMMOB Maden Mühendisleri Odası Zonguldak Şubesinde 35'+30\" Eklemeli Tempoy",
    "id": "b58b41e14477",
@@ -24207,6 +24448,70 @@
    "kaynak_metin": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI Çağdaş Yaşamı Destekleme Derneği Çeşme Şubesi ve TSF Çeşme İlçe Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Ufuk Aksoy Anısına Çeşme ÇYDD Şubesi 2. ELO Satranç Turnuvası\" 28-29 Kasım 2026 tarihlerinde Aya Haralambos Kültür Merkezi' nde düzenlenecektir. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi y",
    "id": "e900c2133225",
    "ilk_gorulme": "2026-11-10",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "VIII Open Ciutat de Manacor 2026",
+   "city": "Illes Balears",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Under 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Women’s Category",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Local Club",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes plus 30 seconds per move",
+   "url": "https://mychess.events/event/viii-open-ciutat-de-manacor-2026/",
+   "src": "https://mychess.events/event/viii-open-ciutat-de-manacor-2026/",
+   "cr": "https://s2.chess-results.com/tnr1512387.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T19:34:33+00:00",
+   "id": "b9fea2c24613",
+   "ilk_gorulme": "2026-11-13",
    "son_gorulme": "2026-11-13",
    "durum": "yaklasan"
   },
@@ -24748,6 +25053,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "Türkiye Satranç Şampiyonası 3-14 Aralık 2026 tarihleri arasında Gaziantep'te Yapılacak",
+   "start": "2026-12-03",
+   "end": "2026-12-14",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/guncel-haberler/",
+   "kaynak": "site",
+   "kaynak_metin": "Türkiye Satranç Şampiyonası 3-14 Aralık 2026 tarihleri arasında Gaziantep'te Yapılacak ",
+   "id": "9b2cc990a0bf",
+   "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
    "c": "ES",
    "name": "VII Llobregat Open",
    "city": "Sant Boi de Llobregat (Barselona)",
@@ -25058,6 +25388,45 @@
    "lastmod": "2026-08-21T20:51:17+00:00",
    "id": "52e00e91b5f0",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "S.V.A. Carnival Chess Trophy 2027 - Open A, B & C",
+   "city": "Guidonia Montecelio (RM)",
+   "start": "2026-12-04",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": 1700,
+     "max": 2000
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": 1699
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/sva-carnival-chess-trophy-2027-open-a-b-c/",
+   "src": "https://mychess.events/event/sva-carnival-chess-trophy-2027-open-a-b-c/",
+   "cr": "https://s2.chess-results.com/tnr1530381.aspx?SNode=S0&lan=0",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:47:52+00:00",
+   "id": "f87aefcfb2a5",
+   "ilk_gorulme": "2026-11-13",
    "son_gorulme": "2026-11-13",
    "durum": "yaklasan"
   },
@@ -25830,6 +26199,31 @@
    "lastmod": "2026-09-18T20:26:21+00:00",
    "id": "0ff1ab13a139",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Antalya",
+   "name": "Turnuva Haberleri",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 KÜÇÜKLER 9-10 YAŞ SATRANÇ İL BİRİNCİLİĞİ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü ve Antalya Satranç İl Temsilciliği tarafından düzenlenen Küçükler 9-10 Yaş Satranç Antalya İl Birinciliği Turnuvası , 5-6 Aralık 2026 tarihinde Antalya Kapalı Spor Salonu'nda gerçekleştirilecektir.Ödüller ve turnuva hakkındaki diğer bilgiler için turnuva yönergesine bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER ULAŞIM TSF YARIŞMA YÖNERGELERİ HAZIRL",
+   "id": "51d670680c15",
+   "tarih_degisti": "2026-12-12 → 2026-12-05",
+   "ilk_gorulme": "2026-10-02",
    "son_gorulme": "2026-11-13",
    "durum": "yaklasan"
   },
@@ -27047,7 +27441,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI İlimizde 12-13 Aralık 2026 Tarihlerinde Denizli Küçükler(7-8 Yaş) İl Birinciliği Satranç Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi ",
+   "kaynak_metin": "DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI İlimizde 12-13 Aralık 2026 Tarihlerinde Denizli Küçükler(7-8 Yaş) İl Birinciliği Satranç Turnuvası Pamukkale Satranç Salonunda yapılacaktır. Turnuva Yönergesi Turnuva Kayıt ",
    "id": "5fc1f5b24101",
    "ilk_gorulme": "2026-10-22",
    "son_gorulme": "2026-11-13",
@@ -27277,31 +27671,6 @@
    "id": "27455c3736fa",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-13",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Antalya",
-   "name": "Turnuva Haberleri",
-   "start": "2026-12-12",
-   "end": "2026-12-13",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri 2026 ANTALYA BAHÇEŞEHİR KOLEJİ PARK ORMAN BATI KAMPÜSÜ SATRANÇ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü, Antalya Satranç İl Temsilciliği ve Bahçeşehir Koleji tarafından, 12-13 Aralık 2026 tarihinde, Bahçeşehir Koleji Park Orman Batı Kampüsünde, Antalya Bahçeşehir Koleji Park Orman Batı Kampüsü Satranç Turnuvası düzenlenecektir. Müsabaka 35'+30'' eklemeli tempo ile oynanacaktır. Ödüller ve turnuva hakkındaki diğer bilgiler için yönergeye bakınız. TURNUVA ",
-   "id": "51d670680c15",
-   "ilk_gorulme": "2026-10-02",
-   "son_gorulme": "2026-11-09",
-   "tarih_degisti": "2026-11-14 → 2026-12-12",
    "durum": "yaklasan"
   },
   {
@@ -30679,55 +31048,6 @@
    "durum": "yaklasan"
   },
   {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "2027 Indiana Chess Congress & 86th Indiana State Championship",
-   "city": "IN 46203",
-   "start": "2027-01-01",
-   "end": "2027-01-04",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "86th State Championship — 1900+",
-     "min": 1900,
-     "max": null
-    },
-    {
-     "n": "Major Open — U2100",
-     "min": 1800,
-     "max": 2099
-    },
-    {
-     "n": "Reserve — U1801",
-     "min": 1500,
-     "max": 1800
-    },
-    {
-     "n": "Booster — U1500",
-     "min": 1200,
-     "max": 1499
-    },
-    {
-     "n": "Novice — U1200",
-     "min": null,
-     "max": 1199
-    }
-   ],
-   "prize": null,
-   "tc": "Three-day: G/90+30; two-day first two rounds: G/60+30",
-   "url": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
-   "src": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-11T11:30:18+00:00",
-   "id": "c464b7f481c6",
-   "ilk_gorulme": "2026-11-11",
-   "son_gorulme": "2026-11-13",
-   "durum": "yaklasan"
-  },
-  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -31016,6 +31336,40 @@
    "kaynak_metin": "2027 TÜRKİYE KUPASI ÇANKIRI İL BİRİNCİLİĞİ 2027 TÜRKİYE KUPASI ÇANKIRI İL BİRİNCİLİĞİ Türkiye Kupası Çankırı İl Birinciliği 02 - 03 Ocak 2027 tarihlerinde yapılacaktır. Tek kategoride yapılacak olan turnuvada tüm sporcularımıza başarılar dileriz. TURNUVA YÖNERGESİ için tıklayınız. TURNUVA KAYDI için tıklayınız. < Önceki Sonraki >",
    "id": "8df010c4ecd8",
    "ilk_gorulme": "2026-11-11",
+   "son_gorulme": "2026-11-13",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "2nd Schach Open im Münchner Oberland 2027 – A & B Classical Open",
+   "city": "Holzkirchen",
+   "start": "2027-01-02",
+   "end": "2027-01-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "A Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "B Tournament",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/2nd-schach-open-im-munchner-oberland-2027-a-b-classical-open/",
+   "src": "https://mychess.events/event/2nd-schach-open-im-munchner-oberland-2027-a-b-classical-open/",
+   "cr": "https://chess-results.com/tnr1533260.aspx?lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T11:36:55+00:00",
+   "id": "7610c8d50a9a",
+   "ilk_gorulme": "2026-11-13",
    "son_gorulme": "2026-11-13",
    "durum": "yaklasan"
   },
@@ -31849,6 +32203,55 @@
    "ilk_gorulme": "2026-11-08",
    "son_gorulme": "2026-11-13",
    "tarih_degisti": "2027-02-28 → 2027-01-08",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Maryland Senior Open - Irwin Qualifier",
+   "city": "MD 21117",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Senior Open — 50+",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Three-day option",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Two-day option",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Age 60+ and 70+ prizes",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Maryland resident stipend",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3-day: G/90+30; 2-day R1–2: G/45;d30, then G/90+30",
+   "url": "https://mychess.events/event/2027-maryland-senior-open-irwin-qualifier-owings-mills/",
+   "src": "https://mychess.events/event/2027-maryland-senior-open-irwin-qualifier-owings-mills/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:28:19+00:00",
+   "id": "28b65ecf3863",
+   "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-13",
    "durum": "yaklasan"
   },
   {
@@ -38913,9 +39316,9 @@
      "age": true
     }
    ],
-   "url": "https://sanliurfa.tsf.org.tr/",
+   "url": "https://sanliurfa.tsf.org.tr/satranc-haberleri/465-2026-tbmm-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "2026 TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI Şanlıurfa Gençlik ve Spor İl Müdürlüğü ile Şanlıurfa Satranç İl Temsilciliği iş birliği içerisinde TBMM 23 Nisan Ulusal Egemenlik Ve Çocuk Bayramı Satranç Turnuvası düzenlenmiştir. Turnuva 11 Nisan Kapalı Spor Salonu'nda yapılacaktır. TBMM 23 Nisan Ulusal Egemenlik Ve Çocuk Bayramı Satranç Turnuvası 4-5 Nisan tarihlerinde yapılacaktır. Turnuva başvurularının 3 Nisan Saat:17.00'dan önce yapılması gerekmektedir. Sporcuların Dik",
+   "kaynak_metin": "2026 TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI 2026 TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI Şanlıurfa Gençlik ve Spor İl Müdürlüğü ile Şanlıurfa Satranç İl Temsilciliği iş birliği içerisinde TBMM 23 Nisan Ulusal Egemenlik Ve Çocuk Bayramı Satranç Turnuvası düzenlenmiştir. Turnuva 11 Nisan Kapalı Spor Salonu'nda yapılacaktır. TBMM 23 Nisan Ulusal Egemenlik Ve Çocuk Bayramı Satranç Turnuvası 4-5 Nisan tarihlerinde yapılacaktır. Turnuva başvuruların",
    "id": "2a2f7a1f9917",
    "ilk_gorulme": "2026-11-06",
    "son_gorulme": "2026-11-13",
@@ -40955,6 +41358,56 @@
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-13",
    "tarih_degisti": "2026-11-10 → 2027-06-10",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Indiana Chess Congress & 86th Indiana State Championship",
+   "city": "IN 46203",
+   "start": "2027-06-12",
+   "end": "2027-06-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "86th State Championship — 1900+",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Major Open — U2100",
+     "min": 1800,
+     "max": 2099
+    },
+    {
+     "n": "Reserve — U1801",
+     "min": 1500,
+     "max": 1800
+    },
+    {
+     "n": "Booster — U1500",
+     "min": 1200,
+     "max": 1499
+    },
+    {
+     "n": "Novice — U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "Three-day: G/90+30; two-day first two rounds: G/60+30",
+   "url": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
+   "src": "https://mychess.events/event/2027-indiana-chess-congress-86th-state-championship/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-13T13:33:04+00:00",
+   "id": "c04486491c45",
+   "tarih_degisti": "2027-01-01 → 2027-06-12",
+   "ilk_gorulme": "2026-11-11",
+   "son_gorulme": "2026-11-13",
    "durum": "yaklasan"
   },
   {
