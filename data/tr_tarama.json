@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-14T10:39",
+ "taranma": "2026-11-14T17:42",
  "surum": "0.4",
  "iller": [
   {
@@ -312,7 +312,7 @@
    "il": "Kocaeli",
    "durum": "ok",
    "host": "kocaeli.tsf.org.tr",
-   "adet": 5
+   "adet": 6
   },
   {
    "il": "Konya",
@@ -330,7 +330,7 @@
    "il": "Malatya",
    "durum": "ok",
    "host": "malatya.tsf.org.tr",
-   "adet": 6
+   "adet": 7
   },
   {
    "il": "Manisa",
@@ -378,7 +378,7 @@
    "il": "Ordu",
    "durum": "ok",
    "host": "ordu.tsf.org.tr",
-   "adet": 0
+   "adet": 3
   },
   {
    "il": "Osmaniye",
@@ -486,7 +486,7 @@
    "il": "Zonguldak",
    "durum": "ok",
    "host": "zonguldak.tsf.org.tr",
-   "adet": 3
+   "adet": 2
   }
  ],
  "turnuvalar": [
@@ -2370,7 +2370,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür"
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g"
   },
   {
    "c": "TR",
@@ -3255,7 +3255,7 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Giresun",
+   "il": "Türkiye geneli",
    "name": "Turnuva Haberleri",
    "start": "2026-11-21",
    "end": "2026-11-22",
@@ -3910,27 +3910,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Kahramanmaraş",
-   "name": "Turnuva Haberleri",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://kahramanmaras.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Kahramanmaraş Öğretmenler Günü Satranç Turnuvası Turnuvaya, Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2025 – 2026 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan lisanslı sporcular katılabilir. Turnuva Direktörü : Atilla GÜLER- 050 235 25 26 Turnuva Tarihi: 21-22 Kasım 2026 Turnuva Kayıt: *** TURNUVA KATILMAK İÇİN TIKLAYINIZ *** Yönerge: YÖNERGE.pdf Kayıt Kontrol: Turnuva İlk Gününde Saat: 08:30-9:15 (Turlar başlamadan teyid masasında teyid "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Kahramanmaraş",
    "name": "Kahramanmaraş Öğretmenler Günü Satranç Turnuvası",
    "start": "2026-11-21",
    "end": "2026-11-22",
@@ -4495,6 +4474,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Kocaeli",
+   "name": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII Turnuva Haberleri KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Konya",
    "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026)",
    "start": "2026-11-28",
@@ -4659,21 +4659,22 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Manisa",
-   "name": "Turnuva Haberleri",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
+   "il": "Malatya",
+   "name": "2025-2026 Türkiye Kupası Kayseri'de Başladı",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
    "status": "a",
    "reyting_turu": null,
    "sections": [
     {
-     "n": "Yaş kategorileri",
-     "age": true
+     "n": "Genel",
+     "min": null,
+     "max": null
     }
    ],
-   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "url": "https://www.tsf.org.tr/haber/2025-2026-tuerkiye-kupasi-kayseri-de-basladi",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Manisa Öğretmenler Günü satranç turnuvası 21-22 Kasım 2026 tarihlerinde GSB 75. Yıl Gençlik Merkezi/ Yunusemre ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 09 Kasım saat :13'te açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yılları ve arası) 14 YAŞALTI"
+   "kaynak_metin": "2025-2026 Türkiye Kupası Kayseri'de Başladı Haber 14 Kasım 2026 2025-2026 Türkiye Kupası Kayseri'de Başladı Haberi oku"
   },
   {
    "c": "TR",
@@ -5165,6 +5166,47 @@
    "url": "https://mus.tsf.org.tr/turnuva-kayit-form",
    "kaynak": "site",
    "kaynak_metin": "turnuva kaydı için tıklayınız. Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İl ve İlçe Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Kuzey Kıbrıs Satranç İletişim Kayıt yaptırmak istediğiniz turnuvayı tıklayınız 24 kasım 2026 öğretmenler günü satranç turnuvası MUŞ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 2026 KÜÇÜKLER SATRANÇ MU"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ordu",
+   "name": "ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://ordu.tsf.org.tr/satranc-haberleri/618-uenye-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ünye 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2026 tarihlerinde Ünye Adnan Menderes Mesleki Teknik Anadolu Lisesi Salonu'nda 10 farklı kategoride düzenlenecektir. Turnuva kontenjanı 200 sporcu ile sınırlıdır. Turnuvaya son kayıt tarihi 19.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu Sonraki >"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ordu",
+   "name": "Turnuvalar",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://ordu.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuvalar Turnuva Haberleri Turnuvalar ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ünye 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2026 tarihlerinde Ünye Adnan Menderes Mesleki Teknik Anadolu Lisesi Salonu'nda 10 farklı kategoride düzenlenecektir. Turnuva kontenjanı 200 sporcu ile sınırlıdır. Turnuvaya son kayıt tarihi 19.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satra"
   },
   {
    "c": "TR",
@@ -5863,27 +5905,6 @@
    "url": "https://zonguldak.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "4 ARALIK DÜNYA MADENCİLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Zonguldak TMMOB Maden Mühendisleri Odası Zonguldak Şubesinde 35'+30\" Eklemeli Tempoyla 4 Aralık Dünya Madenciler Günü Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Zonguldak",
-   "name": "Turnuva Haberleri",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "http://zonguldak.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri ZONGULDAK BORSA İSTANBUL ANADOLU LİSESİ 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI 22 Kasım 2026 Pazar günü 10'+5\" eklemeli tempoyla Zonguldak Borsa İstanbul Anadolu Lisesi 24 Kasım Öğretmenler Günü Ödüllü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT 4 ARALIK DÜNYA MADENCİLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Zonguldak TMMOB Maden Mühendisleri Odası Zonguldak Şubesinde 35'+30\" Eklemeli Tempoy"
   }
  ]
 }

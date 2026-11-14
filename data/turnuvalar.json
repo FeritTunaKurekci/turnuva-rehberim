@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-14T10:41",
+ "guncelleme": "2026-11-14T17:44",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-14T10:39",
+   "tarama": "2026-11-14T17:42",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-14T10:41",
+   "tarama": "2026-11-14T17:44",
    "kaynak": "https://mychess.events"
   }
  },
@@ -16528,31 +16528,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Ordu",
-   "name": "Turnuvalar",
-   "start": "2026-11-07",
-   "end": "2026-11-08",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://ordu.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Turnuvalar Turnuva Haberleri Turnuvalar ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satranç Turnuvası 07-08 Kasım 2026 tarihlerinde 19 Eylül Stadyumu/Satranç Turnuva Salonu'nda 4 farklı kategoride düzenlenecektir. Turnuvaya son kayıt tarihi 06.11.2026 Saat 17.00'dir. CHESS RESULTS GÜNCEL LİSTELER: Açık Kategori 12 Yaş ve Altı Kategorisi 10 Yaş ve Altı Kategorisi 8 Yaş ve Altı Kategorisi Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu 2026 ORDU 29 EKİM CUMHURİY",
-   "id": "3d365997568b",
-   "ilk_gorulme": "2026-10-30",
-   "son_gorulme": "2026-11-08",
-   "durum": "oynandi",
-   "oynandi_tarihi": "2026-11-09"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Mardin",
    "name": "TÜRKİYE KADINLAR SATRANÇ MARDİN BİRİNCİLİĞİ",
    "start": "2026-11-07",
@@ -19411,6 +19386,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Malatya",
+   "name": "2025-2026 Türkiye Kupası Kayseri'de Başladı",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/2025-2026-tuerkiye-kupasi-kayseri-de-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "2025-2026 Türkiye Kupası Kayseri'de Başladı Haber 14 Kasım 2026 2025-2026 Türkiye Kupası Kayseri'de Başladı Haberi oku",
+   "id": "49a2b0ea4ae9",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "suruyor"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Yalova",
    "name": "2026 SUBAŞI BELEDİYESİ 5.GELENEKSEL ATATÜRK KUPASI",
    "start": "2026-11-14",
@@ -21806,6 +21806,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kahramanmaraş",
+   "name": "Kahramanmaraş Öğretmenler Günü Satranç Turnuvası",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kahramanmaras.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Kahramanmaraş Öğretmenler Günü Satranç Turnuvası Turnuvaya, Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2025 – 2026 yılı vizesi yapılmış, 2020 ve önceki yıllarda doğan lisanslı sporcular katılabilir. Turnuva Direktörü : Atilla GÜLER- 050 235 25 26 Turnuva Tarihi: 21-22 Kasım 2026 Turnuva Kayıt: *** TURNUVA KATILMAK İÇİN TIKLAYINIZ *** Yönerge: YÖNERGE.pdf Kayıt Kontrol: Turnuva İlk Gününde Saat: 08:30-9:15 (Turlar başlamadan teyid masasında teyid işlemi yapınız.) T",
+   "id": "90372c33748b",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -21938,6 +21963,70 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Manisa",
+   "name": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Manisa Öğretmenler Günü satranç turnuvası 21-22 Kasım 2026 tarihlerinde GSB 75. Yıl Gençlik Merkezi/ Yunusemre ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 09 Kasım saat :13'te açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yı",
+   "id": "83eefed40192",
+   "tarih_degisti": "2026-11-28 → 2026-11-21",
+   "ilk_gorulme": "2026-11-06",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Tunnelvision LIII 2027 – Columbia, South Carolina",
+   "city": "SC 29212",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Under 1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "G/45 + 5-second increment",
+   "url": "https://mychess.events/event/tunnelvision-liii-2027-columbia-south-carolina/",
+   "src": "https://mychess.events/event/tunnelvision-liii-2027-columbia-south-carolina/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T13:17:49+00:00",
+   "id": "51eeee9a68b4",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Giresun",
    "name": "Turnuva Haberleri",
    "start": "2026-11-21",
@@ -22042,6 +22131,31 @@
    "ilk_gorulme": "2026-11-01",
    "son_gorulme": "2026-11-14",
    "tarih_degisti": "2026-11-07 → 2026-11-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ordu",
+   "name": "Turnuvalar",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://ordu.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuvalar Turnuva Haberleri Turnuvalar ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ünye 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2026 tarihlerinde Ünye Adnan Menderes Mesleki Teknik Anadolu Lisesi Salonu'nda 10 farklı kategoride düzenlenecektir. Turnuva kontenjanı 200 sporcu ile sınırlıdır. Turnuvaya son kayıt tarihi 19.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satra",
+   "id": "3d365997568b",
+   "tarih_degisti": "2026-11-07 → 2026-11-21",
+   "ilk_gorulme": "2026-10-30",
+   "son_gorulme": "2026-11-14",
    "durum": "yaklasan"
   },
   {
@@ -22672,7 +22786,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür",
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g",
    "id": "57473d6a3cce",
    "ilk_gorulme": "2026-10-16",
    "son_gorulme": "2026-11-14",
@@ -22910,6 +23024,31 @@
    "id": "d1677efb1f00",
    "ilk_gorulme": "2026-10-11",
    "son_gorulme": "2026-11-04",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ordu",
+   "name": "ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://ordu.tsf.org.tr/satranc-haberleri/618-uenye-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ünye 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2026 tarihlerinde Ünye Adnan Menderes Mesleki Teknik Anadolu Lisesi Salonu'nda 10 farklı kategoride düzenlenecektir. Turnuva kontenjanı 200 sporcu ile sınırlıdır. Turnuvaya son kayıt tarihi 19.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu Sonraki >",
+   "id": "7e0768ca5f47",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
    "durum": "yaklasan"
   },
   {
@@ -24442,30 +24581,6 @@
    "id": "415d6ec702a0",
    "ilk_gorulme": "2026-09-23",
    "son_gorulme": "2026-11-14",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Manisa",
-   "name": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://manisa.tsf.org.tr/turnuva-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turgutlu Öğretmenler Günü satranç turnuvası 28-29 Kasım 2026 tarihlerinde Kocatürk Koleji kampüsü Turgutlu ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 16 Kasım saat :18'de açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yılları ve arası) 14 YAŞALTI Açık Kategori (2020 ve önceki yıllard",
-   "id": "83eefed40192",
-   "ilk_gorulme": "2026-11-06",
-   "son_gorulme": "2026-11-07",
    "durum": "yaklasan"
   },
   {
@@ -36617,6 +36732,40 @@
    "durum": "yaklasan"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Cotswold Chess Congress 2027",
+   "city": "Gloucester",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sat, May 29 · 10 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, May 31 · 7:30 PM",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/cotswold-chess-congress-2027/",
+   "src": "https://mychess.events/event/cotswold-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T17:12:38+00:00",
+   "id": "2f551ca1e970",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -39573,6 +39722,40 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
+   "name": "2027 Intercontinental Scholastic Team Championship – Oakbrook Terrace",
+   "city": "IL 60181",
+   "start": "2027-04-09",
+   "end": "2027-04-11",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Team Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Team classifications",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "G/60 with a 30-second increment",
+   "url": "https://mychess.events/event/2027-intercontinental-scholastic-team-championship-oakbrook-terrace/",
+   "src": "https://mychess.events/event/2027-intercontinental-scholastic-team-championship-oakbrook-terrace/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T16:03:52+00:00",
+   "id": "f1c61f40cacc",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
    "name": "2027 SC Girls Chess Championship",
    "city": "SC 29212",
    "start": "2027-04-10",
@@ -39996,6 +40179,35 @@
    "lastmod": "2026-10-14T09:34:27+00:00",
    "id": "4e18d676cf10",
    "ilk_gorulme": "2026-10-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Women’s & Girls’ FIDE / ECF Classical Congress – May 2027",
+   "city": "London N1C 4AG",
+   "start": "2027-04-25",
+   "end": "2027-04-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Rating sections",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 15 seconds per move",
+   "url": "https://mychess.events/event/womens-girls-fide-ecf-classical-congress-may-2027/",
+   "src": "https://mychess.events/event/womens-girls-fide-ecf-classical-congress-may-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T15:28:11+00:00",
+   "id": "887f194bedd7",
+   "ilk_gorulme": "2026-11-14",
    "son_gorulme": "2026-11-14",
    "durum": "yaklasan"
   },

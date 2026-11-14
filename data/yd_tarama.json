@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-14T10:41",
+ "taranma": "2026-11-14T17:44",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 25,
+ "okunan_sayfa": 31,
  "turnuvalar": [
   {
    "c": "US",
@@ -11679,6 +11679,41 @@
    "lastmod": "2026-11-14T08:22:59+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "The Ultimate Chess Cruise 2027 – Classical Open aboard Norwegian Breakaway",
+   "city": "La Cucina dining area aboard Norwegian Breakaway; embarkation at Flynn Cruiseport Boston",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "US Chess-rated Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Casual",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Additional groups",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical G/75; d5 (five-second delay)",
+   "url": "https://mychess.events/event/ultimate-chess-cruise-2027-classical-open-norwegian-breakaway/",
+   "src": "https://mychess.events/event/ultimate-chess-cruise-2027-classical-open-norwegian-breakaway/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T16:20:11+00:00"
+  },
+  {
    "c": "KZ",
    "ulke": "Kazakistan",
    "bayrak": "kz",
@@ -13370,6 +13405,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-13T13:01:24+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Tunnelvision LIII 2027 – Columbia, South Carolina",
+   "city": "SC 29212",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": 1600,
+     "max": null
+    },
+    {
+     "n": "Under 1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Under 1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "G/45 + 5-second increment",
+   "url": "https://mychess.events/event/tunnelvision-liii-2027-columbia-south-carolina/",
+   "src": "https://mychess.events/event/tunnelvision-liii-2027-columbia-south-carolina/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T13:17:49+00:00"
   },
   {
    "c": "CH",
@@ -15069,6 +15139,81 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-13T10:58:23+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "CFCC 2027 Autumn Open & Scholastic Weekend Tournament",
+   "city": "FL 34747",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master / Expert",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Class A",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "Class B",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Class C",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Class D",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Scholastic U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "G/90; d30 (three-day); G/60; d5 for first two rounds of two-day; scholastic G/60; d5",
+   "url": "https://mychess.events/event/cfcc-2027-autumn-open-scholastic-kissimmee/",
+   "src": "https://mychess.events/event/cfcc-2027-autumn-open-scholastic-kissimmee/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T17:23:54+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 National High School (K–12) Championship – Schaumburg",
+   "city": "IL 60173",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90, 10-second delay described by Illinois coaches guide; confirm official 2027 rules",
+   "url": "https://mychess.events/event/2027-national-high-school-k12-chess-championship-schaumburg/",
+   "src": "https://mychess.events/event/2027-national-high-school-k12-chess-championship-schaumburg/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T13:26:57+00:00"
   },
   {
    "c": "CH",
@@ -17973,6 +18118,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-13T07:35:29+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "61st Cincinnati Open 2027 – FIDE Elite, Expert, Class & U Sections",
+   "city": "OH 45242",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Prize Fund",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90;d30; two-day rounds 1–2 G/60;d5",
+   "url": "https://mychess.events/event/61st-cincinnati-open-2027-blue-ash/",
+   "src": "https://mychess.events/event/61st-cincinnati-open-2027-blue-ash/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T13:35:53+00:00"
   },
   {
    "c": "ES",
@@ -22273,6 +22478,46 @@
    "lastmod": "2026-11-12T19:07:56+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "CCCC Hall of Fame Rumble 2027 – Crossville",
+   "city": "TN 38555",
+   "start": "2026-12-26",
+   "end": "2026-12-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Under 1800",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Under 1400",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Under 1000",
+     "min": null,
+     "max": 999
+    }
+   ],
+   "prize": null,
+   "tc": "3-day G/90+30; two-day opening rounds G/45+10",
+   "url": "https://mychess.events/event/cccc-hall-of-fame-rumble-2027-crossville/",
+   "src": "https://mychess.events/event/cccc-hall-of-fame-rumble-2027-crossville/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T14:56:50+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -25303,6 +25548,41 @@
    "lastmod": "2026-11-10T19:36:42+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress – October 23–24, 2027 | U2400, U1850 & U1550",
+   "city": "Southall UB1 1GH",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-october-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-october-2027-u2400-u1850-u1550/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T17:29:37+00:00"
+  },
+  {
    "c": "MC",
    "ulke": "Monako",
    "bayrak": "mc",
@@ -27830,6 +28110,36 @@
    "lastmod": "2026-11-13T06:39:17+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "ICA FIDE Championship – May 15–16, 2027",
+   "city": "NJ 07452",
+   "start": "2027-02-05",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "Class awards",
+     "min": null,
+     "max": 2199
+    }
+   ],
+   "prize": null,
+   "tc": "G/110 with a 10-second delay",
+   "url": "https://mychess.events/event/ica-fide-championship-may-15-16-2027-glen-rock/",
+   "src": "https://mychess.events/event/ica-fide-championship-may-15-16-2027-glen-rock/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T16:10:49+00:00"
+  },
+  {
    "c": "EN",
    "ulke": "İngiltere",
    "bayrak": "gb-eng",
@@ -28173,6 +28483,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-15T06:28:19+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress – December 18–19, 2027 | U2400, U1850 & U1550",
+   "city": "Southall UB1 1GH",
+   "start": "2027-02-07",
+   "end": "2027-02-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-december-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-december-2027-u2400-u1850-u1550/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T17:36:18+00:00"
   },
   {
    "c": "FR",
@@ -29462,6 +29807,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-14T08:38:52+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Cotswold Chess Congress 2027",
+   "city": "Gloucester",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Sat, May 29 · 10 AM",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Mon, May 31 · 7:30 PM",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/cotswold-chess-congress-2027/",
+   "src": "https://mychess.events/event/cotswold-chess-congress-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T17:12:38+00:00"
   },
   {
    "c": "FR",
@@ -31459,6 +31834,51 @@
    "lastmod": "2026-11-14T09:54:11+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Captain Vigil’s Chess Festival at Sea 2 – Classical, Rapid & Chess960 (2027)",
+   "city": "Norwegian Star cruise ship; onboard room and confirmed San Diego berth not yet announced",
+   "start": "2027-03-20",
+   "end": "2027-03-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Classical Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid Swiss",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rapid Quads",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Chess960 Blitz",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Additional side events",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Classical G/90 + 30-second increment; Rapid G/15 with 2-second delay and G/25 with 5-second delay; Chess960 G/5 with 2-second delay",
+   "url": "https://mychess.events/event/captain-vigils-chess-festival-at-sea-2-2027/",
+   "src": "https://mychess.events/event/captain-vigils-chess-festival-at-sea-2-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T12:25:02+00:00"
+  },
+  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -31913,6 +32333,41 @@
    "lastmod": "2026-11-10T19:38:06+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Southall FIDE Congress – November 20–21, 2027 | U2400, U1850 & U1550",
+   "city": "Southall UB1 1GH",
+   "start": "2027-03-26",
+   "end": "2027-03-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U2400",
+     "min": null,
+     "max": 2399
+    },
+    {
+     "n": "U1850",
+     "min": null,
+     "max": 1849
+    },
+    {
+     "n": "U1550",
+     "min": null,
+     "max": 1549
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/southall-fide-congress-november-2027-u2400-u1850-u1550/",
+   "src": "https://mychess.events/event/southall-fide-congress-november-2027-u2400-u1850-u1550/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T17:33:34+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -32286,6 +32741,36 @@
    "cr": "https://chess-results.com/tnr1457665.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-03T12:47:11+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Intercontinental Scholastic Team Championship – Oakbrook Terrace",
+   "city": "IL 60181",
+   "start": "2027-04-09",
+   "end": "2027-04-11",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Team Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Team classifications",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "G/60 with a 30-second increment",
+   "url": "https://mychess.events/event/2027-intercontinental-scholastic-team-championship-oakbrook-terrace/",
+   "src": "https://mychess.events/event/2027-intercontinental-scholastic-team-championship-oakbrook-terrace/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T16:03:52+00:00"
   },
   {
    "c": "US",
@@ -32791,6 +33276,41 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
+   "name": "ICA FIDE Championship – March 20–21, 2027",
+   "city": "2nd Floor",
+   "start": "2027-04-23",
+   "end": "2027-04-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Under 2200 FIDE award",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Under 2000 FIDE award",
+     "min": null,
+     "max": 1999
+    }
+   ],
+   "prize": null,
+   "tc": "G/110, 10-second delay",
+   "url": "https://mychess.events/event/ica-fide-championship-march-20-21-2027-glen-rock/",
+   "src": "https://mychess.events/event/ica-fide-championship-march-20-21-2027-glen-rock/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T16:08:13+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
    "name": "2027 Texas Quick Chess Championship",
    "city": "TX 77009",
    "start": "2027-04-24",
@@ -32906,6 +33426,31 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-11T10:26:36+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Women’s & Girls’ FIDE / ECF Classical Congress – May 2027",
+   "city": "London N1C 4AG",
+   "start": "2027-04-25",
+   "end": "2027-04-25",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Rating sections",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 15 seconds per move",
+   "url": "https://mychess.events/event/womens-girls-fide-ecf-classical-congress-may-2027/",
+   "src": "https://mychess.events/event/womens-girls-fide-ecf-classical-congress-may-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T15:28:11+00:00"
   },
   {
    "c": "CH",
@@ -35199,6 +35744,56 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-23T12:05:35+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "ICA FIDE Championship - January 16–17, 2027",
+   "city": "NJ 07452",
+   "start": "2027-06-19",
+   "end": "2027-06-19",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "US Chess Qualification",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "FIDE Qualification",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "FIDE ID",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Awards",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Special Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/110 d10 (110 minutes per player plus 10-second delay)",
+   "url": "https://mychess.events/event/ica-fide-championship-january-16-17-2027/",
+   "src": "https://mychess.events/event/ica-fide-championship-january-16-17-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T15:07:25+00:00"
   },
   {
    "c": "US",
