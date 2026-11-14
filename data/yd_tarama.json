@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-13T19:12",
+ "taranma": "2026-11-14T10:41",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 30,
+ "okunan_sayfa": 25,
  "turnuvalar": [
   {
    "c": "US",
@@ -11634,6 +11634,51 @@
    "lastmod": "2026-11-13T12:38:46+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Dragon Knight Chess Ju Wenjun (1991) Grand Prix 2027",
+   "city": "NC 27560",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Under 1900",
+     "min": 1600,
+     "max": 1899
+    },
+    {
+     "n": "Under 1700",
+     "min": 1400,
+     "max": 1699
+    },
+    {
+     "n": "Under 1500",
+     "min": 1200,
+     "max": 1499
+    },
+    {
+     "n": "Under 1300",
+     "min": null,
+     "max": 1299
+    }
+   ],
+   "prize": null,
+   "tc": "G/60; 5-second delay per move (not an increment)",
+   "url": "https://mychess.events/event/dragon-knight-chess-ju-wenjun-1991-grand-prix-2027/",
+   "src": "https://mychess.events/event/dragon-knight-chess-ju-wenjun-1991-grand-prix-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T08:22:59+00:00"
+  },
+  {
    "c": "KZ",
    "ulke": "Kazakistan",
    "bayrak": "kz",
@@ -19734,6 +19779,41 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
+   "name": "2027 PA State Game/75 Championship – West",
+   "city": "PA 15260",
+   "start": "2026-12-18",
+   "end": "2026-12-23",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Championship",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Premier",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Scholastic",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "75 minutes per player, with a five-second delay per move",
+   "url": "https://mychess.events/event/2027-pa-state-game-75-championship-west-pittsburgh/",
+   "src": "https://mychess.events/event/2027-pa-state-game-75-championship-west-pittsburgh/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T09:55:29+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
    "name": "2026 McGrath Memorial – Vermont State Championship",
    "city": "VT 05405",
    "start": "2026-12-19",
@@ -20228,51 +20308,6 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-12T14:50:28+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "Dragon Knight Chess Ju Wenjun (1991) Grand Prix 2027",
-   "city": "NC 27560",
-   "start": "2026-12-19",
-   "end": "2026-12-20",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": 1800,
-     "max": null
-    },
-    {
-     "n": "Under 1900",
-     "min": 1600,
-     "max": 1899
-    },
-    {
-     "n": "Under 1700",
-     "min": 1400,
-     "max": 1699
-    },
-    {
-     "n": "Under 1500",
-     "min": 1200,
-     "max": 1499
-    },
-    {
-     "n": "Under 1300",
-     "min": null,
-     "max": 1299
-    }
-   ],
-   "prize": null,
-   "tc": "G/60; 5-second delay per move (not an increment)",
-   "url": "https://mychess.events/event/dragon-knight-chess-ju-wenjun-1991-grand-prix-2027/",
-   "src": "https://mychess.events/event/dragon-knight-chess-ju-wenjun-1991-grand-prix-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-13T12:51:12+00:00"
   },
   {
    "c": "FR",
@@ -29154,41 +29189,6 @@
    "lastmod": "2026-11-12T18:35:43+00:00"
   },
   {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
-   "name": "2027 PA State Game/75 Championship – West",
-   "city": "PA 15260",
-   "start": "2027-02-20",
-   "end": "2027-02-20",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Championship",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Premier",
-     "min": null,
-     "max": 1599
-    },
-    {
-     "n": "Scholastic",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "75 minutes per player, with a five-second delay per move",
-   "url": "https://mychess.events/event/2027-pa-state-game-75-championship-west-pittsburgh/",
-   "src": "https://mychess.events/event/2027-pa-state-game-75-championship-west-pittsburgh/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-13T11:50:37+00:00"
-  },
-  {
    "c": "FR",
    "ulke": "Fransa",
    "bayrak": "fr",
@@ -29437,6 +29437,31 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-13T08:26:34+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "New Years Swiss 2027 – Marion, Iowa",
+   "city": "IA 52302",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/65; d5",
+   "url": "https://mychess.events/event/new-years-swiss-2027-marion-iowa/",
+   "src": "https://mychess.events/event/new-years-swiss-2027-marion-iowa/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T08:38:52+00:00"
   },
   {
    "c": "FR",
@@ -30042,6 +30067,81 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
+   "name": "The Richard Kahn Memorial 2027 – Delray Beach, Florida",
+   "city": "FL 33483",
+   "start": "2027-03-06",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Premier",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "U1901",
+     "min": null,
+     "max": 1900
+    },
+    {
+     "n": "U1501",
+     "min": null,
+     "max": 1500
+    },
+    {
+     "n": "U1150",
+     "min": null,
+     "max": 1149
+    }
+   ],
+   "prize": null,
+   "tc": "G/75; d15 — 75 minutes with 15-second delay",
+   "url": "https://mychess.events/event/richard-kahn-memorial-2027-delray-beach/",
+   "src": "https://mychess.events/event/richard-kahn-memorial-2027-delray-beach/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T09:05:48+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Marshall Premier FIDE Open – December 2026",
+   "city": "NY 10011",
+   "start": "2027-03-06",
+   "end": "2027-03-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Friday, Dec. 11",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Saturday, Dec. 12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Sunday, Dec. 13",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/90 +30 seconds per move",
+   "url": "https://mychess.events/event/marshall-premier-fide-open-december-2026-new-york/",
+   "src": "https://mychess.events/event/marshall-premier-fide-open-december-2026-new-york/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T08:49:55+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
    "name": "The Right Move – Riverbank State Park – March 2027",
    "city": "NY 10031",
    "start": "2027-03-07",
@@ -30142,6 +30242,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-11T18:46:08+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "February Monday Slow 2027 – Chicago",
+   "city": "IL 60602",
+   "start": "2027-03-07",
+   "end": "2027-03-07",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "U1800",
+     "min": 1200,
+     "max": 1799
+    },
+    {
+     "n": "U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "G/90, 30-second increment per move",
+   "url": "https://mychess.events/event/february-monday-slow-2027-chicago/",
+   "src": "https://mychess.events/event/february-monday-slow-2027-chicago/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T09:45:49+00:00"
   },
   {
    "c": "GR",
@@ -30372,6 +30507,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-12T18:16:20+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Florida State Senior Championship (50+) – The Villages",
+   "city": "FL 32162",
+   "start": "2027-03-12",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Place",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Place",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Sat: G/60 d10; Sun: G/90 +10 sec increment",
+   "url": "https://mychess.events/event/2027-florida-state-senior-championship-the-villages/",
+   "src": "https://mychess.events/event/2027-florida-state-senior-championship-the-villages/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T09:26:39+00:00"
   },
   {
    "c": "CZ",
@@ -31237,6 +31402,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-12T14:56:03+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Pennsylvania State Scholastic Championships – Harrisburg",
+   "city": "PA 17111",
+   "start": "2027-03-20",
+   "end": "2027-03-21",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "K–12 Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–8 Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–5 Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "K–8 U1000",
+     "min": null,
+     "max": 999
+    },
+    {
+     "n": "Grades 7–12 U1600",
+     "min": null,
+     "max": 1599
+    },
+    {
+     "n": "Grades 7–12 U1200",
+     "min": null,
+     "max": 1199
+    },
+    {
+     "n": "Grades 7–12 U800",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "Two-day: G/90 d5; one-day: G/40 d5",
+   "url": "https://mychess.events/event/2027-pennsylvania-state-scholastic-championships-harrisburg/",
+   "src": "https://mychess.events/event/2027-pennsylvania-state-scholastic-championships-harrisburg/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T09:54:11+00:00"
   },
   {
    "c": "FR",
@@ -32141,6 +32361,51 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-10-16T06:38:46+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "Dragon Knight Chess Henrique Costa Mecking (1952) Grand Prix 2027",
+   "city": "NC 27560",
+   "start": "2027-04-10",
+   "end": "2027-04-10",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "Under 1900",
+     "min": 1600,
+     "max": 1899
+    },
+    {
+     "n": "Under 1700",
+     "min": 1400,
+     "max": 1699
+    },
+    {
+     "n": "Under 1500",
+     "min": 1200,
+     "max": 1499
+    },
+    {
+     "n": "Under 1300",
+     "min": null,
+     "max": 1299
+    }
+   ],
+   "prize": null,
+   "tc": "G/60; 5-second delay per move (not an increment)",
+   "url": "https://mychess.events/event/dragon-knight-chess-henrique-costa-mecking-1952-grand-prix-2027/",
+   "src": "https://mychess.events/event/dragon-knight-chess-henrique-costa-mecking-1952-grand-prix-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T08:28:39+00:00"
   },
   {
    "c": "CH",
