@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-14T17:44",
+ "taranma": "2026-11-14T21:56",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 31,
+ "okunan_sayfa": 26,
  "turnuvalar": [
   {
    "c": "US",
@@ -17016,6 +17016,46 @@
    "lastmod": "2026-11-12T14:43:54+00:00"
   },
   {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "48th Kidlington Chess Tournament 2027 – Open, U2000, U1800 & U1600",
+   "city": "Oxfordshire OX5 1AB",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Major (U2000)",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "Intermediate (U1800)",
+     "min": null,
+     "max": 1799
+    },
+    {
+     "n": "Minor (U1600)",
+     "min": null,
+     "max": 1599
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 15-second increment per move from move 1",
+   "url": "https://mychess.events/event/48th-kidlington-chess-tournament-2027-open-u2000-u1800-u1600/",
+   "src": "https://mychess.events/event/48th-kidlington-chess-tournament-2027-open-u2000-u1800-u1600/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T18:33:59+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -18992,7 +19032,7 @@
    "src": "https://mychess.events/event/bellville-chess-club-rapid-open-2027/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-11-02T06:16:22+00:00"
+   "lastmod": "2026-11-14T21:27:21+00:00"
   },
   {
    "c": "HU",
@@ -23243,6 +23283,61 @@
    "lastmod": "2026-11-11T08:02:32+00:00"
   },
   {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Altona Rapid Open 2027",
+   "city": "Altona VIC 3018",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st Overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd Overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd Overall",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Four Rating Group Winners",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Best Female",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Best Girl U18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Total Cash Fund",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "10 minutes plus two seconds per move",
+   "url": "https://mychess.events/event/altona-rapid-open-2027/",
+   "src": "https://mychess.events/event/altona-rapid-open-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T20:39:18+00:00"
+  },
+  {
    "c": "SE",
    "ulke": "İsveç",
    "bayrak": "se",
@@ -24751,61 +24846,6 @@
    "cr": "https://chess-results.com/tnr1488670.aspx?lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-09-07T09:40:52+00:00"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "Altona Rapid Open 2027",
-   "city": "Altona VIC 3018",
-   "start": "2027-01-07",
-   "end": "2027-01-08",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "1st Overall",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "2nd Overall",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "3rd Overall",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Four Rating Group Winners",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Best Female",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Best Girl U18",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Total Cash Fund",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "10 minutes plus two seconds per move",
-   "url": "https://mychess.events/event/altona-rapid-open-2027/",
-   "src": "https://mychess.events/event/altona-rapid-open-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-02T08:18:15+00:00"
   },
   {
    "c": "AU",
@@ -27090,6 +27130,31 @@
    "lastmod": "2026-11-13T08:45:47+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Open Saarland Women’s Individual Chess Championship 2027 (OSFEM)",
+   "city": "Saarlouis",
+   "start": "2027-01-22",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/open-saarland-womens-chess-championship-2027-osfem/",
+   "src": "https://mychess.events/event/open-saarland-womens-chess-championship-2027-osfem/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T18:46:22+00:00"
+  },
+  {
    "c": "RS",
    "ulke": "Sırbistan",
    "bayrak": "rs",
@@ -27263,6 +27328,66 @@
    "cr": "https://s1.chess-results.com/tnr1526840.aspx?SNode=S0&lan=1",
    "kayit_kapali": false,
    "lastmod": "2026-11-09T13:32:23+00:00"
+  },
+  {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "2027 Ontario Youth Chess Championship – Thornhill, Canada",
+   "city": "ON L3T 7P4",
+   "start": "2027-01-23",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Age eligibility",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Playing up",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "45 minutes + 30-second increment",
+   "url": "https://mychess.events/event/2027-ontario-youth-chess-championship-thornhill/",
+   "src": "https://mychess.events/event/2027-ontario-youth-chess-championship-thornhill/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T19:22:28+00:00"
   },
   {
    "c": "HU",
@@ -28979,6 +29104,31 @@
    "lastmod": "2026-11-11T08:18:04+00:00"
   },
   {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "Winter Classical 2027 – All Ages | Richmond, Canada",
+   "city": "BC",
+   "start": "2027-02-13",
+   "end": "2027-02-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "50 minutes + 10 seconds increment",
+   "url": "https://mychess.events/event/winter-classical-2027-richmond-canada/",
+   "src": "https://mychess.events/event/winter-classical-2027-richmond-canada/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T19:11:21+00:00"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -29532,6 +29682,106 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-12T18:35:43+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "ICA FIDE Championship - January 16–17, 2027",
+   "city": "NJ 07452",
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "US Chess Qualification",
+     "min": 1900,
+     "max": null
+    },
+    {
+     "n": "FIDE Qualification",
+     "min": 1800,
+     "max": null
+    },
+    {
+     "n": "FIDE ID",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating Awards",
+     "min": null,
+     "max": 2199
+    },
+    {
+     "n": "Special Awards",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "G/110 d10 (110 minutes per player plus 10-second delay)",
+   "url": "https://mychess.events/event/ica-fide-championship-january-16-17-2027/",
+   "src": "https://mychess.events/event/ica-fide-championship-january-16-17-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T21:26:15+00:00"
+  },
+  {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "CFCC 2027 Sunshine Open & Scholastic Weekend Tournament",
+   "city": "FL 32821",
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Master / Expert",
+     "min": 2000,
+     "max": null
+    },
+    {
+     "n": "Class A",
+     "min": 1800,
+     "max": 1999
+    },
+    {
+     "n": "Class B",
+     "min": 1600,
+     "max": 1799
+    },
+    {
+     "n": "Class C",
+     "min": 1400,
+     "max": 1599
+    },
+    {
+     "n": "Class D",
+     "min": null,
+     "max": 1399
+    },
+    {
+     "n": "Scholastic U1200",
+     "min": null,
+     "max": 1199
+    }
+   ],
+   "prize": null,
+   "tc": "G/90; d30 (three-day); G/60; d5 for first two rounds of two-day; scholastic G/60; d5",
+   "url": "https://mychess.events/event/cfcc-2027-sunshine-open-scholastic-orlando/",
+   "src": "https://mychess.events/event/cfcc-2027-sunshine-open-scholastic-orlando/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T20:35:05+00:00"
   },
   {
    "c": "FR",
@@ -31164,6 +31414,66 @@
    "lastmod": "2026-11-11T07:14:47+00:00"
   },
   {
+   "c": "US",
+   "ulke": "ABD",
+   "bayrak": "us",
+   "name": "2027 Intercontinental Championship – Individual Section",
+   "city": "IL 60181",
+   "start": "2027-03-13",
+   "end": "2027-03-13",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City & Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Time control",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rounds",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": null,
+   "url": "https://mychess.events/event/2027-intercontinental-individual-championship-oakbrook-terrace/",
+   "src": "https://mychess.events/event/2027-intercontinental-individual-championship-oakbrook-terrace/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T20:39:39+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -32211,6 +32521,31 @@
    "cr": "https://chess-results.com/tnr1534767.aspx?lan=1&turdet=YES",
    "kayit_kapali": false,
    "lastmod": "2026-11-11T08:35:33+00:00"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Altona Beach Summer Blitz 2026",
+   "city": "Altona VIC 3018",
+   "start": "2027-03-25",
+   "end": "2027-03-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3 minutes + 2-second increment per move (3+2)",
+   "url": "https://mychess.events/event/altona-beach-summer-blitz-2026/",
+   "src": "https://mychess.events/event/altona-beach-summer-blitz-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T21:05:47+00:00"
   },
   {
    "c": "US",
@@ -35749,56 +36084,6 @@
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
-   "name": "ICA FIDE Championship - January 16–17, 2027",
-   "city": "NJ 07452",
-   "start": "2027-06-19",
-   "end": "2027-06-19",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "US Chess Qualification",
-     "min": 1900,
-     "max": null
-    },
-    {
-     "n": "FIDE Qualification",
-     "min": 1800,
-     "max": null
-    },
-    {
-     "n": "FIDE ID",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Rating Awards",
-     "min": null,
-     "max": 2199
-    },
-    {
-     "n": "Special Awards",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "G/110 d10 (110 minutes per player plus 10-second delay)",
-   "url": "https://mychess.events/event/ica-fide-championship-january-16-17-2027/",
-   "src": "https://mychess.events/event/ica-fide-championship-january-16-17-2027/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-14T15:07:25+00:00"
-  },
-  {
-   "c": "US",
-   "ulke": "ABD",
-   "bayrak": "us",
    "name": "1st Annual Princeton Holiday Classic 2026 - Premier & Class Sections",
    "city": "NJ 08540",
    "start": "2027-06-26",
@@ -36039,6 +36324,41 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-11T11:39:22+00:00"
+  },
+  {
+   "c": "EN",
+   "ulke": "İngiltere",
+   "bayrak": "gb-eng",
+   "name": "Army & Navy Club Pall Mall FIDE Congress - October 2027 | Open, U2000 & U1650",
+   "city": "London SW1Y 5JN",
+   "start": "2027-06-27",
+   "end": "2027-06-27",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "FIDE Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "FIDE Major U2000",
+     "min": null,
+     "max": 1999
+    },
+    {
+     "n": "FIDE Minor U1650",
+     "min": null,
+     "max": 1649
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/army-navy-club-pall-mall-fide-congress-october-2027/",
+   "src": "https://mychess.events/event/army-navy-club-pall-mall-fide-congress-october-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T18:38:26+00:00"
   },
   {
    "c": "CH",

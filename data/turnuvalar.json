@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-14T17:44",
+ "guncelleme": "2026-11-14T21:56",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-14T17:42",
+   "tarama": "2026-11-14T21:55",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-14T17:44",
+   "tarama": "2026-11-14T21:56",
    "kaynak": "https://mychess.events"
   }
  },
@@ -20798,6 +20798,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Osmaniye",
+   "name": "Düziçi Öğretmenler Günü Satranç Turnuvası 19-20 Kasım'da",
+   "start": "2026-11-19",
+   "end": "2026-11-20",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://osmaniye.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Düziçi Öğretmenler Günü Satranç Turnuvası 19-20 Kasım'da YÖNERGE",
+   "id": "b985469365fe",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "IS",
    "ulke": "İzlanda",
    "bayrak": "is",
@@ -21979,9 +22004,9 @@
    "kaynak": "site",
    "kaynak_metin": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Manisa Öğretmenler Günü satranç turnuvası 21-22 Kasım 2026 tarihlerinde GSB 75. Yıl Gençlik Merkezi/ Yunusemre ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 09 Kasım saat :13'te açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yı",
    "id": "83eefed40192",
-   "tarih_degisti": "2026-11-28 → 2026-11-21",
    "ilk_gorulme": "2026-11-06",
    "son_gorulme": "2026-11-14",
+   "tarih_degisti": "2026-11-28 → 2026-11-21",
    "durum": "yaklasan"
   },
   {
@@ -22153,9 +22178,9 @@
    "kaynak": "site",
    "kaynak_metin": "Turnuvalar Turnuva Haberleri Turnuvalar ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ünye 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2026 tarihlerinde Ünye Adnan Menderes Mesleki Teknik Anadolu Lisesi Salonu'nda 10 farklı kategoride düzenlenecektir. Turnuva kontenjanı 200 sporcu ile sınırlıdır. Turnuvaya son kayıt tarihi 19.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu ORDU 10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI Ordu 10 Kasım Atatürk'ü Anma Satra",
    "id": "3d365997568b",
-   "tarih_degisti": "2026-11-07 → 2026-11-21",
    "ilk_gorulme": "2026-10-30",
    "son_gorulme": "2026-11-14",
+   "tarih_degisti": "2026-11-07 → 2026-11-21",
    "durum": "yaklasan"
   },
   {
@@ -26382,10 +26407,10 @@
    ],
    "url": "https://osmaniye.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Küçükler(7-12) Satranç Osmaniye İl Birinciliği Satranç Haberleri Küçükler(7-12) Satranç Osmaniye İl Birinciliği Küçükler(7-12 Yaş) Satranç Osmaniye İl Birinciliği yarışmaları 05-06 Aralık 2026 tarihlerinde Tosyalı Spor Salonunda yapılacak. YÖNERGE TURNUVA KAYIT Yıldızlar(13-18 Yaş) Satranç Osmaniye İl Birinciliği Yıldızlar(13-18 Yaş) Satranç Osmaniye İl Birinciliği yarışmaları 05-06 Aralık 2026 tarihlerinde Tosyalı Spor Salonunda yapılacak. YÖNERGE TURNUVA KAYIT Merkez Atatürk Haftası Satranç Tu",
+   "kaynak_metin": "Küçükler(7-12) Satranç Osmaniye İl Birinciliği Satranç Haberleri Düziçi Öğretmenler Günü Satranç Turnuvası 19-20 Kasım'da Düziçi Öğretmenler Günü Satranç Turnuvası 19-20 Kasım'da 3 kategoride Düziçi Spor Salonunda yapılacak. YÖNERGE TURNUVA KAYIT Küçükler(7-12) Satranç Osmaniye İl Birinciliği Küçükler(7-12 Yaş) Satranç Osmaniye İl Birinciliği yarışmaları 05-06 Aralık 2026 tarihlerinde Tosyalı Spor Salonunda yapılacak. YÖNERGE TURNUVA KAYIT Yıldızlar(13-18 Yaş) Satranç Osmaniye İl Birinciliği Yıl",
    "id": "5efad65ed4d6",
    "ilk_gorulme": "2026-11-09",
-   "son_gorulme": "2026-11-10",
+   "son_gorulme": "2026-11-14",
    "durum": "yaklasan"
   },
   {
@@ -27990,7 +28015,7 @@
    "src": "https://mychess.events/event/bellville-chess-club-rapid-open-2027/",
    "cr": "",
    "kayit_kapali": false,
-   "lastmod": "2026-11-02T06:16:22+00:00",
+   "lastmod": "2026-11-14T21:27:21+00:00",
    "id": "930fb64a1edf",
    "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-14",
@@ -32353,6 +32378,51 @@
    "c": "AU",
    "ulke": "Avustralya",
    "bayrak": "au",
+   "name": "2026 Australian Schools Teams Chess Championships - National Finals",
+   "city": "Pearce ACT 2607",
+   "start": "2027-01-07",
+   "end": "2027-01-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Primary Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Primary Girls",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Secondary Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Secondary Girls",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
+   "src": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-10T19:34:51+00:00",
+   "id": "0dbdf93793ba",
+   "tarih_degisti": "2027-02-16 → 2027-01-07",
+   "ilk_gorulme": "2026-11-02",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
    "name": "Altona Rapid Open 2027",
    "city": "Altona VIC 3018",
    "start": "2027-01-07",
@@ -34316,6 +34386,70 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "2027 Ontario Youth Chess Championship – Thornhill, Canada",
+   "city": "ON L3T 7P4",
+   "start": "2027-01-23",
+   "end": "2027-01-24",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "U8",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U10",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U12",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U14",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U16",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "U18",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Age eligibility",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Playing up",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "45 minutes + 30-second increment",
+   "url": "https://mychess.events/event/2027-ontario-youth-chess-championship-thornhill/",
+   "src": "https://mychess.events/event/2027-ontario-youth-chess-championship-thornhill/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T19:22:28+00:00",
+   "id": "e700c35e570f",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "AU",
    "ulke": "Avustralya",
    "bayrak": "au",
@@ -35604,6 +35738,31 @@
    "durum": "yaklasan"
   },
   {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "2027 MALATYA OKULLAR ARASI SATRANÇ TURNUVASI",
+   "start": "2027-02-11",
+   "end": "2027-03-01",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://malatya.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "2027 MALATYA OKULLAR ARASI SATRANÇ TURNUVASI Malatya Okul Sporları Satranç Turnuvası 11 Şubat - 1 Mart 2027 tarihleri arasında GSİM Olimpik Yüzme Havuzu Satranç Salonunda yapılacaktır. Okul yöneticilerinin takımlarının kaydını yapacağı sayfa yakında açılacaktır. İLKOKUL, ORTAOKUL VE LİSE KATEGORİ TARİHLERİ ŞÖYLEDİR: GENÇLER : 11 - 12 - 15 Şubat 2027 Son kayıt tarihi: 8 Şubat 2027 YILDIZLAR: 16 - 17 - 18 Şubat 2027 Son kayıt tarihi: 10 Şubat 2027 KÜÇÜKLER: 19 - 22 - 23 Şubat 2027 Son kayıt tarihi",
+   "id": "c66610f1e676",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -35982,6 +36141,35 @@
    "durum": "yaklasan"
   },
   {
+   "c": "CA",
+   "ulke": "Kanada",
+   "bayrak": "ca",
+   "name": "Winter Classical 2027 – All Ages | Richmond, Canada",
+   "city": "BC",
+   "start": "2027-02-13",
+   "end": "2027-02-15",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "50 minutes + 10 seconds increment",
+   "url": "https://mychess.events/event/winter-classical-2027-richmond-canada/",
+   "src": "https://mychess.events/event/winter-classical-2027-richmond-canada/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T19:11:21+00:00",
+   "id": "d63e1e3a0150",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
+   "durum": "yaklasan"
+  },
+  {
    "c": "AT",
    "ulke": "Avusturya",
    "bayrak": "at",
@@ -36122,51 +36310,6 @@
    "id": "5ccb195f6c0b",
    "ilk_gorulme": "2026-10-15",
    "son_gorulme": "2026-11-14",
-   "durum": "yaklasan"
-  },
-  {
-   "c": "AU",
-   "ulke": "Avustralya",
-   "bayrak": "au",
-   "name": "2026 Australian Schools Teams Chess Championships - National Finals",
-   "city": "Pearce ACT 2607",
-   "start": "2027-02-16",
-   "end": "2027-03-30",
-   "status": "a",
-   "kaynak": "mychess",
-   "sections": [
-    {
-     "n": "Primary Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Primary Girls",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Secondary Open",
-     "min": null,
-     "max": null
-    },
-    {
-     "n": "Secondary Girls",
-     "min": null,
-     "max": null
-    }
-   ],
-   "prize": null,
-   "tc": "60 minutes + 10 seconds per move",
-   "url": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
-   "src": "https://mychess.events/event/2026-australian-schools-teams-chess-championships/",
-   "cr": "",
-   "kayit_kapali": false,
-   "lastmod": "2026-11-08T19:10:00+00:00",
-   "id": "de10f21f60a9",
-   "ilk_gorulme": "2026-11-02",
-   "son_gorulme": "2026-11-10",
-   "tarih_degisti": "2026-12-12 → 2027-02-16",
    "durum": "yaklasan"
   },
   {
@@ -39100,6 +39243,35 @@
    "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-10",
    "tarih_degisti": "2027-01-12 → 2027-03-25",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "AU",
+   "ulke": "Avustralya",
+   "bayrak": "au",
+   "name": "Altona Beach Summer Blitz 2026",
+   "city": "Altona VIC 3018",
+   "start": "2027-03-25",
+   "end": "2027-03-29",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "3 minutes + 2-second increment per move (3+2)",
+   "url": "https://mychess.events/event/altona-beach-summer-blitz-2026/",
+   "src": "https://mychess.events/event/altona-beach-summer-blitz-2026/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-14T21:05:47+00:00",
+   "id": "cef4c905d7e9",
+   "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-14",
    "durum": "yaklasan"
   },
   {
