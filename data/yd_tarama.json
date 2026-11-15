@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-15T11:14",
+ "taranma": "2026-11-15T18:24",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 15,
+ "okunan_sayfa": 23,
  "turnuvalar": [
   {
    "c": "US",
@@ -14811,6 +14811,31 @@
    "lastmod": "2026-11-09T09:39:13+00:00"
   },
   {
+   "c": "HU",
+   "ulke": "Macaristan",
+   "bayrak": "hu",
+   "name": "Wellness Chess Tour GP2 2027 – Harkány FIDE Open & Blitz",
+   "city": "Wellness Hotel Kager (Conference Room)",
+   "start": "2026-11-27",
+   "end": "2026-12-03",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move, from move one",
+   "url": "https://mychess.events/event/wellness-chess-tour-gp2-2027-harkany-hotel-kager-fide-open/",
+   "src": "https://mychess.events/event/wellness-chess-tour-gp2-2027-harkany-hotel-kager-fide-open/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T16:02:44+00:00"
+  },
+  {
    "c": "BR",
    "ulke": "Brezilya",
    "bayrak": "br",
@@ -18855,6 +18880,66 @@
    "lastmod": "2026-11-09T10:18:21+00:00"
   },
   {
+   "c": "PL",
+   "ulke": "Polonya",
+   "bayrak": "pl",
+   "name": "Columbus Polish Amateur Chess Championships 2027 – Muszyna",
+   "city": "33-370 Muszyna",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "1st",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "2nd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "3rd",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "4th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "5th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "6th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "7th",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "8th–10th",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/columbus-polish-amateur-chess-championships-2027-muszyna/",
+   "src": "https://mychess.events/event/columbus-polish-amateur-chess-championships-2027-muszyna/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T18:19:55+00:00"
+  },
+  {
    "c": "IT",
    "ulke": "İtalya",
    "bayrak": "it",
@@ -22558,6 +22643,31 @@
    "lastmod": "2026-11-14T14:56:50+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "10e Open FIDE de Lavérune 2027 – Under 2400 Elo",
+   "city": "Lavérune",
+   "start": "2026-12-26",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": 2399
+    }
+   ],
+   "prize": null,
+   "tc": "60 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/10e-open-fide-de-laverune-2027-under-2400/",
+   "src": "https://mychess.events/event/10e-open-fide-de-laverune-2027-under-2400/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T18:09:09+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -24368,6 +24478,41 @@
    "lastmod": "2026-11-13T11:36:55+00:00"
   },
   {
+   "c": "IT",
+   "ulke": "İtalya",
+   "bayrak": "it",
+   "name": "Sardinia World Chess Festival 2027 – Orosei",
+   "city": "Sardinia",
+   "start": "2027-01-02",
+   "end": "2027-01-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Open A",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open B",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Open C",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30-second increment per move",
+   "url": "https://mychess.events/event/sardinia-world-chess-festival-2027-orosei/",
+   "src": "https://mychess.events/event/sardinia-world-chess-festival-2027-orosei/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T13:20:12+00:00"
+  },
+  {
    "c": "ES",
    "ulke": "İspanya",
    "bayrak": "es",
@@ -26071,6 +26216,61 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-13T07:58:08+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "German Amateur Chess Championship 2026/2027 – Dresden Qualifier (DSAM)",
+   "city": "Dresden",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": 2101,
+     "max": 2350
+    },
+    {
+     "n": "Group B",
+     "min": 2001,
+     "max": 2100
+    },
+    {
+     "n": "Group C",
+     "min": 1901,
+     "max": 2000
+    },
+    {
+     "n": "Group D",
+     "min": 1801,
+     "max": 1900
+    },
+    {
+     "n": "Group E",
+     "min": 1701,
+     "max": 1800
+    },
+    {
+     "n": "Group F",
+     "min": 1551,
+     "max": 1700
+    },
+    {
+     "n": "Group G",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes / 40 moves + 15 minutes remaining + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/german-amateur-chess-championship-2027-dresden-qualifier/",
+   "src": "https://mychess.events/event/german-amateur-chess-championship-2027-dresden-qualifier/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T18:02:12+00:00"
   },
   {
    "c": "IN",
@@ -30544,6 +30744,31 @@
    "lastmod": "2026-10-13T12:23:43+00:00"
   },
   {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "3rd International Women’s Chess Tournament “Diputación de Sevilla” 2027",
+   "city": "Sevilla",
+   "start": "2027-03-05",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/3rd-international-womens-chess-tournament-diputacion-de-sevilla-2027/",
+   "src": "https://mychess.events/event/3rd-international-womens-chess-tournament-diputacion-de-sevilla-2027/",
+   "cr": "https://s3.chess-results.com/tnr1487315.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T12:21:47+00:00"
+  },
+  {
    "c": "US",
    "ulke": "ABD",
    "bayrak": "us",
@@ -33983,6 +34208,40 @@
    "lastmod": "2026-10-31T12:46:15+00:00"
   },
   {
+   "c": "NL",
+   "ulke": "Hollanda",
+   "bayrak": "nl",
+   "name": "Tata Steel Chess Tournament 2027 – Weekday Three-Round Dagvierkampen",
+   "city": "BD Wijk aan Zee",
+   "start": "2027-05-01",
+   "end": "2027-05-01",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group size",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Games per player",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Pairing format",
+     "inv": true
+    }
+   ],
+   "prize": null,
+   "tc": "90 min / 40 moves + 30 min to finish; 30-second increment from move 1",
+   "url": "https://mychess.events/event/tata-steel-chess-tournament-2027-weekday-three-round-dagvierkampen/",
+   "src": "https://mychess.events/event/tata-steel-chess-tournament-2027-weekday-three-round-dagvierkampen/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T12:57:47+00:00"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -37034,6 +37293,66 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-04T10:50:23+00:00"
+  },
+  {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "3rd International Women’s Chess Tournament for International Women’s Day 2027 – Groups A & B",
+   "city": "Weißenhorn-Attenhofen",
+   "start": "2027-08-06",
+   "end": "2027-08-08",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Tournament",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Dates",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "City & Country",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Prize Fund",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Venue",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Organizer",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Format",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Rating",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "60 min / 40 moves + 30 min rest + 30 sec/move from move one",
+   "url": "https://mychess.events/event/3rd-international-womens-chess-tournament-2027-weissenhorn-groups-a-b/",
+   "src": "https://mychess.events/event/3rd-international-womens-chess-tournament-2027-weissenhorn-groups-a-b/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T16:19:08+00:00"
   },
   {
    "c": "AT",

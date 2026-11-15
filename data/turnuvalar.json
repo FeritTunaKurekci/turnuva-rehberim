@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-15T11:14",
+ "guncelleme": "2026-11-15T18:24",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-15T11:13",
+   "tarama": "2026-11-15T18:23",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-15T11:14",
+   "tarama": "2026-11-15T18:24",
    "kaynak": "https://mychess.events"
   }
  },
@@ -21197,6 +21197,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Çanakkale",
+   "name": "TÜRKİYE KUPASI ÇANAKKALE SATRANÇ İL BİRİNCİLİĞİ",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://canakkale.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KUPASI ÇANAKKALE SATRANÇ İL BİRİNCİLİĞİ Turnuva TÜRKİYE KUPASI ÇANAKKALE SATRANÇ İL BİRİNCİLİĞİ Organizasyon ÇANAKKALE GSİM & ÇANAKKALE SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 20-22 KASIM 2026 Turnuva Yeri ÇANAKKALE SPORCU GELİŞİM MERKEZİ (ADLİYE ARKASINDA) Kategoriler Tek kategori Kontenjan - Tempo 45’+30” Eklemeli Tempo Tur Sayısı MADDE 2.4 UYGULANIR Ödüller İlk üç dereceyi elde eden sporculara ve en iyi dereceyi elde eden kadın sporcuya Madalya verilecektir. Son Başvuru 19 KASIM 2026 1",
+   "id": "3ee57c03f042",
+   "ilk_gorulme": "2026-11-15",
+   "son_gorulme": "2026-11-15",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "İzmir",
    "name": "13. KARABAĞLAR BELEDİYESİ BAŞÖĞRETMEN ATATÜRK SATRANÇ TURNUVASI",
    "start": "2026-11-21",
@@ -21877,9 +21902,9 @@
    "kaynak": "site",
    "kaynak_metin": "MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri MANİSA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Manisa Öğretmenler Günü satranç turnuvası 21-22 Kasım 2026 tarihlerinde GSB 75. Yıl Gençlik Merkezi/ Yunusemre ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 09 Kasım saat :13'te açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yıll",
    "id": "132eaea523e1",
-   "tarih_degisti": "2026-11-09 → 2026-11-21",
    "ilk_gorulme": "2026-11-02",
    "son_gorulme": "2026-11-15",
+   "tarih_degisti": "2026-11-09 → 2026-11-21",
    "durum": "yaklasan"
   },
   {
@@ -23099,6 +23124,31 @@
    "kaynak_metin": "ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ünye 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2026 tarihlerinde Ünye Adnan Menderes Mesleki Teknik Anadolu Lisesi Salonu'nda 10 farklı kategoride düzenlenecektir. Turnuva kontenjanı 200 sporcu ile sınırlıdır. Turnuvaya son kayıt tarihi 19.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu Sonraki >",
    "id": "7e0768ca5f47",
    "ilk_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-15",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "İstanbul 24 Kasım Öğretmenler Günü Satranç Turnuvaları Başlıyor..",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5359-istanbul-ogretmenlergunu-satranc-turnuvalari-2026",
+   "kaynak": "site",
+   "kaynak_metin": "İstanbul 24 Kasım Öğretmenler Günü Satranç Turnuvaları Başlıyor.. İstanbul 24 Kasım Öğretmenler Günü Satranç Turnuvaları Başlıyor.. 24 Kasım Öğretmenler Günü etkinlikleri kapsamında 21-22 ve 28-29 Kasım 2026 haftasonu tarihlerinde ilçelerimizde Öğretmenler Günü Satranç Turnuvaları düzenlenecektir. Turnuvalar 35 dakika+30 saniye düşünme süresinde 6 tur İsviçre Sistemiyle UKD hesaplamalarına dahil düzenlenecektir. Turnuvalara katılımla ilgili detaylı bilgi haberin devamında turnuva yönergelerinde ",
+   "id": "b33fafc56fdf",
+   "ilk_gorulme": "2026-11-15",
    "son_gorulme": "2026-11-15",
    "durum": "yaklasan"
   },
@@ -24654,9 +24704,9 @@
    "kaynak": "site",
    "kaynak_metin": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turgutlu Öğretmenler Günü satranç turnuvası 28-29 Kasım 2026 tarihlerinde Kocatürk Koleji kampüsü Turgutlu ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. K AYITLAR 16 Kasım saat :18'de açılacaktır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yılları ve arası) 14 YAŞALTI Açık Kategori (2020 ve önceki yıllard",
    "id": "83eefed40192",
-   "tarih_degisti": "2026-11-21 → 2026-11-28",
    "ilk_gorulme": "2026-11-06",
    "son_gorulme": "2026-11-15",
+   "tarih_degisti": "2026-11-21 → 2026-11-28",
    "durum": "yaklasan"
   },
   {
@@ -24676,12 +24726,12 @@
      "max": null
     }
    ],
-   "url": "http://zonguldak.tsf.org.tr/",
+   "url": "http://www.zonguldak.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Satranç Haberleri ZONGULDAK BORSA İSTANBUL ANADOLU LİSESİ 24 KASIM ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI 22 Kasım 2026 Pazar günü 10'+5\" eklemeli tempoyla Zonguldak Borsa İstanbul Anadolu Lisesi 24 Kasım Öğretmenler Günü Ödüllü Hızlı Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT 4 ARALIK DÜNYA MADENCİLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Zonguldak TMMOB Maden Mühendisleri Odası Zonguldak Şubesinde 35'+30\" Eklemeli Tempoy",
    "id": "b58b41e14477",
    "ilk_gorulme": "2026-11-10",
-   "son_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-15",
    "durum": "yaklasan"
   },
   {
@@ -27985,6 +28035,30 @@
    "lastmod": "2026-08-31T12:19:53+00:00",
    "id": "27455c3736fa",
    "ilk_gorulme": "2026-09-22",
+   "son_gorulme": "2026-11-15",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Tunceli",
+   "name": "Yaklaşan Turnuvalar",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://tunceli.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Yaklaşan Turnuvalar Yaklaşan Turnuvalar 2026-2027 TUNCELİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Turnuva Tunceli Yıldızlar İl Birinciliği Satranç Turnuvası Organizasyon Tunceli GSİM & Tunceli Satranç İl Temsilciliği Turnuva Tarihi 12-13 Aralık 2026 Cumartesi-Pazar Turnuva Yeri Kapalı Spor Salonu (KONUM) Kategoriler 13 Yaş Kategorisi (2014 Doğumlu Sporcular) 14 Yaş Kategorisi (2013 Doğumlu Sporcular) 15 Yaş Kategorisi (2012 Doğumlu Sporcular) 16 Yaş Kategorisi (2011 Doğumlu Sporcular) 17 Yaş ",
+   "id": "956a35dc9f84",
+   "ilk_gorulme": "2026-11-15",
    "son_gorulme": "2026-11-15",
    "durum": "yaklasan"
   },
@@ -33602,6 +33676,65 @@
    "durum": "yaklasan"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "German Amateur Chess Championship 2026/2027 – Dresden Qualifier (DSAM)",
+   "city": "Dresden",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Group A",
+     "min": 2101,
+     "max": 2350
+    },
+    {
+     "n": "Group B",
+     "min": 2001,
+     "max": 2100
+    },
+    {
+     "n": "Group C",
+     "min": 1901,
+     "max": 2000
+    },
+    {
+     "n": "Group D",
+     "min": 1801,
+     "max": 1900
+    },
+    {
+     "n": "Group E",
+     "min": 1701,
+     "max": 1800
+    },
+    {
+     "n": "Group F",
+     "min": 1551,
+     "max": 1700
+    },
+    {
+     "n": "Group G",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes / 40 moves + 15 minutes remaining + 30 seconds per move from move one",
+   "url": "https://mychess.events/event/german-amateur-chess-championship-2027-dresden-qualifier/",
+   "src": "https://mychess.events/event/german-amateur-chess-championship-2027-dresden-qualifier/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T18:02:12+00:00",
+   "id": "0f60e10ad4c6",
+   "ilk_gorulme": "2026-11-15",
+   "son_gorulme": "2026-11-15",
+   "durum": "yaklasan"
+  },
+  {
    "c": "CH",
    "ulke": "İsviçre",
    "bayrak": "ch",
@@ -35809,9 +35942,9 @@
    "kaynak": "site",
    "kaynak_metin": "2027 MALATYA OKULLAR ARASI SATRANÇ TURNUVASI Okul Sporları Satranç Turnuvası GSİM Olimpik Yüzme Havuzu Satranç Salonunda yapılacaktır. OKULLARIN KAYIT SAYFASI LİNKİ YAKINDA BURADA AÇIKLANACAKTIR. İLKOKUL, ORTAOKUL VE LİSE KATEGORİ TARİHLERİ ŞÖYLEDİR: GENÇLER : 11 - 12 - 15 Şubat 2027 Son kayıt tarihi: 8 Şubat 202 7 YILDIZLAR: 16 - 17 - 18 Şubat 2027 Son kayıt tarihi: 1 0 Şubat 2027 KÜÇÜKLER: 19 - 22 - 23 Şubat 2027 Son kayıt tarihi: 12 Şubat 2027 MİNİKLER: 24 Şubat - 1 Mart 2027 Son kayıt tarihi",
    "id": "c66610f1e676",
-   "tarih_degisti": "2027-02-11 → 2027-02-12",
    "ilk_gorulme": "2026-11-14",
    "son_gorulme": "2026-11-15",
+   "tarih_degisti": "2027-02-11 → 2027-02-12",
    "durum": "yaklasan"
   },
   {
@@ -37390,6 +37523,35 @@
    "lastmod": "2026-10-13T12:23:43+00:00",
    "id": "93567a5efe98",
    "ilk_gorulme": "2026-10-13",
+   "son_gorulme": "2026-11-15",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "ES",
+   "ulke": "İspanya",
+   "bayrak": "es",
+   "name": "3rd International Women’s Chess Tournament “Diputación de Sevilla” 2027",
+   "city": "Sevilla",
+   "start": "2027-03-05",
+   "end": "2027-03-14",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "15 minutes + 10 seconds per move",
+   "url": "https://mychess.events/event/3rd-international-womens-chess-tournament-diputacion-de-sevilla-2027/",
+   "src": "https://mychess.events/event/3rd-international-womens-chess-tournament-diputacion-de-sevilla-2027/",
+   "cr": "https://s3.chess-results.com/tnr1487315.aspx?SNode=S0&lan=1",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T12:21:47+00:00",
+   "id": "c091e243af3b",
+   "ilk_gorulme": "2026-11-15",
    "son_gorulme": "2026-11-15",
    "durum": "yaklasan"
   },
@@ -40129,7 +40291,7 @@
    "kaynak_metin": "TBMM ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI TBMM ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI Gençlik ve Spor Bakanlığı tarafından 23 Nisan Ulusal Eğemenlik ve Çocuk Bayramı Spor Etkinliklerine özel düzenlenen bu Satranç Turnuvasına kayıt işlemlerinin Spor Bilgi Sistemi üzerinden de gerçekleştirilmesi gerekmektedir . Kayıt İşlemi Nasıl Yapılır? Spor Bilgi Sistemi adresine giriş yapınız. (18 yaş altındaki sporcular için velileri giriş yapmalıdır.) Ulusal spor Projeleri Başvuru",
    "id": "fabb7c2a3075",
    "ilk_gorulme": "2026-11-14",
-   "son_gorulme": "2026-11-14",
+   "son_gorulme": "2026-11-15",
    "durum": "yaklasan"
   },
   {
