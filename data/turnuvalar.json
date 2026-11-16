@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-16T11:29",
+ "guncelleme": "2026-11-16T21:38",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-16T11:28",
+   "tarama": "2026-11-16T21:37",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-16T11:29",
+   "tarama": "2026-11-16T21:38",
    "kaynak": "https://mychess.events"
   }
  },
@@ -18199,32 +18199,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Sinop",
-   "name": "SİNOP 10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://sinop.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "SİNOP 10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 Turnuva Adı: Turnuva Tarihi: ",
-   "id": "92f8298a176b",
-   "ilk_gorulme": "2026-10-29",
-   "son_gorulme": "2026-11-10",
-   "durum": "oynandi",
-   "oynandi_tarihi": "2026-11-11"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Tekirdağ",
    "name": "TEKİRDAĞ 10 KASIM ATATÜRK'Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SATRANÇ TURNUVASI",
    "start": "2026-11-10",
@@ -20514,11 +20488,11 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İstanbul",
-   "name": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başlıyor..",
+   "name": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başladı..",
    "start": "2026-11-16",
-   "end": "2026-11-20",
+   "end": "2026-11-16",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
     {
      "n": "Genel",
@@ -20526,10 +20500,11 @@
      "max": null
     }
    ],
-   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kapali-satranc/5300-goeruelmeyen-gazete-2-uluslararas-goerme-engelliler-satranc-turnuvas",
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kapali-satranc/5363-goeruelmeyen-gazete-2-uluslararas-goerme-engelliler-satranc-turnuvas-baslad",
    "kaynak": "site",
-   "kaynak_metin": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başlıyor.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başlıyor.. Türkiye’nin ilk ve tek görme engellilere yönelik gazetesi Görülmeyen Gazete tarafından, İstiklal Satranç Spor Kulübü ve Türkiye Satranç Federasyonu iş birliğiyle Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası düzenlenecektir. Kültür, sanat ve müzikle iç içe geçmiş, unutulmaz bir festival atmosferi sunacak turnuva, 16",
+   "kaynak_metin": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başladı.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başladı.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası 16 Kasım 2026 Pazartesi günü İBB Şile Engelliler Kampı Sosyal Tesisleri ev sahipliğinde başladı. Turnuva açılış töreni Türkiye Satranç Federasyonu Kulüpler Kurulu Başkanı Mert Koç, Görülmeyen Gazete Kurucusu Saime Oğuzhan, İBB Şile Engelliler Kamp Sorumlusu Yunus Kazmaz, T",
    "id": "f71c203e20f1",
+   "tarih_degisti": "2026-11-16 → 2026-11-16",
    "ilk_gorulme": "2026-10-14",
    "son_gorulme": "2026-11-16",
    "durum": "suruyor"
@@ -21776,7 +21751,7 @@
    "kaynak_metin": "HATAY KASIM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY KASIM AYI ELO SATRANÇ TURNUVASI KAYITLARI BAŞLADI 21-22/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Samandağ İlçesi GSİM Kapalı Spor Salonu'nda Hatay Kasım Ayı ELO Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 19/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >",
    "id": "bfc171d52711",
    "ilk_gorulme": "2026-10-11",
-   "son_gorulme": "2026-11-15",
+   "son_gorulme": "2026-11-16",
    "durum": "yaklasan"
   },
   {
@@ -21971,9 +21946,9 @@
    "kaynak": "site",
    "kaynak_metin": "MERKEZEFENDİ 10 KASIM ATAMIZA SAYGI VE ANMA SATRANÇ TURNUVASI İlimiz Merkezefendi ilçemizde Merkezefendi GSİM Tarafından Merkez Efendi Çok Amaçlı Spor Salonunda Merkezefendi 10 Kasım Atamıza Saygı ve Anma Satranç Turnuvası 21-22 Kasım 2026 Tarihlerinde yapılacaktır. Turnuvamız 7 ve 8 Yaş Kategorilerindedir. Turnuva Yönergesi Turnuva Kayıt Adres: Adalet Mahallesi, Fatih Sultan Mehmet Caddesi, No:11, Merkezefendi / Denizli TCGSB Çok Amaçlı Spor Salonu ",
    "id": "bf41e10c3f0b",
-   "tarih_degisti": "2026-11-10 → 2026-11-21",
    "ilk_gorulme": "2026-11-10",
    "son_gorulme": "2026-11-16",
+   "tarih_degisti": "2026-11-10 → 2026-11-21",
    "durum": "yaklasan"
   },
   {
@@ -22103,6 +22078,31 @@
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-16",
    "tarih_degisti": "2026-11-14 → 2026-11-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sinop",
+   "name": "SİNOP 10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://sinop.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "SİNOP 10 KASIM ATATÜRK'Ü ANMA HAFTASI SATRANÇ TURNUVASI 2026 Satranç Haberleri SİNOP 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 2026 Turnuva Adı: Sinop 24 Kasım Öğretmenler Günü Satranç Turnuvası Turnuva Tarihi: 21-22 Kasım 2026 Son Başvuru Tarihi/Saati: 20 Kasım 2026 / 20.00 Turnuva Yeri: SİNOP SPORCU EĞİTİM MERKEZİ Tempo: 35'+30\" Kategoriler: *Açık Kategori (2020 ve Önceki Yıllarda Doğan Sporcular) * 14 Yaş ve Altı (2013-2016 Yılları ve Arasında Doğan Sporcular) * 10 Yaş ve Altı (2017-2018 Yı",
+   "id": "92f8298a176b",
+   "tarih_degisti": "2026-11-10 → 2026-11-21",
+   "ilk_gorulme": "2026-10-29",
+   "son_gorulme": "2026-11-16",
    "durum": "yaklasan"
   },
   {
@@ -22957,7 +22957,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür",
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g",
    "id": "57473d6a3cce",
    "ilk_gorulme": "2026-10-16",
    "son_gorulme": "2026-11-16",
@@ -23123,6 +23123,31 @@
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-16",
    "tarih_degisti": "2027-03-17 → 2026-11-24",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sinop",
+   "name": "SİNOP 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 2026",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sinop.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "SİNOP 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 2026 Turnuva Adı: Turnuva Tarihi: ",
+   "id": "285879b5f08a",
+   "ilk_gorulme": "2026-11-16",
+   "son_gorulme": "2026-11-16",
    "durum": "yaklasan"
   },
   {
@@ -24658,7 +24683,7 @@
    "kaynak_metin": "HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI 28-29/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Hatay Doğuş Okulları Aşağıokçular Kampüsü Salonu'nda Hatay 4. Geleneksel Aras Gümüşoğlu Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 26/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >",
    "id": "0c281bcf2e34",
    "ilk_gorulme": "2026-10-24",
-   "son_gorulme": "2026-11-15",
+   "son_gorulme": "2026-11-16",
    "durum": "yaklasan"
   },
   {
@@ -25456,7 +25481,7 @@
    ],
    "url": "https://tsf.org.tr/takvim",
    "kaynak": "site",
-   "kaynak_metin": "2026 Türkiye Şampiyonası 3–14 Aralık 2026",
+   "kaynak_metin": "2026 Türkiye Şampiyonası 3–14 Aralık 2026 · Gaziantep",
    "id": "3fb3916cede3",
    "ilk_gorulme": "2026-11-10",
    "son_gorulme": "2026-11-16",
@@ -26158,6 +26183,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Düzce",
+   "name": "2027 TÜRKİYE KÜÇÜKLER SATRANÇ ŞAMPİYONASI DÜZCE İL BİRİNCİLİĞİ (7 - 9 YAŞLAR)",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://duzce.tsf.org.tr/satranc-haberleri/605-2027-tuerkiye-kuecuekler-satranc-sampiyonasi-duezce-il-birinciligi-7-9-yaslar",
+   "kaynak": "site",
+   "kaynak_metin": "2027 TÜRKİYE KÜÇÜKLER SATRANÇ ŞAMPİYONASI DÜZCE İL BİRİNCİLİĞİ (7 - 9 YAŞLAR) 2027 TÜRKİYE KÜÇÜKLER SATRANÇ ŞAMPİYONASI DÜZCE İL BİRİNCİLİĞİ (7 - 9 YAŞLAR) İlimizde 5-6 Aralık 2026 tarihlerine, Prof. Dr. Erol GÜNGÖR Kültür Merkezi Satraç Salonunda, Türkiye Küçükler Satranç Şampiyonası Düzce İl Birinciliği 7 - 8 - 9 yaşlar satranç Turnuvası düzenlenecektir. Gerekli bigi için yönerge incelenmelidir. Yönerge... Turnuva Başvuru... Sonraki >",
+   "id": "b2ac90bf3187",
+   "ilk_gorulme": "2026-11-16",
+   "son_gorulme": "2026-11-16",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Çankırı",
    "name": "2027 YILDIZLAR ( 13 - 18 ) SATRANÇ ÇANKIRI İL BİRİNCİLİĞİ",
    "start": "2026-12-05",
@@ -26404,7 +26453,7 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Erzurum",
-   "name": "BAHÇEŞEHİR KOLEJİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI",
+   "name": "BAHÇEŞEHİR KOLEJİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI 2026",
    "start": "2026-12-05",
    "end": "2026-12-05",
    "status": "a",
@@ -26418,7 +26467,7 @@
    ],
    "url": "https://erzurum.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "BAHÇEŞEHİR KOLEJİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI ÖNEMLİ DUYURU: 27 EKİM SALI GÜNÜ GÜNÜ YAPILACAK OLAN TURNUVAMIZ 5 ARALIK 2026 TARİHİNE ERTELENMİŞTİR.",
+   "kaynak_metin": "BAHÇEŞEHİR KOLEJİ 29 EKİM CUMHURİYET BAYRAMI HIZLI SATRANÇ TURNUVASI 2026 \" Bahçeşehir Koleji 29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnuvası \" 5 Aralık 2026 cumartesi günü saat 09.00'da Bahçeşehir Koleji Kampüsünde yapılacaktır.",
    "id": "511516428427",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-16",
@@ -30198,6 +30247,31 @@
    "id": "18e228e6ba7e",
    "ilk_gorulme": "2026-09-22",
    "son_gorulme": "2026-11-10",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "2026 Dünya Hızlı Yıldırım Satranç Şampiyonası",
+   "start": "2026-12-25",
+   "end": "2026-12-31",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tsf.org.tr/takvim",
+   "kaynak": "site",
+   "kaynak_metin": "2026 Dünya Hızlı Yıldırım Satranç Şampiyonası 25–31 Aralık 2026 · İstanbul",
+   "id": "cccf1bc66d8e",
+   "ilk_gorulme": "2026-11-16",
+   "son_gorulme": "2026-11-16",
    "durum": "yaklasan"
   },
   {
