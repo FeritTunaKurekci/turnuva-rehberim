@@ -1,7 +1,7 @@
 {
- "taranma": "2026-11-15T18:24",
+ "taranma": "2026-11-16T11:29",
  "kaynak": "https://mychess.events",
- "okunan_sayfa": 23,
+ "okunan_sayfa": 18,
  "turnuvalar": [
   {
    "c": "US",
@@ -23448,6 +23448,46 @@
    "lastmod": "2026-11-14T20:39:18+00:00"
   },
   {
+   "c": "DE",
+   "ulke": "Almanya",
+   "bayrak": "de",
+   "name": "Open Saarland Individual Chess Championships 2027 (SEM)",
+   "city": "Schwalbach-Elm",
+   "start": "2026-12-27",
+   "end": "2026-12-30",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Meisterturnier (MT)",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "A-Turnier (AT)",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "B-Turnier (BT)",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "C-Turnier (CT)",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 min / 40 moves + 30 min for the rest, with 30 sec per move from move 1",
+   "url": "https://mychess.events/event/open-saarland-individual-chess-championships-2027-sem/",
+   "src": "https://mychess.events/event/open-saarland-individual-chess-championships-2027-sem/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T18:41:25+00:00"
+  },
+  {
    "c": "SE",
    "ulke": "İsveç",
    "bayrak": "se",
@@ -30564,6 +30604,31 @@
    "lastmod": "2026-11-07T10:09:43+00:00"
   },
   {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "Championnat International d’Échecs de Lyon Henri Rinck 2027",
+   "city": "Lyon",
+   "start": "2027-02-27",
+   "end": "2027-03-05",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Açık",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move",
+   "url": "https://mychess.events/event/lyon-henri-rinck-international-chess-championship-2027/",
+   "src": "https://mychess.events/event/lyon-henri-rinck-international-chess-championship-2027/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T19:02:50+00:00"
+  },
+  {
    "c": "DE",
    "ulke": "Almanya",
    "bayrak": "de",
@@ -30987,6 +31052,36 @@
    "cr": "",
    "kayit_kapali": false,
    "lastmod": "2026-11-14T08:49:55+00:00"
+  },
+  {
+   "c": "FR",
+   "ulke": "Fransa",
+   "bayrak": "fr",
+   "name": "33rd Tarbes International Chess Open 2027 – Main & Blavignac U1700",
+   "city": "Tarbes",
+   "start": "2027-03-06",
+   "end": "2027-03-06",
+   "status": "a",
+   "kaynak": "mychess",
+   "sections": [
+    {
+     "n": "Main Open",
+     "min": null,
+     "max": null
+    },
+    {
+     "n": "Blavignac",
+     "min": null,
+     "max": null
+    }
+   ],
+   "prize": null,
+   "tc": "90 minutes + 30 seconds per move, from move one",
+   "url": "https://mychess.events/event/33rd-tarbes-international-chess-open-2027-main-blavignac-u1700/",
+   "src": "https://mychess.events/event/33rd-tarbes-international-chess-open-2027-main-blavignac-u1700/",
+   "cr": "",
+   "kayit_kapali": false,
+   "lastmod": "2026-11-15T18:50:17+00:00"
   },
   {
    "c": "US",
