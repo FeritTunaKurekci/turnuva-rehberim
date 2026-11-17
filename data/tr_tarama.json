@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-16T21:37",
+ "taranma": "2026-11-17T12:20",
  "surum": "0.4",
  "iller": [
   {
@@ -96,7 +96,7 @@
    "il": "Bilecik",
    "durum": "ok",
    "host": "bilecik.tsf.org.tr",
-   "adet": 5
+   "adet": 3
   },
   {
    "il": "Bingöl",
@@ -312,7 +312,7 @@
    "il": "Kocaeli",
    "durum": "ok",
    "host": "kocaeli.tsf.org.tr",
-   "adet": 5
+   "adet": 6
   },
   {
    "il": "Konya",
@@ -396,7 +396,7 @@
    "il": "Sakarya",
    "durum": "ok",
    "host": "sakarya.tsf.org.tr",
-   "adet": 2
+   "adet": 4
   },
   {
    "il": "Samsun",
@@ -909,6 +909,31 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Aydın",
+   "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "A Kategorisi",
+     "min": 1200,
+     "max": null
+    },
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 28–29 Kasım 2026 Yarışma Salonu Söke Gençlik Merkezi ↗ İl / İlçe Aydın / Söke Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 5’e madalya Ayrıca her kategoride ilk 3 kadın sporcuya madalya Son Başvuru 26 Kasım 2026 Pe"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
    "name": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol →",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -966,31 +991,6 @@
    "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1001",
    "kaynak": "site",
    "kaynak_metin": "Açık Kategori (2014 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon Satranç Merkezleri TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İlçe Temsilcileri İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. Turnuvalar Turnuva Haberleri Etkinlik Takvimi İletişim Bağlantılar FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Kulüplerimiz Didim 24 Kasım Öğretmenler"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Aydın",
-   "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası",
-   "start": "2026-11-24",
-   "end": "2026-11-24",
-   "status": "a",
-   "reyting_turu": "UKD",
-   "sections": [
-    {
-     "n": "A Kategorisi",
-     "min": 1200,
-     "max": null
-    },
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://aydin.tsf.org.tr/satranc-haberleri/1301-soeke-24-kasm-oegretmenler-guenue-satranc-turnuvas",
-   "kaynak": "site",
-   "kaynak_metin": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 28–29 Kasım 2026 Yarışma Salonu Söke Gençlik Merkezi ↗ İl / İlçe Aydın / Söke Tempo 35 Dakika + 30 Saniye Eklemeli Sistem Bireysel 6 Tur İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 5’e madalya Ayrıca her kategoride ilk 3 ka"
   },
   {
    "c": "TR",
@@ -2152,48 +2152,6 @@
    "url": "https://bilecik.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "YILDIZLAR BİLECİK BİRİNCİLİĞİ -13 Aralık 2026 tarihlerinde Bilecik Gençlik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 11.12.2026 Yönerge Turnuva Kayıt Devamını oku..."
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Bilecik",
-   "name": "YILDIZLAR BİLECİK BİRİNCİLİĞİ",
-   "start": "2026-12-12",
-   "end": "2026-12-13",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://bilecik.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "YILDIZLAR BİLECİK BİRİNCİLİĞİ Satranç Haberleri YILDIZLAR BİLECİK BİRİNCİLİĞİ 12 -13 Aralık 2026 tarihlerinde Bilecik Gençlik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 11.12.2026 Yönerge Turnuva Kayıt Devamını oku... ARALIK AYI ETKİNLİKLERİMİZ Aralık 2026 takviminde yer alan ve gerçekleştireceğimiz turnuvalarımız görselde su"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Bilecik",
-   "name": "KÜÇÜKLER BİLECİK BİRİNCİLİĞİ",
-   "start": "2026-12-12",
-   "end": "2026-12-13",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://bilecik.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "KÜÇÜKLER BİLECİK BİRİNCİLİĞİ Satranç Haberleri YILDIZLAR BİLECİK BİRİNCİLİĞİ 12 -13 Aralık 2026 tarihlerinde Bilecik Gençlik Spor Salonunda gerçeklteştirilecek olan t urnuva ile ilgili tüm ayrıntılı bilgi için yönerge'yi okumanız gerekmektedir. Turnuva kayıt online başka yollarla yapılan başvurular kabul edilmeyecektir. Son başvuru tarihi 11.12.2026 Yönerge Turnuva Kayıt Devamını oku... ARALIK AYI ETKİNLİKLERİMİZ Aralık 2026 takviminde yer alan ve gerçekleştireceğimiz turnuvalarımız görselde sun"
   },
   {
    "c": "TR",
@@ -3397,27 +3355,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İstanbul",
-   "name": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başladı..",
-   "start": "2026-11-16",
-   "end": "2026-11-16",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kapali-satranc/5363-goeruelmeyen-gazete-2-uluslararas-goerme-engelliler-satranc-turnuvas-baslad",
-   "kaynak": "site",
-   "kaynak_metin": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başladı.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başladı.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası 16 Kasım 2026 Pazartesi günü İBB Şile Engelliler Kampı Sosyal Tesisleri ev sahipliğinde başladı. Turnuva açılış töreni Türkiye Satranç Federasyonu Kulüpler Kurulu Başkanı Mert Koç, Görülmeyen Gazete Kurucusu Saime Oğuzhan, İBB Şile Engelliler Kamp Sorumlusu Yunus Kazmaz, T"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "İstanbul",
    "name": "Starbucks ve Selectist Satranç Turnuvaları Serisi Başlıyor..",
    "start": "2026-11-16",
    "end": "2026-11-17",
@@ -3475,6 +3412,27 @@
    "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/acik-satranc-turnuvasi/5359-istanbul-ogretmenlergunu-satranc-turnuvalari-2026",
    "kaynak": "site",
    "kaynak_metin": "İstanbul 24 Kasım Öğretmenler Günü Satranç Turnuvaları Başlıyor.. İstanbul 24 Kasım Öğretmenler Günü Satranç Turnuvaları Başlıyor.. 24 Kasım Öğretmenler Günü etkinlikleri kapsamında 21-22 ve 28-29 Kasım 2026 haftasonu tarihlerinde ilçelerimizde Öğretmenler Günü Satranç Turnuvaları düzenlenecektir. Turnuvalar 35 dakika+30 saniye düşünme süresinde 6 tur İsviçre Sistemiyle UKD hesaplamalarına dahil düzenlenecektir. Turnuvalara katılımla ilgili detaylı bilgi haberin devamında turnuva yönergelerinde "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
+   "name": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başlıyor..",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kapali-satranc/5300-goeruelmeyen-gazete-2-uluslararas-goerme-engelliler-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başlıyor.. Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası Başlıyor.. Türkiye’nin ilk ve tek görme engellilere yönelik gazetesi Görülmeyen Gazete tarafından, İstiklal Satranç Spor Kulübü ve Türkiye Satranç Federasyonu iş birliğiyle Görülmeyen Gazete 2. Uluslararası Görme Engelliler Satranç Turnuvası düzenlenecektir. Kültür, sanat ve müzikle iç içe geçmiş, unutulmaz bir festival atmosferi sunacak turnuva, 16"
   },
   {
    "c": "TR",
@@ -4108,7 +4066,7 @@
    ],
    "url": "https://kocaeli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "KOCAELİ GENÇLER İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 21-22 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Gençler Satranç Kocaeli İl Birinciliği Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
+   "kaynak_metin": "KOCAELİ GENÇLER İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 21-22 Kasım 2026 tarihleri arasında Derince Şehit Er Emre Kaan Arlı Çok Amaçlı Spor Salon'unda, Gençler Satranç Kocaeli İl Birinciliği Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
   },
   {
    "c": "TR",
@@ -4172,6 +4130,27 @@
    "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "KOCAELİ GENÇLER İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Turnuva Haberleri KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kocaeli",
+   "name": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII Turnuva Haberleri KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
   },
   {
    "c": "TR",
@@ -5037,20 +5016,60 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Sakarya",
-   "name": "TBMM ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
-   "start": "2027-04-13",
-   "end": "2027-04-13",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
    "status": "a",
-   "reyting_turu": null,
+   "reyting_turu": "UKD",
    "sections": [
     {
      "n": "Yaş kategorileri",
      "age": true
     }
    ],
-   "url": "https://sakarya.tsf.org.tr/turnuva-haberleri/759-tbmm-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvasi",
+   "url": "https://sakarya.tsf.org.tr/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "TBMM ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI TBMM ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI Gençlik ve Spor Bakanlığı tarafından 23 Nisan Ulusal Eğemenlik ve Çocuk Bayramı Spor Etkinliklerine özel düzenlenen bu Satranç Turnuvasına kayıt işlemlerinin Spor Bilgi Sistemi üzerinden de gerçekleştirilmesi gerekmektedir . Kayıt İşlemi Nasıl Yapılır? Spor Bilgi Sistemi adresine giriş yapınız. (18 yaş altındaki sporcular için velileri giriş yapmalıdır.) Ulusal spor Projeleri Başvuru"
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri 24 Kasım Öğretmenler Günü Satranç turnuvası Tarih: 21-22 Kasım 2026 Kayıt Tarihleri: 19 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanız gerekmektedir. YÖNERGE KAYIT KAYIT İPTAL FOTOĞRAFLAR S"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sakarya",
+   "name": "NATO Satranç Şampiyonası’nda 2 Altın 1 Bronz Madalya!",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://sakarya.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "NATO Satranç Şampiyonası’nda 2 Altın 1 Bronz Madalya! Satranç Haberleri 24 Kasım Öğretmenler Günü Satranç turnuvası Tarih: 21-22 Kasım 2026 Kayıt Tarihleri: 19 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanız gerekmektedir. YÖN"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sakarya",
+   "name": "Turnuvalar",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://sakarya.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuvalar Satranç Haberleri 24 Kasım Öğretmenler Günü Satranç turnuvası Tarih: 21-22 Kasım 2026 Kayıt Tarihleri: 19 Kasım 2026 Saat:17.00 Yer: Yenikent Kapalı Spor Salonu Camili Adapazarı Sakarya Oyun Temposu: 35 ' +30\" Eklemeli Tempo Bilgi: Turnuvaya 2026-2027 sezonu satranç lisansına sahip 2020 ve önceki önceki yıllarda doğan sporcular katılabilir. NOT: Yönergede belirtilen kategori kriterlerine göre doğru kategoriye kayıt yapmanız gerekmektedir. YÖNERGE KAYIT KAYIT İPTAL FOTOĞRAFLAR Sakarya "
   },
   {
    "c": "TR",
