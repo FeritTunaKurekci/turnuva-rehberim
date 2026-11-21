@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-21T11:28",
+ "guncelleme": "2026-11-21T18:42",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-21T11:28",
+   "tarama": "2026-11-21T18:42",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-21T11:28",
+   "tarama": "2026-11-21T18:42",
    "kaynak": "https://mychess.events"
   }
  },
@@ -21310,6 +21310,31 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Malatya",
+   "name": "2025-2026 Türkiye Kupası sona erdi",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/2025-2026-tuerkiye-kupasi-sona-erdi",
+   "kaynak": "site",
+   "kaynak_metin": "2025-2026 Türkiye Kupası sona erdi Haber 21 Kasım 2026 2025-2026 Türkiye Kupası sona erdi Haberi oku",
+   "id": "b51dc17595ea",
+   "ilk_gorulme": "2026-11-21",
+   "son_gorulme": "2026-11-21",
+   "durum": "suruyor"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Aydın",
    "name": "2026 Dünya Yaş Grupları Satranç Şampiyonası (8 - 10 - 12 Yaş)",
    "start": "2026-11-21",
@@ -24489,6 +24514,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Çanakkale",
+   "name": "ÇANAKKALE YILDIZLAR SATRANÇ İL BİRİNCİLİĞİ",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://canakkale.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "ÇANAKKALE YILDIZLAR SATRANÇ İL BİRİNCİLİĞİ Turnuva ÇANAKKALE YILDIZLAR (13-18 YAŞLAR) SATRANÇ İL BİRİNCİLİĞİ Organizasyon ÇANAKKALE GSİM & ÇANAKKALE SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 27-29 KASIM 2026 Turnuva Yeri ÇANAKKALE SPORCU GELİŞİM MERKEZİ (ADLİYE ARKASINDA) Kategoriler 13-14-15-16-17-18 Yaşlar Kızlar ve Genel Kategorileri Kontenjan - Tempo 45’+30” Eklemeli Tempo Tur Sayısı MADDE 2.4 UYGULANIR Ödüller Her kategoride ilk üç dereceyi elde eden sporculara Madalya verilecektir. Son Başvur",
+   "id": "2bc90291e83c",
+   "ilk_gorulme": "2026-11-21",
+   "son_gorulme": "2026-11-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Aydın",
    "name": "1.Forum Aydın Satranç Turnuvası",
    "start": "2026-11-28",
@@ -25502,6 +25551,54 @@
    "lastmod": "2026-11-10T19:34:33+00:00",
    "id": "b9fea2c24613",
    "ilk_gorulme": "2026-11-13",
+   "son_gorulme": "2026-11-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Trabzon",
+   "name": "YILDIZLAR (13-18 YAŞ) SATRANÇ TRABZON İL BİRİNCİLİĞİ",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://trabzon.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIZLAR (13-18 YAŞ) SATRANÇ TRABZON İL BİRİNCİLİĞİ Yarışma Direktörü Yunus Vehbi TÜRKER 0531 8585762 Başlama - Bitiş Tarihi : 28-29 Kasım 2026 Yeri: Beşirli Spor Kompleksi Satranç Salonu Son Başvuru Tarihi: 27 Kasım 2026 Saat 18:00 Düşünme Süresi: 45'+30'' Eklemeli Tempo Yarışma sonuçları UKD hesaplamalarında kullanılacaktır. Kategoriler: 2009-2014 yılları ve arasında doğan T.C. vatandaşı sporcular için GENEL ve KIZ kategorilerinde 13 Yaş Genel Kategorisi (2014 Doğumlu Sporcular) 13 Yaş Kız Ka",
+   "id": "c2f2b68573fd",
+   "ilk_gorulme": "2026-11-21",
+   "son_gorulme": "2026-11-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karaman",
+   "name": "YILDIZLAR (13-18) SATRANÇ KARAMAN İL BİRİNCİLİĞİ",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karaman.tsf.org.tr/satranc-haberleri/862-yildizlar-13-18-satranc-karaman-il-birinciligi",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIZLAR (13-18) SATRANÇ KARAMAN İL BİRİNCİLİĞİ YILDIZLAR (13-18) SATRANÇ KARAMAN İL BİRİNCİLİĞİ Karaman “Yıldızlar (13-18) Satranç Karaman il Birinciliği ” 28-29.10. 2026 Tarihlerinde Yeni Karaman Stadyumu Satranç Salonunda yapılacaktır. Yarışmaya Gençlik Spor İl/İlçe Spor Müdürlüklerinden çıkartılan TSF Lisansına sahip, 2026 – 2027 yılı vizesi yapılmış, 2009-2014 Yılları ve arasında sporcular katılabilir. Turnuva Detayları: TURNUVA Yıldızlar (13-18) Satranç Karaman il Birinciliği ORGANİZASYON",
+   "id": "fc6409d43cbd",
+   "ilk_gorulme": "2026-11-21",
    "son_gorulme": "2026-11-21",
    "durum": "yaklasan"
   },
@@ -26704,9 +26801,9 @@
    "kaynak": "site",
    "kaynak_metin": "2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI 2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI Manisa Salihli İlçemizde 05-06 Aralık 2026 tarihlerinde 45''+30' temposunda Salihli Küçükler (7-12 yaş) İlçe birinciliği satranç turnuvası Ramiz Turan Spor Kompleksinde Yapılacaktır. Kayıtlar 23 Kasım 2026 tarihinde saat 13'te açılacaktır. YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT Kızlar Kategorisi 2015 ve 2020 Yılları ve Arasında Sporcular KIZLAR Genel Kategorisi 2015 ve",
    "id": "0c2a2675894d",
-   "tarih_degisti": "2026-11-23 → 2026-12-05",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-21",
+   "tarih_degisti": "2026-11-23 → 2026-12-05",
    "durum": "yaklasan"
   },
   {
@@ -27332,6 +27429,30 @@
    "kaynak_metin": "KÜÇÜKLER (10 – 12 YAŞ) AMASYA SATRANÇ İL BİRİNCİLİĞİ TARİH : 05-06 ARALIK 2026 Kategori: 10 Yaş Kategorisi 2017 Doğumlu Sporcular 10 Yaş Kız Kategorisi 2017 Doğumlu Kız Sporcular 11 Yaş Kategorisi 2016 Doğumlu Sporcular 11 Yaş Kız Kategorisi 2016 Doğumlu Kız Sporcular 12 Yaş Kategorisi 2015 Doğumlu Sporcular 12 Yaş Kız Kategorisi 2015 Doğumlu Kız Sporcular Süre: 45’+30” EKLEMELİ TEMPO Yer: AMASYA YURT MÜDÜRLÜĞÜ KIZ ÖĞRENCİ YURDU B BLOK Konum için TIKLAYINIZ Tur Sayısı: İSVİÇRE SİSTEMİ / 6 TUR So",
    "id": "ac7956101d8b",
    "ilk_gorulme": "2026-11-20",
+   "son_gorulme": "2026-11-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Küçükler (7-8Yaş) Aydın İl Birinciliği Satranç Turnuvası",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Küçükler (7-8Yaş) Aydın İl Birinciliği Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Küçükler (7-8Yaş) Aydın İl Birinciliği Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 05–06 Aralık 2026 Yarışma Salonu SKS Spor Salonu ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e madalya Son Başvuru 03 Aralık 2026 Perşembe, 17.00 Bağlantılar 7 Yaş Kategorisi (2020 doğumlu",
+   "id": "3f1128a04a93",
+   "ilk_gorulme": "2026-11-21",
    "son_gorulme": "2026-11-21",
    "durum": "yaklasan"
   },
@@ -28781,6 +28902,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Küçükler (9-12 Yaş) Aydın İl Birinciliği Satranç Turnuvası",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Küçükler (9-12 Yaş) Aydın İl Birinciliği Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu Küçükler (9-12Yaş) Aydın İl Birinciliği Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 12–13 Aralık 2026 Yarışma Salonu SKS Spor Salonu ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e madalya Son Başvuru 10 Aralık 2026 Perşembe, 17.00 Bağlantılar 9 Yaş Kategorisi (2018 doğu",
+   "id": "c81028b68797",
+   "ilk_gorulme": "2026-11-21",
+   "son_gorulme": "2026-11-21",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Manisa",
    "name": "MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ",
    "start": "2026-12-12",
@@ -28797,9 +28942,9 @@
    "kaynak": "site",
    "kaynak_metin": "MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (7-8 Yaş) il birinciliği satranç turnuvası 12-13 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT Kızlar Kategorisi 2019 ve 2020 Yıllarında Doğan Sporcular KIZLAR Genel Kategorisi 2019 ve 2020 Yıllarında Doğan Sporcular GENEL < Önceki Sonraki >",
    "id": "51e3f57561f1",
-   "tarih_degisti": "2026-11-30 → 2026-12-12",
    "ilk_gorulme": "2026-11-04",
    "son_gorulme": "2026-11-21",
+   "tarih_degisti": "2026-11-30 → 2026-12-12",
    "durum": "yaklasan"
   },
   {
@@ -32039,6 +32184,31 @@
    "tarih_degisti": "2026-11-21 → 2026-12-26",
    "ilk_gorulme": "2026-10-27",
    "son_gorulme": "2026-11-18",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Türkiye Kupası Satranç Aydın İl Birinciliği",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Türkiye Kupası Satranç Aydın İl Birinciliği TSF Aydın / 2026–2027 Sezonu Türkiye Kupası Satranç Aydın İl Birinciliği Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 26–27 Aralık 2026 Yarışma Salonu SKS Spor Salonu ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller İlk 3’e kupa ve ilk 10'a madalya Son Başvuru 24 Aralık 2026 Perşembe, 17.00 Bağlantılar Açık Kategorisi (2020 ve öncesi doğumlular) · Kayıt Ol",
+   "id": "2d9f4a713ff7",
+   "ilk_gorulme": "2026-11-21",
+   "son_gorulme": "2026-11-21",
    "durum": "yaklasan"
   },
   {
