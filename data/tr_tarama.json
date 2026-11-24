@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-24T03:59",
+ "taranma": "2026-11-24T21:48",
  "surum": "0.4",
  "iller": [
   {
@@ -66,7 +66,7 @@
    "il": "Aydın",
    "durum": "ok",
    "host": "aydin.tsf.org.tr",
-   "adet": 50
+   "adet": 49
   },
   {
    "il": "Balıkesir",
@@ -258,7 +258,7 @@
    "il": "Karabük",
    "durum": "ok",
    "host": "karabuk.tsf.org.tr",
-   "adet": 2
+   "adet": 4
   },
   {
    "il": "Karaman",
@@ -276,7 +276,7 @@
    "il": "Kastamonu",
    "durum": "ok",
    "host": "kastamonu.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Kayseri",
@@ -312,7 +312,7 @@
    "il": "Kocaeli",
    "durum": "ok",
    "host": "kocaeli.tsf.org.tr",
-   "adet": 5
+   "adet": 7
   },
   {
    "il": "Konya",
@@ -330,13 +330,13 @@
    "il": "Malatya",
    "durum": "ok",
    "host": "malatya.tsf.org.tr",
-   "adet": 7
+   "adet": 9
   },
   {
    "il": "Manisa",
    "durum": "ok",
    "host": "manisa.tsf.org.tr",
-   "adet": 5
+   "adet": 6
   },
   {
    "il": "Mardin",
@@ -486,7 +486,7 @@
    "il": "Zonguldak",
    "durum": "ok",
    "host": "zonguldak.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   }
  ],
  "turnuvalar": [
@@ -1056,27 +1056,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Aydın",
-   "name": "Türkiye Kupası Satranç Aydın İl Birinciliği",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
-   "status": "a",
-   "reyting_turu": "UKD",
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://aydin.tsf.org.tr/",
-   "kaynak": "site",
-   "kaynak_metin": "Türkiye Kupası Satranç Aydın İl Birinciliği TSF Aydın / 2026–2027 Sezonu Türkiye Kupası Satranç Aydın İl Birinciliği Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 26–27 Aralık 2026 Yarışma Salonu SKS Spor Salonu ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller İlk 3’e kupa ve ilk 10'a madalya Son Başvuru 24 Aralık 2026 Perşembe, 17.00 Bağlantılar Açık Kategorisi (2020 ve öncesi doğumlular) · Kayıt Ol"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Aydın",
    "name": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol →",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -1092,6 +1071,27 @@
    "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1008",
    "kaynak": "site",
    "kaynak_metin": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İlçe Temsilcileri İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. İletişim Bağlantılar FIDE Spor Hizmetleri Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Kulüplerimiz 1. Forum Aydın Satranç Turnuvası Açık Kategori Turnuva Katılımcı Sayısı Dolmuştu"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Aydın",
+   "name": "Türkiye Kupası Satranç Aydın İl Birinciliği",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://aydin.tsf.org.tr/satranc-haberleri/1322-kuecuekler-7-8yas-aydn-il-birinciligi-satranc-turnuvas-2",
+   "kaynak": "site",
+   "kaynak_metin": "Türkiye Kupası Satranç Aydın İl Birinciliği Türkiye Kupası Satranç Aydın İl Birinciliği TSF Aydın / 2026–2027 Sezonu Türkiye Kupası Satranç Aydın İl Birinciliği Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 26–27 Aralık 2026 Yarışma Salonu SKS Spor Salonu ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller İlk 3’e kupa ve ilk 10'a madalya Son Başvuru 24 Aralık 2026 Perşembe, 17.00 Bağlantılar Açık Kateg"
   },
   {
    "c": "TR",
@@ -1158,7 +1158,7 @@
    ],
    "url": "https://aydin.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Küçükler (7-8Yaş) Aydın İl Birinciliği Satranç Turnuvası Satranç Haberleri 1.Forum Aydın Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu 1. Forum Aydın Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 28–29 Kasım 2026 Yarışma Salonu Forum Aydın Giriş Kat ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 10’a madalya Ayrıca toplam 75.000 ₺ değerinde hediye"
+   "kaynak_metin": "Küçükler (7-8Yaş) Aydın İl Birinciliği Satranç Turnuvası Satranç Haberleri 24 Kasım - Öğretmenler Günü Kutlu Olsun TSF Aydın / 2026–2027 Sezonu 24 Kasım - Öğretmenler Günü Kutlu Olsun Görseli büyütmek için tıklayınız Öğretmenler Günü Kutlu Olsun Başöğretmen Gazi Mustafa Kemal Atatürk başta olmak üzere, geleceğimizi bilgiyle, emekle ve özveriyle şekillendiren tüm öğretmenlerimizin 24 Kasım Öğretmenler Günü’nü kutluyoruz. Eğitime adanmış emekleri ve yetiştirdikleri nesillerle geleceğe ışık tutan t"
   },
   {
    "c": "TR",
@@ -1183,32 +1183,7 @@
    ],
    "url": "https://aydin.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Küçükler (9-12 Yaş) Aydın İl Birinciliği Satranç Turnuvası Satranç Haberleri 1.Forum Aydın Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu 1. Forum Aydın Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 28–29 Kasım 2026 Yarışma Salonu Forum Aydın Giriş Kat ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 10’a madalya Ayrıca toplam 75.000 ₺ değerinde hedi"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Aydın",
-   "name": "Türkiye Kupası Satranç Aydın İl Birinciliği",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
-   "status": "a",
-   "reyting_turu": "UKD",
-   "sections": [
-    {
-     "n": "A Kategorisi",
-     "min": 1200,
-     "max": null
-    },
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://aydin.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "Türkiye Kupası Satranç Aydın İl Birinciliği Satranç Haberleri 1.Forum Aydın Satranç Turnuvası TSF Aydın / 2026–2027 Sezonu 1. Forum Aydın Satranç Turnuvası Afişi büyütmek için tıklayınız Turnuva Detayları Tarih 28–29 Kasım 2026 Yarışma Salonu Forum Aydın Giriş Kat ↗ İl / İlçe Aydın / Efeler Tempo 45 Dakika + 30 Saniye Eklemeli Sistem Bireysel İsviçre Sistemi Rating UKD hesaplamalarına dahil Ödüller Her kategoride ilk 3’e kupa, ilk 10’a madalya Ayrıca toplam 75.000 ₺ değerinde hediye çeki Son Baş"
+   "kaynak_metin": "Küçükler (9-12 Yaş) Aydın İl Birinciliği Satranç Turnuvası Satranç Haberleri 24 Kasım - Öğretmenler Günü Kutlu Olsun TSF Aydın / 2026–2027 Sezonu 24 Kasım - Öğretmenler Günü Kutlu Olsun Görseli büyütmek için tıklayınız Öğretmenler Günü Kutlu Olsun Başöğretmen Gazi Mustafa Kemal Atatürk başta olmak üzere, geleceğimizi bilgiyle, emekle ve özveriyle şekillendiren tüm öğretmenlerimizin 24 Kasım Öğretmenler Günü’nü kutluyoruz. Eğitime adanmış emekleri ve yetiştirdikleri nesillerle geleceğe ışık tutan"
   },
   {
    "c": "TR",
@@ -2030,6 +2005,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Balıkesir",
+   "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (7-9 YAŞ)",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://balikesir.tsf.org.tr/satranc-haberleri/979-2027-kuecuekler-balikesir-satranc-il-birinciligi-7-9-yas",
+   "kaynak": "site",
+   "kaynak_metin": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (7-9 YAŞ) 2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (7-9 YAŞ) Turnuva 2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (7-9 YAŞ) Organizasyon BALIKESİR GSİM & BALIKESİR SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 05-06 ARALIK 2026 CUMARTESİ-PAZAR Turnuva Yeri YASEMİN ADAR SPOR KOMPLEKSİ SATRANÇ SALONU Kategoriler 07 YAŞ GENEL – 07 YAŞ KIZLAR (2020 DOĞUMLULAR) 08 YAŞ GENEL – 08 YAŞ KIZLAR (2019 DOĞUMLULAR) 09 YAŞ GENEL – 09 YAŞ KIZLAR (2018 DOĞUMLULAR)"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Balıkesir",
    "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (10-12 YAŞ)",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -2084,26 +2079,6 @@
    "url": "https://balikesir.tsf.org.tr/satranc-haberleri/982-oezel-bandirma-koleji-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "ÖZEL BANDIRMA KOLEJİ SATRANÇ TURNUVASI ÖZEL BANDIRMA KOLEJİ SATRANÇ TURNUVASI Turnuva ÖZEL BANDIRMA KOLEJİ SATRANÇ TURNUVASI Organizasyon ÖZEL BANDIRMA KOLEJİ & BALIKESİR SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi Son Başvuru 12-13 Aralık 2026 Cumartesi-Pazar 10 Aralık 2026 Saat:17.00 Turnuva Yeri ÖZEL BANDIRMA KOLEJİ KAMPÜSÜ Kategoriler 07 Yaş Kategorisi :2020 Doğumlu Sporcular 08 Yaş Kategorisi :2019 Doğumlu Sporcular 10 Yaş ve Altı Kategorisi :2017 ve 2018 Yıllarında Doğan Sporcular Kontenjan Tüm"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Balıkesir",
-   "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (7-9 YAŞ)",
-   "start": "2026-12-05",
-   "end": "2026-12-06",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://balikesir.tsf.org.tr/satranc-haberleri/979-2027-kuecuekler-balikesir-satranc-il-birinciligi-7-9-yas",
-   "kaynak": "site",
-   "kaynak_metin": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (7-9 YAŞ) 2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (7-9 YAŞ) Turnuva 2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ (7-9 YAŞ) Organizasyon BALIKESİR GSİM & BALIKESİR SATRANÇ İL TEMSİLCİLİĞİ Turnuva Tarihi 05-06 ARALIK 2026 CUMARTESİ-PAZAR Turnuva Yeri YASEMİN ADAR SPOR KOMPLEKSİ SATRANÇ SALONU Kategoriler 07 YAŞ GENEL – 07 YAŞ KIZLAR (2020 DOĞUMLULAR) 08 YAŞ GENEL – 08 YAŞ KIZLAR (2019 DOĞUMLULAR) 09 YAŞ GENEL – 09 YAŞ KIZLAR (2018 DOĞUMLULAR)"
   },
   {
    "c": "TR",
@@ -2368,7 +2343,7 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür"
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g"
   },
   {
    "c": "TR",
@@ -3708,26 +3683,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İzmir",
-   "name": "2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ",
-   "start": "2026-12-12",
-   "end": "2026-12-13",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://izmir.tsf.org.tr/turnuvalar/2617-2027-kuecuekler-7-9-yas-izmir-satranc-il-birinciligi",
-   "kaynak": "site",
-   "kaynak_metin": "2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ 2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ İzmir Gençlik Spor İl Müdürlüğü ve İzmir Satranç İl Temsilciliği'nin iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Küçükler (7-9 Yaş) İzmir Satranç İl Birinciliği\" 12-13 Aralık 2026 tarihlerinde Yasin Börü Gençlik Merkezi'nde yapılacaktır. İl Birinciliğine Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020-201"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "İzmir",
    "name": "DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -3748,6 +3703,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İzmir",
+   "name": "2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2617-2027-kuecuekler-7-9-yas-izmir-satranc-il-birinciligi",
+   "kaynak": "site",
+   "kaynak_metin": "2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ 2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ İzmir Gençlik Spor İl Müdürlüğü ve İzmir Satranç İl Temsilciliği'nin iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Küçükler (7-9 Yaş) İzmir Satranç İl Birinciliği\" 12-13 Aralık 2026 tarihlerinde Yasin Börü Gençlik Merkezi'nde yapılacaktır. İl Birinciliğine Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020-201"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İzmir",
    "name": "TİRE ARMADA OKULLARI SATRANÇ TURNUVASI",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -3761,7 +3736,7 @@
    ],
    "url": "https://izmir.tsf.org.tr/turnuvalar/2635-tire-armada-okullari-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "TİRE ARMADA OKULLARI SATRANÇ TURNUVASI TİRE ARMADA OKULLARI SATRANÇ TURNUVASI Tire Armada Okulları ve Tire Satranç İlçe Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Tire Armada Okulları Satranç Turnuvası\" 28-29 Kasım 2026 tarihlerinde Tire Armada Okulları Kampüsünde yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 - 2013 yılları ve arasında doğan sporcular katılabilir. Turnuvada eşlendirmeler 6 tu"
+   "kaynak_metin": "TİRE ARMADA OKULLARI SATRANÇ TURNUVASI TİRE ARMADA OKULLARI SATRANÇ TURNUVASI TURNUVA ORGANİZASYON TARAFINDAN İPTAL EDİLMİŞTİR. Tire Armada Okulları ve Tire Satranç İlçe Temsilciliği tarafından satranç turnuvası düzenlenecektir. \"Tire Armada Okulları Satranç Turnuvası\" 28-29 Kasım 2026 tarihlerinde Tire Armada Okulları Kampüsünde yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020 - 2013 yılları ve arasında doğan s"
   },
   {
    "c": "TR",
@@ -3798,7 +3773,7 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İzmir",
-   "name": "GÜZELBEHÇE BİLFEN SATRANÇ TURNUVASI",
+   "name": "BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI",
    "start": "2026-12-05",
    "end": "2026-12-06",
    "status": "a",
@@ -3811,7 +3786,7 @@
    ],
    "url": "https://izmir.tsf.org.tr/turnuvalar/2642-guezelbehce-bilfen-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "GÜZELBEHÇE BİLFEN SATRANÇ TURNUVASI GÜZELBEHÇE BİLFEN SATRANÇ TURNUVASI Bilfen Eğitim Kurumları ve İzmir Satranç İl Temsilciliği'nin iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Bilfen Güzelbahçe Satranç Turnuvası\" 05-06 Aralık 2026 tarihlerinde Özel Bilfen Güzelbahçe İlköğretim Okulu'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2013–2020 yılları ve arasında doğan ve İzmir ili Güzelbahçe,"
+   "kaynak_metin": "BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI Bilfen Eğitim Kurumları ve İzmir Satranç İl Temsilciliği'nin iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Bilfen Güzelbahçe Satranç Turnuvası\" 05-06 Aralık 2026 tarihlerinde Özel Bilfen Güzelbahçe İlköğretim Okulu'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2013–2020 yılları ve arasında doğan ve İzmir ili Güzelbahçe,"
   },
   {
    "c": "TR",
@@ -3991,6 +3966,46 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Karabük",
+   "name": "YILDIZLAR (13-18 YAŞ ) KARABÜK SATRANÇ İL BİRİNCİLİĞİ TURNUVASI 2026",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karabuk.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIZLAR (13-18 YAŞ ) KARABÜK SATRANÇ İL BİRİNCİLİĞİ TURNUVASI 2026 YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI TURNUVA TARİHİ : 28-29/11/2026 (CUMARTESİ - PAZAR) TURNUVA SON KAYIT : 27 /11/2026 SAAT : 18.00 TEMPO : 45'+30'' EKLEMELİ TEMPO TURNUVA YERİ : DR. NECMETTİN ŞEYHOĞLU STADYUMU SATRANÇ SALONU ***TURNUVA FOTOĞRAFLARI*** KAYIT KONTROL BAŞLANGIÇ SAATİ : 09:00 BİTİŞ SAATİ : 09:30 dan sonra sporcular turnuvaya alınmayacaktır. Yıldızlar (13-18 Yaş ) İl Birinciliği Satranç Turnuvası"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karabük",
+   "name": "Küçükler İl Birinciliği 07-12 Yaş Satranç Turnuvası 2026",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://karabuk.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "Küçükler İl Birinciliği 07-12 Yaş Satranç Turnuvası 2026 KÜÇÜKLER (07-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI TURNUVA TARİHİ : 28-29/11/2026 (CUMARTESİ - PAZAR) TURNUVA SON KAYIT : 27 /11/2026 SAAT : 18.00 TEMPO : 45'+30'' EKLEMELİ TEMPO TURNUVA YERİ : DR. NECMETTİN ŞEYHOĞLU STADYUMU SATRANÇ SALONU ***TURNUVA FOTOĞRAFLARI*** KAYIT KONTROL BAŞLANGIÇ SAATİ : 09:00 BİTİŞ SAATİ : 09:30 dan sonra sporcular turnuvaya alınmayacaktır. Küçükler (07-12 Yaş ) İl Birinciliği Satranç Turnuvasında ilk üç der"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Karabük",
    "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 2026",
    "start": "2026-11-24",
    "end": "2026-11-24",
@@ -4011,9 +4026,9 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Karabük",
-   "name": "8 MART DÜNYA KADINLAR HIZLI SATRANÇ TURNUVASI",
-   "start": "2027-03-08",
-   "end": "2027-03-08",
+   "name": "Turnuvalar",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -4022,9 +4037,9 @@
      "age": true
     }
    ],
-   "url": "https://karabuk.tsf.org.tr/turnuva-sonuc/471-8-mart-duenya-kadinlar-hizli-satranc-turnuvasi",
+   "url": "https://karabuk.tsf.org.tr/turnuvalar",
    "kaynak": "site",
-   "kaynak_metin": "8 MART DÜNYA KADINLAR HIZLI SATRANÇ TURNUVASI 8 MART DÜNYA KADINLAR HIZLI SATRANÇ TURNUVASI 8 MART DÜNYA KADINLAR GÜNÜ HIZLI SATRANÇ TURNUVASI TURNUVA TARİHİ : 08/03/2026 (PAZAR) TURNUVA SON KAYIT : 07/03/2026 SAAT : 18.00 TEMPO : 15'+10'' EKLEMELİ TEMPO TURNUVA YERİ : DR. NECMETTİN ŞEYHOĞLU STADYUMU SATRANÇ SALONU ***TURNUVA FOTOĞRAFLARI*** KAYIT KONTROL BAŞLANGIÇ SAATİ : 09:00 BİTİŞ SAATİ : 09:30 8 Mart Düna Kadınlar Günü Hızlı Satranç Turnuvasında ilk üç dereceyi elde eden sporculara MADALYA "
+   "kaynak_metin": "Turnuvalar Turnuvalar YILDIZLAR (13-18 YAŞ ) KARABÜK SATRANÇ İL BİRİNCİLİĞİ TURNUVASI 2026 YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI TURNUVA TARİHİ : 28-29/11/2026 (CUMARTESİ - PAZAR) TURNUVA SON KAYIT : 27 /11/2026 SAAT : 18.00 TEMPO : 45'+30'' EKLEMELİ TEMPO TURNUVA YERİ : DR. NECMETTİN ŞEYHOĞLU STADYUMU SATRANÇ SALONU ***TURNUVA FOTOĞRAFLARI*** KAYIT KONTROL BAŞLANGIÇ SAATİ : 09:00 BİTİŞ SAATİ : 09:30 dan sonra sporcular turnuvaya alınmayacaktır. Yıldızlar (13-18 Yaş ) İl Birinci"
   },
   {
    "c": "TR",
@@ -4143,20 +4158,40 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Kastamonu",
-   "name": "TURNUVA KAYDI İÇİN TIKLAYINIZ",
+   "name": "KASTAMONU KÜÇÜKLER (7-12 YAŞ) İL BİRİNCİLİĞİ",
    "start": "2026-11-24",
    "end": "2026-11-24",
    "status": "a",
-   "reyting_turu": "ELO",
+   "reyting_turu": null,
    "sections": [
     {
      "n": "Yaş kategorileri",
      "age": true
     }
    ],
-   "url": "https://kastamonu.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=207",
+   "url": "https://kastamonu.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "TURNUVA KAYDI İÇİN TIKLAYINIZ Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim KASTAMONU 24 KASIM BAŞÖĞRETMEN SATRANÇ TURNUVASI Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-11-20 17:30:00 Toplam Kayıt: 53 AD SOYAD İL ELO UKD KATEGORİ MİRZA KIVANÇ MERCAN ANKARA 1632 1491 14 Yaş ve Al"
+   "kaynak_metin": "KASTAMONU KÜÇÜKLER (7-12 YAŞ) İL BİRİNCİLİĞİ Satranç Haberleri KASTAMONU KÜÇÜKLER (7-12 YAŞ) İL BİRİNCİLİĞİ TURNUVA YÖNERGESİ İÇİN TIKLAYINIZ TURNUVA KAYDI İÇİN TIKLAYINIZ KASTAMONU 24 KASIM BAŞÖĞRETMEN SATRANÇ TURNUVASI TURNUVA YÖNERGESİ İÇİN TIKLAYINIZ TURNUVA KAYDI İÇİN TIKLAYINIZ 2019 2020 LİSTELERİ 2017-2018 LİSTELERİ 2013-2016 LİSTELERİ AÇIK KATEGORİ LİSTELERİ KIZILAY HAFTASI SATRANÇ TURNUVASI TURNUVA YÖNERGESİ İÇİN TIKLAYINIZ TURNUVA KAYDI İÇİN TIKLAYINIZ Sporcu Lisans ve Vize İşlemleri H"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kastamonu",
+   "name": "KIZILAY HAFTASI SATRANÇ TURNUVASI",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://kastamonu.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "KIZILAY HAFTASI SATRANÇ TURNUVASI Satranç Haberleri KASTAMONU KÜÇÜKLER (7-12 YAŞ) İL BİRİNCİLİĞİ TURNUVA YÖNERGESİ İÇİN TIKLAYINIZ TURNUVA KAYDI İÇİN TIKLAYINIZ KASTAMONU 24 KASIM BAŞÖĞRETMEN SATRANÇ TURNUVASI TURNUVA YÖNERGESİ İÇİN TIKLAYINIZ TURNUVA KAYDI İÇİN TIKLAYINIZ 2019 2020 LİSTELERİ 2017-2018 LİSTELERİ 2013-2016 LİSTELERİ AÇIK KATEGORİ LİSTELERİ KIZILAY HAFTASI SATRANÇ TURNUVASI TURNUVA YÖNERGESİ İÇİN TIKLAYINIZ TURNUVA KAYDI İÇİN TIKLAYINIZ Sporcu Lisans ve Vize İşlemleri Hakkında Duy"
   },
   {
    "c": "TR",
@@ -4389,9 +4424,9 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Kırşehir",
-   "name": "KIRŞEHİR BELEDİYESİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
-   "start": "2027-04-23",
-   "end": "2027-04-23",
+   "name": "KIRŞEHİR 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -4401,16 +4436,37 @@
      "max": null
     }
    ],
-   "url": "https://kirsehir.tsf.org.tr/satranc-haberleri/476-belediye202623nisan",
+   "url": "https://kirsehir.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "KIRŞEHİR BELEDİYESİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI KIRŞEHİR BELEDİYESİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI 18-19 Nisan 2026 tarihlerinde Kırşehir Belediyesi 23 Nisan Bayramı Satranç Turnuvası düzenlenecektir. Turnuvada sporcular 4 kategoride yarışacaktır. Turnuva detayları yönergede yer almaktadır . - Turnuvada kural gereği notasyon tutmak zorunludur. Sporcuların turnuva günü kalem getirmeleri önemle rica olunur. Turnuva Kayit / Turnuva Y ön"
+   "kaynak_metin": "KIRŞEHİR 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Kırşehir 24 Kasım Öğretmenler Günü Satranç Turnuvası düzenlenecektir .Her kategoride ilk 3 dereceyi elde eden sporculara madalya verilecektir. Turnuvada sporcular 4 kategoride yarışacaktır. Detaylar yönergede yer almaktadır . Turnuva Kayıt / Turnuva Yönerge Turnuva Son Kayıt Tarihi: 27 Kasım 2026 17.00 Turnuva Yeri: Kırşehir Spor Salonu (Kındam) KAYIT-KONTROL: 08.30-09.30 (28 Kasım 2026) Önemli Not: Turnuvaya kayı"
   },
   {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Kocaeli",
-   "name": "KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "name": "TÜRKİYE KUPASI SATRANÇ KOCAELİ İL BİRİNCİLİĞİ",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kocaeli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KUPASI SATRANÇ KOCAELİ İL BİRİNCİLİĞİ Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 05-06 Aralık 2026 tarihlerinde Derince Şehit Er Emre Kaan Arlı Çok Amaçlı Spor Salonu’nda Türkiye Kupası Satranç Kocaeli İl Birinciliği Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri ta"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kocaeli",
+   "name": "TÜRKİYE KADINLAR SATRANÇ KOCAELİ İL BİRİNCİLİĞİ",
    "start": "2026-11-28",
    "end": "2026-11-29",
    "status": "a",
@@ -4424,7 +4480,7 @@
    ],
    "url": "https://kocaeli.tsf.org.tr/",
    "kaynak": "site",
-   "kaynak_metin": "KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
+   "kaynak_metin": "TÜRKİYE KADINLAR SATRANÇ KOCAELİ İL BİRİNCİLİĞİ Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
   },
   {
    "c": "TR",
@@ -4453,8 +4509,8 @@
    "bayrak": "tr",
    "il": "Kocaeli",
    "name": "Turnuva Haberleri",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -4466,16 +4522,16 @@
    ],
    "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlü"
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri TÜRKİYE KUPASI SATRANÇ KOCAELİ İL BİRİNCİLİĞİ Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 05-06 Aralık 2026 tarihlerinde Derince Şehit Er Emre Kaan Arlı Çok Amaçlı Spor Salonu’nda Türkiye Kupası Satranç Kocaeli İl Birinciliği Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gen"
   },
   {
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Kocaeli",
-   "name": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
+   "name": "TÜRKİYE KADINLAR SATRANÇ KOCAELİ İL BİRİNCİLİĞİ",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -4487,7 +4543,28 @@
    ],
    "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII Turnuva Haberleri KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
+   "kaynak_metin": "TÜRKİYE KADINLAR SATRANÇ KOCAELİ İL BİRİNCİLİĞİ Turnuva Haberleri TÜRKİYE KUPASI SATRANÇ KOCAELİ İL BİRİNCİLİĞİ Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 05-06 Aralık 2026 tarihlerinde Derince Şehit Er Emre Kaan Arlı Çok Amaçlı Spor Salonu’nda Türkiye Kupası Satranç Kocaeli İl Birinciliği Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekl"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kocaeli",
+   "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Turnuva Haberleri TÜRKİYE KUPASI SATRANÇ KOCAELİ İL BİRİNCİLİĞİ Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 05-06 Aralık 2026 tarihlerinde Derince Şehit Er Emre Kaan Arlı Çok Amaçlı Spor Salonu’nda Türkiye Kupası Satranç Kocaeli İl Birinciliği Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir."
   },
   {
    "c": "TR",
@@ -4677,6 +4754,68 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Malatya",
+   "name": "Salesforce FIDE Dünya Şampiyonası",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/salesforce-fide-duenya-sampiyonasi",
+   "kaynak": "site",
+   "kaynak_metin": "Salesforce FIDE Dünya Şampiyonası Haber 24 Kasım 2026 Salesforce FIDE Dünya Şampiyonası Haberi oku"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Malatya",
+   "name": "Dünya Hızlı ve Yıldırım Satranç Şampiyonası Medya Akreditasyonu",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://www.tsf.org.tr/haber/duenya-hizli-ve-yildirim-satranc-sampiyonasi-medya-akreditasyonu",
+   "kaynak": "site",
+   "kaynak_metin": "Dünya Hızlı ve Yıldırım Satranç Şampiyonası Medya Akreditasyonu Haber 24 Kasım 2026 Dünya Hızlı ve Yıldırım Satranç Şampiyonası Medya Akreditasyonu Haberi oku"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Manisa",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turgutlu Öğretmenler Günü satranç turnuvası 28-29 Kasım 2026 tarihlerinde Kocatürk Koleji kampüsü Turgutlu ilçesinde 35''+30' temposunda 4 kategoride yapılacaktır. Kategoriler 64 sporcu ile sınırlıdır. YÖNERGE KATEGORİ KAYIT 8 Yaşaltı Kategorisi (2019-2020) 8 YAŞALTI 10 Yaşaltı Kategorisi (2017-2018) 10 YAŞALTI 14 Yaşaltı Kategorisi (2013-2016 yılları ve arası) 14 YAŞALTI Açık Kategori (2020 ve önceki yıllarda doğan "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Manisa",
    "name": "MANİSA BÜYÜKŞEHİR BELEDİYESİ 2. MESİROPEN SATRANÇ TURNUVA TÖRENİ TAMAMLANDI",
    "start": "2027-04-18",
@@ -4732,7 +4871,7 @@
    ],
    "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1302-manisa-kuecuekler-7-8-yas-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (7-8 Yaş) il birinciliği satranç turnuvası 12-13 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT Kızlar Kategorisi 2019 ve 2020 Yıllarında Doğan Sporcular KIZLAR Genel Kategorisi 2019 ve 2020 Yıllarında Doğan Sporcular GENEL < Önceki Sonraki >"
+   "kaynak_metin": "MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (7-8 Yaş) il birinciliği satranç turnuvası 12-13 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. YÖNERGE Manisa Küçükler (7-8 Yaş) İl birinciliğinde 4 kategoride birinci, ikinci ve üçüncü olan sporcularımıza kupa verilecektir. Salihli Sardes satranç Spor Kulübü, Manisa satranç merkezi Spor Kulübü, Deha satranç spor eğitim kulübü, Bilge sa"
   },
   {
    "c": "TR",
@@ -4752,7 +4891,7 @@
    ],
    "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1303-manisa-kuecuekler-9-12-yas-il-birinciligi",
    "kaynak": "site",
-   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT Kızlar Kategorisi 2015 ve 2018 Yılları ve Arasında Sporcular KIZLAR Genel Kategorisi 2015 ve 2018 Yılları ve Arasında Sporcular GENEL < Önceki Sonraki >"
+   "kaynak_metin": "MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ MANİSA KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ Manisa Küçükler (9-12 Yaş) il birinciliği satranç turnuvası 19-20 Aralık 2026 tarihlerinde 45''+30' temposunda GSB 75. Yıl Gençlik Merkezinde Yunusemre ilçesinde yapılacaktır. KAYITLAR 30.11.2026 SAAT: 13 te AÇILACAKTIR. YÖNERGE Manisa Küçükler (9-12 Yaş) İl birinciliğinde 8 kategoride birinci, ikinci ve üçüncü olan sporcularımıza kupa verilecektir. Salihli Sardes satranç Spor Kulübü, Manisa satranç merkezi Spor "
   },
   {
    "c": "TR",
@@ -6582,6 +6721,27 @@
    "url": "https://zonguldak.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "4 ARALIK DÜNYA MADENCİLER GÜNÜ SATRANÇ TURNUVASI 28-29 Kasım 2026 tarihlerinde Zonguldak TMMOB Maden Mühendisleri Odası Zonguldak Şubesinde 35'+30\" Eklemeli Tempoyla 4 Aralık Dünya Madenciler Günü Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Zonguldak",
+   "name": "ZONGULDAK 3 ARALIK DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://zonguldak.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "ZONGULDAK 3 ARALIK DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI 5-6 Aralık 2026 tarihlerinde İbrahim Fikri Anıl Ortaokulunda 35'+30\" eklemeli tempoyala 3 Aralık Dünya Engelliler Günü Satranç Turnuvası düzenlenecektir. Ayrıntılar yönergededir. YÖNERGE TURNUVA KAYIT "
   },
   {
    "c": "TR",
