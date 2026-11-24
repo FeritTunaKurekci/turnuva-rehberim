@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-23T12:38",
+ "taranma": "2026-11-24T03:59",
  "surum": "0.4",
  "iller": [
   {
@@ -12,7 +12,7 @@
    "il": "Adıyaman",
    "durum": "ok",
    "host": "adiyaman.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Afyonkarahisar",
@@ -54,7 +54,7 @@
    "il": "Ardahan",
    "durum": "ok",
    "host": "ardahan.tsf.org.tr",
-   "adet": 4
+   "adet": 5
   },
   {
    "il": "Artvin",
@@ -72,13 +72,13 @@
    "il": "Balıkesir",
    "durum": "ok",
    "host": "balikesir.tsf.org.tr",
-   "adet": 7
+   "adet": 9
   },
   {
    "il": "Bartın",
    "durum": "ok",
    "host": "bartin.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Batman",
@@ -90,7 +90,7 @@
    "il": "Bayburt",
    "durum": "ok",
    "host": "bayburt.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Bilecik",
@@ -108,7 +108,7 @@
    "il": "Bitlis",
    "durum": "ok",
    "host": "bitlis.tsf.org.tr",
-   "adet": 1
+   "adet": 3
   },
   {
    "il": "Bolu",
@@ -156,7 +156,7 @@
    "il": "Diyarbakır",
    "durum": "ok",
    "host": "diyarbakir.tsf.org.tr",
-   "adet": 0
+   "adet": 2
   },
   {
    "il": "Düzce",
@@ -174,7 +174,7 @@
    "il": "Elazığ",
    "durum": "ok",
    "host": "elazig.tsf.org.tr",
-   "adet": 4
+   "adet": 6
   },
   {
    "il": "Erzincan",
@@ -192,7 +192,7 @@
    "il": "Eskişehir",
    "durum": "ok",
    "host": "eskisehir.tsf.org.tr",
-   "adet": 1
+   "adet": 2
   },
   {
    "il": "Gaziantep",
@@ -210,7 +210,7 @@
    "il": "Gümüşhane",
    "durum": "ok",
    "host": "gumushane.tsf.org.tr",
-   "adet": 1
+   "adet": 3
   },
   {
    "il": "Hakkari",
@@ -222,7 +222,7 @@
    "il": "Hatay",
    "durum": "ok",
    "host": "hatay.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Iğdır",
@@ -246,7 +246,7 @@
    "il": "İzmir",
    "durum": "ok",
    "host": "izmir.tsf.org.tr",
-   "adet": 11
+   "adet": 12
   },
   {
    "il": "Kahramanmaraş",
@@ -270,7 +270,7 @@
    "il": "Kars",
    "durum": "ok",
    "host": "kars.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Kastamonu",
@@ -282,19 +282,19 @@
    "il": "Kayseri",
    "durum": "ok",
    "host": "kayseri.tsf.org.tr",
-   "adet": 2
+   "adet": 5
   },
   {
    "il": "Kilis",
    "durum": "ok",
    "host": "kilis.tsf.org.tr",
-   "adet": 4
+   "adet": 5
   },
   {
    "il": "Kırıkkale",
    "durum": "ok",
    "host": "kirikkale.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Kırklareli",
@@ -306,13 +306,13 @@
    "il": "Kırşehir",
    "durum": "ok",
    "host": "kirsehir.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Kocaeli",
    "durum": "ok",
    "host": "kocaeli.tsf.org.tr",
-   "adet": 3
+   "adet": 5
   },
   {
    "il": "Konya",
@@ -336,19 +336,19 @@
    "il": "Manisa",
    "durum": "ok",
    "host": "manisa.tsf.org.tr",
-   "adet": 6
+   "adet": 5
   },
   {
    "il": "Mardin",
    "durum": "ok",
    "host": "mardin.tsf.org.tr",
-   "adet": 4
+   "adet": 5
   },
   {
    "il": "Mersin",
    "durum": "ok",
    "host": "mersin.tsf.org.tr",
-   "adet": 9
+   "adet": 17
   },
   {
    "il": "Muğla",
@@ -360,7 +360,7 @@
    "il": "Muş",
    "durum": "ok",
    "host": "mus.tsf.org.tr",
-   "adet": 4
+   "adet": 5
   },
   {
    "il": "Nevşehir",
@@ -402,49 +402,49 @@
    "il": "Samsun",
    "durum": "ok",
    "host": "samsun.tsf.org.tr",
-   "adet": 2
+   "adet": 7
   },
   {
    "il": "Siirt",
    "durum": "ok",
    "host": "siirt.tsf.org.tr",
-   "adet": 3
+   "adet": 7
   },
   {
    "il": "Sinop",
    "durum": "ok",
    "host": "sinop.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Sivas",
    "durum": "ok",
    "host": "sivas.tsf.org.tr",
-   "adet": 5
+   "adet": 6
   },
   {
    "il": "Şanlıurfa",
    "durum": "ok",
    "host": "sanliurfa.tsf.org.tr",
-   "adet": 4
+   "adet": 5
   },
   {
    "il": "Şırnak",
    "durum": "ok",
    "host": "sirnak.tsf.org.tr",
-   "adet": 0
+   "adet": 1
   },
   {
    "il": "Tekirdağ",
    "durum": "ok",
    "host": "tekirdag.tsf.org.tr",
-   "adet": 3
+   "adet": 4
   },
   {
    "il": "Tokat",
    "durum": "ok",
    "host": "tokat.tsf.org.tr",
-   "adet": 1
+   "adet": 5
   },
   {
    "il": "Trabzon",
@@ -456,19 +456,19 @@
    "il": "Tunceli",
    "durum": "ok",
    "host": "tunceli.tsf.org.tr",
-   "adet": 7
+   "adet": 8
   },
   {
    "il": "Uşak",
    "durum": "ok",
    "host": "usak.tsf.org.tr",
-   "adet": 0
+   "adet": 2
   },
   {
    "il": "Van",
    "durum": "ok",
    "host": "van.tsf.org.tr",
-   "adet": 1
+   "adet": 3
   },
   {
    "il": "Yalova",
@@ -486,7 +486,7 @@
    "il": "Zonguldak",
    "durum": "ok",
    "host": "zonguldak.tsf.org.tr",
-   "adet": 3
+   "adet": 2
   }
  ],
  "turnuvalar": [
@@ -551,6 +551,27 @@
    "url": "https://adiyaman.tsf.org.tr/satranc-haberleri/469-2026-2027-tuerkiye-gencler-kuecuekler-ve-yildizlar-satranc-sampiyonalari-il-birinciligi-basliyor",
    "kaynak": "site",
    "kaynak_metin": "2026-2027 ADIYAMAN GENÇLER, KÜÇÜKLER VE YILDIZLAR SATRANÇ ŞAMPİYONALARI İL BİRİNCİLİĞİ BAŞLIYOR 2026-2027 ADIYAMAN GENÇLER, KÜÇÜKLER VE YILDIZLAR SATRANÇ ŞAMPİYONALARI İL BİRİNCİLİĞİ BAŞLIYOR Haydi Satranç Severler Türkiye Gençler, Küçükler ve Yıldızlar Şampiyonası Adıyaman İl Birinciliği Satranç Turnuvası Yeni Mahalle Kapalı Spor Salonunda düzenlenecektir Gençler kategorisi: 2007-2020 Doğumlu Sporcular 28-29 Kasım 2026 Yıldızlar kategorisi: 2009-2014 (13-18 Yaş) Doğumlu Sporcular 05-06 Aralık 2"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Türkiye geneli",
+   "name": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://adiyaman.tsf.org.tr/satranc-haberleri/460-tbmm-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI TBMM 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası 11-12 Nisan 2026 tarihleri arasında Yeni Mahalle Kapalı Spor Salonunda düzenlenecektir. Turnuva Adıyaman Gençlik ve Spor İl Müdürlüğü ile TSF Adıyaman İlTemsilciliği işbirliği ile düzenlenecektir. Turnuva kaydını yapan sporcuların 11Nisan 2026 tarihinde turnuvanın yapılacağı salonda Saat 09.00 ile 09:"
   },
   {
    "c": "TR",
@@ -799,6 +820,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Antalya",
+   "name": "2026 KÜÇÜKLER 7-8 YAŞ SATRANÇ İL BİRİNCİLİĞİ TURNUVASI",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1322-2026ilbirinciligi7-8",
+   "kaynak": "site",
+   "kaynak_metin": "2026 KÜÇÜKLER 7-8 YAŞ SATRANÇ İL BİRİNCİLİĞİ TURNUVASI 2026 KÜÇÜKLER 7-8 YAŞ SATRANÇ İL BİRİNCİLİĞİ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü ve Antalya Satranç İl Temsilciliği tarafından düzenlenen Küçükler 7-8 Yaş Satranç Antalya İl Birinciliği Turnuvası , 19-20 Aralık 2026 tarihinde Antalya Kapalı Spor Salonu'nda gerçekleştirilecektir.Ödüller ve turnuva hakkındaki diğer bilgiler için turnuva yönergesine bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER ULAŞIM TSF YARIŞMA"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Antalya",
    "name": "Turnuva Haberleri",
    "start": "2026-12-12",
    "end": "2026-12-13",
@@ -828,26 +869,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Antalya",
-   "name": "2026 KÜÇÜKLER 7-8 YAŞ SATRANÇ İL BİRİNCİLİĞİ TURNUVASI",
-   "start": "2026-12-19",
-   "end": "2026-12-20",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://antalya.tsf.org.tr/turnuvalar/turnuva-haberleri/1322-2026ilbirinciligi7-8",
-   "kaynak": "site",
-   "kaynak_metin": "2026 KÜÇÜKLER 7-8 YAŞ SATRANÇ İL BİRİNCİLİĞİ TURNUVASI 2026 KÜÇÜKLER 7-8 YAŞ SATRANÇ İL BİRİNCİLİĞİ TURNUVASI Antalya Gençlik ve Spor İl Müdürlüğü ve Antalya Satranç İl Temsilciliği tarafından düzenlenen Küçükler 7-8 Yaş Satranç Antalya İl Birinciliği Turnuvası , 19-20 Aralık 2026 tarihinde Antalya Kapalı Spor Salonu'nda gerçekleştirilecektir.Ödüller ve turnuva hakkındaki diğer bilgiler için turnuva yönergesine bakınız. TURNUVA YÖNERGESİ FIDE SATRANÇ KURALLARI GÖREVLİ HAKEMLER ULAŞIM TSF YARIŞMA"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "Ardahan",
    "name": "Turnuva Haberleri",
    "start": "2026-11-24",
@@ -863,6 +884,26 @@
    "url": "https://ardahan.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri Küçüklerin Büyük Heyecanı Başlıyor! Ardahan Küçükler İl Birinciliği için geri sayım başladı. Küçük sporcularımızın heyecanla beklediği İl Birinciliği bu yıl Ardahan da ilk kez düzenleniyor. Bu yıl 7-12 yaş arası sporcumuzun katılmasını beklediğimiz turnuva ,21-22 Aralıkta Kazım Karabekir Kapalı Spor Salonunda düzenlenecektir. 2002-2007 Arası doğumlu sporcularımızın yarışacağı İl Birinciliğinde Kızlar ve Genel Kategorilerde her yaş grubu ayrı ödüllendirilecekti"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ardahan",
+   "name": "ARDAHAN 23 NİSAN ULUSAL EGEMENLİK ve ÇOCUK BAYRAMI ONLİNE SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://ardahan.tsf.org.tr/80-egitimler/133-ardahan-23-nisan-ulusal-egemenlik-online-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "ARDAHAN 23 NİSAN ULUSAL EGEMENLİK ve ÇOCUK BAYRAMI ONLİNE SATRANÇ TURNUVASI ARDAHAN 23 NİSAN ULUSAL EGEMENLİK ve ÇOCUK BAYRAMI ONLİNE SATRANÇ TURNUVASI 23 Nisan Ulusal Egemenlik Online Satranç Turnuvası 22 Nisan 2021 tarihinde saat 17.00’da yapılacaktır. Turnuvamız 10 Yaş ve Altı Kategorisi ve 14 Yaş ve Altı Kategorisi olarak toplam 2 kategoride yapılacaktır. Her Kategoride dereceye giren sporculara madalya ve satranç takımı verilecektir. Turnuvamız, 3’+2’’ tempoda ve İsviçre Sistemi ile 5 tur ü"
   },
   {
    "c": "TR",
@@ -2069,6 +2110,47 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Balıkesir",
+   "name": "23 NİSAN'A ÖZEL ONLİNE SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://balikesir.tsf.org.tr/satranc-haberleri/667-23-nisana-oezel-online-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "23 NİSAN'A ÖZEL ONLİNE SATRANÇ TURNUVASI 23 NİSAN'A ÖZEL ONLİNE SATRANÇ TURNUVASI Türkiye Satranç Federasyonu(TSF) ana sponsoru Türkiye İş Bankası, tarafından 23 Nisan'a özel turnuva düzenlenecektir. TSF tarafından hayata geçirilen “Türkiye için satranç” kampanyası kapsamında, Türkiye İş Bankası 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı’na özel “İş Bankası Online Satranç Turnuvası” düzenliyor. Koronavirüs nedeniyle 20 yaş ve altı evde kalan sporcular 23 Nisan ve 19 Mayıs coşkusuna online satran"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Balıkesir",
+   "name": "23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI ONLİNE YILDIRIM TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://balikesir.tsf.org.tr/satranc-haberleri/665-23-nisan-cocuk-bayrami-online-yildirim-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI ONLİNE YILDIRIM TURNUVASI 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI ONLİNE YILDIRIM TURNUVASI Balıkesir Gençlik Spor İl Müdürlüğünün düzenlediği ve ilk 10 sporcuya madalya vereceği 2. Balıkesir Evde Kal Satranç turnuvası 23 Nisan 2020 Perşembe günü akşam 19.00 da EVLERİMİZDE başlayacak ve iki saat sürecektir.Turnuva yıldırım tempoda (5'+3'') gerçekleşecektir.Turnuvaya katılmak isteyen sporcularımız lichess sitesinde ücretsiz üyelik almaları gerekmekted"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Balıkesir",
    "name": "Turnuva Kayıt",
    "start": "2027-01-15",
    "end": "2027-01-15",
@@ -2150,6 +2232,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Bartın",
+   "name": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BARTIN-KOZCAĞIZ SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/satranc-haberleri/428-tbmm-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-bartin-kozcagiz-satranc-turnuvasi-2026",
+   "kaynak": "site",
+   "kaynak_metin": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BARTIN-KOZCAĞIZ SATRANÇ TURNUVASI TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BARTIN-KOZCAĞIZ SATRANÇ TURNUVASI İlimiz 2025 - 2026 Etkinlik Takviminde yer alan TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BARTIN- KOZCAĞIZ SATRANÇ TURNUVASI 18-19 Nisan 2026 tarihlerinde KOZCAĞIZ BELEDİYESİ TERMİNAL DÜĞÜN SALONUNDA 8 Yaş ve Altı,10 Yaş ve Altı ve 14 Yaş ve Altı olmak üzere toplam 3 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış 2019 ve"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
    "name": "TURNUVA KAYIT İÇİN TIKLAYINIZ",
    "start": "2026-11-24",
    "end": "2026-11-24",
@@ -2164,6 +2266,26 @@
    "url": "https://bartin.tsf.org.tr/turnuva-kayit-form?view=turnuvakayit&layout=tlist",
    "kaynak": "site",
    "kaynak_metin": "TURNUVA KAYIT İÇİN TIKLAYINIZ Anasayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği Organizasyon Kulüplerimiz Eğitimler Eğitim Programları Satranç Dersleri Turnuvalar Turnuva Haberleri Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 24 KASIM ÖĞRETMNLER GÜNÜ SATRANÇ TURNUVASI Turnuva Kayıtları Sona Ermiştir. Kayıt Bitiş Tarihi: 2026-11-20 17:00:00 Toplam Kayıt: 57 AD SOYAD İL ELO UKD KATEGORİ ARDA TUNA KARACAN İSTANBUL 1821 1873 AÇIK ("
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bayburt",
+   "name": "23 NİSAN BAAYBURT TBMM KUPASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bayburt.tsf.org.tr/satranc-haberleri/134-23-nisan-baayburt-tbmm-kupasi",
+   "kaynak": "site",
+   "kaynak_metin": "23 NİSAN BAAYBURT TBMM KUPASI 23 NİSAN BAAYBURT TBMM KUPASI 23 NİSAN BAYBURT TBMM KUPASI SATRANÇ TURNUVASI - Turnuva 18-19 Nisan2026 tarihlerinde Bayburt Yeni Kapalı Spor Salonu Satranç Turnuva Salonun da gerçekleştirilecektir. - Turnuva başvuruları 17 Nisan 2026 saat 22.00'a kadar devam edecektir. - Turnuva detaylarına belirtilen yönergeden ulaşabilirsiniz. B YÖNERGE İNDİR - Kayıt kontrol 18 Nisan 2026 09.15 - 09.45 arasında olacaktır. - Turnuva 2 kategoride olacaktır. * 8 Yaş ve Altı Genel kat"
   },
   {
    "c": "TR",
@@ -2213,8 +2335,8 @@
    "bayrak": "tr",
    "il": "Bingöl",
    "name": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BİNGÖL SATRANÇ TURNUVASI",
-   "start": "2027-04-18",
-   "end": "2027-04-19",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -2246,7 +2368,48 @@
    ],
    "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/539-bitlis-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
-   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdürlüklerine bağlı okullarda g"
+   "kaynak_metin": "BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI TSF Bitlis İl Temsilciliği BİTLİS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI -Turnuvada, yürürlükte bulunan TSF Satranç Yarışmakarı Talimatları, Prosedürleri, Uygulama Yönergeler, Hazırlama ve Uygulama Prosedürü ile FIDE Satranç Kuralları geçerlidir. -Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026- 2027 yılı vizesi yapılmış 2020 ve önceki yıllarda doğan, yalnızca Bitlis İı/İlçe Milli Eğitim Müdür"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bitlis",
+   "name": "Bitlis 23 Nisan Satranç Turnuvası",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/529-bitlis-23-nisan-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Bitlis 23 Nisan Satranç Turnuvası Bitlis 23 Nisan Satranç Turnuvası -23 Nisan Ulusal Egemenlik ve Çocuk Bayramı satranç Turnuvası 18 Nisan 2026 Cumartesi günü dört kategori 118 sporcu ile başladı. 19 Nisan 2026 Pazar günü antrenörler, veliler ile hakemlerin katılımı ve ödül töreni ile tamamlandı. Final sıralaması aşağıda. 8 YAŞ FİNAL SIRALAMASI 1. MUHAMMED EMİR ARSLAN 2. ABDULKADİR KÖSE 3. BORAN POYRAZ AVCİL 10 YAŞ FİNAL SIRALAMASI 1. AHMET METEHAN ÇAR 2. MUHAMMED EFRAHİM KARDAŞ 3. EYMEN AKIN BA"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bitlis",
+   "name": "Güroymak 23 Nisan Satranç Turnuvası 2......",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://bitlis.tsf.org.tr/tum-turnuva-haberleri/528-gueroymak-23-nisan-satranc-turnuvas-2",
+   "kaynak": "site",
+   "kaynak_metin": "Güroymak 23 Nisan Satranç Turnuvası 2...... Güroymak 23 Nisan Satranç Turnuvası 2...... -Güroymak 23 Nisan Minik Hamleler Büyük Zaferler Takım Satranç Turnuvası 15 takım 90 sporcu ile başladı, 16 Nisan 2026 Perşembe günü okul müdürleri, antrenörler, veliler ve hakemlerin katılımı ve ödül töreni ile tamamlandı. FİNAL SIRALAMASI 1. FATİH İLKOKULU 2. DEĞİRMENKÖY KÖŞK MEZRASI İLKOKULU 3. KAZIM KARABEKİR İLKOKULU < Önceki Sonraki >"
   },
   {
    "c": "TR",
@@ -2869,6 +3032,46 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Diyarbakır",
+   "name": "KAYAPINAR 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://diyarbakir.tsf.org.tr/satranc-haberleri/806-kayapinar-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "KAYAPINAR 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI KAYAPINAR 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI 25-26 Nisan 2026 tarihlerinde yapılması planlanan Kayapınar 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası Diyarbakır Özel Öneri Kolejinde yapılacaktır. Son kayıt 24 Nisan 2026 saat 17:00'dir. Öneri Koleji konumu için tıklayın . Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2025-2026 yılı vizesi ya"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Diyarbakır",
+   "name": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI DİYARBAKIR SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://diyarbakir.tsf.org.tr/satranc-haberleri/805-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvas-2026",
+   "kaynak": "site",
+   "kaynak_metin": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI DİYARBAKIR SATRANÇ TURNUVASI TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI DİYARBAKIR SATRANÇ TURNUVASI TBMM 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Diyarbakır Satranç Turnuvası 28-29 Mart 2026 tarihlerinde Diyarbakır Yeni Stadyumu Satranç Salonunda yapılacaktır. Son kayıt tarihi 27 Mart 2026 saat: 17:00'dir. - Turnuvaya, Gençlik Spor İl/İlçe Spor Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2025 – 2026 yılı vizesi yapılmış, 2019-20"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Düzce",
    "name": "2027 TÜRKİYE KÜÇÜKLER SATRANÇ ŞAMPİYONASI DÜZCE İL BİRİNCİLİĞİ (10 - 12 YAŞLAR)",
    "start": "2026-12-12",
@@ -3031,6 +3234,47 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Elazığ",
+   "name": "23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ ŞENLİĞİ",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://elazig.tsf.org.tr/satranc-haberleri/650-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-senligi-2",
+   "kaynak": "site",
+   "kaynak_metin": "23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ ŞENLİĞİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ ŞENLİĞİ 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Şenliği 23 Nisan 2026 tarih saat 14:00'de Atatürk Stadyumu Satranç Salonumuzda yapılacaktır. Etkinliğe 2021, 2020 doğumlu ve anaokuluna giden 2019 doğumlu çocuklar katılabileceklerdir. Çeşitli etkinliklerinde organize edileceği bu şenliğe tüm satranç sever çocuklarımızı bekleriz. Etkinliğe katılacak olanların aşağıda ki google ka"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Elazığ",
+   "name": "2.GELENEKSEL PALU 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://elazig.tsf.org.tr/satranc-haberleri/647-2026-palu-23-nisan-satranc-turnuvasi-7",
+   "kaynak": "site",
+   "kaynak_metin": "2.GELENEKSEL PALU 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI 2.GELENEKSEL PALU 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI İl Temsilciliğimiz, Palu Kaymamlığı, Palu Belediyesi, Palu Gençlik ve Spor İlçe Müdürlüğü ve Palu İlçe Milli Eğitim Müdürlüğü ve işbirliği ile 2. Geleneksel Palu 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası 18-19 Nisan 2026 tarihlerinde Palu Gençlik Merkezi Spor Salonunda yapılacaktır. Turnuva Açık Yaş Kategorisi, 14 Yaş ve "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Elazığ",
    "name": "2025-2026 ÖĞRETİM YILI ELAZIĞ OKUL SPORLARI SATRANÇ TURNUVALARI",
    "start": "2027-02-17",
    "end": "2027-02-27",
@@ -3133,6 +3377,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Eskişehir",
+   "name": "ESKİŞEHİR ÖZEL ATAYURT OKULLARI 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": "UKD",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://eskisehir.tsf.org.tr/satranc-haberleri/1051-eskisehir-oezel-atayurt-okullari-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvasi-yoenerges",
+   "kaynak": "site",
+   "kaynak_metin": "ESKİŞEHİR ÖZEL ATAYURT OKULLARI 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI ESKİŞEHİR ÖZEL ATAYURT OKULLARI 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI Eskişehir Özel Atayurt Okulları, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası ve Satranç Şenliği 25-26 Nisan 2026 tarihlerinde Eskişehir Özel Atayurt Okulları spor salonunda üç kategoride yapılacaktır. Her kategorinin kontenjanı 64 sporcu ile sınırlıdır. KATILAMAYACAK OLAN SPORCULARIMIZ LÜTFEN KAY"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Giresun",
    "name": "Zafer Taner Anma Satranç Turnuvası",
    "start": "2026-11-28",
@@ -3173,7 +3438,7 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "Türkiye geneli",
+   "il": "Giresun",
    "name": "Turnuva Haberleri",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -3214,6 +3479,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Türkiye geneli",
+   "name": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası - GÜMÜŞHANE/ Kelkit",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://gumushane.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası - GÜMÜŞHANE/ Kelkit 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası Kelkit / GÜMÜŞHANE TURNUVA TARİHİ 25-26 NİSAN 2026 TURNUVA YERİ Gümüşhane Kelkit Gençlik ve Spor İlçe Müdürlüğü Kapalı Spor Salonu SON BAŞVURU TARİHİ 23 NİSAN 2026 Perşembe Saat: 20.00 YÖNERGE E-DEVLET BAŞVURU YÖNTEMİ ***TURNUVA KAYIT*** Turnuva kaydı yaparken DİKKAT etmeniz gerekenler; 1- TURNUVA KAYIT sayfasından ve E-devlet Sporcu Bilgi Sisteminden kayı"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Gümüşhane",
    "name": "GÜMÜŞHANE/ KELKİT 18 MART ÇANAKKALE ZAFERİ SATRANÇ TURNUVASI",
    "start": "2027-03-18",
@@ -3229,6 +3515,27 @@
    "url": "https://gumushane.tsf.org.tr/satranc-haberleri/253-guemueshane-kelkit-18-mart-canakkale-zaferi-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "GÜMÜŞHANE/ KELKİT 18 MART ÇANAKKALE ZAFERİ SATRANÇ TURNUVASI GÜMÜŞHANE/ KELKİT 18 MART ÇANAKKALE ZAFERİ SATRANÇ TURNUVASI TURNUVA 18 Mart Çanakkale Zaferi Satranç Turnuvası / GÜMÜŞHANE / Kelkit ORGANİZASYON Gümüşhane GSİM & Gümüşhane Satranç İl Temsilciliği TURNUVA TARİHİ 28-29 Mart 2026 TURNUVA YERİ Kelkit Gençlik ve Spor İlçe Müdürlüğü Kapalı Spor Salonu KATEGORİLER KATEGORİ ADI KATEGORİ KRİTERİ 10 Yaş ve Altı 2016-2019 Yılları ve Arasında Doğan 14 Yaş ve Altı 2012-2019 Yılları ve Arasında Doğ"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Hatay",
+   "name": "HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://hatay.tsf.org.tr/satranc-haberleri/1645-hatay-4-geleneksel-aras-guemuesoglu-satranc-turnuvasi-kayitlari-basladi",
+   "kaynak": "site",
+   "kaynak_metin": "HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI HATAY 4. GELENEKSEL ARAS GÜMÜŞOĞLU SATRANÇ TURNUVASI KAYITLARI BAŞLADI 28-29/11/2026 tarihleri arasında Hatay Gençlik ve Spor İl Müdürlüğü tarafından Hatay İli Antakya İlçesi Hatay Doğuş Okulları Aşağıokçular Kampüsü Salonu'nda Hatay 4. Geleneksel Aras Gümüşoğlu Satranç Turnuvası düzenlenecektir. Son başvuru tarihi 26/11/2026 olan Turnuva kayıt ve yönerge için tıklayınız. Turnuva Kayıt Yarışma Yönergesi < Önceki Sonraki >"
   },
   {
    "c": "TR",
@@ -3491,6 +3798,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İzmir",
+   "name": "GÜZELBEHÇE BİLFEN SATRANÇ TURNUVASI",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2642-guezelbehce-bilfen-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "GÜZELBEHÇE BİLFEN SATRANÇ TURNUVASI GÜZELBEHÇE BİLFEN SATRANÇ TURNUVASI Bilfen Eğitim Kurumları ve İzmir Satranç İl Temsilciliği'nin iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Bilfen Güzelbahçe Satranç Turnuvası\" 05-06 Aralık 2026 tarihlerinde Özel Bilfen Güzelbahçe İlköğretim Okulu'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2013–2020 yılları ve arasında doğan ve İzmir ili Güzelbahçe,"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İzmir",
    "name": "2. HER HAMLEDE HAYAT VAR KIZILAY FARKINDALIK SATRANÇ TURNUVASI",
    "start": "2026-12-05",
    "end": "2026-12-06",
@@ -3744,6 +4071,27 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Kars",
+   "name": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI KARS SATRANÇ TURNUVASI 2026",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kars.tsf.org.tr/satranc-haberleri/348-23-nisan",
+   "kaynak": "site",
+   "kaynak_metin": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI KARS SATRANÇ TURNUVASI 2026 TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI KARS SATRANÇ TURNUVASI 2026 \"TBMM 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası\" 11-12 Nisan 2026 tarihlerinde Mihralibey Ortaokulu'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF Lisansına sahip, 2025-2026 yılı vizesi yapılmış 2019 ve öncesinde doğan sporcular katılabilir. Turnuvada eşlendirmeler 6 tur üzerinden İs"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kars",
    "name": "18 Mart Çanakkale Zaferi Satranç Turnuvası",
    "start": "2027-03-18",
    "end": "2027-03-18",
@@ -3830,6 +4178,48 @@
    "url": "https://kayseri.tsf.org.tr/78-turnuvalar/800-rc-satranc-akademi-satranc-norm-ve-kapal-elo-turnuvalar-serisi-baslyor",
    "kaynak": "site",
    "kaynak_metin": "RC Satranç Akademi Satranç Norm ve kapalı Elo Turnuvaları Serisi Başlıyor. RC Satranç Akademi Satranç Norm ve kapalı Elo Turnuvaları Serisi Başlıyor. RC Satranç Akademi tarafından Norm Turnuvaları ve Elo Turnuvası başlıyor.. Norm Turnuvasının 23-28 Kasım 2026 tarihleri arasında,Kocasinan Belediyesi Cırgalan Satranç Eğitim ve Turnuva Merkezi ev sahipliğinde düzenlenmesi planlanmıştır. Turnuvalara RC Satranç Akademi'nin davetli sporcusu olmak üzere 10 sporcu katılımıyla 9 tur döner sistemde 90'+30"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kayseri",
+   "name": "Ted Kayseri Koleji 60. Yıl 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kayseri.tsf.org.tr/78-turnuvalar/781-ted-kayseri-koleji-60-yl-23-nisan-ulusal-egemenlik-ve-cocuk-bayram-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Ted Kayseri Koleji 60. Yıl 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası Ted Kayseri Koleji 60. Yıl 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası TURNUVAMIZ 25-26 Nisan 2026 TARİHİNE ERTELENMİŞTİR. İlimizde 18-19 Nisan 2026 tarihlerinde, Ted Kayseri Koleji'nde, Ted Kayseri Koleji 60. Yıl 23 Nisan Ulusal Egemenlik ve Çocuk bayramı Satranç Turnuvası düzenlenecektir. Turnuva Adı: Ted Kayseri Koleji 60. Yıl 23 Nisan Ulusal Egemenlik ve Çocuk bayramı Satranç Turnuvası Ye"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kayseri",
+   "name": "Kocasinan Belediyesi 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kayseri.tsf.org.tr/satranc-haberleri/735-kocasinan-belediyesi-23-nisan-ulusal-egemenlik-ve-cocuk-bayram-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Kocasinan Belediyesi 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası Kocasinan Belediyesi 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası İlimizde 26-27 Nisan 2025 tarihlerinde, Kocasinan Belediyesi Cırgalan Satranç Eğitim ve Turnuva Merkezinde, Kocasinan Belediyesi 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası yapılacaktır. Turnuva Adı: Kocasinan Belediyesi 2 3 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası Yer: Kocasinan Belediyesi Cırgalan S"
   },
   {
    "c": "TR",
@@ -3998,6 +4388,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Kırşehir",
+   "name": "KIRŞEHİR BELEDİYESİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kirsehir.tsf.org.tr/satranc-haberleri/476-belediye202623nisan",
+   "kaynak": "site",
+   "kaynak_metin": "KIRŞEHİR BELEDİYESİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI KIRŞEHİR BELEDİYESİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI 18-19 Nisan 2026 tarihlerinde Kırşehir Belediyesi 23 Nisan Bayramı Satranç Turnuvası düzenlenecektir. Turnuvada sporcular 4 kategoride yarışacaktır. Turnuva detayları yönergede yer almaktadır . - Turnuvada kural gereği notasyon tutmak zorunludur. Sporcuların turnuva günü kalem getirmeleri önemle rica olunur. Turnuva Kayit / Turnuva Y ön"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Kocaeli",
    "name": "KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
    "start": "2026-11-28",
@@ -4035,6 +4446,48 @@
    "url": "https://kocaeli.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI Özelsin Koleji, Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Gebze ilçesinde, 28–29 Kasım 2026 tarihleri arasında Özelsin Koleji Salonu'nda Özelsin Koleji Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 6 tur üzerinden, 35 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026–2027"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kocaeli",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlü"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Kocaeli",
+   "name": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://kocaeli.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ SATRANÇ TURNUVASII Turnuva Haberleri KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Kocaeli Gençlik ve Spor İl Müdürlüğü ve Kocaeli Satranç İl Temsilciliği tarafından, Kocaeli ili Derince ilçesinde, 28-29 Kasım 2026 tarihleri arasında Derince Gençlik Merkezi’nde Kocaeli Kadınlar İl Birinciliği Satranç Turnuvası düzenlenecektir. Turnuva, Bireysel İsviçre Sistemi ile 7 tur üzerinden, 45 dakika + 30 saniye eklemeli zaman temposunda gerçekleştirilecektir. "
   },
   {
    "c": "TR",
@@ -4266,26 +4719,6 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Manisa",
-   "name": "2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI",
-   "start": "2026-12-05",
-   "end": "2026-12-06",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://manisa.tsf.org.tr/turnuvalar/turnuva-haberleri/1301-2027-salihli-kuecuekler-7-12-ilce-birinciligi-satranc-turnuvasi",
-   "kaynak": "site",
-   "kaynak_metin": "2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI 2027 SALİHLİ KÜÇÜKLER (7-12) İLÇE BİRİNCİLİĞİ SATRANÇ TURNUVASI Manisa Salihli İlçemizde 05-06 Aralık 2026 tarihlerinde 45''+30' temposunda Salihli Küçükler (7-12 yaş) İlçe birinciliği satranç turnuvası Ramiz Turan Spor Kompleksinde Yapılacaktır. Kayıtlar 23 Kasım 2026 tarihinde saat 13'te açılacaktır. YÖNERGE KATEGORİ KATEGORİ KRİTERİ KAYIT Kızlar Kategorisi 2015 ve 2020 Yılları ve Arasında Sporcular KIZLAR Genel Kategorisi 2015 ve"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Manisa",
    "name": "MANİSA KÜÇÜKLER (7-8 YAŞ) İL BİRİNCİLİĞİ",
    "start": "2026-12-12",
    "end": "2026-12-13",
@@ -4367,8 +4800,8 @@
    "bayrak": "tr",
    "il": "Mardin",
    "name": "Turnuva Haberleri",
-   "start": "2027-03-18",
-   "end": "2027-03-18",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -4381,6 +4814,26 @@
    "url": "https://mardin.tsf.org.tr/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Yağız Kaan Erdoğmuş Dünyada İlk 20’de Yağız Kaan Erdoğmuş Dünyada İlk 20’de Milli sporcumuz Büyükusta Yağız Kaan Erdoğmuş, Satranç Olimpiyatı'nda Letonya’ya karşısında aldığı galibiyetle dünyada ilk 20'ye girdi. Tebrikler Yağız! EMEKTARLAR SATRANÇ MARDİN İL BİRİNCİLİĞİ İLERİ BİR TARİHE ERTELENMİŞTİR. Emektarlar Satranç Mardin İl Birinciliği 'ne yeterli katılım sağlanamadığından daha sonra belirlenecek ileri bir tarihe ertelenmiştir. Saygılarımızla bilgilerinize sunarız. Diğer M"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mardin",
+   "name": "23 NİSAN TBMM KUPASI SATRANÇ TURNUVASI (MİDYAT)",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://mardin.tsf.org.tr/turnuva-haberleri/682-23-nisan-tbmm-kupasi-satranc-turnuvasi-midyat",
+   "kaynak": "site",
+   "kaynak_metin": "23 NİSAN TBMM KUPASI SATRANÇ TURNUVASI (MİDYAT) 23 NİSAN TBMM KUPASI SATRANÇ TURNUVASI (MİDYAT) 23 NİSAN TBMM KUPASI SATRANÇ TURNUVASI (Midyat Belediyesi) Turnuva 23 Nisian TBMM Kupası (Midyat) Organizasyon Midyat GSİM, Midyat Kaymakamlığı, Midyat Belediyesi, Midyat İlçe Gençlik Spor Müdürlüğü, Mardin Satranç İl Temsilciliği Turnuva Tarihi 18-19 Nisan 2026 Turnuva Yeri Midyat Belediyesi Gençlik Merkezi Spor Salonu Kategoriler 8 yaş ve altı (2018-2019 yıllarında doğan sporcular) 10 yaş ve altı (2"
   },
   {
    "c": "TR",
@@ -4422,6 +4875,151 @@
    "url": "https://mersin.tsf.org.tr/arsiv/2017-2018-turnuvalari/18-mart-canakkale-sehitlerini-anma-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "18 MART ÇANAKKALE ŞEHİTLERİNİ ANMA SATRANÇ TURNUVASI 18 MART ÇANAKKALE ŞEHİTLERİNİ ANMA SATRANÇ TURNUVASI Mersin Palm City AVM organizasyonunda \" 18 MART ÇANAKKALE ŞEHİTLERİNİ ANMA SATRANÇ TURNUVASI\" 18 Mart 2018 Pazar Günü Palm City AVM oynanacaktır. Kategoriler 40 kişi ile sınırlı olup, kayıt tarihi önceliği olacaktır. Turnuva Kayıt Menüsünde kontenjan dolması durumunda otomatik olarak kapanacaktır. Kayıt yaparken Yaş Guplarını Kategorilerini dikkate alarak ve seçerek kayıt yapılması gerekmekt"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mersin",
+   "name": "23 Nisan Ulusal Egemenlik Satranç Turnuvaları(2018)",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/arsiv/2017-2018-turnuvalari/23-nisan-ulusal-egemenlik-satranc-turnuvalar2018",
+   "kaynak": "site",
+   "kaynak_metin": "23 Nisan Ulusal Egemenlik Satranç Turnuvaları(2018) 23 Nisan Ulusal Egemenlik Satranç Turnuvaları(2018) Tıklayınız Yenişehir Belediyesi iş birliği ile Mersin Merkezde 23 Nisan Ulusal Egemenlik Satranç Turnuvaları(2018)aşağıdaki tarih ve kategorileri müsabakaları oynanacaktır. 14-15 Nisan 2018 tarihlerinde 7 ve 8 yaş kategorileri , Yönerge için Tıklayınız 21-22 Nisan 2018 tarihlerinde (9), (10-11-12) ve Açık Kategori. Yönergesi için Tıklayınız Kayıtlar için (Kategoriler için kayıtlar bir alınacak"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mersin",
+   "name": "Mülkiyeliler Birliği Mersin Şubesi 23 Nisan Ulusal Egemenlik ve Çocuk Bayrağımı. Geleneksel Satranç Turnuvası",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/arsiv/2017-2018-turnuvalari/muelkiyeliler-birligi-mersin-subesi-23-nisan-ulusal-egemenlik-ve-cocuk-bayragm-geleneksel-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Mülkiyeliler Birliği Mersin Şubesi 23 Nisan Ulusal Egemenlik ve Çocuk Bayrağımı. Geleneksel Satranç Turnuvası EZGİ SATRANÇ KULÜBÜNCE ORGANİZE MÜLKİYELİLER BİRLİĞİ MERSİN ŞUBESİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI 18. GELENEKSEL SATRANÇ TURNUVASI EZGİ SATRANÇ KULÜBÜNCE ORGANİZE EDİLEN MÜLKİYELİLER BİRLİĞİ MERSİN ŞUBESİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI 18. GELENEKSEL SATRANÇ TURNUVASI ve ŞENLİĞİ 8 NİSAN 2018 TARİHİNDE MEÜ.YENİŞEHİR KAMPÜSÜNDE OYNANACAKTIR. Turnuva Yönergese Tıklay"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mersin",
+   "name": "23 Nisan Ulusal Egemenlik Satranç Turnuvaları(Silifke)",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/arsiv/2017-2018-turnuvalari/23-nisan-ulusal-egemenlik-satranc-turnuvalarsilifke",
+   "kaynak": "site",
+   "kaynak_metin": "23 Nisan Ulusal Egemenlik Satranç Turnuvaları(Silifke) Silifke \"23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası\" Silifke ilçemizde 14-15 Nisan 2018 tarihlerinde \"23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası\" Halk Eğitim Merkezinde oynanacaktır. Halk Eğitim Merkezine aynı tarihlerde başka bir etkinlik yapılacağından turnuvamız Ertan Cüceloğlu Anadolu Lisesine alınmıştır. Yönerge için Tıklayınız Kayıtlar içim Tıklayınız < Önceki Sonraki >"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mersin",
+   "name": "23 Nisan Ulusal Egemenlik Bayramı Satranç Turnuva 7-8 Yaş Mersin(2019)",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/arsiv/2018-2019-turnuvalar/23-nisan-ulusal-egemenlik-bayram-satranc-turnuva-7-8-yas-mersin2019",
+   "kaynak": "site",
+   "kaynak_metin": "23 Nisan Ulusal Egemenlik Bayramı Satranç Turnuva 7-8 Yaş Mersin(2019) 23 Nisan Ulusal Egemenlik Bayramı Satranç Turnuva 7-8 Yaş Mersin(2019)"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mersin",
+   "name": "23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası (2019)",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/arsiv/2018-2019-turnuvalar/23-nisan-ulusal-egemenlik-cocuk-bayram-satranc-turnuvas-2019",
+   "kaynak": "site",
+   "kaynak_metin": "23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası (2019) 23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası (2019)"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mersin",
+   "name": "Bozyazı 23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/arsiv/2018-2019-turnuvalar/bozyaz-23-nisan-ulusal-egemenlik-cocuk-bayram-satranc-turnuvas",
+   "kaynak": "site",
+   "kaynak_metin": "Bozyazı 23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası Bozyazı 23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Mersin",
+   "name": "Silifke \"23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası\" (2019)",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/arsiv/2018-2019-turnuvalar/silifke-q23-nisan-ulusal-egemenlik-cocuk-bayram-satranc-turnuvasq-2019",
+   "kaynak": "site",
+   "kaynak_metin": "Silifke \"23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası\" (2019) Silifke \"23 Nisan Ulusal Egemenlik Çocuk Bayramı Satranç Turnuvası\" (2019)"
   },
   {
    "c": "TR",
@@ -4592,6 +5190,27 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Mersin",
+   "name": "Silifke \"23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası\"",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://mersin.tsf.org.tr/arsiv/2017-2018-turnuvalari/23-nisan-ulusal-egemenlik-satranc-turnuvalarsilifke",
+   "kaynak": "site",
+   "kaynak_metin": "Silifke \"23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası\" Silifke ilçemizde 14-15 Nisan 2018 tarihlerinde \"23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası\" Halk Eğitim Merkezinde oynanacaktır. Halk Eğitim Merkezine aynı tarihlerde başka bir etkinlik yapılacağından turnuvamız Ertan Cüceloğlu Anadolu Lisesine alınmıştır. Yönerge için Tıklayınız Kayıtlar içim Tıklayınız "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Muğla",
    "name": "TURNUVA KAYIT ›",
    "start": "2026-12-03",
@@ -4695,6 +5314,26 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Muş",
+   "name": "TBMM KUPASI 23 NİSAN SATRANÇ TURNUVASI SONA ERDİ",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://mus.tsf.org.tr/240-tbmm-kupasi-23-nisan-satranc-turnuvasi-sona-erdi",
+   "kaynak": "site",
+   "kaynak_metin": "TBMM KUPASI 23 NİSAN SATRANÇ TURNUVASI SONA ERDİ TBMM KUPASI 23 NİSAN SATRANÇ TURNUVASI SONA ERDİ TBMM Kupası 23 Nisan Satranç Turnuvası sona erdi. 3 farklı kategoride toplam 28 sporcunun başvuruda bulunduğu turnuvamız kıyasıya mücadalelere sahne oldu. Turnuvada dereceye giren sporcularımıza nakdi ödüller Muş Satranç Spor Kulübü adına Kulüp sporcusu Sn. Muhammed Yuşa ÖZEN tarafından takdim edildi. Turnuvaya katılım sağlayan tüm sporcu ve velilerimize, satranç hakemlerimize, il temsilciliğimize, "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Ordu",
    "name": "ORDU 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
    "start": "2026-11-24",
@@ -4731,6 +5370,26 @@
    "url": "https://ordu.tsf.org.tr/satranc-haberleri/618-uenye-24-kasim-oegretmenler-guenue-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Turnuva Haberleri ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ünye 24 Kasım Öğretmenler Günü Satranç Turnuvası 21-22 Kasım 2026 tarihlerinde Ünye Adnan Menderes Mesleki Teknik Anadolu Lisesi Salonu'nda 10 farklı kategoride düzenlenecektir. Turnuva kontenjanı 200 sporcu ile sınırlıdır. Turnuvaya son kayıt tarihi 19.11.2026 Saat 17.00'dir. CHESS RESULTS GÜNCEL LİSTELER: 18 Yaş Genel Kategorisi 14 Yaş Genel Kategorisi 14 Yaş Kızlar Kategorisi 10"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Ordu",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://ordu.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Turnuva Haberleri Turnuvalar ORDU 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ordu 24 Kasım Öğretmenler Günü Satranç Turnuvası 28-29 Kasım 2026 tarihlerinde 19 Eylül Stadyumu/Satranç Turnuva Salonu'nda 4 farklı kategoride düzenlenecektir. Turnuva kontenjanı 100 sporcu ile sınırlıdır. Turnuvaya son kayıt tarihi 26.11.2026 Saat 17.00'dir. Turnuva Yönergesi Turnuva Kayıt Turnuva Yeri Konumu ÜNYE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI Ünye 24 Kasım Öğretmenler Günü Satranç Tur"
   },
   {
    "c": "TR",
@@ -4858,6 +5517,69 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Samsun",
+   "name": "20-SAMSUN 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI HIZLI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://samsun.tsf.org.tr/images/2025-2026/Sosyal_Etkinlik/23nisan.pdf",
+   "kaynak": "site",
+   "kaynak_metin": "20-SAMSUN 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI HIZLI SATRANÇ TURNUVASI 20-SAMSUN 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI HIZLI SATRANÇ TURNUVASI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Samsun",
+   "name": "18-TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SAMSUN SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://samsun.tsf.org.tr/images/2025-2026/Sosyal_Etkinlik/tbmm.pdf",
+   "kaynak": "site",
+   "kaynak_metin": "18-TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SAMSUN SATRANÇ TURNUVASI 18-TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SAMSUN SATRANÇ TURNUVASI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Samsun",
+   "name": "14-ÇARŞAMBA 23 NİSAN ULUSAL EGEMENLİK ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://samsun.tsf.org.tr/images/2025-2026/Sosyal_Etkinlik/2026carsamba23nisan.pdf",
+   "kaynak": "site",
+   "kaynak_metin": "14-ÇARŞAMBA 23 NİSAN ULUSAL EGEMENLİK ÇOCUK BAYRAMI SATRANÇ TURNUVASI 14-ÇARŞAMBA 23 NİSAN ULUSAL EGEMENLİK ÇOCUK BAYRAMI SATRANÇ TURNUVASI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Samsun",
    "name": "17. SAMSUN 18 MART ÇANAKKALE ZAFER BAYRAMI SATRANÇ TURNUVASI",
    "start": "2027-03-18",
    "end": "2027-03-18",
@@ -4873,6 +5595,90 @@
    "url": "https://samsun.tsf.org.tr/images/2024-2025/SOSYAL_ETKINLIK/2024-2025/CANAKKALE.pdf",
    "kaynak": "site",
    "kaynak_metin": "17. SAMSUN 18 MART ÇANAKKALE ZAFER BAYRAMI SATRANÇ TURNUVASI 17. SAMSUN 18 MART ÇANAKKALE ZAFER BAYRAMI SATRANÇ TURNUVASI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Samsun",
+   "name": "16. TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI İL SPOR ETKİNLİKLERİ SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://samsun.tsf.org.tr/images/2024-2025/SOSYAL_ETKINLIK/2024-2025/TBMMsamsun23nisan.pdf",
+   "kaynak": "site",
+   "kaynak_metin": "16. TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI İL SPOR ETKİNLİKLERİ SATRANÇ TURNUVASI 16. TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI İL SPOR ETKİNLİKLERİ SATRANÇ TURNUVASI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Samsun",
+   "name": "12.SAMSUN 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://samsun.tsf.org.tr/images/2024-2025/SOSYAL_ETKINLIK/2024-2025/samsun23nisan.pdf",
+   "kaynak": "site",
+   "kaynak_metin": "12.SAMSUN 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI 12.SAMSUN 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Siirt",
+   "name": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SİİRT SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://siirt.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SİİRT SATRANÇ TURNUVASI "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Siirt",
+   "name": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı SİİRT Satranç Turnuvası(2026)",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://siirt.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı SİİRT Satranç Turnuvası(2026) 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Siirt Satranç Turnuvası 28-29 Mart 2026 tarihlerinde Siirt Evin Demirhan Spor Kompleksi Satranç Salonunda oynanacaktır. YÖNERGE KAYIT İÇİN TIKLAYINIZ : https://siirt.tsf.org.tr/turnuva-kayit-form NOT: LÜTFEN KATEGORİNİZE UYGUN KAYIT YAPINIZ "
   },
   {
    "c": "TR",
@@ -4920,6 +5726,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Siirt",
+   "name": "23 NİSAN ULUSAL EGEMENLİK SATRANÇ TURNUVASI İPTALİ",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://siirt.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "23 NİSAN ULUSAL EGEMENLİK SATRANÇ TURNUVASI İPTALİ Turnuva Haberleri DÜNYA HIZLI VE YILDIRIM SATRANÇ ŞAMPİYONASI TÜRKİYE’DE! İlk defa ülkemizde düzenlenecek olan Uluslararası Satranç Federasyonu (FIDE) Dünya 9-17 Yaş Altı Hızlı ve Yıldırım Satranç Şampiyonası, 15-21 Aralık 2025 tarihleri arasında Antalya’da gerçekleştirilecek. Şampiyonayla ilgili detaylı bilgilere youthrapidblitz2025.fide.com adresinden ulaşabilirsiniz. Turkiye will host FIDE World U9-U17 Rapid & Blitz Chess Championships! The I"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Siirt",
    "name": "OKULLARARASI SATRANÇ TURNUVASI",
    "start": "2027-04-07",
    "end": "2027-04-08",
@@ -4955,6 +5781,26 @@
    "url": "https://sinop.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "SİNOP 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 2026 Turnuva Adı: Turnuva Tarihi: "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sinop",
+   "name": "SİNOP TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://sinop.tsf.org.tr/satranc-haberleri/405-sinop-tbmm-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "SİNOP TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI SİNOP TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI Turnuva Adı: Sinop TBMM 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Satranç Turnuvası Turnuva Tarihi: 11-12 Nisan 2026 Son Kayıt Tarihi: 9 Nisan 2026 Turnuva Yeri: Sinop Sporcu Eğitim Merkezi (Sinop Şehir Stadı karşısı, Sinopspor Kulüp Binası Yanı) Tempo: 35'+30\" Kategoriler: *14 YAŞ VE ALTI GENEL (2012-2015 YILLARI VE ARASINDA DOĞAN SPORCULAR) *14 YAŞ VE"
   },
   {
    "c": "TR",
@@ -5017,6 +5863,27 @@
    "url": "https://sivas.tsf.org.tr/",
    "kaynak": "site",
    "kaynak_metin": "28-29 Kasım 2026 tarihlerinde 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 4 Eylül Vadisi Taha Akgül Antreman Spor Salonu yapılacaktır. Her kategori 48 sporcu ile sınırlıdır. Hatalı kayıt yapan sporcuların kayıtları silinecektir. Tüm sorumluluk sporculara aittir. Sivas Satranç whatsapp Duyuru Grubuna kayıt linki: https://chat.whatsapp.com/IgtxhDb9h1v0WEDTT4MCmC YÖNERGE (Turnuva Başlama Saati:09:00-09:30 Detay yönergenin son sayfasında bulunmaktadır.) KAYIT İÇİN TIKLAYIN… KAYIT İPTAL İÇİN TIKLAYIN"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Sivas",
+   "name": "TED SİVAS KOLEJİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI İptal edilmiştir",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sivas.tsf.org.tr/gecmis/675-ted-sivas-koleji-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvasi-iptal-edilmistir",
+   "kaynak": "site",
+   "kaynak_metin": "TED SİVAS KOLEJİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI İptal edilmiştir TED SİVAS KOLEJİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI İptal edilmiştir 25-26 Nisan 2026 tarihlerinde TED SİVAS KOLEJİ 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI Okul yönetiminin almış olduğu karara istinaden iptal edilmiştir. < Önceki Sonraki >"
   },
   {
    "c": "TR",
@@ -5107,8 +5974,8 @@
    "bayrak": "tr",
    "il": "Şanlıurfa",
    "name": "2026 TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
-   "start": "2027-04-04",
-   "end": "2027-04-05",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
    "status": "a",
    "reyting_turu": null,
    "sections": [
@@ -5162,6 +6029,47 @@
    "url": "https://sanliurfa.tsf.org.tr/satranc-haberleri/463-tuerkiye-kadinlar-satranc-sanliurfa-il-birinciligi-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "2026 TÜRKİYE KADINLAR ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ TURNUVASI 2026 TÜRKİYE KADINLAR ŞANLIURFA SATRANÇ İL BİRİNCİLİĞİ TURNUVASI Şanlıurfa Gençlik ve Spor İl Müdürlüğü ile Şanlıurfa Satranç İl Temsilciliği iş birliği içerisinde Türkiye Kupası Şanlıurfa Kadınlar İl Birinciliği Satranç Turnuvası düzenlenmiştir. Satranç Turnuvası 07 - 08 Mart tarihlerinde Karaköprü Belediyesi Necmettin Cevheri Kültür ve Gösteri Merkezi'nde yapılacaktır. Turnuva kaydını 06 Mart Cuma günü Saat:17.00'dan önce yapmanı"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Şanlıurfa",
+   "name": "2026 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://sanliurfa.tsf.org.tr/satranc-haberleri/467-2026-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "2026 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI 2026 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI SATRANÇ TURNUVASI Şanlıurfa Gençlik ve Spor İl Müdürlüğü ile Şanlıurfa Satranç İl Temsilciliği iş birliği içerisinde 23 Nisan Ulusal Egemenlik Ve Çocuk Bayramı Satranç Turnuvası düzenlenmiştir. Turnuva Yeni Bir Adım Koleji'nde yapılacaktır. 23 Nisan Ulusal Egemenlik Ve Çocuk Bayramı Satranç Turnuvası 25-26 Nisan tarihlerinde yapılacaktır. Turnuva başvurularının 24 Nisan Saat:17.00'da"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Şırnak",
+   "name": "Şırnak 23 Nisan TBMM Kupası Satranç Turnuvası",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://sirnak.tsf.org.tr/78-okul-sporlar-cercevesinde-yaplan-liseler-aras-satrancturnuvas/150-23-nisan-tbmm",
+   "kaynak": "site",
+   "kaynak_metin": "Şırnak 23 Nisan TBMM Kupası Satranç Turnuvası Şırnak 23 Nisan TBMM Kupası Satranç Turnuvası 18- 19 Nisan 2026 tarihlerinde Şırnak Gençlik Merkezinde Şırnak 23 Nisan TBMM Kupası Satranç Turnuvası düzenlenecektir. Turnuvaya vizesi aktif Tsf lisansına sahip 14 Yaş ve altı sporcular katılım sağlayabilir. Turnuvaya online kayıt yapmak için TIKLAYINIZ T urnuva yönergesi için TIKLAYINIZ"
   },
   {
    "c": "TR",
@@ -5227,6 +6135,69 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Tekirdağ",
+   "name": "İSTANBUL BİLGİ ÜNİVERSİTESİ TEKİRDAĞ DOĞA KOLEJİ 23 NİSAN SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tekirdag.tsf.org.tr/ozel-turnuvalar/1030-istanbul-bilgi-ueniversitesi-tekirdag-doga-koleji-23-nisan-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "İSTANBUL BİLGİ ÜNİVERSİTESİ TEKİRDAĞ DOĞA KOLEJİ 23 NİSAN SATRANÇ TURNUVASI TEKIRDAG_DOGA_KOLEJI_23_NISAN_SATRANC_TURNUVASI.pdf "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Tokat",
+   "name": "TOKAT KÜÇÜKLER (10-11-12) YAŞ İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tokat.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TOKAT KÜÇÜKLER (10-11-12) YAŞ İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Tokat Küçükler (10-11-12) Yaş İl Birinciliği Satranç Turnuvası 12-13 Aralık 2026 tarihlerinde Tokat Çok Amaçlı Spor Salonu'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2015-2017 yılları ve arasında doğan, T.C. vatandaşı olan ve FIDE'de (TUR) görünen sporcular katılabilir. FIDE SATRANÇ KURALLARI TURNUVA YÖNERGESİ TURNUVA KAYIT SAYFASI "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Tokat",
+   "name": "TOKAT KÜÇÜKLER (7-8-9) YAŞ İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tokat.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "TOKAT KÜÇÜKLER (7-8-9) YAŞ İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Tokat Küçükler (7-8-9) Yaş İl Birinciliği Satranç Turnuvası 19-20 Aralık 2026 tarihlerinde Tokat Çok Amaçlı Spor Salonu'nda yapılacaktır. Turnuvaya, Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2015-2017 yılları ve arasında doğan, T.C. vatandaşı olan ve FIDE'de (TUR) görünen sporcular katılabilir. FIDE SATRANÇ KURALLARI TURNUVA YÖNERGESİ TURNUVA KAYIT SAYFASI "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Tokat",
    "name": "Turnuva Haberleri",
    "start": "2027-01-14",
@@ -5243,6 +6214,47 @@
    "url": "https://tokat.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Turnuva Haberleri Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Turnuva Haberleri Kaynaklar Turnuva Kayıt Turnuva Kayıt İPTAL Turnuva Haberleri Arşiv Hakemlerimiz Antrenörlerimiz Etkinlik Takvimi Search Yayın Arşivi Aralık, 2014 Mart, 2014 Şubat, 2014 Ocak,"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Tokat",
+   "name": "TURNUVAYA KAYIT SAYFASI",
+   "start": "2027-01-14",
+   "end": "2027-01-14",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://tokat.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=364",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVAYA KAYIT SAYFASI Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim YILDIZLAR İL BİRİNCİLİĞİ (2009-2014 YILLARI VE ARASINDA DOĞAN SPORCULAR) KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kont"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Tokat",
+   "name": "TURNUVA KAYIT SAYFASI",
+   "start": "2027-01-14",
+   "end": "2027-01-14",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://tokat.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=365",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVA KAYIT SAYFASI Ana Sayfa Turnuvalar Turnuva Haberleri Turnuva Sonuçları İl Temsilciliği Kulüplerimiz Federasyon TSF Organizasyon TSF İletişim Eğitimler Eğitim Programları Satranç Dersleri Satranç Kuralları Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim 10-11-12 YAŞ KÜÇÜKLER İL BİRİNCİLİĞİ (2015-2016-2017 DOĞUMLULAR) KAYIT FORMU Turnuva kaydının gerçekleşmesi için vizeli olmak gerekmektedir. Bilgiler lisans bilgi sisteminden kontrol edilec"
   },
   {
    "c": "TR",
@@ -5304,6 +6316,26 @@
    "url": "https://tunceli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "Yaklaşan Turnuvalar Yaklaşan Turnuvalar 2026-2027 TUNCELİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Turnuva Tunceli Yıldızlar İl Birinciliği Satranç Turnuvası Organizasyon Tunceli GSİM & Tunceli Satranç İl Temsilciliği Turnuva Tarihi 12-13 Aralık 2026 Cumartesi-Pazar Turnuva Yeri Kapalı Spor Salonu (KONUM) Kategoriler 13 Yaş Kategorisi - GENEL (2014 Doğumlu Sporcular) 13 Yaş Kategorisi - KIZLAR (2014 Doğumlu Sporcular) 14 Yaş Kategorisi - GENEL (2013 Doğumlu Sporcular) 14 Yaş Kategorisi - KIZLA"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Tunceli",
+   "name": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI TUNCELİ SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://tunceli.tsf.org.tr/78-turnuvalar/266-23-nisan-2026-tbmm",
+   "kaynak": "site",
+   "kaynak_metin": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI TUNCELİ SATRANÇ TURNUVASI TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI TUNCELİ SATRANÇ TURNUVASI TBMM 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Tunceli Satranç Turnuvası 11 - 12 Nisan 2026 tarihlerinde yapılacaktır. TURNUVA YERİ : TUNCELİ HÜSEYİN GÜNTAŞ İL HALK KÜTÜPHANESİ (KONUM) KAYIT KONTROL : 11 Nisan 2026 Cumartesi en geç 09.30'a dek hakem masasında adınız olan listeye + işareti koydurunuz. KATEGORİLER: 8 Yaş ve Altı Kategorisi-Genel 10 Ya"
   },
   {
    "c": "TR",
@@ -5404,6 +6436,90 @@
    "url": "https://tunceli.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "TURNUVALAR Yaklaşan Turnuvalar 2026-2027 TUNCELİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Turnuva Tunceli Yıldızlar İl Birinciliği Satranç Turnuvası Organizasyon Tunceli GSİM & Tunceli Satranç İl Temsilciliği Turnuva Tarihi 12-13 Aralık 2026 Cumartesi-Pazar Turnuva Yeri Kapalı Spor Salonu (KONUM) Kategoriler 13 Yaş Kategorisi - GENEL (2014 Doğumlu Sporcular) 13 Yaş Kategorisi - KIZLAR (2014 Doğumlu Sporcular) 14 Yaş Kategorisi - GENEL (2013 Doğumlu Sporcular) 14 Yaş Kategorisi - KIZLAR (2013 D"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Uşak",
+   "name": "UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI.",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://usak.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI. Turnuva Haberleri UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI. 23 Nisan Bayramı Satranç Turnuvası Minikler-Küçükler 29-30 Nisan 2017 tarihinde Uşak Öğretmenevinde yapılacak olup, kayıtlar yönergede de belirttiğimiz gibi 19 Nisan da kapanmıştır. YÖNERGE : UAK_23_NSAN__MNKLER_-_KKLER.doc UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI 23 Nisan Bayramı Satranç Turnuvası Minikler-Küçükler 29-30 Nisan 2017 tarihinde Uşak Öğretmenevinde yapılacak olup, kayıtlar yönergede d"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Uşak",
+   "name": "UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://usak.tsf.org.tr/turnuvalar/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI Turnuva Haberleri UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI. 23 Nisan Bayramı Satranç Turnuvası Minikler-Küçükler 29-30 Nisan 2017 tarihinde Uşak Öğretmenevinde yapılacak olup, kayıtlar yönergede de belirttiğimiz gibi 19 Nisan da kapanmıştır. YÖNERGE : UAK_23_NSAN__MNKLER_-_KKLER.doc UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI 23 Nisan Bayramı Satranç Turnuvası Minikler-Küçükler 29-30 Nisan 2017 tarihinde Uşak Öğretmenevinde yapılacak olup, kayıtlar yönergede de"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Van",
+   "name": "VAN TBMM 23 NİSAN ULUSAL EGEMENLİK ÇOCUK BAYRAMI SATRANÇ TURNUVASI",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://van.tsf.org.tr/78-turnuvalar/305-van-tbmm-23-nisan-ulusal-egemenlik-cocuk-bayrami-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "VAN TBMM 23 NİSAN ULUSAL EGEMENLİK ÇOCUK BAYRAMI SATRANÇ TURNUVASI VAN TBMM 23 NİSAN ULUSAL EGEMENLİK ÇOCUK BAYRAMI SATRANÇ TURNUVASI , YÖNERGE FOTOĞRAFLAR"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Van",
+   "name": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Turnuvası",
+   "start": "2027-04-23",
+   "end": "2027-04-23",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://van.tsf.org.tr/turnuvalar/turnuva-haberleri/198-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Turnuvası 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı Turnuvası"
   },
   {
    "c": "TR",
