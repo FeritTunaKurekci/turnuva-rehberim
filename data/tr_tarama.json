@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-26T01:40",
+ "taranma": "2026-11-26T12:44",
  "surum": "0.4",
  "iller": [
   {
@@ -126,7 +126,7 @@
    "il": "Bursa",
    "durum": "ok",
    "host": "bursa.tsf.org.tr",
-   "adet": 2
+   "adet": 3
   },
   {
    "il": "Çanakkale",
@@ -150,7 +150,7 @@
    "il": "Denizli",
    "durum": "ok",
    "host": "denizli.tsf.org.tr",
-   "adet": 12
+   "adet": 13
   },
   {
    "il": "Diyarbakır",
@@ -462,7 +462,7 @@
    "il": "Uşak",
    "durum": "ok",
    "host": "usak.tsf.org.tr",
-   "adet": 2
+   "adet": 5
   },
   {
    "il": "Van",
@@ -1055,7 +1055,7 @@
    ],
    "url": "https://aydin.tsf.org.tr/turnuva-kayit-form?layout=girisform&tid=1008",
    "kaynak": "site",
-   "kaynak_metin": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İlçe Temsilcileri İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. İletişim Bağlantılar FIDE Spor Hizmetleri Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Kulüplerimiz 1. Forum Aydın Satranç Turnuvası Açık Kategori Turnuva Katılımcı Sayısı Dolmuştu"
+   "kaynak_metin": "Açık Kategori (2020 ve öncesi doğumlular) · Kayıt Ol → Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İl Temsilcisi İl Temsilcisi Yardımcıları İlçe Temsilcileri İl Tertip Kurulu İl Hakem Kurulu İl Eğitim Kurulu İl Organizasyon Kur. İl Basın Yayın Kurulu İl Veli Koordinasyon Kur. İletişim Bağlantılar FIDE Spor Hizmetleri Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı Sosyal Medya Kulüplerimiz 1. Forum Aydın Satranç Turnuvası Açık Kategori KAYIT FORMU Turnuva kaydının gerç"
   },
   {
    "c": "TR",
@@ -2423,6 +2423,26 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Bursa",
+   "name": "AKBAL SPOR KULUBÜ 1. SATRANÇ TURNUVASI DUYURUSU",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bursa.tsf.org.tr/turnuvaduyurulari/1975-akbal-spor-kulubue-1-satranc-turnuvasi-duyurusu",
+   "kaynak": "site",
+   "kaynak_metin": "AKBAL SPOR KULUBÜ 1. SATRANÇ TURNUVASI DUYURUSU AKBAL SPOR KULUBÜ 1. SATRANÇ TURNUVASI DUYURUSU Turnuva AKBAL SPOR KULUBÜ 1. SATRANÇ TURNUVASI Organizasyon AKBAL SPOR KULUBÜ & GEMLİK SATRANÇ İLÇE TEMSİLCİLİĞİ Turnuva Tarihi 05 Aralık 2026 Cumartesi - 06 Aralık 2026 Pazar Turnuva Yeri GEMLİK BELEDİYESİ 11 EYLÜL DÜĞÜN SALONU Kategoriler 8 Yaş ve Altı Kategorisi ( 2019-2020 Yıllarında Doğan Sporcular ) 10 Yaş ve Altı Kategorisi ( 2017-2018 Yıllarında Doğan Sporcular ) 14 Yaş ve Altı Kategorisi ( 20"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bursa",
    "name": "2026-2027 YILDIZLAR 13-18 YAŞ SATRANÇ BURSA İL BİRİNCİLİĞİ TURNUVA DUYURUSU",
    "start": "2026-11-28",
    "end": "2026-11-28",
@@ -2707,6 +2727,27 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Denizli",
+   "name": "DENİZLİ ROTARY KULÜBÜ SATRANÇ TURNUVASI",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://denizli.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "DENİZLİ ROTARY KULÜBÜ SATRANÇ TURNUVASI İlimizde 19-20 Aralık 2026 Tarihlerinde Pamukkale Belediyesi Bağbaşı Kültür Merkezi Hierapolis Salonu'nda Denizli Rotary Kulübü Satranç Turnuvası Yapılacaktır. Turnuvamız ödüllüdür. Turnuvamızda 20 Aralık 2026 Tarihinde FM Yasin Emrah YAĞIZ Bizlerle olacaktır. Simultane, Söyleşi vb etkinliklerde bulunacaktır. Turnuva Programı Teknik Toplantıda 20 Aralık 2026 Tarihindeki turlar Etkinlikler çerçevesinde düzenlenecektir. Turnuva Yönergesi Turnuva Kayıt "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Denizli",
    "name": "DENİZLİ MBA OKULLARI SATRANÇ TURNUVASI",
    "start": "2026-12-26",
    "end": "2026-12-27",
@@ -2894,9 +2935,9 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Denizli",
-   "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
+   "name": "DENİZLİ MBA OKULLARI SATRANÇ TURNUVASI",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -2907,7 +2948,27 @@
    ],
    "url": "https://denizli.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ MBA OKULLARI SATRANÇ TURNUVASI İlimizde 26-27 Aralık 2026 Tarihlerinde Denizli MBA okulları Spor Salonunda Denizli MBA Okulları Satranç Turnuvası "
+   "kaynak_metin": "DENİZLİ MBA OKULLARI SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ ROTARY KULÜBÜ SATRANÇ TURNUVASI İlimizde 19-20 Aralık 2026 Tarihlerinde Pamukkale Belediyesi Bağbaşı Kültür Merkezi Hierapolis Salonu'nda Denizli Rotary Kulüb"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Denizli",
+   "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "status": "a",
+   "reyting_turu": "ELO",
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://denizli.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ ROTARY KULÜBÜ SATRANÇ TURNUVASI İlimizde 19-20 Aralık 2026 Tarihlerinde Pamukkale Belediyesi Bağbaşı Kültür Merkezi Hierapolis Salonu'nda Denizli "
   },
   {
    "c": "TR",
@@ -2915,8 +2976,8 @@
    "bayrak": "tr",
    "il": "Denizli",
    "name": "DENİZLİ KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
    "status": "a",
    "reyting_turu": "ELO",
    "sections": [
@@ -2927,27 +2988,7 @@
    ],
    "url": "https://denizli.tsf.org.tr/satranc-haberleri",
    "kaynak": "site",
-   "kaynak_metin": "DENİZLİ KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ MBA OKULLARI SATRANÇ TURNUVASI İlimizde 26-27 Aralık 2026 Tarihlerinde Denizli MBA okulları Spor Salonunda Denizli MBA Okulları Satranç "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "Denizli",
-   "name": "DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
-   "start": "2026-12-26",
-   "end": "2026-12-27",
-   "status": "a",
-   "reyting_turu": "ELO",
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://denizli.tsf.org.tr/satranc-haberleri",
-   "kaynak": "site",
-   "kaynak_metin": "DENİZLİ KÜÇÜKLER(7-8 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ MBA OKULLARI SATRANÇ TURNUVASI İlimizde 26-27 Aralık 2026 Tarihlerinde Denizli MBA okulları Spor Salonunda Denizli MBA Okulları Satranç Tu"
+   "kaynak_metin": "DENİZLİ KÜÇÜKLER (9-12 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI Ana Sayfa Federasyon TSF Organizasyon TSF İletişim İl Temsilciliği İlçe Temsilciliklerimiz Komisyonlar Kulüplerimiz Eğitimler Eğitim Programları Turnuvalar Turnuva Haberleri Etkinlik Takvimi Bağlantılar TSF Web Sitesi FIDE Spor Genel Müdürlüğü Resmi Gazete Milli Eğitim Bakanlığı İletişim Arşiv DENİZLİ ROTARY KULÜBÜ SATRANÇ TURNUVASI İlimizde 19-20 Aralık 2026 Tarihlerinde Pamukkale Belediyesi Bağbaşı Kültür Merkezi Hierapolis Salonu'nd"
   },
   {
    "c": "TR",
@@ -3463,6 +3504,27 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "İstanbul",
+   "name": "Taş Okul Satranç Turnuvası 13 Aralık 2026 Pazar..",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/kucukler-satranc/5375-tas-okul-satranc-turnuvas-13-aralk-2026-pazar",
+   "kaynak": "site",
+   "kaynak_metin": "Taş Okul Satranç Turnuvası 13 Aralık 2026 Pazar.. Taş Okul Satranç Turnuvası 13 Aralık 2026 Pazar.. Özel Taş İlkokulu-Ortaokulu tarafından ilkokul ve ortaokul öğrencilerinin katılımına yönelik olarak 13 Aralık 2026 Pazar günü Satranç Turnuvası düzenlenecektir. Turnuvaya okullar en fazla 4 sporcudan oluşan okul takımlarıyla 3 kategoride katılım gösterebilirler. Turnuva 10 dakika+5 saniye düşünme süresinde 6 tur İsviçre Sistemi ile hızlı satranç turnuvası olarak yapılacaktır. Turnuvaya kayıtlar is"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İstanbul",
    "name": "Diş Hekimleri Haftası Satranç Turnuvası 28-29 Kasım 2026`da..",
    "start": "2026-11-28",
    "end": "2026-11-29",
@@ -3504,27 +3566,6 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
-   "il": "İstanbul",
-   "name": "2026-2027 İstanbul Okul Sporları Bölge Turnuvaları Hakkında Duyuru..",
-   "start": "2027-01-18",
-   "end": "2027-01-21",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Genel",
-     "min": null,
-     "max": null
-    }
-   ],
-   "url": "https://istanbul.tsf.org.tr/turnuva-haberleri/gencler-satranc/5321-2026-2027-istanbul-okul-sporlar-bolge-turnuvalar-baslyor",
-   "kaynak": "site",
-   "kaynak_metin": "2026-2027 İstanbul Okul Sporları Bölge Turnuvaları Hakkında Duyuru.. 2026-2027 İstanbul Okul Sporları Bölge Turnuvaları Hakkında Duyuru.. İstanbul Okul Sporları Bölge Turnuvaları Küçükler-Yıldızlar ve Gençler kategorilerinde Ocak-Şubat 2027 tarihlerinde düzenlenecektir. İstanbul Bölge ve Final Turnuvalarına Okul sporları Mahalli lisansına sahip sporcular katılım gösterebilir, 2. küme sporcu lisansına sahip sporcular turnuvaya katılım gösteremezler. Turnuva formatına göre; okullar her kategoride "
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
    "il": "İzmir",
    "name": "2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ",
    "start": "2026-12-12",
@@ -3540,6 +3581,26 @@
    "url": "https://izmir.tsf.org.tr/turnuvalar/2617-2027-kuecuekler-7-9-yas-izmir-satranc-il-birinciligi",
    "kaynak": "site",
    "kaynak_metin": "2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ 2026-2027 KÜÇÜKLER (7-9 YAŞ) İZMİR SATRANÇ İL BİRİNCİLİĞİ İzmir Gençlik Spor İl Müdürlüğü ve İzmir Satranç İl Temsilciliği'nin iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Küçükler (7-9 Yaş) İzmir Satranç İl Birinciliği\" 12-13 Aralık 2026 tarihlerinde Yasin Börü Gençlik Merkezi'nde yapılacaktır. İl Birinciliğine Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış 2020-201"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "İzmir",
+   "name": "BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://izmir.tsf.org.tr/turnuvalar/2642-guezelbehce-bilfen-satranc-turnuvasi",
+   "kaynak": "site",
+   "kaynak_metin": "BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI Bilfen Eğitim Kurumları ve İzmir Satranç İl Temsilciliği'nin iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Bilfen Güzelbahçe Satranç Turnuvası\" 05-06 Aralık 2026 tarihlerinde Özel Bilfen Güzelbahçe İlköğretim Okulu'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2013–2020 yılları ve arasında doğan ve İzmir ili Güzelbahçe,"
   },
   {
    "c": "TR",
@@ -3610,26 +3671,6 @@
    "url": "https://izmir.tsf.org.tr/turnuvalar/2637-petkim-spor-kuluebue-turnuva-serisi-1-satranc-turnuvasi",
    "kaynak": "site",
    "kaynak_metin": "ALİAĞA PETKİM SPOR KULÜBÜ TURNUVA SERİSİ 1. SATRANÇ TURNUVASI ALİAĞA PETKİM SPOR KULÜBÜ TURNUVA SERİSİ 1. SATRANÇ TURNUVASI Petkim Spor Kulubü ve İzmir Satranç İl temsilciliği iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Aliağa Petkim Spor Kulubü Turnuva Serisi 1. Satranç Turnuvası\" 28 -29 Kasım 2026 tarihlerinde Aliağa Şah-Mat Spor Kulübü'nde yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlüklerinden çıkartılan TSF Lisansına sahip 2026 – 2027 yılı vizesi yapılmış; 2020-2013"
-  },
-  {
-   "c": "TR",
-   "ulke": "Türkiye",
-   "bayrak": "tr",
-   "il": "İzmir",
-   "name": "BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI",
-   "start": "2026-12-05",
-   "end": "2026-12-06",
-   "status": "a",
-   "reyting_turu": null,
-   "sections": [
-    {
-     "n": "Yaş kategorileri",
-     "age": true
-    }
-   ],
-   "url": "https://izmir.tsf.org.tr/turnuvalar/2642-guezelbehce-bilfen-satranc-turnuvasi",
-   "kaynak": "site",
-   "kaynak_metin": "BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI BİLFEN GÜZELBAHÇE SATRANÇ TURNUVASI Bilfen Eğitim Kurumları ve İzmir Satranç İl Temsilciliği'nin iş birliği çerçevesinde satranç turnuvası düzenlenecektir. \"Bilfen Güzelbahçe Satranç Turnuvası\" 05-06 Aralık 2026 tarihlerinde Özel Bilfen Güzelbahçe İlköğretim Okulu'nda yapılacaktır. Turnuvaya Gençlik ve Spor İl/İlçe Müdürlükleri tarafından düzenlenen TSF lisansına sahip, 2026-2027 yılı vizesi yapılmış 2013–2020 yılları ve arasında doğan ve İzmir ili Güzelbahçe,"
   },
   {
    "c": "TR",
@@ -6218,6 +6259,27 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Uşak",
+   "name": "Turnuva Haberleri",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://usak.tsf.org.tr/turnuva-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "Turnuva Haberleri Satranç Haberleri ÖNEMLİ DUYURU-4 SPORCULARIMIZ ! YAŞ GRUPLARI İL BİRİNCİLİKLERİNE KAYIT YAPTIRIRKEN, DOĞUM YILINIZA UYGUN OLAN KATEGORİYE KAYIT YAPTIĞINIZDAN EMİN OLMADAN KAYDINIZI TAMAMLAMAYINIZ, MAĞDUR OLMAMANIZ İÇİN KAYITLARINIZI BİR KEZ DAHA KONTROL EDİP DOĞRU KATEGORİYE KAYDINIZI YAPTIRINIZ, AKSİ HALDE YANLIŞ KAYITLAR SİLİNECEKTİR. (26.11.2026) TURNUVA PROGRAMI TÜRKİYE KUPASI UŞAK SATRANÇ İL BİRİNCİLİĞİ TURNUVASI UŞAK YILDIZLAR (13-18) SATRANÇ İL BİRİNCİLİĞİ UŞAK KÜÇÜKLER"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Uşak",
    "name": "UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI.",
    "start": "2027-04-23",
    "end": "2027-04-23",
@@ -6254,6 +6316,48 @@
    "url": "https://usak.tsf.org.tr/turnuvalar/turnuva-haberleri",
    "kaynak": "site",
    "kaynak_metin": "UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI Turnuva Haberleri UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI. 23 Nisan Bayramı Satranç Turnuvası Minikler-Küçükler 29-30 Nisan 2017 tarihinde Uşak Öğretmenevinde yapılacak olup, kayıtlar yönergede de belirttiğimiz gibi 19 Nisan da kapanmıştır. YÖNERGE : UAK_23_NSAN__MNKLER_-_KKLER.doc UŞAK 23 NİSAN BAYRAMİ SATRANÇ TURNUVASI 23 Nisan Bayramı Satranç Turnuvası Minikler-Küçükler 29-30 Nisan 2017 tarihinde Uşak Öğretmenevinde yapılacak olup, kayıtlar yönergede de"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Uşak",
+   "name": "TURNUVA PROGRAMI",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://usak.tsf.org.tr/kurslar",
+   "kaynak": "site",
+   "kaynak_metin": "TURNUVA PROGRAMI Satranç Haberleri ÖNEMLİ DUYURU-4 SPORCULARIMIZ ! YAŞ GRUPLARI İL BİRİNCİLİKLERİNE KAYIT YAPTIRIRKEN, DOĞUM YILINIZA UYGUN OLAN KATEGORİYE KAYIT YAPTIĞINIZDAN EMİN OLMADAN KAYDINIZI TAMAMLAMAYINIZ, MAĞDUR OLMAMANIZ İÇİN KAYITLARINIZI BİR KEZ DAHA KONTROL EDİP DOĞRU KATEGORİYE KAYDINIZI YAPTIRINIZ, AKSİ HALDE YANLIŞ KAYITLAR SİLİNECEKTİR. (26.11.2026) TURNUVA PROGRAMI TÜRKİYE KUPASI UŞAK SATRANÇ İL BİRİNCİLİĞİ TURNUVASI UŞAK YILDIZLAR (13-18) SATRANÇ İL BİRİNCİLİĞİ UŞAK KÜÇÜKLER "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Uşak",
+   "name": "TÜRKİYE KUPASI UŞAK SATRANÇ İL BİRİNCİLİĞİ TURNUVASI",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Genel",
+     "min": null,
+     "max": null
+    }
+   ],
+   "url": "https://usak.tsf.org.tr/kurslar",
+   "kaynak": "site",
+   "kaynak_metin": "TÜRKİYE KUPASI UŞAK SATRANÇ İL BİRİNCİLİĞİ TURNUVASI Satranç Haberleri ÖNEMLİ DUYURU-4 SPORCULARIMIZ ! YAŞ GRUPLARI İL BİRİNCİLİKLERİNE KAYIT YAPTIRIRKEN, DOĞUM YILINIZA UYGUN OLAN KATEGORİYE KAYIT YAPTIĞINIZDAN EMİN OLMADAN KAYDINIZI TAMAMLAMAYINIZ, MAĞDUR OLMAMANIZ İÇİN KAYITLARINIZI BİR KEZ DAHA KONTROL EDİP DOĞRU KATEGORİYE KAYDINIZI YAPTIRINIZ, AKSİ HALDE YANLIŞ KAYITLAR SİLİNECEKTİR. (26.11.2026) TURNUVA PROGRAMI TÜRKİYE KUPASI UŞAK SATRANÇ İL BİRİNCİLİĞİ TURNUVASI UŞAK YILDIZLAR (13-18) S"
   },
   {
    "c": "TR",
