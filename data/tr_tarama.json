@@ -1,5 +1,5 @@
 {
- "taranma": "2026-11-27T01:45",
+ "taranma": "2026-11-27T12:36",
  "surum": "0.4",
  "iller": [
   {
@@ -78,7 +78,7 @@
    "il": "Bartın",
    "durum": "ok",
    "host": "bartin.tsf.org.tr",
-   "adet": 1
+   "adet": 4
   },
   {
    "il": "Batman",
@@ -2181,6 +2181,46 @@
    "ulke": "Türkiye",
    "bayrak": "tr",
    "il": "Bartın",
+   "name": "KÜÇÜKLER(07-09 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "KÜÇÜKLER(07-09 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ İlimiz 2026 - 2027 Etkinlik Takviminde yer alan YILDIZLAR (9-7 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 12-13 Aralık 2026 tarihlerinde Bartın Gençlik Merkezinde Kız ve Genel yaş kategorileri olmak üzere toplam 6 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış sporcular katılabilirler. * Turnuva Tarihi : 12-13 Aralık 2026 * Turnuva Yeri : Bartın Gençlik Merkezi * Düşünme Süresi 45'+30\" Eklemeli Tempo * Son Kayıt Tarihi : 11 Aralık 2026 Saat: 17"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
+   "name": "YILDIZLAR(13-18 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIZLAR(13-18 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ İlimiz 2026 - 2027 Etkinlik Takviminde yer alan YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 26-27 Aralık 2026 tarihlerinde Bartın Gençlik Merkezinde Kız ve Genel yaş kategorileri olmak üzere toplam 12 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış sporcular katılabilirler. * Turnuva Tarihi : 26-27 Aralık 2026 * Turnuva Ye : Bartın Gençlik Merkezi * Düşünme Süresi 45'+30\" Eklemeli Tempo * Son Kayıt Tarihi : 25 Aralık 2026 Saat: "
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
    "name": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BARTIN-KOZCAĞIZ SATRANÇ TURNUVASI",
    "start": "2027-04-23",
    "end": "2027-04-23",
@@ -2195,6 +2235,26 @@
    "url": "https://bartin.tsf.org.tr/satranc-haberleri/428-tbmm-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-bartin-kozcagiz-satranc-turnuvasi-2026",
    "kaynak": "site",
    "kaynak_metin": "TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BARTIN-KOZCAĞIZ SATRANÇ TURNUVASI TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BARTIN-KOZCAĞIZ SATRANÇ TURNUVASI İlimiz 2025 - 2026 Etkinlik Takviminde yer alan TBMM 23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI BARTIN- KOZCAĞIZ SATRANÇ TURNUVASI 18-19 Nisan 2026 tarihlerinde KOZCAĞIZ BELEDİYESİ TERMİNAL DÜĞÜN SALONUNDA 8 Yaş ve Altı,10 Yaş ve Altı ve 14 Yaş ve Altı olmak üzere toplam 3 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış 2019 ve"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
+   "name": "YILDIZLAR(13-18 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/satranc-haberleri",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIZLAR(13-18 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ Satranç Haberleri KÜÇÜKLER(07-09 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ İlimiz 2026 - 2027 Etkinlik Takviminde yer alan YILDIZLAR (9-7 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 12-13 Aralık 2026 tarihlerinde Bartın Gençlik Merkezinde Kız ve Genel yaş kategorileri olmak üzere toplam 6 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış sporcular katılabilirler. * Turnuva Tarihi : 12-13 Aralık 2026 * Turnuva Yeri : Bartın Gençlik Merkezi * Düşünme Süresi"
   },
   {
    "c": "TR",

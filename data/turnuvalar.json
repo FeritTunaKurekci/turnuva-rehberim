@@ -1,13 +1,13 @@
 {
- "guncelleme": "2026-11-27T01:45",
+ "guncelleme": "2026-11-27T12:36",
  "ilk_kurulum": "2026-09-22",
  "kaynaklar": {
   "tsf": {
-   "tarama": "2026-11-27T01:45",
+   "tarama": "2026-11-27T12:36",
    "il_sayisi": 81
   },
   "yurtdisi": {
-   "tarama": "2026-11-27T01:45",
+   "tarama": "2026-11-27T12:36",
    "kaynak": "https://mychess.events"
   }
  },
@@ -29778,6 +29778,30 @@
    "c": "TR",
    "ulke": "Türkiye",
    "bayrak": "tr",
+   "il": "Bartın",
+   "name": "KÜÇÜKLER(07-09 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "KÜÇÜKLER(07-09 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ İlimiz 2026 - 2027 Etkinlik Takviminde yer alan YILDIZLAR (9-7 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 12-13 Aralık 2026 tarihlerinde Bartın Gençlik Merkezinde Kız ve Genel yaş kategorileri olmak üzere toplam 6 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış sporcular katılabilirler. * Turnuva Tarihi : 12-13 Aralık 2026 * Turnuva Yeri : Bartın Gençlik Merkezi * Düşünme Süresi 45'+30\" Eklemeli Tempo * Son Kayıt Tarihi : 11 Aralık 2026 Saat: 17",
+   "id": "b9424382699b",
+   "ilk_gorulme": "2026-11-27",
+   "son_gorulme": "2026-11-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
    "il": "Aydın",
    "name": "Küçükler (9-12 Yaş) Aydın İl Birinciliği Satranç Turnuvası",
    "start": "2026-12-12",
@@ -33344,6 +33368,30 @@
    "lastmod": "2026-06-09T09:11:44+00:00",
    "id": "739f5845b3ba",
    "ilk_gorulme": "2026-09-23",
+   "son_gorulme": "2026-11-27",
+   "durum": "yaklasan"
+  },
+  {
+   "c": "TR",
+   "ulke": "Türkiye",
+   "bayrak": "tr",
+   "il": "Bartın",
+   "name": "YILDIZLAR(13-18 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ",
+   "start": "2026-12-26",
+   "end": "2026-12-27",
+   "status": "a",
+   "reyting_turu": null,
+   "sections": [
+    {
+     "n": "Yaş kategorileri",
+     "age": true
+    }
+   ],
+   "url": "https://bartin.tsf.org.tr/",
+   "kaynak": "site",
+   "kaynak_metin": "YILDIZLAR(13-18 YAŞ)SATRANÇ BARTIN İL BİRİNCİLİĞİ İlimiz 2026 - 2027 Etkinlik Takviminde yer alan YILDIZLAR (13-18 YAŞ) İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 26-27 Aralık 2026 tarihlerinde Bartın Gençlik Merkezinde Kız ve Genel yaş kategorileri olmak üzere toplam 12 kategoride gerçekleşecektir. Turnuvaya vizesi yapılmış sporcular katılabilirler. * Turnuva Tarihi : 26-27 Aralık 2026 * Turnuva Ye : Bartın Gençlik Merkezi * Düşünme Süresi 45'+30\" Eklemeli Tempo * Son Kayıt Tarihi : 25 Aralık 2026 Saat: ",
+   "id": "9fd885363476",
+   "ilk_gorulme": "2026-11-27",
    "son_gorulme": "2026-11-27",
    "durum": "yaklasan"
   },
